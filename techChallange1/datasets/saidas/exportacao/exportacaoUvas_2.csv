@@ -1,0 +1,2011 @@
+     ;pais                            ;anos ;quantidade ;valor      ;origem ;tipo
+   0 ;Africa do Sul                   ;2009 ;   15300.0 ;   32130.0 ;Brasil ;Uvas Frescas
+   1 ;Alemanha, República Democrática ;2009 ;  759594.0 ; 1475757.0 ;Brasil ;Uvas Frescas
+   2 ;Angola                          ;2009 ;   29700.0 ;  110058.0 ;Brasil ;Uvas Frescas
+   3 ;Antígua e Barbuda               ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+   4 ;Arabia Saudita                  ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+   5 ;Argélia                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+   6 ;Argentina                       ;2009 ;  414008.0 ;  929225.0 ;Brasil ;Uvas Frescas
+   7 ;Áustria                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+   8 ;Bahamas                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+   9 ;Bahrein                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  10 ;Bangladesh                      ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  11 ;Barbados                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  12 ;Barein                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  13 ;Bélgica                         ;2009 ; 1507559.0 ; 3229623.0 ;Brasil ;Uvas Frescas
+  14 ;Belize                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  15 ;Bermudas                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  16 ;Bolívia                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  17 ;Bósnia                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  18 ;Brasil                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  19 ;Bulgária                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  20 ;Burquina Faso                   ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  21 ;Cabo Verde                      ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  22 ;Camarões                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  23 ;Camores                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  24 ;Canadá                          ;2009 ;  688878.0 ; 2324716.0 ;Brasil ;Uvas Frescas
+  25 ;Catar                           ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  26 ;Cayman, Ilhas                   ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  27 ;Chile                           ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  28 ;China                           ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  29 ;Chipre                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  30 ;Cingapura                       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  31 ;Cocos (Keeling), Ilhas          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  32 ;Cook, Ilhas                     ;2009 ;           ;           ;Brasil ;Uvas Frescas
+  33 ;Colômbia                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  34 ;Congo                           ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  35 ;Coreia do Norte                 ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  36 ;Coreia do Sul                   ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  37 ;Costa do Marfim                 ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  38 ;Coveite                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  39 ;Croácia                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  40 ;Curaçao                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  41 ;Dinamarca                       ;2009 ;  251800.0 ;  692757.0 ;Brasil ;Uvas Frescas
+  42 ;Djibuti                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  43 ;Egito                           ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  44 ;Emirados Árabes Unidos          ;2009 ;   16728.0 ;   33861.0 ;Brasil ;Uvas Frescas
+  45 ;Eslovênia                       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  46 ;Espanha                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  47 ;Estados Unidos                  ;2009 ;12444690.0 ;22745590.0 ;Brasil ;Uvas Frescas
+  48 ;Falkland (Ilhas Malvinas)       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  49 ;Faroé, Ilhas                    ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  50 ;Filipinas                       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  51 ;Finlândia                       ;2009 ;   58825.0 ;  161700.0 ;Brasil ;Uvas Frescas
+  52 ;França                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  53 ;Gabão                           ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  54 ;Gana                            ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  55 ;Georgia                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  56 ;Gibraltar                       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  57 ;Grécia                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  58 ;Guadalupe                       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  59 ;Guiana                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  60 ;Guiana Francesa                 ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  61 ;Guine Equatorial                ;2009 ;      30.0 ;      97.0 ;Brasil ;Uvas Frescas
+  62 ;Honduras                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  63 ;Hong Kong                       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  64 ;Ilha de Man                     ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  65 ;Ilhas Virgens                   ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  66 ;Índia                           ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  67 ;Indonésia                       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  68 ;Irã                             ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  69 ;Irlanda                         ;2009 ;  628605.0 ; 2110422.0 ;Brasil ;Uvas Frescas
+  70 ;Islândia                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  71 ;Itália                          ;2009 ;  103500.0 ;  399731.0 ;Brasil ;Uvas Frescas
+  72 ;Japão                           ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  73 ;Jérsei                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  74 ;Jordânia                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  75 ;Letônia                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  76 ;Líbano                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  77 ;Libéria                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  78 ;Líbia                           ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  79 ;Lituânia                        ;2009 ;   45900.0 ;  147364.0 ;Brasil ;Uvas Frescas
+  80 ;Luxemburgo                      ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  81 ;Macedônia                       ;2009 ;           ;           ;Brasil ;Uvas Frescas
+  82 ;Malásia                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  83 ;Malta                           ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  84 ;Marrocos                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  85 ;Marshall, Ilhas                 ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  86 ;Martinica                       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  87 ;Mauricio                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  88 ;Mauritânia                      ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  89 ;Mexico                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  90 ;Mônaco                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  91 ;Mongólia                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  92 ;Montenegro                      ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  93 ;Nigéria                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  94 ;Noruega                         ;2009 ; 1406774.0 ; 4007602.0 ;Brasil ;Uvas Frescas
+  95 ;Omã                             ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  96 ;Países Baixos                   ;2009 ;22662669.0 ;44184938.0 ;Brasil ;Uvas Frescas
+  97 ;Palau                           ;2009 ;           ;           ;Brasil ;Uvas Frescas
+  98 ;Panamá                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+  99 ;Paquistão                       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 100 ;Paraguai                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 101 ;Pitcairn                        ;2009 ;           ;           ;Brasil ;Uvas Frescas
+ 102 ;Polônia                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 103 ;Porto Rico                      ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 104 ;Portugal                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 105 ;Quirguistão                     ;2009 ;           ;           ;Brasil ;Uvas Frescas
+ 106 ;Reino Unido                     ;2009 ;13299002.0 ;27473174.0 ;Brasil ;Uvas Frescas
+ 107 ;Republica Dominicana            ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 108 ;Romênia                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 109 ;Rússia,  Federação da           ;2009 ;   31488.0 ;   70848.0 ;Brasil ;Uvas Frescas
+ 110 ;Samoa Americana                 ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 111 ;São Cristóvão e Névis           ;2009 ;           ;           ;Brasil ;Uvas Frescas
+ 112 ;São Tomé e Príncipe             ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 113 ;São Vicente e Granadinas        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 114 ;Serra Leoa                      ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 115 ;Senegal                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 116 ;Singapura                       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 117 ;Sri Lanka                       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 118 ;Suécia                          ;2009 ;  161000.0 ;  380804.0 ;Brasil ;Uvas Frescas
+ 119 ;Suíça                           ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 120 ;Suriname                        ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 121 ;Tailândia                       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 122 ;Taiwan                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 123 ;Tanzânia                        ;2009 ;           ;           ;Brasil ;Uvas Frescas
+ 124 ;Togo                            ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 125 ;Trindade e Tobago               ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 126 ;Turcas e Caicos, ilhas          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 127 ;Turquia                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 128 ;Tuvalu                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 129 ;Uruguai                         ;2009 ;   33634.0 ;   64060.0 ;Brasil ;Uvas Frescas
+ 130 ;Vanuatu                         ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 131 ;Venezuela                       ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 132 ;Vietnã                          ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 133 ;Provisão de Navios e Aeronaves  ;2009 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 134 ;Africa do Sul                   ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 135 ;Alemanha, República Democrática ;2010 ;  713942.0 ; 1437429.0 ;Brasil ;Uvas Frescas
+ 136 ;Angola                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 137 ;Antígua e Barbuda               ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 138 ;Arabia Saudita                  ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 139 ;Argélia                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 140 ;Argentina                       ;2010 ;  446280.0 ; 1005124.0 ;Brasil ;Uvas Frescas
+ 141 ;Áustria                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 142 ;Bahamas                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 143 ;Bahrein                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 144 ;Bangladesh                      ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 145 ;Barbados                        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 146 ;Barein                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 147 ;Bélgica                         ;2010 ; 1777534.0 ; 4258476.0 ;Brasil ;Uvas Frescas
+ 148 ;Belize                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 149 ;Bermudas                        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 150 ;Bolívia                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 151 ;Bósnia                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 152 ;Brasil                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 153 ;Bulgária                        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 154 ;Burquina Faso                   ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 155 ;Cabo Verde                      ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 156 ;Camarões                        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 157 ;Camores                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 158 ;Canadá                          ;2010 ;  716985.0 ; 1912515.0 ;Brasil ;Uvas Frescas
+ 159 ;Catar                           ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 160 ;Cayman, Ilhas                   ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 161 ;Chile                           ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 162 ;China                           ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 163 ;Chipre                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 164 ;Cingapura                       ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 165 ;Cocos (Keeling), Ilhas          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 166 ;Cook, Ilhas                     ;2010 ;           ;           ;Brasil ;Uvas Frescas
+ 167 ;Colômbia                        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 168 ;Congo                           ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 169 ;Coreia do Norte                 ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 170 ;Coreia do Sul                   ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 171 ;Costa do Marfim                 ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 172 ;Coveite                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 173 ;Croácia                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 174 ;Curaçao                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 175 ;Dinamarca                       ;2010 ;  364955.0 ;  928499.0 ;Brasil ;Uvas Frescas
+ 176 ;Djibuti                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 177 ;Egito                           ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 178 ;Emirados Árabes Unidos          ;2010 ;   80784.0 ;  154936.0 ;Brasil ;Uvas Frescas
+ 179 ;Eslovênia                       ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 180 ;Espanha                         ;2010 ;  127930.0 ;  252454.0 ;Brasil ;Uvas Frescas
+ 181 ;Estados Unidos                  ;2010 ;13128195.0 ;28928695.0 ;Brasil ;Uvas Frescas
+ 182 ;Falkland (Ilhas Malvinas)       ;2010 ;      14.0 ;      63.0 ;Brasil ;Uvas Frescas
+ 183 ;Faroé, Ilhas                    ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 184 ;Filipinas                       ;2010 ;   15909.0 ;   22258.0 ;Brasil ;Uvas Frescas
+ 185 ;Finlândia                       ;2010 ;   36500.0 ;  120256.0 ;Brasil ;Uvas Frescas
+ 186 ;França                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 187 ;Gabão                           ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 188 ;Gana                            ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 189 ;Georgia                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 190 ;Gibraltar                       ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 191 ;Grécia                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 192 ;Guadalupe                       ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 193 ;Guiana                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 194 ;Guiana Francesa                 ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 195 ;Guine Equatorial                ;2010 ;     143.0 ;     496.0 ;Brasil ;Uvas Frescas
+ 196 ;Honduras                        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 197 ;Hong Kong                       ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 198 ;Ilha de Man                     ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 199 ;Ilhas Virgens                   ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 200 ;Índia                           ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 201 ;Indonésia                       ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 202 ;Irã                             ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 203 ;Irlanda                         ;2010 ;  220120.0 ;  653560.0 ;Brasil ;Uvas Frescas
+ 204 ;Islândia                        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 205 ;Itália                          ;2010 ;  115000.0 ;  381261.0 ;Brasil ;Uvas Frescas
+ 206 ;Japão                           ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 207 ;Jérsei                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 208 ;Jordânia                        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 209 ;Letônia                         ;2010 ;   32400.0 ;   86769.0 ;Brasil ;Uvas Frescas
+ 210 ;Líbano                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 211 ;Libéria                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 212 ;Líbia                           ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 213 ;Lituânia                        ;2010 ;  140380.0 ;  340302.0 ;Brasil ;Uvas Frescas
+ 214 ;Luxemburgo                      ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 215 ;Macedônia                       ;2010 ;           ;           ;Brasil ;Uvas Frescas
+ 216 ;Malásia                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 217 ;Malta                           ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 218 ;Marrocos                        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 219 ;Marshall, Ilhas                 ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 220 ;Martinica                       ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 221 ;Mauricio                        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 222 ;Mauritânia                      ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 223 ;Mexico                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 224 ;Mônaco                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 225 ;Mongólia                        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 226 ;Montenegro                      ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 227 ;Nigéria                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 228 ;Noruega                         ;2010 ; 1016725.0 ; 2766991.0 ;Brasil ;Uvas Frescas
+ 229 ;Omã                             ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 230 ;Países Baixos                   ;2010 ;26149217.0 ;58803505.0 ;Brasil ;Uvas Frescas
+ 231 ;Palau                           ;2010 ;           ;           ;Brasil ;Uvas Frescas
+ 232 ;Panamá                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 233 ;Paquistão                       ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 234 ;Paraguai                        ;2010 ;     577.0 ;    1035.0 ;Brasil ;Uvas Frescas
+ 235 ;Pitcairn                        ;2010 ;           ;           ;Brasil ;Uvas Frescas
+ 236 ;Polônia                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 237 ;Porto Rico                      ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 238 ;Portugal                        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 239 ;Quirguistão                     ;2010 ;           ;           ;Brasil ;Uvas Frescas
+ 240 ;Reino Unido                     ;2010 ;15023635.0 ;32927215.0 ;Brasil ;Uvas Frescas
+ 241 ;Republica Dominicana            ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 242 ;Romênia                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 243 ;Rússia,  Federação da           ;2010 ;  301102.0 ;  758660.0 ;Brasil ;Uvas Frescas
+ 244 ;Samoa Americana                 ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 245 ;São Cristóvão e Névis           ;2010 ;           ;           ;Brasil ;Uvas Frescas
+ 246 ;São Tomé e Príncipe             ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 247 ;São Vicente e Granadinas        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 248 ;Serra Leoa                      ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 249 ;Senegal                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 250 ;Singapura                       ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 251 ;Sri Lanka                       ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 252 ;Suécia                          ;2010 ;  368010.0 ;  859539.0 ;Brasil ;Uvas Frescas
+ 253 ;Suíça                           ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 254 ;Suriname                        ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 255 ;Tailândia                       ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 256 ;Taiwan                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 257 ;Tanzânia                        ;2010 ;           ;           ;Brasil ;Uvas Frescas
+ 258 ;Togo                            ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 259 ;Trindade e Tobago               ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 260 ;Turcas e Caicos, ilhas          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 261 ;Turquia                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 262 ;Tuvalu                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 263 ;Uruguai                         ;2010 ;   28848.0 ;   48768.0 ;Brasil ;Uvas Frescas
+ 264 ;Vanuatu                         ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 265 ;Venezuela                       ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 266 ;Vietnã                          ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 267 ;Provisão de Navios e Aeronaves  ;2010 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 268 ;Africa do Sul                   ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 269 ;Alemanha, República Democrática ;2011 ; 1167243.0 ; 2430345.0 ;Brasil ;Uvas Frescas
+ 270 ;Angola                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 271 ;Antígua e Barbuda               ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 272 ;Arabia Saudita                  ;2011 ;   15300.0 ;   30600.0 ;Brasil ;Uvas Frescas
+ 273 ;Argélia                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 274 ;Argentina                       ;2011 ;  264816.0 ;  471205.0 ;Brasil ;Uvas Frescas
+ 275 ;Áustria                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 276 ;Bahamas                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 277 ;Bahrein                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 278 ;Bangladesh                      ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 279 ;Barbados                        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 280 ;Barein                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 281 ;Bélgica                         ;2011 ;  122727.0 ;  271655.0 ;Brasil ;Uvas Frescas
+ 282 ;Belize                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 283 ;Bermudas                        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 284 ;Bolívia                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 285 ;Bósnia                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 286 ;Brasil                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 287 ;Bulgária                        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 288 ;Burquina Faso                   ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 289 ;Cabo Verde                      ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 290 ;Camarões                        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 291 ;Camores                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 292 ;Canadá                          ;2011 ;  834800.0 ; 2251696.0 ;Brasil ;Uvas Frescas
+ 293 ;Catar                           ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 294 ;Cayman, Ilhas                   ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 295 ;Chile                           ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 296 ;China                           ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 297 ;Chipre                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 298 ;Cingapura                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 299 ;Cocos (Keeling), Ilhas          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 300 ;Cook, Ilhas                     ;2011 ;           ;           ;Brasil ;Uvas Frescas
+ 301 ;Colômbia                        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 302 ;Congo                           ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 303 ;Coreia do Norte                 ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 304 ;Coreia do Sul                   ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 305 ;Costa do Marfim                 ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 306 ;Coveite                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 307 ;Croácia                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 308 ;Curaçao                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 309 ;Dinamarca                       ;2011 ;   12480.0 ;   34597.0 ;Brasil ;Uvas Frescas
+ 310 ;Djibuti                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 311 ;Egito                           ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 312 ;Emirados Árabes Unidos          ;2011 ;   50184.0 ;  109956.0 ;Brasil ;Uvas Frescas
+ 313 ;Eslovênia                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 314 ;Espanha                         ;2011 ;   12480.0 ;   33723.0 ;Brasil ;Uvas Frescas
+ 315 ;Estados Unidos                  ;2011 ;16251053.0 ;37440295.0 ;Brasil ;Uvas Frescas
+ 316 ;Falkland (Ilhas Malvinas)       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 317 ;Faroé, Ilhas                    ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 318 ;Filipinas                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 319 ;Finlândia                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 320 ;França                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 321 ;Gabão                           ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 322 ;Gana                            ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 323 ;Georgia                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 324 ;Gibraltar                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 325 ;Grécia                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 326 ;Guadalupe                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 327 ;Guiana                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 328 ;Guiana Francesa                 ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 329 ;Guine Equatorial                ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 330 ;Honduras                        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 331 ;Hong Kong                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 332 ;Ilha de Man                     ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 333 ;Ilhas Virgens                   ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 334 ;Índia                           ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 335 ;Indonésia                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 336 ;Irã                             ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 337 ;Irlanda                         ;2011 ;   88760.0 ;  135771.0 ;Brasil ;Uvas Frescas
+ 338 ;Islândia                        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 339 ;Itália                          ;2011 ;  115000.0 ;  315501.0 ;Brasil ;Uvas Frescas
+ 340 ;Japão                           ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 341 ;Jérsei                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 342 ;Jordânia                        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 343 ;Letônia                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 344 ;Líbano                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 345 ;Libéria                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 346 ;Líbia                           ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 347 ;Lituânia                        ;2011 ;  114350.0 ;  245434.0 ;Brasil ;Uvas Frescas
+ 348 ;Luxemburgo                      ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 349 ;Macedônia                       ;2011 ;           ;           ;Brasil ;Uvas Frescas
+ 350 ;Malásia                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 351 ;Malta                           ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 352 ;Marrocos                        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 353 ;Marshall, Ilhas                 ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 354 ;Martinica                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 355 ;Mauricio                        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 356 ;Mauritânia                      ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 357 ;Mexico                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 358 ;Mônaco                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 359 ;Mongólia                        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 360 ;Montenegro                      ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 361 ;Nigéria                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 362 ;Noruega                         ;2011 ;  963990.0 ; 2631452.0 ;Brasil ;Uvas Frescas
+ 363 ;Omã                             ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 364 ;Países Baixos                   ;2011 ;25334471.0 ;56063878.0 ;Brasil ;Uvas Frescas
+ 365 ;Palau                           ;2011 ;           ;           ;Brasil ;Uvas Frescas
+ 366 ;Panamá                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 367 ;Paquistão                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 368 ;Paraguai                        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 369 ;Pitcairn                        ;2011 ;           ;           ;Brasil ;Uvas Frescas
+ 370 ;Polônia                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 371 ;Porto Rico                      ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 372 ;Portugal                        ;2011 ;      18.0 ;      28.0 ;Brasil ;Uvas Frescas
+ 373 ;Quirguistão                     ;2011 ;           ;           ;Brasil ;Uvas Frescas
+ 374 ;Reino Unido                     ;2011 ;13266351.0 ;31910142.0 ;Brasil ;Uvas Frescas
+ 375 ;Republica Dominicana            ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 376 ;Romênia                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 377 ;Rússia,  Federação da           ;2011 ;  501930.0 ;  893448.0 ;Brasil ;Uvas Frescas
+ 378 ;Samoa Americana                 ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 379 ;São Cristóvão e Névis           ;2011 ;           ;           ;Brasil ;Uvas Frescas
+ 380 ;São Tomé e Príncipe             ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 381 ;São Vicente e Granadinas        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 382 ;Serra Leoa                      ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 383 ;Senegal                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 384 ;Singapura                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 385 ;Sri Lanka                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 386 ;Suécia                          ;2011 ;  240313.0 ;  422429.0 ;Brasil ;Uvas Frescas
+ 387 ;Suíça                           ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 388 ;Suriname                        ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 389 ;Tailândia                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 390 ;Taiwan                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 391 ;Tanzânia                        ;2011 ;           ;           ;Brasil ;Uvas Frescas
+ 392 ;Togo                            ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 393 ;Trindade e Tobago               ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 394 ;Turcas e Caicos, ilhas          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 395 ;Turquia                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 396 ;Tuvalu                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 397 ;Uruguai                         ;2011 ;   35216.0 ;   90702.0 ;Brasil ;Uvas Frescas
+ 398 ;Vanuatu                         ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 399 ;Venezuela                       ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 400 ;Vietnã                          ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 401 ;Provisão de Navios e Aeronaves  ;2011 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 402 ;Africa do Sul                   ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 403 ;Alemanha, República Democrática ;2012 ; 1021075.0 ; 2064845.0 ;Brasil ;Uvas Frescas
+ 404 ;Angola                          ;2012 ;     350.0 ;    2492.0 ;Brasil ;Uvas Frescas
+ 405 ;Antígua e Barbuda               ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 406 ;Arabia Saudita                  ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 407 ;Argélia                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 408 ;Argentina                       ;2012 ;  170851.0 ;  298692.0 ;Brasil ;Uvas Frescas
+ 409 ;Áustria                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 410 ;Bahamas                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 411 ;Bahrein                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 412 ;Bangladesh                      ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 413 ;Barbados                        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 414 ;Barein                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 415 ;Bélgica                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 416 ;Belize                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 417 ;Bermudas                        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 418 ;Bolívia                         ;2012 ;      17.0 ;      96.0 ;Brasil ;Uvas Frescas
+ 419 ;Bósnia                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 420 ;Brasil                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 421 ;Bulgária                        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 422 ;Burquina Faso                   ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 423 ;Cabo Verde                      ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 424 ;Camarões                        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 425 ;Camores                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 426 ;Canadá                          ;2012 ;  751591.0 ; 2143723.0 ;Brasil ;Uvas Frescas
+ 427 ;Catar                           ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 428 ;Cayman, Ilhas                   ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 429 ;Chile                           ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 430 ;China                           ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 431 ;Chipre                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 432 ;Cingapura                       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 433 ;Cocos (Keeling), Ilhas          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 434 ;Cook, Ilhas                     ;2012 ;           ;           ;Brasil ;Uvas Frescas
+ 435 ;Colômbia                        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 436 ;Congo                           ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 437 ;Coreia do Norte                 ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 438 ;Coreia do Sul                   ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 439 ;Costa do Marfim                 ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 440 ;Coveite                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 441 ;Croácia                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 442 ;Curaçao                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 443 ;Dinamarca                       ;2012 ;   12480.0 ;   40211.0 ;Brasil ;Uvas Frescas
+ 444 ;Djibuti                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 445 ;Egito                           ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 446 ;Emirados Árabes Unidos          ;2012 ;   65280.0 ;  133946.0 ;Brasil ;Uvas Frescas
+ 447 ;Eslovênia                       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 448 ;Espanha                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 449 ;Estados Unidos                  ;2012 ; 8825628.0 ;19162062.0 ;Brasil ;Uvas Frescas
+ 450 ;Falkland (Ilhas Malvinas)       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 451 ;Faroé, Ilhas                    ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 452 ;Filipinas                       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 453 ;Finlândia                       ;2012 ;  109278.0 ;  445626.0 ;Brasil ;Uvas Frescas
+ 454 ;França                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 455 ;Gabão                           ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 456 ;Gana                            ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 457 ;Georgia                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 458 ;Gibraltar                       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 459 ;Grécia                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 460 ;Guadalupe                       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 461 ;Guiana                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 462 ;Guiana Francesa                 ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 463 ;Guine Equatorial                ;2012 ;      80.0 ;     598.0 ;Brasil ;Uvas Frescas
+ 464 ;Honduras                        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 465 ;Hong Kong                       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 466 ;Ilha de Man                     ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 467 ;Ilhas Virgens                   ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 468 ;Índia                           ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 469 ;Indonésia                       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 470 ;Irã                             ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 471 ;Irlanda                         ;2012 ;   61300.0 ;   56563.0 ;Brasil ;Uvas Frescas
+ 472 ;Islândia                        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 473 ;Itália                          ;2012 ;  118705.0 ;  383214.0 ;Brasil ;Uvas Frescas
+ 474 ;Japão                           ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 475 ;Jérsei                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 476 ;Jordânia                        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 477 ;Letônia                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 478 ;Líbano                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 479 ;Libéria                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 480 ;Líbia                           ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 481 ;Lituânia                        ;2012 ;  111944.0 ;  302874.0 ;Brasil ;Uvas Frescas
+ 482 ;Luxemburgo                      ;2012 ;    4320.0 ;   15993.0 ;Brasil ;Uvas Frescas
+ 483 ;Macedônia                       ;2012 ;           ;           ;Brasil ;Uvas Frescas
+ 484 ;Malásia                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 485 ;Malta                           ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 486 ;Marrocos                        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 487 ;Marshall, Ilhas                 ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 488 ;Martinica                       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 489 ;Mauricio                        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 490 ;Mauritânia                      ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 491 ;Mexico                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 492 ;Mônaco                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 493 ;Mongólia                        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 494 ;Montenegro                      ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 495 ;Nigéria                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 496 ;Noruega                         ;2012 ; 1273703.0 ; 3748091.0 ;Brasil ;Uvas Frescas
+ 497 ;Omã                             ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 498 ;Países Baixos                   ;2012 ;26638825.0 ;61694552.0 ;Brasil ;Uvas Frescas
+ 499 ;Palau                           ;2012 ;           ;           ;Brasil ;Uvas Frescas
+ 500 ;Panamá                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 501 ;Paquistão                       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 502 ;Paraguai                        ;2012 ;    2005.0 ;    4205.0 ;Brasil ;Uvas Frescas
+ 503 ;Pitcairn                        ;2012 ;           ;           ;Brasil ;Uvas Frescas
+ 504 ;Polônia                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 505 ;Porto Rico                      ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 506 ;Portugal                        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 507 ;Quirguistão                     ;2012 ;           ;           ;Brasil ;Uvas Frescas
+ 508 ;Reino Unido                     ;2012 ;12426198.0 ;30179689.0 ;Brasil ;Uvas Frescas
+ 509 ;Republica Dominicana            ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 510 ;Romênia                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 511 ;Rússia,  Federação da           ;2012 ;   45320.0 ;  104620.0 ;Brasil ;Uvas Frescas
+ 512 ;Samoa Americana                 ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 513 ;São Cristóvão e Névis           ;2012 ;           ;           ;Brasil ;Uvas Frescas
+ 514 ;São Tomé e Príncipe             ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 515 ;São Vicente e Granadinas        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 516 ;Serra Leoa                      ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 517 ;Senegal                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 518 ;Singapura                       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 519 ;Sri Lanka                       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 520 ;Suécia                          ;2012 ;  364265.0 ; 1076257.0 ;Brasil ;Uvas Frescas
+ 521 ;Suíça                           ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 522 ;Suriname                        ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 523 ;Tailândia                       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 524 ;Taiwan                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 525 ;Tanzânia                        ;2012 ;           ;           ;Brasil ;Uvas Frescas
+ 526 ;Togo                            ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 527 ;Trindade e Tobago               ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 528 ;Turcas e Caicos, ilhas          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 529 ;Turquia                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 530 ;Tuvalu                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 531 ;Uruguai                         ;2012 ;   14864.0 ;   39923.0 ;Brasil ;Uvas Frescas
+ 532 ;Vanuatu                         ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 533 ;Venezuela                       ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 534 ;Vietnã                          ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 535 ;Provisão de Navios e Aeronaves  ;2012 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 536 ;Africa do Sul                   ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 537 ;Alemanha, República Democrática ;2013 ; 2457655.0 ; 5316776.0 ;Brasil ;Uvas Frescas
+ 538 ;Angola                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 539 ;Antígua e Barbuda               ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 540 ;Arabia Saudita                  ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 541 ;Argélia                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 542 ;Argentina                       ;2013 ;   32640.0 ;   73440.0 ;Brasil ;Uvas Frescas
+ 543 ;Áustria                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 544 ;Bahamas                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 545 ;Bahrein                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 546 ;Bangladesh                      ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 547 ;Barbados                        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 548 ;Barein                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 549 ;Bélgica                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 550 ;Belize                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 551 ;Bermudas                        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 552 ;Bolívia                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 553 ;Bósnia                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 554 ;Brasil                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 555 ;Bulgária                        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 556 ;Burquina Faso                   ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 557 ;Cabo Verde                      ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 558 ;Camarões                        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 559 ;Camores                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 560 ;Canadá                          ;2013 ;  725927.0 ; 1858772.0 ;Brasil ;Uvas Frescas
+ 561 ;Catar                           ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 562 ;Cayman, Ilhas                   ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 563 ;Chile                           ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 564 ;China                           ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 565 ;Chipre                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 566 ;Cingapura                       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 567 ;Cocos (Keeling), Ilhas          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 568 ;Cook, Ilhas                     ;2013 ;           ;           ;Brasil ;Uvas Frescas
+ 569 ;Colômbia                        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 570 ;Congo                           ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 571 ;Coreia do Norte                 ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 572 ;Coreia do Sul                   ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 573 ;Costa do Marfim                 ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 574 ;Coveite                         ;2013 ;       8.0 ;      28.0 ;Brasil ;Uvas Frescas
+ 575 ;Croácia                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 576 ;Curaçao                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 577 ;Dinamarca                       ;2013 ;  111100.0 ;  298900.0 ;Brasil ;Uvas Frescas
+ 578 ;Djibuti                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 579 ;Egito                           ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 580 ;Emirados Árabes Unidos          ;2013 ;  233100.0 ;  545937.0 ;Brasil ;Uvas Frescas
+ 581 ;Eslovênia                       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 582 ;Espanha                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 583 ;Estados Unidos                  ;2013 ; 2666978.0 ; 5673245.0 ;Brasil ;Uvas Frescas
+ 584 ;Falkland (Ilhas Malvinas)       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 585 ;Faroé, Ilhas                    ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 586 ;Filipinas                       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 587 ;Finlândia                       ;2013 ;  304120.0 ;  971821.0 ;Brasil ;Uvas Frescas
+ 588 ;França                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 589 ;Gabão                           ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 590 ;Gana                            ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 591 ;Georgia                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 592 ;Gibraltar                       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 593 ;Grécia                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 594 ;Guadalupe                       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 595 ;Guiana                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 596 ;Guiana Francesa                 ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 597 ;Guine Equatorial                ;2013 ;    2912.0 ;   14609.0 ;Brasil ;Uvas Frescas
+ 598 ;Honduras                        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 599 ;Hong Kong                       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 600 ;Ilha de Man                     ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 601 ;Ilhas Virgens                   ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 602 ;Índia                           ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 603 ;Indonésia                       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 604 ;Irã                             ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 605 ;Irlanda                         ;2013 ;   80500.0 ;   98900.0 ;Brasil ;Uvas Frescas
+ 606 ;Islândia                        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 607 ;Itália                          ;2013 ;   48000.0 ;  144696.0 ;Brasil ;Uvas Frescas
+ 608 ;Japão                           ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 609 ;Jérsei                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 610 ;Jordânia                        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 611 ;Letônia                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 612 ;Líbano                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 613 ;Libéria                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 614 ;Líbia                           ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 615 ;Lituânia                        ;2013 ;  119288.0 ;  263523.0 ;Brasil ;Uvas Frescas
+ 616 ;Luxemburgo                      ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 617 ;Macedônia                       ;2013 ;           ;           ;Brasil ;Uvas Frescas
+ 618 ;Malásia                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 619 ;Malta                           ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 620 ;Marrocos                        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 621 ;Marshall, Ilhas                 ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 622 ;Martinica                       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 623 ;Mauricio                        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 624 ;Mauritânia                      ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 625 ;Mexico                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 626 ;Mônaco                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 627 ;Mongólia                        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 628 ;Montenegro                      ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 629 ;Nigéria                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 630 ;Noruega                         ;2013 ; 1213647.0 ; 3776488.0 ;Brasil ;Uvas Frescas
+ 631 ;Omã                             ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 632 ;Países Baixos                   ;2013 ;20822086.0 ;48735513.0 ;Brasil ;Uvas Frescas
+ 633 ;Palau                           ;2013 ;           ;           ;Brasil ;Uvas Frescas
+ 634 ;Panamá                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 635 ;Paquistão                       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 636 ;Paraguai                        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 637 ;Pitcairn                        ;2013 ;           ;           ;Brasil ;Uvas Frescas
+ 638 ;Polônia                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 639 ;Porto Rico                      ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 640 ;Portugal                        ;2013 ;      10.0 ;      11.0 ;Brasil ;Uvas Frescas
+ 641 ;Quirguistão                     ;2013 ;           ;           ;Brasil ;Uvas Frescas
+ 642 ;Reino Unido                     ;2013 ;13294489.0 ;32153501.0 ;Brasil ;Uvas Frescas
+ 643 ;Republica Dominicana            ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 644 ;Romênia                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 645 ;Rússia,  Federação da           ;2013 ;   61440.0 ;  176640.0 ;Brasil ;Uvas Frescas
+ 646 ;Samoa Americana                 ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 647 ;São Cristóvão e Névis           ;2013 ;           ;           ;Brasil ;Uvas Frescas
+ 648 ;São Tomé e Príncipe             ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 649 ;São Vicente e Granadinas        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 650 ;Serra Leoa                      ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 651 ;Senegal                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 652 ;Singapura                       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 653 ;Sri Lanka                       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 654 ;Suécia                          ;2013 ;  957936.0 ; 2773969.0 ;Brasil ;Uvas Frescas
+ 655 ;Suíça                           ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 656 ;Suriname                        ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 657 ;Tailândia                       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 658 ;Taiwan                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 659 ;Tanzânia                        ;2013 ;           ;           ;Brasil ;Uvas Frescas
+ 660 ;Togo                            ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 661 ;Trindade e Tobago               ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 662 ;Turcas e Caicos, ilhas          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 663 ;Turquia                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 664 ;Tuvalu                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 665 ;Uruguai                         ;2013 ;   48720.0 ;  117918.0 ;Brasil ;Uvas Frescas
+ 666 ;Vanuatu                         ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 667 ;Venezuela                       ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 668 ;Vietnã                          ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 669 ;Provisão de Navios e Aeronaves  ;2013 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 670 ;Africa do Sul                   ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 671 ;Alemanha, República Democrática ;2014 ; 1649514.0 ; 3524291.0 ;Brasil ;Uvas Frescas
+ 672 ;Angola                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 673 ;Antígua e Barbuda               ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 674 ;Arabia Saudita                  ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 675 ;Argélia                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 676 ;Argentina                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 677 ;Áustria                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 678 ;Bahamas                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 679 ;Bahrein                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 680 ;Bangladesh                      ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 681 ;Barbados                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 682 ;Barein                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 683 ;Bélgica                         ;2014 ;   16848.0 ;   21255.0 ;Brasil ;Uvas Frescas
+ 684 ;Belize                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 685 ;Bermudas                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 686 ;Bolívia                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 687 ;Bósnia                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 688 ;Brasil                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 689 ;Bulgária                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 690 ;Burquina Faso                   ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 691 ;Cabo Verde                      ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 692 ;Camarões                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 693 ;Camores                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 694 ;Canadá                          ;2014 ;  292980.0 ;  761641.0 ;Brasil ;Uvas Frescas
+ 695 ;Catar                           ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 696 ;Cayman, Ilhas                   ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 697 ;Chile                           ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 698 ;China                           ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 699 ;Chipre                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 700 ;Cingapura                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 701 ;Cocos (Keeling), Ilhas          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 702 ;Cook, Ilhas                     ;2014 ;           ;           ;Brasil ;Uvas Frescas
+ 703 ;Colômbia                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 704 ;Congo                           ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 705 ;Coreia do Norte                 ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 706 ;Coreia do Sul                   ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 707 ;Costa do Marfim                 ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 708 ;Coveite                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 709 ;Croácia                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 710 ;Curaçao                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 711 ;Dinamarca                       ;2014 ;   97760.0 ;  272459.0 ;Brasil ;Uvas Frescas
+ 712 ;Djibuti                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 713 ;Egito                           ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 714 ;Emirados Árabes Unidos          ;2014 ;  918000.0 ; 2560696.0 ;Brasil ;Uvas Frescas
+ 715 ;Eslovênia                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 716 ;Espanha                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 717 ;Estados Unidos                  ;2014 ;   61300.0 ;  175546.0 ;Brasil ;Uvas Frescas
+ 718 ;Falkland (Ilhas Malvinas)       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 719 ;Faroé, Ilhas                    ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 720 ;Filipinas                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 721 ;Finlândia                       ;2014 ;  152500.0 ;  386650.0 ;Brasil ;Uvas Frescas
+ 722 ;França                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 723 ;Gabão                           ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 724 ;Gana                            ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 725 ;Georgia                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 726 ;Gibraltar                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 727 ;Grécia                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 728 ;Guadalupe                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 729 ;Guiana                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 730 ;Guiana Francesa                 ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 731 ;Guine Equatorial                ;2014 ;    4000.0 ;   23363.0 ;Brasil ;Uvas Frescas
+ 732 ;Honduras                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 733 ;Hong Kong                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 734 ;Ilha de Man                     ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 735 ;Ilhas Virgens                   ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 736 ;Índia                           ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 737 ;Indonésia                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 738 ;Irã                             ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 739 ;Irlanda                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 740 ;Islândia                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 741 ;Itália                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 742 ;Japão                           ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 743 ;Jérsei                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 744 ;Jordânia                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 745 ;Letônia                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 746 ;Líbano                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 747 ;Libéria                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 748 ;Líbia                           ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 749 ;Lituânia                        ;2014 ;  255411.0 ;  534737.0 ;Brasil ;Uvas Frescas
+ 750 ;Luxemburgo                      ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 751 ;Macedônia                       ;2014 ;           ;           ;Brasil ;Uvas Frescas
+ 752 ;Malásia                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 753 ;Malta                           ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 754 ;Marrocos                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 755 ;Marshall, Ilhas                 ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 756 ;Martinica                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 757 ;Mauricio                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 758 ;Mauritânia                      ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 759 ;Mexico                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 760 ;Mônaco                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 761 ;Mongólia                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 762 ;Montenegro                      ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 763 ;Nigéria                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 764 ;Noruega                         ;2014 ;  918992.0 ; 2423945.0 ;Brasil ;Uvas Frescas
+ 765 ;Omã                             ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 766 ;Países Baixos                   ;2014 ;14927182.0 ;33260983.0 ;Brasil ;Uvas Frescas
+ 767 ;Palau                           ;2014 ;           ;           ;Brasil ;Uvas Frescas
+ 768 ;Panamá                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 769 ;Paquistão                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 770 ;Paraguai                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 771 ;Pitcairn                        ;2014 ;           ;           ;Brasil ;Uvas Frescas
+ 772 ;Polônia                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 773 ;Porto Rico                      ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 774 ;Portugal                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 775 ;Quirguistão                     ;2014 ;           ;           ;Brasil ;Uvas Frescas
+ 776 ;Reino Unido                     ;2014 ; 8957593.0 ;22621039.0 ;Brasil ;Uvas Frescas
+ 777 ;Republica Dominicana            ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 778 ;Romênia                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 779 ;Rússia,  Federação da           ;2014 ;   66912.0 ;  150552.0 ;Brasil ;Uvas Frescas
+ 780 ;Samoa Americana                 ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 781 ;São Cristóvão e Névis           ;2014 ;           ;           ;Brasil ;Uvas Frescas
+ 782 ;São Tomé e Príncipe             ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 783 ;São Vicente e Granadinas        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 784 ;Serra Leoa                      ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 785 ;Senegal                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 786 ;Singapura                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 787 ;Sri Lanka                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 788 ;Suécia                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 789 ;Suíça                           ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 790 ;Suriname                        ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 791 ;Tailândia                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 792 ;Taiwan                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 793 ;Tanzânia                        ;2014 ;           ;           ;Brasil ;Uvas Frescas
+ 794 ;Togo                            ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 795 ;Trindade e Tobago               ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 796 ;Turcas e Caicos, ilhas          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 797 ;Turquia                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 798 ;Tuvalu                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 799 ;Uruguai                         ;2014 ;   28960.0 ;   73671.0 ;Brasil ;Uvas Frescas
+ 800 ;Vanuatu                         ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 801 ;Venezuela                       ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 802 ;Vietnã                          ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 803 ;Provisão de Navios e Aeronaves  ;2014 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 804 ;Africa do Sul                   ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 805 ;Alemanha, República Democrática ;2015 ; 3277187.0 ; 6532957.0 ;Brasil ;Uvas Frescas
+ 806 ;Angola                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 807 ;Antígua e Barbuda               ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 808 ;Arabia Saudita                  ;2015 ;   61200.0 ;  140760.0 ;Brasil ;Uvas Frescas
+ 809 ;Argélia                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 810 ;Argentina                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 811 ;Áustria                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 812 ;Bahamas                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 813 ;Bahrein                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 814 ;Bangladesh                      ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 815 ;Barbados                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 816 ;Barein                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 817 ;Bélgica                         ;2015 ;   88832.0 ;  219060.0 ;Brasil ;Uvas Frescas
+ 818 ;Belize                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 819 ;Bermudas                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 820 ;Bolívia                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 821 ;Bósnia                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 822 ;Brasil                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 823 ;Bulgária                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 824 ;Burquina Faso                   ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 825 ;Cabo Verde                      ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 826 ;Camarões                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 827 ;Camores                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 828 ;Canadá                          ;2015 ;  239200.0 ;  582653.0 ;Brasil ;Uvas Frescas
+ 829 ;Catar                           ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 830 ;Cayman, Ilhas                   ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 831 ;Chile                           ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 832 ;China                           ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 833 ;Chipre                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 834 ;Cingapura                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 835 ;Cocos (Keeling), Ilhas          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 836 ;Cook, Ilhas                     ;2015 ;           ;           ;Brasil ;Uvas Frescas
+ 837 ;Colômbia                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 838 ;Congo                           ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 839 ;Coreia do Norte                 ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 840 ;Coreia do Sul                   ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 841 ;Costa do Marfim                 ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 842 ;Coveite                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 843 ;Croácia                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 844 ;Curaçao                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 845 ;Dinamarca                       ;2015 ;  118565.0 ;  289554.0 ;Brasil ;Uvas Frescas
+ 846 ;Djibuti                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 847 ;Egito                           ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 848 ;Emirados Árabes Unidos          ;2015 ; 1341949.0 ; 3423418.0 ;Brasil ;Uvas Frescas
+ 849 ;Eslovênia                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 850 ;Espanha                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 851 ;Estados Unidos                  ;2015 ;  500450.0 ; 1643930.0 ;Brasil ;Uvas Frescas
+ 852 ;Falkland (Ilhas Malvinas)       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 853 ;Faroé, Ilhas                    ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 854 ;Filipinas                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 855 ;Finlândia                       ;2015 ;  123500.0 ;  253387.0 ;Brasil ;Uvas Frescas
+ 856 ;França                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 857 ;Gabão                           ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 858 ;Gana                            ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 859 ;Georgia                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 860 ;Gibraltar                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 861 ;Grécia                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 862 ;Guadalupe                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 863 ;Guiana                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 864 ;Guiana Francesa                 ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 865 ;Guine Equatorial                ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 866 ;Honduras                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 867 ;Hong Kong                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 868 ;Ilha de Man                     ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 869 ;Ilhas Virgens                   ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 870 ;Índia                           ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 871 ;Indonésia                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 872 ;Irã                             ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 873 ;Irlanda                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 874 ;Islândia                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 875 ;Itália                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 876 ;Japão                           ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 877 ;Jérsei                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 878 ;Jordânia                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 879 ;Letônia                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 880 ;Líbano                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 881 ;Libéria                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 882 ;Líbia                           ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 883 ;Lituânia                        ;2015 ;  133236.0 ;  208166.0 ;Brasil ;Uvas Frescas
+ 884 ;Luxemburgo                      ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 885 ;Macedônia                       ;2015 ;           ;           ;Brasil ;Uvas Frescas
+ 886 ;Malásia                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 887 ;Malta                           ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 888 ;Marrocos                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 889 ;Marshall, Ilhas                 ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 890 ;Martinica                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 891 ;Mauricio                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 892 ;Mauritânia                      ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 893 ;Mexico                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 894 ;Mônaco                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 895 ;Mongólia                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 896 ;Montenegro                      ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 897 ;Nigéria                         ;2015 ;   61200.0 ;   82620.0 ;Brasil ;Uvas Frescas
+ 898 ;Noruega                         ;2015 ;  604000.0 ; 1490491.0 ;Brasil ;Uvas Frescas
+ 899 ;Omã                             ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 900 ;Países Baixos                   ;2015 ;17860220.0 ;34025630.0 ;Brasil ;Uvas Frescas
+ 901 ;Palau                           ;2015 ;           ;           ;Brasil ;Uvas Frescas
+ 902 ;Panamá                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 903 ;Paquistão                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 904 ;Paraguai                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 905 ;Pitcairn                        ;2015 ;           ;           ;Brasil ;Uvas Frescas
+ 906 ;Polônia                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 907 ;Porto Rico                      ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 908 ;Portugal                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 909 ;Quirguistão                     ;2015 ;           ;           ;Brasil ;Uvas Frescas
+ 910 ;Reino Unido                     ;2015 ; 9569389.0 ;22726525.0 ;Brasil ;Uvas Frescas
+ 911 ;Republica Dominicana            ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 912 ;Romênia                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 913 ;Rússia,  Federação da           ;2015 ;  208715.0 ;  335657.0 ;Brasil ;Uvas Frescas
+ 914 ;Samoa Americana                 ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 915 ;São Cristóvão e Névis           ;2015 ;           ;           ;Brasil ;Uvas Frescas
+ 916 ;São Tomé e Príncipe             ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 917 ;São Vicente e Granadinas        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 918 ;Serra Leoa                      ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 919 ;Senegal                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 920 ;Singapura                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 921 ;Sri Lanka                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 922 ;Suécia                          ;2015 ;   89000.0 ;  174394.0 ;Brasil ;Uvas Frescas
+ 923 ;Suíça                           ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 924 ;Suriname                        ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 925 ;Tailândia                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 926 ;Taiwan                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 927 ;Tanzânia                        ;2015 ;           ;           ;Brasil ;Uvas Frescas
+ 928 ;Togo                            ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 929 ;Trindade e Tobago               ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 930 ;Turcas e Caicos, ilhas          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 931 ;Turquia                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 932 ;Tuvalu                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 933 ;Uruguai                         ;2015 ;  108040.0 ;  177749.0 ;Brasil ;Uvas Frescas
+ 934 ;Vanuatu                         ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 935 ;Venezuela                       ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 936 ;Vietnã                          ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 937 ;Provisão de Navios e Aeronaves  ;2015 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 938 ;Africa do Sul                   ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 939 ;Alemanha, República Democrática ;2016 ; 2384112.0 ; 5161080.0 ;Brasil ;Uvas Frescas
+ 940 ;Angola                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 941 ;Antígua e Barbuda               ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 942 ;Arabia Saudita                  ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 943 ;Argélia                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 944 ;Argentina                       ;2016 ; 1156368.0 ; 2340897.0 ;Brasil ;Uvas Frescas
+ 945 ;Áustria                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 946 ;Bahamas                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 947 ;Bahrein                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 948 ;Bangladesh                      ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 949 ;Barbados                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 950 ;Barein                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 951 ;Bélgica                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 952 ;Belize                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 953 ;Bermudas                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 954 ;Bolívia                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 955 ;Bósnia                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 956 ;Brasil                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 957 ;Bulgária                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 958 ;Burquina Faso                   ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 959 ;Cabo Verde                      ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 960 ;Camarões                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 961 ;Camores                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 962 ;Canadá                          ;2016 ;  110752.0 ;  287454.0 ;Brasil ;Uvas Frescas
+ 963 ;Catar                           ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 964 ;Cayman, Ilhas                   ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 965 ;Chile                           ;2016 ;      14.0 ;   25963.0 ;Brasil ;Uvas Frescas
+ 966 ;China                           ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 967 ;Chipre                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 968 ;Cingapura                       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 969 ;Cocos (Keeling), Ilhas          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 970 ;Cook, Ilhas                     ;2016 ;           ;           ;Brasil ;Uvas Frescas
+ 971 ;Colômbia                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 972 ;Congo                           ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 973 ;Coreia do Norte                 ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 974 ;Coreia do Sul                   ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 975 ;Costa do Marfim                 ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 976 ;Coveite                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 977 ;Croácia                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 978 ;Curaçao                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 979 ;Dinamarca                       ;2016 ;   12000.0 ;   29594.0 ;Brasil ;Uvas Frescas
+ 980 ;Djibuti                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 981 ;Egito                           ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 982 ;Emirados Árabes Unidos          ;2016 ; 1648528.0 ; 4118900.0 ;Brasil ;Uvas Frescas
+ 983 ;Eslovênia                       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 984 ;Espanha                         ;2016 ;   14400.0 ;   36070.0 ;Brasil ;Uvas Frescas
+ 985 ;Estados Unidos                  ;2016 ;  425988.0 ; 1321045.0 ;Brasil ;Uvas Frescas
+ 986 ;Falkland (Ilhas Malvinas)       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 987 ;Faroé, Ilhas                    ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 988 ;Filipinas                       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 989 ;Finlândia                       ;2016 ;   24000.0 ;   65352.0 ;Brasil ;Uvas Frescas
+ 990 ;França                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 991 ;Gabão                           ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 992 ;Gana                            ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 993 ;Georgia                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 994 ;Gibraltar                       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 995 ;Grécia                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 996 ;Guadalupe                       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 997 ;Guiana                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 998 ;Guiana Francesa                 ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+ 999 ;Guine Equatorial                ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1000 ;Honduras                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1001 ;Hong Kong                       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1002 ;Ilha de Man                     ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1003 ;Ilhas Virgens                   ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1004 ;Índia                           ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1005 ;Indonésia                       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1006 ;Irã                             ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1007 ;Irlanda                         ;2016 ;  162885.0 ;  433477.0 ;Brasil ;Uvas Frescas
+1008 ;Islândia                        ;2016 ;   12000.0 ;   36321.0 ;Brasil ;Uvas Frescas
+1009 ;Itália                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1010 ;Japão                           ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1011 ;Jérsei                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1012 ;Jordânia                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1013 ;Letônia                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1014 ;Líbano                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1015 ;Libéria                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1016 ;Líbia                           ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1017 ;Lituânia                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1018 ;Luxemburgo                      ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1019 ;Macedônia                       ;2016 ;           ;           ;Brasil ;Uvas Frescas
+1020 ;Malásia                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1021 ;Malta                           ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1022 ;Marrocos                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1023 ;Marshall, Ilhas                 ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1024 ;Martinica                       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1025 ;Mauricio                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1026 ;Mauritânia                      ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1027 ;Mexico                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1028 ;Mônaco                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1029 ;Mongólia                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1030 ;Montenegro                      ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1031 ;Nigéria                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1032 ;Noruega                         ;2016 ;  661500.0 ; 1603529.0 ;Brasil ;Uvas Frescas
+1033 ;Omã                             ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1034 ;Países Baixos                   ;2016 ;16136676.0 ;32374970.0 ;Brasil ;Uvas Frescas
+1035 ;Palau                           ;2016 ;           ;           ;Brasil ;Uvas Frescas
+1036 ;Panamá                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1037 ;Paquistão                       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1038 ;Paraguai                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1039 ;Pitcairn                        ;2016 ;           ;           ;Brasil ;Uvas Frescas
+1040 ;Polônia                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1041 ;Porto Rico                      ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1042 ;Portugal                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1043 ;Quirguistão                     ;2016 ;           ;           ;Brasil ;Uvas Frescas
+1044 ;Reino Unido                     ;2016 ; 7619756.0 ;16444532.0 ;Brasil ;Uvas Frescas
+1045 ;Republica Dominicana            ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1046 ;Romênia                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1047 ;Rússia,  Federação da           ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1048 ;Samoa Americana                 ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1049 ;São Cristóvão e Névis           ;2016 ;           ;           ;Brasil ;Uvas Frescas
+1050 ;São Tomé e Príncipe             ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1051 ;São Vicente e Granadinas        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1052 ;Serra Leoa                      ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1053 ;Senegal                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1054 ;Singapura                       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1055 ;Sri Lanka                       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1056 ;Suécia                          ;2016 ;  357380.0 ;  772718.0 ;Brasil ;Uvas Frescas
+1057 ;Suíça                           ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1058 ;Suriname                        ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1059 ;Tailândia                       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1060 ;Taiwan                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1061 ;Tanzânia                        ;2016 ;           ;           ;Brasil ;Uvas Frescas
+1062 ;Togo                            ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1063 ;Trindade e Tobago               ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1064 ;Turcas e Caicos, ilhas          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1065 ;Turquia                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1066 ;Tuvalu                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1067 ;Uruguai                         ;2016 ;   86816.0 ;  203228.0 ;Brasil ;Uvas Frescas
+1068 ;Vanuatu                         ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1069 ;Venezuela                       ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1070 ;Vietnã                          ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1071 ;Provisão de Navios e Aeronaves  ;2016 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1072 ;Africa do Sul                   ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1073 ;Alemanha, República Democrática ;2017 ; 3353831.0 ; 6730502.0 ;Brasil ;Uvas Frescas
+1074 ;Angola                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1075 ;Antígua e Barbuda               ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1076 ;Arabia Saudita                  ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1077 ;Argélia                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1078 ;Argentina                       ;2017 ; 2872152.0 ; 5757072.0 ;Brasil ;Uvas Frescas
+1079 ;Áustria                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1080 ;Bahamas                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1081 ;Bahrein                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1082 ;Bangladesh                      ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1083 ;Barbados                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1084 ;Barein                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1085 ;Bélgica                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1086 ;Belize                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1087 ;Bermudas                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1088 ;Bolívia                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1089 ;Bósnia                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1090 ;Brasil                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1091 ;Bulgária                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1092 ;Burquina Faso                   ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1093 ;Cabo Verde                      ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1094 ;Camarões                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1095 ;Camores                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1096 ;Canadá                          ;2017 ;   12983.0 ;   74228.0 ;Brasil ;Uvas Frescas
+1097 ;Catar                           ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1098 ;Cayman, Ilhas                   ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1099 ;Chile                           ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1100 ;China                           ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1101 ;Chipre                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1102 ;Cingapura                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1103 ;Cocos (Keeling), Ilhas          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1104 ;Cook, Ilhas                     ;2017 ;           ;           ;Brasil ;Uvas Frescas
+1105 ;Colômbia                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1106 ;Congo                           ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1107 ;Coreia do Norte                 ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1108 ;Coreia do Sul                   ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1109 ;Costa do Marfim                 ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1110 ;Coveite                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1111 ;Croácia                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1112 ;Curaçao                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1113 ;Dinamarca                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1114 ;Djibuti                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1115 ;Egito                           ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1116 ;Emirados Árabes Unidos          ;2017 ; 1645205.0 ; 4252353.0 ;Brasil ;Uvas Frescas
+1117 ;Eslovênia                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1118 ;Espanha                         ;2017 ;   28872.0 ;   51966.0 ;Brasil ;Uvas Frescas
+1119 ;Estados Unidos                  ;2017 ; 1820656.0 ; 5180800.0 ;Brasil ;Uvas Frescas
+1120 ;Falkland (Ilhas Malvinas)       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1121 ;Faroé, Ilhas                    ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1122 ;Filipinas                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1123 ;Finlândia                       ;2017 ;  111720.0 ;  202785.0 ;Brasil ;Uvas Frescas
+1124 ;França                          ;2017 ;      63.0 ;      16.0 ;Brasil ;Uvas Frescas
+1125 ;Gabão                           ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1126 ;Gana                            ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1127 ;Georgia                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1128 ;Gibraltar                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1129 ;Grécia                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1130 ;Guadalupe                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1131 ;Guiana                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1132 ;Guiana Francesa                 ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1133 ;Guine Equatorial                ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1134 ;Honduras                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1135 ;Hong Kong                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1136 ;Ilha de Man                     ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1137 ;Ilhas Virgens                   ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1138 ;Índia                           ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1139 ;Indonésia                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1140 ;Irã                             ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1141 ;Irlanda                         ;2017 ;  199402.0 ;  565158.0 ;Brasil ;Uvas Frescas
+1142 ;Islândia                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1143 ;Itália                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1144 ;Japão                           ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1145 ;Jérsei                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1146 ;Jordânia                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1147 ;Letônia                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1148 ;Líbano                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1149 ;Libéria                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1150 ;Líbia                           ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1151 ;Lituânia                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1152 ;Luxemburgo                      ;2017 ;    1416.0 ;    2074.0 ;Brasil ;Uvas Frescas
+1153 ;Macedônia                       ;2017 ;           ;           ;Brasil ;Uvas Frescas
+1154 ;Malásia                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1155 ;Malta                           ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1156 ;Marrocos                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1157 ;Marshall, Ilhas                 ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1158 ;Martinica                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1159 ;Mauricio                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1160 ;Mauritânia                      ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1161 ;Mexico                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1162 ;Mônaco                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1163 ;Mongólia                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1164 ;Montenegro                      ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1165 ;Nigéria                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1166 ;Noruega                         ;2017 ;  518000.0 ; 1309866.0 ;Brasil ;Uvas Frescas
+1167 ;Omã                             ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1168 ;Países Baixos                   ;2017 ;24328153.0 ;50499751.0 ;Brasil ;Uvas Frescas
+1169 ;Palau                           ;2017 ;           ;           ;Brasil ;Uvas Frescas
+1170 ;Panamá                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1171 ;Paquistão                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1172 ;Paraguai                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1173 ;Pitcairn                        ;2017 ;           ;           ;Brasil ;Uvas Frescas
+1174 ;Polônia                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1175 ;Porto Rico                      ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1176 ;Portugal                        ;2017 ;   13155.0 ;   21707.0 ;Brasil ;Uvas Frescas
+1177 ;Quirguistão                     ;2017 ;           ;           ;Brasil ;Uvas Frescas
+1178 ;Reino Unido                     ;2017 ; 9034528.0 ;20326592.0 ;Brasil ;Uvas Frescas
+1179 ;Republica Dominicana            ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1180 ;Romênia                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1181 ;Rússia,  Federação da           ;2017 ;  199140.0 ;  477800.0 ;Brasil ;Uvas Frescas
+1182 ;Samoa Americana                 ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1183 ;São Cristóvão e Névis           ;2017 ;           ;           ;Brasil ;Uvas Frescas
+1184 ;São Tomé e Príncipe             ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1185 ;São Vicente e Granadinas        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1186 ;Serra Leoa                      ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1187 ;Senegal                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1188 ;Singapura                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1189 ;Sri Lanka                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1190 ;Suécia                          ;2017 ;  249805.0 ;  501518.0 ;Brasil ;Uvas Frescas
+1191 ;Suíça                           ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1192 ;Suriname                        ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1193 ;Tailândia                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1194 ;Taiwan                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1195 ;Tanzânia                        ;2017 ;           ;           ;Brasil ;Uvas Frescas
+1196 ;Togo                            ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1197 ;Trindade e Tobago               ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1198 ;Turcas e Caicos, ilhas          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1199 ;Turquia                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1200 ;Tuvalu                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1201 ;Uruguai                         ;2017 ;  104368.0 ;  253089.0 ;Brasil ;Uvas Frescas
+1202 ;Vanuatu                         ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1203 ;Venezuela                       ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1204 ;Vietnã                          ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1205 ;Provisão de Navios e Aeronaves  ;2017 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1206 ;Africa do Sul                   ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1207 ;Alemanha, República Democrática ;2018 ; 2870420.0 ; 5833592.0 ;Brasil ;Uvas Frescas
+1208 ;Angola                          ;2018 ;      15.0 ;      33.0 ;Brasil ;Uvas Frescas
+1209 ;Antígua e Barbuda               ;2018 ;      65.0 ;     164.0 ;Brasil ;Uvas Frescas
+1210 ;Arabia Saudita                  ;2018 ;   14725.0 ;   28615.0 ;Brasil ;Uvas Frescas
+1211 ;Argélia                         ;2018 ;   20672.0 ;   30968.0 ;Brasil ;Uvas Frescas
+1212 ;Argentina                       ;2018 ; 1536650.0 ; 2478547.0 ;Brasil ;Uvas Frescas
+1213 ;Áustria                         ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1214 ;Bahamas                         ;2018 ;   25630.0 ;   52046.0 ;Brasil ;Uvas Frescas
+1215 ;Bahrein                         ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1216 ;Bangladesh                      ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1217 ;Barbados                        ;2018 ;      15.0 ;      59.0 ;Brasil ;Uvas Frescas
+1218 ;Barein                          ;2018 ;      27.0 ;     105.0 ;Brasil ;Uvas Frescas
+1219 ;Bélgica                         ;2018 ;  150493.0 ;  281779.0 ;Brasil ;Uvas Frescas
+1220 ;Belize                          ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1221 ;Bermudas                        ;2018 ;      23.0 ;      69.0 ;Brasil ;Uvas Frescas
+1222 ;Bolívia                         ;2018 ;      10.0 ;      97.0 ;Brasil ;Uvas Frescas
+1223 ;Bósnia                          ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1224 ;Brasil                          ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1225 ;Bulgária                        ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1226 ;Burquina Faso                   ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1227 ;Cabo Verde                      ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1228 ;Camarões                        ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1229 ;Camores                         ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1230 ;Canadá                          ;2018 ;   36798.0 ;  171155.0 ;Brasil ;Uvas Frescas
+1231 ;Catar                           ;2018 ;    1100.0 ;    4932.0 ;Brasil ;Uvas Frescas
+1232 ;Cayman, Ilhas                   ;2018 ;      61.0 ;     140.0 ;Brasil ;Uvas Frescas
+1233 ;Chile                           ;2018 ;      25.0 ;      81.0 ;Brasil ;Uvas Frescas
+1234 ;China                           ;2018 ;     418.0 ;    1132.0 ;Brasil ;Uvas Frescas
+1235 ;Chipre                          ;2018 ;     414.0 ;    1005.0 ;Brasil ;Uvas Frescas
+1236 ;Cingapura                       ;2018 ;    1705.0 ;    5375.0 ;Brasil ;Uvas Frescas
+1237 ;Cocos (Keeling), Ilhas          ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1238 ;Cook, Ilhas                     ;2018 ;           ;           ;Brasil ;Uvas Frescas
+1239 ;Colômbia                        ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1240 ;Congo                           ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1241 ;Coreia do Norte                 ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1242 ;Coreia do Sul                   ;2018 ;      54.0 ;     154.0 ;Brasil ;Uvas Frescas
+1243 ;Costa do Marfim                 ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1244 ;Coveite                         ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1245 ;Croácia                         ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1246 ;Curaçao                         ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1247 ;Dinamarca                       ;2018 ;  102775.0 ;  192891.0 ;Brasil ;Uvas Frescas
+1248 ;Djibuti                         ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1249 ;Egito                           ;2018 ;      10.0 ;      40.0 ;Brasil ;Uvas Frescas
+1250 ;Emirados Árabes Unidos          ;2018 ;  365615.0 ;  899131.0 ;Brasil ;Uvas Frescas
+1251 ;Eslovênia                       ;2018 ;      10.0 ;      30.0 ;Brasil ;Uvas Frescas
+1252 ;Espanha                         ;2018 ;  494802.0 ;  997622.0 ;Brasil ;Uvas Frescas
+1253 ;Estados Unidos                  ;2018 ; 2682088.0 ; 8288437.0 ;Brasil ;Uvas Frescas
+1254 ;Falkland (Ilhas Malvinas)       ;2018 ;      31.0 ;      93.0 ;Brasil ;Uvas Frescas
+1255 ;Faroé, Ilhas                    ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1256 ;Filipinas                       ;2018 ;     114.0 ;     311.0 ;Brasil ;Uvas Frescas
+1257 ;Finlândia                       ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1258 ;França                          ;2018 ;     816.0 ;    6549.0 ;Brasil ;Uvas Frescas
+1259 ;Gabão                           ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1260 ;Gana                            ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1261 ;Georgia                         ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1262 ;Gibraltar                       ;2018 ;      69.0 ;     175.0 ;Brasil ;Uvas Frescas
+1263 ;Grécia                          ;2018 ;    1456.0 ;    3566.0 ;Brasil ;Uvas Frescas
+1264 ;Guadalupe                       ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1265 ;Guiana                          ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1266 ;Guiana Francesa                 ;2018 ;      64.0 ;     362.0 ;Brasil ;Uvas Frescas
+1267 ;Guine Equatorial                ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1268 ;Honduras                        ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1269 ;Hong Kong                       ;2018 ;    1105.0 ;    3283.0 ;Brasil ;Uvas Frescas
+1270 ;Ilha de Man                     ;2018 ;      48.0 ;     116.0 ;Brasil ;Uvas Frescas
+1271 ;Ilhas Virgens                   ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1272 ;Índia                           ;2018 ;     341.0 ;     684.0 ;Brasil ;Uvas Frescas
+1273 ;Indonésia                       ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1274 ;Irã                             ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1275 ;Irlanda                         ;2018 ;  143330.0 ;  243068.0 ;Brasil ;Uvas Frescas
+1276 ;Islândia                        ;2018 ;   13000.0 ;   20725.0 ;Brasil ;Uvas Frescas
+1277 ;Itália                          ;2018 ;      28.0 ;      94.0 ;Brasil ;Uvas Frescas
+1278 ;Japão                           ;2018 ;     239.0 ;     840.0 ;Brasil ;Uvas Frescas
+1279 ;Jérsei                          ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1280 ;Jordânia                        ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1281 ;Letônia                         ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1282 ;Líbano                          ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1283 ;Libéria                         ;2018 ;    1297.0 ;    4183.0 ;Brasil ;Uvas Frescas
+1284 ;Líbia                           ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1285 ;Lituânia                        ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1286 ;Luxemburgo                      ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1287 ;Macedônia                       ;2018 ;           ;           ;Brasil ;Uvas Frescas
+1288 ;Malásia                         ;2018 ;      30.0 ;     101.0 ;Brasil ;Uvas Frescas
+1289 ;Malta                           ;2018 ;     689.0 ;    1720.0 ;Brasil ;Uvas Frescas
+1290 ;Marrocos                        ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1291 ;Marshall, Ilhas                 ;2018 ;    1430.0 ;    4184.0 ;Brasil ;Uvas Frescas
+1292 ;Martinica                       ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1293 ;Mauricio                        ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1294 ;Mauritânia                      ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1295 ;Mexico                          ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1296 ;Mônaco                          ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1297 ;Mongólia                        ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1298 ;Montenegro                      ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1299 ;Nigéria                         ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1300 ;Noruega                         ;2018 ;  168732.0 ;  381452.0 ;Brasil ;Uvas Frescas
+1301 ;Omã                             ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1302 ;Países Baixos                   ;2018 ;22330171.0 ;46725512.0 ;Brasil ;Uvas Frescas
+1303 ;Palau                           ;2018 ;           ;           ;Brasil ;Uvas Frescas
+1304 ;Panamá                          ;2018 ;    1675.0 ;    5358.0 ;Brasil ;Uvas Frescas
+1305 ;Paquistão                       ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1306 ;Paraguai                        ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1307 ;Pitcairn                        ;2018 ;           ;           ;Brasil ;Uvas Frescas
+1308 ;Polônia                         ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1309 ;Porto Rico                      ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1310 ;Portugal                        ;2018 ;     205.0 ;     676.0 ;Brasil ;Uvas Frescas
+1311 ;Quirguistão                     ;2018 ;           ;           ;Brasil ;Uvas Frescas
+1312 ;Reino Unido                     ;2018 ; 8558646.0 ;20872314.0 ;Brasil ;Uvas Frescas
+1313 ;Republica Dominicana            ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1314 ;Romênia                         ;2018 ;      40.0 ;     172.0 ;Brasil ;Uvas Frescas
+1315 ;Rússia,  Federação da           ;2018 ;      80.0 ;     454.0 ;Brasil ;Uvas Frescas
+1316 ;Samoa Americana                 ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1317 ;São Cristóvão e Névis           ;2018 ;           ;           ;Brasil ;Uvas Frescas
+1318 ;São Tomé e Príncipe             ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1319 ;São Vicente e Granadinas        ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1320 ;Serra Leoa                      ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1321 ;Senegal                         ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1322 ;Singapura                       ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1323 ;Sri Lanka                       ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1324 ;Suécia                          ;2018 ;  101350.0 ;  211213.0 ;Brasil ;Uvas Frescas
+1325 ;Suíça                           ;2018 ;    1022.0 ;    8624.0 ;Brasil ;Uvas Frescas
+1326 ;Suriname                        ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1327 ;Tailândia                       ;2018 ;     113.0 ;     495.0 ;Brasil ;Uvas Frescas
+1328 ;Taiwan                          ;2018 ;      39.0 ;     115.0 ;Brasil ;Uvas Frescas
+1329 ;Tanzânia                        ;2018 ;           ;           ;Brasil ;Uvas Frescas
+1330 ;Togo                            ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1331 ;Trindade e Tobago               ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1332 ;Turcas e Caicos, ilhas          ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1333 ;Turquia                         ;2018 ;     126.0 ;     440.0 ;Brasil ;Uvas Frescas
+1334 ;Tuvalu                          ;2018 ;       1.0 ;       3.0 ;Brasil ;Uvas Frescas
+1335 ;Uruguai                         ;2018 ;  187316.0 ;  301600.0 ;Brasil ;Uvas Frescas
+1336 ;Vanuatu                         ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1337 ;Venezuela                       ;2018 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1338 ;Vietnã                          ;2018 ;      10.0 ;      51.0 ;Brasil ;Uvas Frescas
+1339 ;Provisão de Navios e Aeronaves  ;2018 ;      30.0 ;      55.0 ;Brasil ;Uvas Frescas
+1340 ;Africa do Sul                   ;2019 ;       8.0 ;      30.0 ;Brasil ;Uvas Frescas
+1341 ;Alemanha, República Democrática ;2019 ; 1863097.0 ; 3480290.0 ;Brasil ;Uvas Frescas
+1342 ;Angola                          ;2019 ;      75.0 ;     145.0 ;Brasil ;Uvas Frescas
+1343 ;Antígua e Barbuda               ;2019 ;     190.0 ;     580.0 ;Brasil ;Uvas Frescas
+1344 ;Arabia Saudita                  ;2019 ;  167731.0 ;  271231.0 ;Brasil ;Uvas Frescas
+1345 ;Argélia                         ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1346 ;Argentina                       ;2019 ; 1186878.0 ; 1758528.0 ;Brasil ;Uvas Frescas
+1347 ;Áustria                         ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1348 ;Bahamas                         ;2019 ;    2869.0 ;    9184.0 ;Brasil ;Uvas Frescas
+1349 ;Bahrein                         ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1350 ;Bangladesh                      ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1351 ;Barbados                        ;2019 ;     110.0 ;     354.0 ;Brasil ;Uvas Frescas
+1352 ;Barein                          ;2019 ;     958.0 ;    3353.0 ;Brasil ;Uvas Frescas
+1353 ;Bélgica                         ;2019 ;  176918.0 ;  336252.0 ;Brasil ;Uvas Frescas
+1354 ;Belize                          ;2019 ;      20.0 ;      48.0 ;Brasil ;Uvas Frescas
+1355 ;Bermudas                        ;2019 ;     228.0 ;    1047.0 ;Brasil ;Uvas Frescas
+1356 ;Bolívia                         ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1357 ;Bósnia                          ;2019 ;      52.0 ;      67.0 ;Brasil ;Uvas Frescas
+1358 ;Brasil                          ;2019 ;      18.0 ;      62.0 ;Brasil ;Uvas Frescas
+1359 ;Bulgária                        ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1360 ;Burquina Faso                   ;2019 ;      10.0 ;      37.0 ;Brasil ;Uvas Frescas
+1361 ;Cabo Verde                      ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1362 ;Camarões                        ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1363 ;Camores                         ;2019 ;      20.0 ;      75.0 ;Brasil ;Uvas Frescas
+1364 ;Canadá                          ;2019 ;   24565.0 ;  220025.0 ;Brasil ;Uvas Frescas
+1365 ;Catar                           ;2019 ;      81.0 ;     298.0 ;Brasil ;Uvas Frescas
+1366 ;Cayman, Ilhas                   ;2019 ;     216.0 ;     638.0 ;Brasil ;Uvas Frescas
+1367 ;Chile                           ;2019 ;     189.0 ;     457.0 ;Brasil ;Uvas Frescas
+1368 ;China                           ;2019 ;    1113.0 ;    3171.0 ;Brasil ;Uvas Frescas
+1369 ;Chipre                          ;2019 ;    2173.0 ;    6326.0 ;Brasil ;Uvas Frescas
+1370 ;Cingapura                       ;2019 ;    7081.0 ;   23803.0 ;Brasil ;Uvas Frescas
+1371 ;Cocos (Keeling), Ilhas          ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1372 ;Cook, Ilhas                     ;2019 ;           ;           ;Brasil ;Uvas Frescas
+1373 ;Colômbia                        ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1374 ;Congo                           ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1375 ;Coreia do Norte                 ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1376 ;Coreia do Sul                   ;2019 ;     270.0 ;     620.0 ;Brasil ;Uvas Frescas
+1377 ;Costa do Marfim                 ;2019 ;      16.0 ;      34.0 ;Brasil ;Uvas Frescas
+1378 ;Coveite                         ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1379 ;Croácia                         ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1380 ;Curaçao                         ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1381 ;Dinamarca                       ;2019 ;   56095.0 ;  130520.0 ;Brasil ;Uvas Frescas
+1382 ;Djibuti                         ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1383 ;Egito                           ;2019 ;      20.0 ;      97.0 ;Brasil ;Uvas Frescas
+1384 ;Emirados Árabes Unidos          ;2019 ;  240422.0 ;  697259.0 ;Brasil ;Uvas Frescas
+1385 ;Eslovênia                       ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1386 ;Espanha                         ;2019 ; 1094483.0 ; 2089713.0 ;Brasil ;Uvas Frescas
+1387 ;Estados Unidos                  ;2019 ; 6117999.0 ;16239149.0 ;Brasil ;Uvas Frescas
+1388 ;Falkland (Ilhas Malvinas)       ;2019 ;      20.0 ;      69.0 ;Brasil ;Uvas Frescas
+1389 ;Faroé, Ilhas                    ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1390 ;Filipinas                       ;2019 ;     594.0 ;    1849.0 ;Brasil ;Uvas Frescas
+1391 ;Finlândia                       ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1392 ;França                          ;2019 ;    3091.0 ;   12062.0 ;Brasil ;Uvas Frescas
+1393 ;Gabão                           ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1394 ;Gana                            ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1395 ;Georgia                         ;2019 ;   26928.0 ;   56010.0 ;Brasil ;Uvas Frescas
+1396 ;Gibraltar                       ;2019 ;     231.0 ;     755.0 ;Brasil ;Uvas Frescas
+1397 ;Grécia                          ;2019 ;    2650.0 ;    7171.0 ;Brasil ;Uvas Frescas
+1398 ;Guadalupe                       ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1399 ;Guiana                          ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1400 ;Guiana Francesa                 ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1401 ;Guine Equatorial                ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1402 ;Honduras                        ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1403 ;Hong Kong                       ;2019 ;   18566.0 ;  118440.0 ;Brasil ;Uvas Frescas
+1404 ;Ilha de Man                     ;2019 ;     150.0 ;     440.0 ;Brasil ;Uvas Frescas
+1405 ;Ilhas Virgens                   ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1406 ;Índia                           ;2019 ;     560.0 ;    1634.0 ;Brasil ;Uvas Frescas
+1407 ;Indonésia                       ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1408 ;Irã                             ;2019 ;     509.0 ;    1013.0 ;Brasil ;Uvas Frescas
+1409 ;Irlanda                         ;2019 ;  514814.0 ; 1113084.0 ;Brasil ;Uvas Frescas
+1410 ;Islândia                        ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1411 ;Itália                          ;2019 ;     154.0 ;     387.0 ;Brasil ;Uvas Frescas
+1412 ;Japão                           ;2019 ;     721.0 ;    2182.0 ;Brasil ;Uvas Frescas
+1413 ;Jérsei                          ;2019 ;      24.0 ;      58.0 ;Brasil ;Uvas Frescas
+1414 ;Jordânia                        ;2019 ;     265.0 ;     171.0 ;Brasil ;Uvas Frescas
+1415 ;Letônia                         ;2019 ;      30.0 ;      55.0 ;Brasil ;Uvas Frescas
+1416 ;Líbano                          ;2019 ;      85.0 ;     177.0 ;Brasil ;Uvas Frescas
+1417 ;Libéria                         ;2019 ;    9242.0 ;   29430.0 ;Brasil ;Uvas Frescas
+1418 ;Líbia                           ;2019 ;      20.0 ;      44.0 ;Brasil ;Uvas Frescas
+1419 ;Lituânia                        ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1420 ;Luxemburgo                      ;2019 ;       7.0 ;      19.0 ;Brasil ;Uvas Frescas
+1421 ;Macedônia                       ;2019 ;           ;           ;Brasil ;Uvas Frescas
+1422 ;Malásia                         ;2019 ;      20.0 ;      58.0 ;Brasil ;Uvas Frescas
+1423 ;Malta                           ;2019 ;    4094.0 ;   11635.0 ;Brasil ;Uvas Frescas
+1424 ;Marrocos                        ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1425 ;Marshall, Ilhas                 ;2019 ;    9668.0 ;   30841.0 ;Brasil ;Uvas Frescas
+1426 ;Martinica                       ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1427 ;Mauricio                        ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1428 ;Mauritânia                      ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1429 ;Mexico                          ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1430 ;Mônaco                          ;2019 ;      20.0 ;      29.0 ;Brasil ;Uvas Frescas
+1431 ;Mongólia                        ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1432 ;Montenegro                      ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1433 ;Nigéria                         ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1434 ;Noruega                         ;2019 ;  277423.0 ;  638830.0 ;Brasil ;Uvas Frescas
+1435 ;Omã                             ;2019 ;      60.0 ;     193.0 ;Brasil ;Uvas Frescas
+1436 ;Países Baixos                   ;2019 ;19526035.0 ;36061578.0 ;Brasil ;Uvas Frescas
+1437 ;Palau                           ;2019 ;           ;           ;Brasil ;Uvas Frescas
+1438 ;Panamá                          ;2019 ;    8349.0 ;   25288.0 ;Brasil ;Uvas Frescas
+1439 ;Paquistão                       ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1440 ;Paraguai                        ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1441 ;Pitcairn                        ;2019 ;           ;           ;Brasil ;Uvas Frescas
+1442 ;Polônia                         ;2019 ;      20.0 ;      53.0 ;Brasil ;Uvas Frescas
+1443 ;Porto Rico                      ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1444 ;Portugal                        ;2019 ;     945.0 ;    3146.0 ;Brasil ;Uvas Frescas
+1445 ;Quirguistão                     ;2019 ;           ;           ;Brasil ;Uvas Frescas
+1446 ;Reino Unido                     ;2019 ;13501346.0 ;29677591.0 ;Brasil ;Uvas Frescas
+1447 ;Republica Dominicana            ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1448 ;Romênia                         ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1449 ;Rússia,  Federação da           ;2019 ;   48084.0 ;  101082.0 ;Brasil ;Uvas Frescas
+1450 ;Samoa Americana                 ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1451 ;São Cristóvão e Névis           ;2019 ;           ;           ;Brasil ;Uvas Frescas
+1452 ;São Tomé e Príncipe             ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1453 ;São Vicente e Granadinas        ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1454 ;Serra Leoa                      ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1455 ;Senegal                         ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1456 ;Singapura                       ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1457 ;Sri Lanka                       ;2019 ;      32.0 ;      80.0 ;Brasil ;Uvas Frescas
+1458 ;Suécia                          ;2019 ;   72036.0 ;  156611.0 ;Brasil ;Uvas Frescas
+1459 ;Suíça                           ;2019 ;     472.0 ;    3661.0 ;Brasil ;Uvas Frescas
+1460 ;Suriname                        ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1461 ;Tailândia                       ;2019 ;     879.0 ;    3629.0 ;Brasil ;Uvas Frescas
+1462 ;Taiwan                          ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1463 ;Tanzânia                        ;2019 ;           ;           ;Brasil ;Uvas Frescas
+1464 ;Togo                            ;2019 ;      13.0 ;      52.0 ;Brasil ;Uvas Frescas
+1465 ;Trindade e Tobago               ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1466 ;Turcas e Caicos, ilhas          ;2019 ;      10.0 ;      23.0 ;Brasil ;Uvas Frescas
+1467 ;Turquia                         ;2019 ;     485.0 ;    1399.0 ;Brasil ;Uvas Frescas
+1468 ;Tuvalu                          ;2019 ;       6.0 ;      23.0 ;Brasil ;Uvas Frescas
+1469 ;Uruguai                         ;2019 ;   81440.0 ;   98329.0 ;Brasil ;Uvas Frescas
+1470 ;Vanuatu                         ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1471 ;Venezuela                       ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1472 ;Vietnã                          ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1473 ;Provisão de Navios e Aeronaves  ;2019 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1474 ;Africa do Sul                   ;2020 ;      44.0 ;     152.0 ;Brasil ;Uvas Frescas
+1475 ;Alemanha, República Democrática ;2020 ; 1371694.0 ; 2791556.0 ;Brasil ;Uvas Frescas
+1476 ;Angola                          ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1477 ;Antígua e Barbuda               ;2020 ;     304.0 ;    1013.0 ;Brasil ;Uvas Frescas
+1478 ;Arabia Saudita                  ;2020 ;   32325.0 ;   95999.0 ;Brasil ;Uvas Frescas
+1479 ;Argélia                         ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1480 ;Argentina                       ;2020 ; 2002784.0 ; 3707550.0 ;Brasil ;Uvas Frescas
+1481 ;Áustria                         ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1482 ;Bahamas                         ;2020 ;    3208.0 ;    9449.0 ;Brasil ;Uvas Frescas
+1483 ;Bahrein                         ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1484 ;Bangladesh                      ;2020 ;      30.0 ;     214.0 ;Brasil ;Uvas Frescas
+1485 ;Barbados                        ;2020 ;      83.0 ;     197.0 ;Brasil ;Uvas Frescas
+1486 ;Barein                          ;2020 ;     250.0 ;     796.0 ;Brasil ;Uvas Frescas
+1487 ;Bélgica                         ;2020 ;   12757.0 ;   24336.0 ;Brasil ;Uvas Frescas
+1488 ;Belize                          ;2020 ;      20.0 ;      32.0 ;Brasil ;Uvas Frescas
+1489 ;Bermudas                        ;2020 ;     390.0 ;    1375.0 ;Brasil ;Uvas Frescas
+1490 ;Bolívia                         ;2020 ;   92974.0 ;   34914.0 ;Brasil ;Uvas Frescas
+1491 ;Bósnia                          ;2020 ;     447.0 ;     472.0 ;Brasil ;Uvas Frescas
+1492 ;Brasil                          ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1493 ;Bulgária                        ;2020 ;     100.0 ;     170.0 ;Brasil ;Uvas Frescas
+1494 ;Burquina Faso                   ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1495 ;Cabo Verde                      ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1496 ;Camarões                        ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1497 ;Camores                         ;2020 ;      10.0 ;      34.0 ;Brasil ;Uvas Frescas
+1498 ;Canadá                          ;2020 ;   86635.0 ;  457420.0 ;Brasil ;Uvas Frescas
+1499 ;Catar                           ;2020 ;     336.0 ;     432.0 ;Brasil ;Uvas Frescas
+1500 ;Cayman, Ilhas                   ;2020 ;     341.0 ;    1130.0 ;Brasil ;Uvas Frescas
+1501 ;Chile                           ;2020 ;     266.0 ;     826.0 ;Brasil ;Uvas Frescas
+1502 ;China                           ;2020 ;    1197.0 ;    3370.0 ;Brasil ;Uvas Frescas
+1503 ;Chipre                          ;2020 ;    3407.0 ;    8717.0 ;Brasil ;Uvas Frescas
+1504 ;Cingapura                       ;2020 ;    6933.0 ;   29402.0 ;Brasil ;Uvas Frescas
+1505 ;Cocos (Keeling), Ilhas          ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1506 ;Cook, Ilhas                     ;2020 ;           ;           ;Brasil ;Uvas Frescas
+1507 ;Colômbia                        ;2020 ;      15.0 ;      45.0 ;Brasil ;Uvas Frescas
+1508 ;Congo                           ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1509 ;Coreia do Norte                 ;2020 ;      30.0 ;     119.0 ;Brasil ;Uvas Frescas
+1510 ;Coreia do Sul                   ;2020 ;     226.0 ;     517.0 ;Brasil ;Uvas Frescas
+1511 ;Costa do Marfim                 ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1512 ;Coveite                         ;2020 ;    1572.0 ;    3000.0 ;Brasil ;Uvas Frescas
+1513 ;Croácia                         ;2020 ;      16.0 ;     104.0 ;Brasil ;Uvas Frescas
+1514 ;Curaçao                         ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1515 ;Dinamarca                       ;2020 ;   62450.0 ;  135756.0 ;Brasil ;Uvas Frescas
+1516 ;Djibuti                         ;2020 ;      25.0 ;      41.0 ;Brasil ;Uvas Frescas
+1517 ;Egito                           ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1518 ;Emirados Árabes Unidos          ;2020 ;  220576.0 ;  630862.0 ;Brasil ;Uvas Frescas
+1519 ;Eslovênia                       ;2020 ;      10.0 ;      29.0 ;Brasil ;Uvas Frescas
+1520 ;Espanha                         ;2020 ; 1743131.0 ; 3842045.0 ;Brasil ;Uvas Frescas
+1521 ;Estados Unidos                  ;2020 ; 7879841.0 ;22376155.0 ;Brasil ;Uvas Frescas
+1522 ;Falkland (Ilhas Malvinas)       ;2020 ;      15.0 ;     100.0 ;Brasil ;Uvas Frescas
+1523 ;Faroé, Ilhas                    ;2020 ;      25.0 ;      98.0 ;Brasil ;Uvas Frescas
+1524 ;Filipinas                       ;2020 ;     441.0 ;    1135.0 ;Brasil ;Uvas Frescas
+1525 ;Finlândia                       ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1526 ;França                          ;2020 ;    1419.0 ;   11552.0 ;Brasil ;Uvas Frescas
+1527 ;Gabão                           ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1528 ;Gana                            ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1529 ;Georgia                         ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1530 ;Gibraltar                       ;2020 ;     243.0 ;     709.0 ;Brasil ;Uvas Frescas
+1531 ;Grécia                          ;2020 ;    2802.0 ;    6767.0 ;Brasil ;Uvas Frescas
+1532 ;Guadalupe                       ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1533 ;Guiana                          ;2020 ;    1432.0 ;    3754.0 ;Brasil ;Uvas Frescas
+1534 ;Guiana Francesa                 ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1535 ;Guine Equatorial                ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1536 ;Honduras                        ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1537 ;Hong Kong                       ;2020 ;   19362.0 ;  198977.0 ;Brasil ;Uvas Frescas
+1538 ;Ilha de Man                     ;2020 ;     136.0 ;     411.0 ;Brasil ;Uvas Frescas
+1539 ;Ilhas Virgens                   ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1540 ;Índia                           ;2020 ;     502.0 ;    1167.0 ;Brasil ;Uvas Frescas
+1541 ;Indonésia                       ;2020 ;      13.0 ;      40.0 ;Brasil ;Uvas Frescas
+1542 ;Irã                             ;2020 ;     218.0 ;     531.0 ;Brasil ;Uvas Frescas
+1543 ;Irlanda                         ;2020 ;  805090.0 ; 1768519.0 ;Brasil ;Uvas Frescas
+1544 ;Islândia                        ;2020 ;      40.0 ;      61.0 ;Brasil ;Uvas Frescas
+1545 ;Itália                          ;2020 ;     118.0 ;     301.0 ;Brasil ;Uvas Frescas
+1546 ;Japão                           ;2020 ;     779.0 ;    2157.0 ;Brasil ;Uvas Frescas
+1547 ;Jérsei                          ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1548 ;Jordânia                        ;2020 ;      31.0 ;      75.0 ;Brasil ;Uvas Frescas
+1549 ;Letônia                         ;2020 ;      40.0 ;     102.0 ;Brasil ;Uvas Frescas
+1550 ;Líbano                          ;2020 ;      33.0 ;     119.0 ;Brasil ;Uvas Frescas
+1551 ;Libéria                         ;2020 ;   10238.0 ;   30285.0 ;Brasil ;Uvas Frescas
+1552 ;Líbia                           ;2020 ;      20.0 ;      55.0 ;Brasil ;Uvas Frescas
+1553 ;Lituânia                        ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1554 ;Luxemburgo                      ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1555 ;Macedônia                       ;2020 ;           ;           ;Brasil ;Uvas Frescas
+1556 ;Malásia                         ;2020 ;    2065.0 ;   30729.0 ;Brasil ;Uvas Frescas
+1557 ;Malta                           ;2020 ;    4282.0 ;   11606.0 ;Brasil ;Uvas Frescas
+1558 ;Marrocos                        ;2020 ;       8.0 ;      22.0 ;Brasil ;Uvas Frescas
+1559 ;Marshall, Ilhas                 ;2020 ;   13769.0 ;   41407.0 ;Brasil ;Uvas Frescas
+1560 ;Martinica                       ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1561 ;Mauricio                        ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1562 ;Mauritânia                      ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1563 ;Mexico                          ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1564 ;Mônaco                          ;2020 ;      20.0 ;      59.0 ;Brasil ;Uvas Frescas
+1565 ;Mongólia                        ;2020 ;      10.0 ;      15.0 ;Brasil ;Uvas Frescas
+1566 ;Montenegro                      ;2020 ;      40.0 ;     147.0 ;Brasil ;Uvas Frescas
+1567 ;Nigéria                         ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1568 ;Noruega                         ;2020 ;  183232.0 ;  572588.0 ;Brasil ;Uvas Frescas
+1569 ;Omã                             ;2020 ;      43.0 ;     234.0 ;Brasil ;Uvas Frescas
+1570 ;Países Baixos                   ;2020 ;20360309.0 ;40052845.0 ;Brasil ;Uvas Frescas
+1571 ;Palau                           ;2020 ;           ;           ;Brasil ;Uvas Frescas
+1572 ;Panamá                          ;2020 ;   10170.0 ;   25834.0 ;Brasil ;Uvas Frescas
+1573 ;Paquistão                       ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1574 ;Paraguai                        ;2020 ;    3750.0 ;    2881.0 ;Brasil ;Uvas Frescas
+1575 ;Pitcairn                        ;2020 ;           ;           ;Brasil ;Uvas Frescas
+1576 ;Polônia                         ;2020 ;       4.0 ;       7.0 ;Brasil ;Uvas Frescas
+1577 ;Porto Rico                      ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1578 ;Portugal                        ;2020 ;   15803.0 ;   26426.0 ;Brasil ;Uvas Frescas
+1579 ;Quirguistão                     ;2020 ;           ;           ;Brasil ;Uvas Frescas
+1580 ;Reino Unido                     ;2020 ;13978476.0 ;31486021.0 ;Brasil ;Uvas Frescas
+1581 ;Republica Dominicana            ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1582 ;Romênia                         ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1583 ;Rússia,  Federação da           ;2020 ;  216906.0 ;  472154.0 ;Brasil ;Uvas Frescas
+1584 ;Samoa Americana                 ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1585 ;São Cristóvão e Névis           ;2020 ;           ;           ;Brasil ;Uvas Frescas
+1586 ;São Tomé e Príncipe             ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1587 ;São Vicente e Granadinas        ;2020 ;      20.0 ;      69.0 ;Brasil ;Uvas Frescas
+1588 ;Serra Leoa                      ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1589 ;Senegal                         ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1590 ;Singapura                       ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1591 ;Sri Lanka                       ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1592 ;Suécia                          ;2020 ;      50.0 ;     163.0 ;Brasil ;Uvas Frescas
+1593 ;Suíça                           ;2020 ;    2209.0 ;   20998.0 ;Brasil ;Uvas Frescas
+1594 ;Suriname                        ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1595 ;Tailândia                       ;2020 ;     762.0 ;    3001.0 ;Brasil ;Uvas Frescas
+1596 ;Taiwan                          ;2020 ;      90.0 ;     242.0 ;Brasil ;Uvas Frescas
+1597 ;Tanzânia                        ;2020 ;           ;           ;Brasil ;Uvas Frescas
+1598 ;Togo                            ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1599 ;Trindade e Tobago               ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1600 ;Turcas e Caicos, ilhas          ;2020 ;      18.0 ;      51.0 ;Brasil ;Uvas Frescas
+1601 ;Turquia                         ;2020 ;     353.0 ;     868.0 ;Brasil ;Uvas Frescas
+1602 ;Tuvalu                          ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1603 ;Uruguai                         ;2020 ;   68196.0 ;   58419.0 ;Brasil ;Uvas Frescas
+1604 ;Vanuatu                         ;2020 ;      26.0 ;      73.0 ;Brasil ;Uvas Frescas
+1605 ;Venezuela                       ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1606 ;Vietnã                          ;2020 ;      18.0 ;      49.0 ;Brasil ;Uvas Frescas
+1607 ;Provisão de Navios e Aeronaves  ;2020 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1608 ;Africa do Sul                   ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1609 ;Alemanha, República Democrática ;2021 ; 1461590.0 ; 2569452.0 ;Brasil ;Uvas Frescas
+1610 ;Angola                          ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1611 ;Antígua e Barbuda               ;2021 ;     437.0 ;    1349.0 ;Brasil ;Uvas Frescas
+1612 ;Arabia Saudita                  ;2021 ;    2818.0 ;   14671.0 ;Brasil ;Uvas Frescas
+1613 ;Argélia                         ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1614 ;Argentina                       ;2021 ; 4606314.0 ; 7764448.0 ;Brasil ;Uvas Frescas
+1615 ;Áustria                         ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1616 ;Bahamas                         ;2021 ;    3482.0 ;   10184.0 ;Brasil ;Uvas Frescas
+1617 ;Bahrein                         ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1618 ;Bangladesh                      ;2021 ;      17.0 ;      53.0 ;Brasil ;Uvas Frescas
+1619 ;Barbados                        ;2021 ;     180.0 ;     457.0 ;Brasil ;Uvas Frescas
+1620 ;Barein                          ;2021 ;     277.0 ;     937.0 ;Brasil ;Uvas Frescas
+1621 ;Bélgica                         ;2021 ;     202.0 ;     664.0 ;Brasil ;Uvas Frescas
+1622 ;Belize                          ;2021 ;      55.0 ;      92.0 ;Brasil ;Uvas Frescas
+1623 ;Bermudas                        ;2021 ;      96.0 ;     323.0 ;Brasil ;Uvas Frescas
+1624 ;Bolívia                         ;2021 ;  436800.0 ;  250134.0 ;Brasil ;Uvas Frescas
+1625 ;Bósnia                          ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1626 ;Brasil                          ;2021 ;      70.0 ;     173.0 ;Brasil ;Uvas Frescas
+1627 ;Bulgária                        ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1628 ;Burquina Faso                   ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1629 ;Cabo Verde                      ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1630 ;Camarões                        ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1631 ;Camores                         ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1632 ;Canadá                          ;2021 ;  321755.0 ; 1233545.0 ;Brasil ;Uvas Frescas
+1633 ;Catar                           ;2021 ;    5615.0 ;   13665.0 ;Brasil ;Uvas Frescas
+1634 ;Cayman, Ilhas                   ;2021 ;     372.0 ;    1121.0 ;Brasil ;Uvas Frescas
+1635 ;Chile                           ;2021 ;     109.0 ;     376.0 ;Brasil ;Uvas Frescas
+1636 ;China                           ;2021 ;    1744.0 ;    8882.0 ;Brasil ;Uvas Frescas
+1637 ;Chipre                          ;2021 ;    2590.0 ;    6609.0 ;Brasil ;Uvas Frescas
+1638 ;Cingapura                       ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1639 ;Cocos (Keeling), Ilhas          ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1640 ;Cook, Ilhas                     ;2021 ;           ;           ;Brasil ;Uvas Frescas
+1641 ;Colômbia                        ;2021 ;      10.0 ;      30.0 ;Brasil ;Uvas Frescas
+1642 ;Congo                           ;2021 ;      20.0 ;      54.0 ;Brasil ;Uvas Frescas
+1643 ;Coreia do Norte                 ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1644 ;Coreia do Sul                   ;2021 ;     245.0 ;     610.0 ;Brasil ;Uvas Frescas
+1645 ;Costa do Marfim                 ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1646 ;Coveite                         ;2021 ;   20023.0 ;   69921.0 ;Brasil ;Uvas Frescas
+1647 ;Croácia                         ;2021 ;      10.0 ;      25.0 ;Brasil ;Uvas Frescas
+1648 ;Curaçao                         ;2021 ;      10.0 ;      16.0 ;Brasil ;Uvas Frescas
+1649 ;Dinamarca                       ;2021 ;  109922.0 ;  179960.0 ;Brasil ;Uvas Frescas
+1650 ;Djibuti                         ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1651 ;Egito                           ;2021 ;      10.0 ;      36.0 ;Brasil ;Uvas Frescas
+1652 ;Emirados Árabes Unidos          ;2021 ;   99808.0 ;  368528.0 ;Brasil ;Uvas Frescas
+1653 ;Eslovênia                       ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1654 ;Espanha                         ;2021 ; 4554938.0 ; 8685655.0 ;Brasil ;Uvas Frescas
+1655 ;Estados Unidos                  ;2021 ;13610118.0 ;36523636.0 ;Brasil ;Uvas Frescas
+1656 ;Falkland (Ilhas Malvinas)       ;2021 ;      20.0 ;      24.0 ;Brasil ;Uvas Frescas
+1657 ;Faroé, Ilhas                    ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1658 ;Filipinas                       ;2021 ;     317.0 ;     815.0 ;Brasil ;Uvas Frescas
+1659 ;Finlândia                       ;2021 ;   12480.0 ;   23143.0 ;Brasil ;Uvas Frescas
+1660 ;França                          ;2021 ;     367.0 ;    1342.0 ;Brasil ;Uvas Frescas
+1661 ;Gabão                           ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1662 ;Gana                            ;2021 ;     100.0 ;     280.0 ;Brasil ;Uvas Frescas
+1663 ;Georgia                         ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1664 ;Gibraltar                       ;2021 ;     198.0 ;     356.0 ;Brasil ;Uvas Frescas
+1665 ;Grécia                          ;2021 ;    4029.0 ;    9972.0 ;Brasil ;Uvas Frescas
+1666 ;Guadalupe                       ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1667 ;Guiana                          ;2021 ;    3116.0 ;    7631.0 ;Brasil ;Uvas Frescas
+1668 ;Guiana Francesa                 ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1669 ;Guine Equatorial                ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1670 ;Honduras                        ;2021 ;      10.0 ;      33.0 ;Brasil ;Uvas Frescas
+1671 ;Hong Kong                       ;2021 ;   27507.0 ;  116504.0 ;Brasil ;Uvas Frescas
+1672 ;Ilha de Man                     ;2021 ;     230.0 ;     805.0 ;Brasil ;Uvas Frescas
+1673 ;Ilhas Virgens                   ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1674 ;Índia                           ;2021 ;     423.0 ;    1020.0 ;Brasil ;Uvas Frescas
+1675 ;Indonésia                       ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1676 ;Irã                             ;2021 ;     230.0 ;     481.0 ;Brasil ;Uvas Frescas
+1677 ;Irlanda                         ;2021 ; 1493198.0 ; 3331821.0 ;Brasil ;Uvas Frescas
+1678 ;Islândia                        ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1679 ;Itália                          ;2021 ;   10095.0 ;   22820.0 ;Brasil ;Uvas Frescas
+1680 ;Japão                           ;2021 ;     476.0 ;    1376.0 ;Brasil ;Uvas Frescas
+1681 ;Jérsei                          ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1682 ;Jordânia                        ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1683 ;Letônia                         ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1684 ;Líbano                          ;2021 ;      25.0 ;      65.0 ;Brasil ;Uvas Frescas
+1685 ;Libéria                         ;2021 ;   10468.0 ;   33255.0 ;Brasil ;Uvas Frescas
+1686 ;Líbia                           ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1687 ;Lituânia                        ;2021 ;   15150.0 ;   27340.0 ;Brasil ;Uvas Frescas
+1688 ;Luxemburgo                      ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1689 ;Macedônia                       ;2021 ;           ;           ;Brasil ;Uvas Frescas
+1690 ;Malásia                         ;2021 ;    1159.0 ;   13671.0 ;Brasil ;Uvas Frescas
+1691 ;Malta                           ;2021 ;    5445.0 ;   15854.0 ;Brasil ;Uvas Frescas
+1692 ;Marrocos                        ;2021 ;      10.0 ;      34.0 ;Brasil ;Uvas Frescas
+1693 ;Marshall, Ilhas                 ;2021 ;   12996.0 ;   40008.0 ;Brasil ;Uvas Frescas
+1694 ;Martinica                       ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1695 ;Mauricio                        ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1696 ;Mauritânia                      ;2021 ;      16.0 ;      63.0 ;Brasil ;Uvas Frescas
+1697 ;Mexico                          ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1698 ;Mônaco                          ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1699 ;Mongólia                        ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1700 ;Montenegro                      ;2021 ;      33.0 ;     109.0 ;Brasil ;Uvas Frescas
+1701 ;Nigéria                         ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1702 ;Noruega                         ;2021 ;  255034.0 ;  631068.0 ;Brasil ;Uvas Frescas
+1703 ;Omã                             ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1704 ;Países Baixos                   ;2021 ;32469515.0 ;59035980.0 ;Brasil ;Uvas Frescas
+1705 ;Palau                           ;2021 ;           ;           ;Brasil ;Uvas Frescas
+1706 ;Panamá                          ;2021 ;   10378.0 ;   29282.0 ;Brasil ;Uvas Frescas
+1707 ;Paquistão                       ;2021 ;      48.0 ;     108.0 ;Brasil ;Uvas Frescas
+1708 ;Paraguai                        ;2021 ;     450.0 ;     104.0 ;Brasil ;Uvas Frescas
+1709 ;Pitcairn                        ;2021 ;           ;           ;Brasil ;Uvas Frescas
+1710 ;Polônia                         ;2021 ;     162.0 ;     445.0 ;Brasil ;Uvas Frescas
+1711 ;Porto Rico                      ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1712 ;Portugal                        ;2021 ;    1525.0 ;    4961.0 ;Brasil ;Uvas Frescas
+1713 ;Quirguistão                     ;2021 ;           ;           ;Brasil ;Uvas Frescas
+1714 ;Reino Unido                     ;2021 ;16631939.0 ;37513697.0 ;Brasil ;Uvas Frescas
+1715 ;Republica Dominicana            ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1716 ;Romênia                         ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1717 ;Rússia,  Federação da           ;2021 ;  283727.0 ;  662540.0 ;Brasil ;Uvas Frescas
+1718 ;Samoa Americana                 ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1719 ;São Cristóvão e Névis           ;2021 ;           ;           ;Brasil ;Uvas Frescas
+1720 ;São Tomé e Príncipe             ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1721 ;São Vicente e Granadinas        ;2021 ;      19.0 ;      78.0 ;Brasil ;Uvas Frescas
+1722 ;Serra Leoa                      ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1723 ;Senegal                         ;2021 ;      10.0 ;      30.0 ;Brasil ;Uvas Frescas
+1724 ;Singapura                       ;2021 ;   18086.0 ;  139714.0 ;Brasil ;Uvas Frescas
+1725 ;Sri Lanka                       ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1726 ;Suécia                          ;2021 ;      30.0 ;     110.0 ;Brasil ;Uvas Frescas
+1727 ;Suíça                           ;2021 ;    3331.0 ;   33507.0 ;Brasil ;Uvas Frescas
+1728 ;Suriname                        ;2021 ;      25.0 ;      62.0 ;Brasil ;Uvas Frescas
+1729 ;Tailândia                       ;2021 ;     746.0 ;    2781.0 ;Brasil ;Uvas Frescas
+1730 ;Taiwan                          ;2021 ;      72.0 ;     280.0 ;Brasil ;Uvas Frescas
+1731 ;Tanzânia                        ;2021 ;           ;           ;Brasil ;Uvas Frescas
+1732 ;Togo                            ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1733 ;Trindade e Tobago               ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1734 ;Turcas e Caicos, ilhas          ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1735 ;Turquia                         ;2021 ;     662.0 ;    1677.0 ;Brasil ;Uvas Frescas
+1736 ;Tuvalu                          ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1737 ;Uruguai                         ;2021 ;   95722.0 ;  155667.0 ;Brasil ;Uvas Frescas
+1738 ;Vanuatu                         ;2021 ;      73.0 ;     133.0 ;Brasil ;Uvas Frescas
+1739 ;Venezuela                       ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1740 ;Vietnã                          ;2021 ;     100.0 ;     271.0 ;Brasil ;Uvas Frescas
+1741 ;Provisão de Navios e Aeronaves  ;2021 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1742 ;Africa do Sul                   ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1743 ;Alemanha, República Democrática ;2022 ;  559012.0 ; 1213303.0 ;Brasil ;Uvas Frescas
+1744 ;Angola                          ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1745 ;Antígua e Barbuda               ;2022 ;     253.0 ;     999.0 ;Brasil ;Uvas Frescas
+1746 ;Arabia Saudita                  ;2022 ;   12224.0 ;   53675.0 ;Brasil ;Uvas Frescas
+1747 ;Argélia                         ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1748 ;Argentina                       ;2022 ; 3954281.0 ; 8103640.0 ;Brasil ;Uvas Frescas
+1749 ;Áustria                         ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1750 ;Bahamas                         ;2022 ;    3035.0 ;   10694.0 ;Brasil ;Uvas Frescas
+1751 ;Bahrein                         ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1752 ;Bangladesh                      ;2022 ;     113.0 ;     319.0 ;Brasil ;Uvas Frescas
+1753 ;Barbados                        ;2022 ;     163.0 ;     540.0 ;Brasil ;Uvas Frescas
+1754 ;Barein                          ;2022 ;     316.0 ;    1159.0 ;Brasil ;Uvas Frescas
+1755 ;Bélgica                         ;2022 ;   39134.0 ;   95538.0 ;Brasil ;Uvas Frescas
+1756 ;Belize                          ;2022 ;     117.0 ;     248.0 ;Brasil ;Uvas Frescas
+1757 ;Bermudas                        ;2022 ;     200.0 ;     761.0 ;Brasil ;Uvas Frescas
+1758 ;Bolívia                         ;2022 ;  132736.0 ;   67397.0 ;Brasil ;Uvas Frescas
+1759 ;Bósnia                          ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1760 ;Brasil                          ;2022 ;     109.0 ;     267.0 ;Brasil ;Uvas Frescas
+1761 ;Bulgária                        ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1762 ;Burquina Faso                   ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1763 ;Cabo Verde                      ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1764 ;Camarões                        ;2022 ;      50.0 ;     149.0 ;Brasil ;Uvas Frescas
+1765 ;Camores                         ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1766 ;Canadá                          ;2022 ;  383543.0 ; 1497880.0 ;Brasil ;Uvas Frescas
+1767 ;Catar                           ;2022 ;      28.0 ;      75.0 ;Brasil ;Uvas Frescas
+1768 ;Cayman, Ilhas                   ;2022 ;     277.0 ;    1145.0 ;Brasil ;Uvas Frescas
+1769 ;Chile                           ;2022 ;      31.0 ;     125.0 ;Brasil ;Uvas Frescas
+1770 ;China                           ;2022 ;     945.0 ;    2708.0 ;Brasil ;Uvas Frescas
+1771 ;Chipre                          ;2022 ;    1867.0 ;    4345.0 ;Brasil ;Uvas Frescas
+1772 ;Cingapura                       ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1773 ;Cocos (Keeling), Ilhas          ;2022 ;      32.0 ;      55.0 ;Brasil ;Uvas Frescas
+1774 ;Cook, Ilhas                     ;2022 ;           ;           ;Brasil ;Uvas Frescas
+1775 ;Colômbia                        ;2022 ;      13.0 ;      32.0 ;Brasil ;Uvas Frescas
+1776 ;Congo                           ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1777 ;Coreia do Norte                 ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1778 ;Coreia do Sul                   ;2022 ;     142.0 ;     381.0 ;Brasil ;Uvas Frescas
+1779 ;Costa do Marfim                 ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1780 ;Coveite                         ;2022 ;    7252.0 ;   33694.0 ;Brasil ;Uvas Frescas
+1781 ;Croácia                         ;2022 ;      20.0 ;      28.0 ;Brasil ;Uvas Frescas
+1782 ;Curaçao                         ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1783 ;Dinamarca                       ;2022 ;   26792.0 ;   50928.0 ;Brasil ;Uvas Frescas
+1784 ;Djibuti                         ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1785 ;Egito                           ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1786 ;Emirados Árabes Unidos          ;2022 ;  116384.0 ;  401362.0 ;Brasil ;Uvas Frescas
+1787 ;Eslovênia                       ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1788 ;Espanha                         ;2022 ; 3504580.0 ; 6022297.0 ;Brasil ;Uvas Frescas
+1789 ;Estados Unidos                  ;2022 ; 9634362.0 ;26805893.0 ;Brasil ;Uvas Frescas
+1790 ;Falkland (Ilhas Malvinas)       ;2022 ;      60.0 ;      61.0 ;Brasil ;Uvas Frescas
+1791 ;Faroé, Ilhas                    ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1792 ;Filipinas                       ;2022 ;     137.0 ;     455.0 ;Brasil ;Uvas Frescas
+1793 ;Finlândia                       ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1794 ;França                          ;2022 ;     200.0 ;     892.0 ;Brasil ;Uvas Frescas
+1795 ;Gabão                           ;2022 ;      20.0 ;      53.0 ;Brasil ;Uvas Frescas
+1796 ;Gana                            ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1797 ;Georgia                         ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1798 ;Gibraltar                       ;2022 ;     125.0 ;     480.0 ;Brasil ;Uvas Frescas
+1799 ;Grécia                          ;2022 ;    2536.0 ;    6949.0 ;Brasil ;Uvas Frescas
+1800 ;Guadalupe                       ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1801 ;Guiana                          ;2022 ;    3902.0 ;   12934.0 ;Brasil ;Uvas Frescas
+1802 ;Guiana Francesa                 ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1803 ;Guine Equatorial                ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1804 ;Honduras                        ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1805 ;Hong Kong                       ;2022 ;   11130.0 ;   81767.0 ;Brasil ;Uvas Frescas
+1806 ;Ilha de Man                     ;2022 ;     124.0 ;     459.0 ;Brasil ;Uvas Frescas
+1807 ;Ilhas Virgens                   ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1808 ;Índia                           ;2022 ;     548.0 ;    1576.0 ;Brasil ;Uvas Frescas
+1809 ;Indonésia                       ;2022 ;      40.0 ;     103.0 ;Brasil ;Uvas Frescas
+1810 ;Irã                             ;2022 ;      70.0 ;     182.0 ;Brasil ;Uvas Frescas
+1811 ;Irlanda                         ;2022 ; 1412302.0 ; 3175487.0 ;Brasil ;Uvas Frescas
+1812 ;Islândia                        ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1813 ;Itália                          ;2022 ;     269.0 ;     984.0 ;Brasil ;Uvas Frescas
+1814 ;Japão                           ;2022 ;     377.0 ;    1270.0 ;Brasil ;Uvas Frescas
+1815 ;Jérsei                          ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1816 ;Jordânia                        ;2022 ;      40.0 ;     116.0 ;Brasil ;Uvas Frescas
+1817 ;Letônia                         ;2022 ;      20.0 ;      84.0 ;Brasil ;Uvas Frescas
+1818 ;Líbano                          ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1819 ;Libéria                         ;2022 ;   10296.0 ;   36932.0 ;Brasil ;Uvas Frescas
+1820 ;Líbia                           ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1821 ;Lituânia                        ;2022 ;   30168.0 ;   65259.0 ;Brasil ;Uvas Frescas
+1822 ;Luxemburgo                      ;2022 ;      53.0 ;     242.0 ;Brasil ;Uvas Frescas
+1823 ;Macedônia                       ;2022 ;           ;           ;Brasil ;Uvas Frescas
+1824 ;Malásia                         ;2022 ;      70.0 ;     276.0 ;Brasil ;Uvas Frescas
+1825 ;Malta                           ;2022 ;    3766.0 ;   13755.0 ;Brasil ;Uvas Frescas
+1826 ;Marrocos                        ;2022 ;      20.0 ;      66.0 ;Brasil ;Uvas Frescas
+1827 ;Marshall, Ilhas                 ;2022 ;   14389.0 ;   50525.0 ;Brasil ;Uvas Frescas
+1828 ;Martinica                       ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1829 ;Mauricio                        ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1830 ;Mauritânia                      ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1831 ;Mexico                          ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1832 ;Mônaco                          ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1833 ;Mongólia                        ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1834 ;Montenegro                      ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1835 ;Nigéria                         ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1836 ;Noruega                         ;2022 ;  381020.0 ;  594883.0 ;Brasil ;Uvas Frescas
+1837 ;Omã                             ;2022 ;     100.0 ;     311.0 ;Brasil ;Uvas Frescas
+1838 ;Países Baixos                   ;2022 ;18874963.0 ;36345317.0 ;Brasil ;Uvas Frescas
+1839 ;Palau                           ;2022 ;           ;           ;Brasil ;Uvas Frescas
+1840 ;Panamá                          ;2022 ;   10006.0 ;   34309.0 ;Brasil ;Uvas Frescas
+1841 ;Paquistão                       ;2022 ;      50.0 ;     206.0 ;Brasil ;Uvas Frescas
+1842 ;Paraguai                        ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1843 ;Pitcairn                        ;2022 ;           ;           ;Brasil ;Uvas Frescas
+1844 ;Polônia                         ;2022 ;      20.0 ;      50.0 ;Brasil ;Uvas Frescas
+1845 ;Porto Rico                      ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1846 ;Portugal                        ;2022 ;    1943.0 ;    7713.0 ;Brasil ;Uvas Frescas
+1847 ;Quirguistão                     ;2022 ;           ;           ;Brasil ;Uvas Frescas
+1848 ;Reino Unido                     ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1849 ;Republica Dominicana            ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1850 ;Romênia                         ;2022 ;13194790.0 ;28569636.0 ;Brasil ;Uvas Frescas
+1851 ;Rússia,  Federação da           ;2022 ;   14440.0 ;   32576.0 ;Brasil ;Uvas Frescas
+1852 ;Samoa Americana                 ;2022 ;       8.0 ;      18.0 ;Brasil ;Uvas Frescas
+1853 ;São Cristóvão e Névis           ;2022 ;           ;           ;Brasil ;Uvas Frescas
+1854 ;São Tomé e Príncipe             ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1855 ;São Vicente e Granadinas        ;2022 ;      53.0 ;     163.0 ;Brasil ;Uvas Frescas
+1856 ;Serra Leoa                      ;2022 ;       1.0 ;       4.0 ;Brasil ;Uvas Frescas
+1857 ;Senegal                         ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1858 ;Singapura                       ;2022 ;   16664.0 ;  140893.0 ;Brasil ;Uvas Frescas
+1859 ;Sri Lanka                       ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1860 ;Suécia                          ;2022 ;      13.0 ;      45.0 ;Brasil ;Uvas Frescas
+1861 ;Suíça                           ;2022 ;    2604.0 ;   32752.0 ;Brasil ;Uvas Frescas
+1862 ;Suriname                        ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1863 ;Tailândia                       ;2022 ;     811.0 ;    3426.0 ;Brasil ;Uvas Frescas
+1864 ;Taiwan                          ;2022 ;      40.0 ;     123.0 ;Brasil ;Uvas Frescas
+1865 ;Tanzânia                        ;2022 ;           ;           ;Brasil ;Uvas Frescas
+1866 ;Togo                            ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1867 ;Trindade e Tobago               ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1868 ;Turcas e Caicos, ilhas          ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1869 ;Turquia                         ;2022 ;     194.0 ;     642.0 ;Brasil ;Uvas Frescas
+1870 ;Tuvalu                          ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1871 ;Uruguai                         ;2022 ;  194634.0 ;  336671.0 ;Brasil ;Uvas Frescas
+1872 ;Vanuatu                         ;2022 ;      80.0 ;     244.0 ;Brasil ;Uvas Frescas
+1873 ;Venezuela                       ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1874 ;Vietnã                          ;2022 ;      60.0 ;     260.0 ;Brasil ;Uvas Frescas
+1875 ;Provisão de Navios e Aeronaves  ;2022 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1876 ;Africa do Sul                   ;2023 ;      30.0 ;     136.0 ;Brasil ;Uvas Frescas
+1877 ;Alemanha, República Democrática ;2023 ; 1701887.0 ; 4101648.0 ;Brasil ;Uvas Frescas
+1878 ;Angola                          ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1879 ;Antígua e Barbuda               ;2023 ;     260.0 ;    1173.0 ;Brasil ;Uvas Frescas
+1880 ;Arabia Saudita                  ;2023 ;    2234.0 ;   19382.0 ;Brasil ;Uvas Frescas
+1881 ;Argélia                         ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1882 ;Argentina                       ;2023 ; 2265038.0 ; 5234176.0 ;Brasil ;Uvas Frescas
+1883 ;Áustria                         ;2023 ;      20.0 ;      41.0 ;Brasil ;Uvas Frescas
+1884 ;Bahamas                         ;2023 ;    4871.0 ;   19408.0 ;Brasil ;Uvas Frescas
+1885 ;Bahrein                         ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1886 ;Bangladesh                      ;2023 ;     141.0 ;     402.0 ;Brasil ;Uvas Frescas
+1887 ;Barbados                        ;2023 ;     237.0 ;     874.0 ;Brasil ;Uvas Frescas
+1888 ;Barein                          ;2023 ;     622.0 ;    2602.0 ;Brasil ;Uvas Frescas
+1889 ;Bélgica                         ;2023 ;     254.0 ;    1056.0 ;Brasil ;Uvas Frescas
+1890 ;Belize                          ;2023 ;      52.0 ;     125.0 ;Brasil ;Uvas Frescas
+1891 ;Bermudas                        ;2023 ;     194.0 ;     821.0 ;Brasil ;Uvas Frescas
+1892 ;Bolívia                         ;2023 ;  261712.0 ;  151770.0 ;Brasil ;Uvas Frescas
+1893 ;Bósnia                          ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1894 ;Brasil                          ;2023 ;     170.0 ;     470.0 ;Brasil ;Uvas Frescas
+1895 ;Bulgária                        ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1896 ;Burquina Faso                   ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1897 ;Cabo Verde                      ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1898 ;Camarões                        ;2023 ;      10.0 ;      66.0 ;Brasil ;Uvas Frescas
+1899 ;Camores                         ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1900 ;Canadá                          ;2023 ; 1175975.0 ; 3667725.0 ;Brasil ;Uvas Frescas
+1901 ;Catar                           ;2023 ;    2210.0 ;    6616.0 ;Brasil ;Uvas Frescas
+1902 ;Cayman, Ilhas                   ;2023 ;     278.0 ;    1007.0 ;Brasil ;Uvas Frescas
+1903 ;Chile                           ;2023 ;      10.0 ;      38.0 ;Brasil ;Uvas Frescas
+1904 ;China                           ;2023 ;    1210.0 ;    5500.0 ;Brasil ;Uvas Frescas
+1905 ;Chipre                          ;2023 ;    1633.0 ;    5538.0 ;Brasil ;Uvas Frescas
+1906 ;Cingapura                       ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1907 ;Cocos (Keeling), Ilhas          ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1908 ;Cook, Ilhas                     ;2023 ;     116.0 ;     839.0 ;Brasil ;Uvas Frescas
+1909 ;Colômbia                        ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1910 ;Congo                           ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1911 ;Coreia do Norte                 ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1912 ;Coreia do Sul                   ;2023 ;     366.0 ;    1376.0 ;Brasil ;Uvas Frescas
+1913 ;Costa do Marfim                 ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1914 ;Coveite                         ;2023 ;    3725.0 ;   22339.0 ;Brasil ;Uvas Frescas
+1915 ;Croácia                         ;2023 ;       5.0 ;      12.0 ;Brasil ;Uvas Frescas
+1916 ;Curaçao                         ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1917 ;Dinamarca                       ;2023 ;  115901.0 ;  264623.0 ;Brasil ;Uvas Frescas
+1918 ;Djibuti                         ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1919 ;Egito                           ;2023 ;      50.0 ;     153.0 ;Brasil ;Uvas Frescas
+1920 ;Emirados Árabes Unidos          ;2023 ;  177198.0 ;  672359.0 ;Brasil ;Uvas Frescas
+1921 ;Eslovênia                       ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1922 ;Espanha                         ;2023 ; 4177500.0 ; 7656023.0 ;Brasil ;Uvas Frescas
+1923 ;Estados Unidos                  ;2023 ;19529155.0 ;58146305.0 ;Brasil ;Uvas Frescas
+1924 ;Falkland (Ilhas Malvinas)       ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1925 ;Faroé, Ilhas                    ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1926 ;Filipinas                       ;2023 ;     171.0 ;     530.0 ;Brasil ;Uvas Frescas
+1927 ;Finlândia                       ;2023 ;       1.0 ;      21.0 ;Brasil ;Uvas Frescas
+1928 ;França                          ;2023 ;     428.0 ;    2040.0 ;Brasil ;Uvas Frescas
+1929 ;Gabão                           ;2023 ;      83.0 ;     316.0 ;Brasil ;Uvas Frescas
+1930 ;Gana                            ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1931 ;Georgia                         ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1932 ;Gibraltar                       ;2023 ;     114.0 ;     472.0 ;Brasil ;Uvas Frescas
+1933 ;Grécia                          ;2023 ;    3036.0 ;    9131.0 ;Brasil ;Uvas Frescas
+1934 ;Guadalupe                       ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1935 ;Guiana                          ;2023 ;    4999.0 ;   17249.0 ;Brasil ;Uvas Frescas
+1936 ;Guiana Francesa                 ;2023 ;     705.0 ;    3500.0 ;Brasil ;Uvas Frescas
+1937 ;Guine Equatorial                ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1938 ;Honduras                        ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1939 ;Hong Kong                       ;2023 ;   27717.0 ;  136684.0 ;Brasil ;Uvas Frescas
+1940 ;Ilha de Man                     ;2023 ;     311.0 ;    1282.0 ;Brasil ;Uvas Frescas
+1941 ;Ilhas Virgens                   ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1942 ;Índia                           ;2023 ;     510.0 ;    1781.0 ;Brasil ;Uvas Frescas
+1943 ;Indonésia                       ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1944 ;Irã                             ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1945 ;Irlanda                         ;2023 ;  629421.0 ; 1732292.0 ;Brasil ;Uvas Frescas
+1946 ;Islândia                        ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1947 ;Itália                          ;2023 ;   29040.0 ;   96548.0 ;Brasil ;Uvas Frescas
+1948 ;Japão                           ;2023 ;     393.0 ;    1413.0 ;Brasil ;Uvas Frescas
+1949 ;Jérsei                          ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1950 ;Jordânia                        ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1951 ;Letônia                         ;2023 ;      44.0 ;      92.0 ;Brasil ;Uvas Frescas
+1952 ;Líbano                          ;2023 ;     147.0 ;     514.0 ;Brasil ;Uvas Frescas
+1953 ;Libéria                         ;2023 ;   13876.0 ;   55239.0 ;Brasil ;Uvas Frescas
+1954 ;Líbia                           ;2023 ;       5.0 ;      32.0 ;Brasil ;Uvas Frescas
+1955 ;Lituânia                        ;2023 ;   46041.0 ;  117335.0 ;Brasil ;Uvas Frescas
+1956 ;Luxemburgo                      ;2023 ;      24.0 ;     123.0 ;Brasil ;Uvas Frescas
+1957 ;Macedônia                       ;2023 ;      10.0 ;      42.0 ;Brasil ;Uvas Frescas
+1958 ;Malásia                         ;2023 ;      74.0 ;     335.0 ;Brasil ;Uvas Frescas
+1959 ;Malta                           ;2023 ;    5282.0 ;   21528.0 ;Brasil ;Uvas Frescas
+1960 ;Marrocos                        ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1961 ;Marshall, Ilhas                 ;2023 ;   14858.0 ;   59743.0 ;Brasil ;Uvas Frescas
+1962 ;Martinica                       ;2023 ;       5.0 ;      37.0 ;Brasil ;Uvas Frescas
+1963 ;Mauricio                        ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1964 ;Mauritânia                      ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1965 ;Mexico                          ;2023 ;      30.0 ;      78.0 ;Brasil ;Uvas Frescas
+1966 ;Mônaco                          ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1967 ;Mongólia                        ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1968 ;Montenegro                      ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1969 ;Nigéria                         ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1970 ;Noruega                         ;2023 ;  464880.0 ; 1524584.0 ;Brasil ;Uvas Frescas
+1971 ;Omã                             ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1972 ;Países Baixos                   ;2023 ;26855736.0 ;62427840.0 ;Brasil ;Uvas Frescas
+1973 ;Palau                           ;2023 ;     115.0 ;     307.0 ;Brasil ;Uvas Frescas
+1974 ;Panamá                          ;2023 ;   15613.0 ;   58337.0 ;Brasil ;Uvas Frescas
+1975 ;Paquistão                       ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1976 ;Paraguai                        ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1977 ;Pitcairn                        ;2023 ;      17.0 ;      68.0 ;Brasil ;Uvas Frescas
+1978 ;Polônia                         ;2023 ;      66.0 ;     124.0 ;Brasil ;Uvas Frescas
+1979 ;Porto Rico                      ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1980 ;Portugal                        ;2023 ;   14824.0 ;   45165.0 ;Brasil ;Uvas Frescas
+1981 ;Quirguistão                     ;2023 ;      20.0 ;     121.0 ;Brasil ;Uvas Frescas
+1982 ;Reino Unido                     ;2023 ;15358148.0 ;37383249.0 ;Brasil ;Uvas Frescas
+1983 ;Republica Dominicana            ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1984 ;Romênia                         ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1985 ;Rússia,  Federação da           ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1986 ;Samoa Americana                 ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1987 ;São Cristóvão e Névis           ;2023 ;      36.0 ;     152.0 ;Brasil ;Uvas Frescas
+1988 ;São Tomé e Príncipe             ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1989 ;São Vicente e Granadinas        ;2023 ;      20.0 ;      83.0 ;Brasil ;Uvas Frescas
+1990 ;Serra Leoa                      ;2023 ;       2.0 ;       5.0 ;Brasil ;Uvas Frescas
+1991 ;Senegal                         ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1992 ;Singapura                       ;2023 ;   15407.0 ;  100508.0 ;Brasil ;Uvas Frescas
+1993 ;Sri Lanka                       ;2023 ;      20.0 ;      30.0 ;Brasil ;Uvas Frescas
+1994 ;Suécia                          ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1995 ;Suíça                           ;2023 ;    3632.0 ;   53106.0 ;Brasil ;Uvas Frescas
+1996 ;Suriname                        ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+1997 ;Tailândia                       ;2023 ;     794.0 ;    3413.0 ;Brasil ;Uvas Frescas
+1998 ;Taiwan                          ;2023 ;      83.0 ;     293.0 ;Brasil ;Uvas Frescas
+1999 ;Tanzânia                        ;2023 ;      19.0 ;      76.0 ;Brasil ;Uvas Frescas
+2000 ;Togo                            ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+2001 ;Trindade e Tobago               ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+2002 ;Turcas e Caicos, ilhas          ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+2003 ;Turquia                         ;2023 ;     334.0 ;     976.0 ;Brasil ;Uvas Frescas
+2004 ;Tuvalu                          ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+2005 ;Uruguai                         ;2023 ;  281594.0 ;  547227.0 ;Brasil ;Uvas Frescas
+2006 ;Vanuatu                         ;2023 ;      31.0 ;      88.0 ;Brasil ;Uvas Frescas
+2007 ;Venezuela                       ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas
+2008 ;Vietnã                          ;2023 ;      63.0 ;     177.0 ;Brasil ;Uvas Frescas
+2009 ;Provisão de Navios e Aeronaves  ;2023 ;       0.0 ;       0.0 ;Brasil ;Uvas Frescas

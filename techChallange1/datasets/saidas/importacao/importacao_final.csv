@@ -1,0 +1,2431 @@
+;pais;anos;quantidade;valor;origem;tipo
+0;Africa do Sul;2009;493093.0;1931449.0;Brasil;Vinhos
+1;Alemanha;2009;56075.0;291876.0;Brasil;Vinhos
+2;Argélia;2009;0.0;0.0;Brasil;Vinhos
+3;Arábia Saudita;2009;0.0;0.0;Brasil;Vinhos
+4;Argentina;2009;13902750.0;38521731.0;Brasil;Vinhos
+5;Armênia;2009;0.0;0.0;Brasil;Vinhos
+6;Austrália;2009;270908.0;998680.0;Brasil;Vinhos
+7;Áustria;2009;1895.0;12073.0;Brasil;Vinhos
+8;Bermudas;2009;0.0;0.0;Brasil;Vinhos
+9;Bélgica;2009;0.0;0.0;Brasil;Vinhos
+10;Bolívia;2009;0.0;0.0;Brasil;Vinhos
+11;Bósnia-Herzegovina;2009;0.0;0.0;Brasil;Vinhos
+12;Brasil;2009;0.0;0.0;Brasil;Vinhos
+13;Bulgária;2009;0.0;0.0;Brasil;Vinhos
+14;Canada;2009;0.0;0.0;Brasil;Vinhos
+15;Chile;2009;22476643.0;61380795.0;Brasil;Vinhos
+16;China;2009;0.0;0.0;Brasil;Vinhos
+17;Coreia do Sul, República;2009;0.0;0.0;Brasil;Vinhos
+18;Croácia;2009;0.0;0.0;Brasil;Vinhos
+19;Cuba;2009;0.0;0.0;Brasil;Vinhos
+20;Emirados Árabes Unidos;2009;0.0;0.0;Brasil;Vinhos
+21;Eslovênia;2009;0.0;0.0;Brasil;Vinhos
+22;Eslováquia;2009;0.0;0.0;Brasil;Vinhos
+23;Espanha;2009;1119540.0;6224187.0;Brasil;Vinhos
+24;Estados Unidos;2009;85393.0;702825.0;Brasil;Vinhos
+25;França;2009;2372448.0;16893114.0;Brasil;Vinhos
+26;Geórgia;2009;0.0;0.0;Brasil;Vinhos
+27;Geórgia do Sul e Sandwich do Sul, Ilhas;2009;0.0;0.0;Brasil;Vinhos
+28;Grécia;2009;52474.0;190076.0;Brasil;Vinhos
+29;Hong Kong;2009;0.0;0.0;Brasil;Vinhos
+30;Hungria;2009;12632.0;87626.0;Brasil;Vinhos
+31;Indonésia;2009;0.0;0.0;Brasil;Vinhos
+32;Irlanda;2009;0.0;0.0;Brasil;Vinhos
+33;Israel;2009;8924.0;36534.0;Brasil;Vinhos
+34;Itália;2009;8387908.0;23079424.0;Brasil;Vinhos
+35;Japão;2009;0.0;0.0;Brasil;Vinhos
+36;Iugoslávia;2009;0.0;0.0;Brasil;Vinhos
+37;Líbano;2009;5310.0;34971.0;Brasil;Vinhos
+38;Luxemburgo;2009;0.0;0.0;Brasil;Vinhos
+39;Macedônia;2009;0.0;0.0;Brasil;Vinhos
+40;Marrocos;2009;0.0;0.0;Brasil;Vinhos
+41;México;2009;0.0;0.0;Brasil;Vinhos
+42;Moldávia;2009;0.0;0.0;Brasil;Vinhos
+43;Montenegro;2009;0.0;0.0;Brasil;Vinhos
+44;Noruega;2009;0.0;0.0;Brasil;Vinhos
+45;Nova Zelândia;2009;30806.0;302244.0;Brasil;Vinhos
+46;Países Baixos (Holanda);2009;0.0;0.0;Brasil;Vinhos
+47;Panamá;2009;0.0;0.0;Brasil;Vinhos
+48;Peru;2009;0.0;0.0;Brasil;Vinhos
+49;Porto Rico;2009;0.0;0.0;Brasil;Vinhos
+50;Portugal;2009;5884719.0;23688318.0;Brasil;Vinhos
+51;Reino Unido;2009;10236.0;53375.0;Brasil;Vinhos
+52;Republica Dominicana;2009;0.0;0.0;Brasil;Vinhos
+53;Romênia;2009;0.0;0.0;Brasil;Vinhos
+54;Rússia;2009;0.0;0.0;Brasil;Vinhos
+55;San Marino;2009;0.0;0.0;Brasil;Vinhos
+56;Sérvia;2009;0.0;0.0;Brasil;Vinhos
+57;Síria;2009;0.0;0.0;Brasil;Vinhos
+58;Suazilândia;2009;0.0;0.0;Brasil;Vinhos
+59;Suíça;2009;4860.0;13129.0;Brasil;Vinhos
+60;República Tcheca;2009;0.0;0.0;Brasil;Vinhos
+61;Tunísia;2009;0.0;0.0;Brasil;Vinhos
+62;Turquia;2009;0.0;0.0;Brasil;Vinhos
+63;Ucrânia;2009;0.0;0.0;Brasil;Vinhos
+64;Uruguai;2009;750343.0;1953390.0;Brasil;Vinhos
+65;Não consta na tabela;2009;0.0;0.0;Brasil;Vinhos
+66;Não declarados;2009;0.0;0.0;Brasil;Vinhos
+67;Outros;2009;0.0;0.0;Brasil;Vinhos
+68;Africa do Sul;2010;966276.0;3600658.0;Brasil;Vinhos
+69;Alemanha;2010;192661.0;784674.0;Brasil;Vinhos
+70;Argélia;2010;0.0;0.0;Brasil;Vinhos
+71;Arábia Saudita;2010;0.0;0.0;Brasil;Vinhos
+72;Argentina;2010;16965266.0;52126581.0;Brasil;Vinhos
+73;Armênia;2010;0.0;0.0;Brasil;Vinhos
+74;Austrália;2010;405271.0;1864846.0;Brasil;Vinhos
+75;Áustria;2010;2329.0;30075.0;Brasil;Vinhos
+76;Bermudas;2010;0.0;0.0;Brasil;Vinhos
+77;Bélgica;2010;0.0;0.0;Brasil;Vinhos
+78;Bolívia;2010;0.0;0.0;Brasil;Vinhos
+79;Bósnia-Herzegovina;2010;0.0;0.0;Brasil;Vinhos
+80;Brasil;2010;7.0;232.0;Brasil;Vinhos
+81;Bulgária;2010;20997.0;94727.0;Brasil;Vinhos
+82;Canada;2010;0.0;0.0;Brasil;Vinhos
+83;Chile;2010;26434744.0;72983389.0;Brasil;Vinhos
+84;China;2010;0.0;0.0;Brasil;Vinhos
+85;Coreia do Sul, República;2010;0.0;0.0;Brasil;Vinhos
+86;Croácia;2010;0.0;0.0;Brasil;Vinhos
+87;Cuba;2010;0.0;0.0;Brasil;Vinhos
+88;Emirados Árabes Unidos;2010;0.0;0.0;Brasil;Vinhos
+89;Eslovênia;2010;0.0;0.0;Brasil;Vinhos
+90;Eslováquia;2010;0.0;0.0;Brasil;Vinhos
+91;Espanha;2010;1622100.0;8698824.0;Brasil;Vinhos
+92;Estados Unidos;2010;194774.0;1344921.0;Brasil;Vinhos
+93;França;2010;2799118.0;18778566.0;Brasil;Vinhos
+94;Geórgia;2010;0.0;0.0;Brasil;Vinhos
+95;Geórgia do Sul e Sandwich do Sul, Ilhas;2010;0.0;0.0;Brasil;Vinhos
+96;Grécia;2010;42449.0;196361.0;Brasil;Vinhos
+97;Hong Kong;2010;0.0;0.0;Brasil;Vinhos
+98;Hungria;2010;15193.0;160961.0;Brasil;Vinhos
+99;Indonésia;2010;0.0;0.0;Brasil;Vinhos
+100;Irlanda;2010;0.0;0.0;Brasil;Vinhos
+101;Israel;2010;15782.0;93252.0;Brasil;Vinhos
+102;Itália;2010;11911190.0;28683242.0;Brasil;Vinhos
+103;Japão;2010;0.0;0.0;Brasil;Vinhos
+104;Iugoslávia;2010;0.0;0.0;Brasil;Vinhos
+105;Líbano;2010;15741.0;123283.0;Brasil;Vinhos
+106;Luxemburgo;2010;0.0;0.0;Brasil;Vinhos
+107;Macedônia;2010;0.0;0.0;Brasil;Vinhos
+108;Marrocos;2010;0.0;0.0;Brasil;Vinhos
+109;México;2010;7004.0;63663.0;Brasil;Vinhos
+110;Moldávia;2010;0.0;0.0;Brasil;Vinhos
+111;Montenegro;2010;0.0;0.0;Brasil;Vinhos
+112;Noruega;2010;0.0;0.0;Brasil;Vinhos
+113;Nova Zelândia;2010;102683.0;947043.0;Brasil;Vinhos
+114;Países Baixos (Holanda);2010;0.0;0.0;Brasil;Vinhos
+115;Panamá;2010;0.0;0.0;Brasil;Vinhos
+116;Peru;2010;33.0;252.0;Brasil;Vinhos
+117;Porto Rico;2010;0.0;0.0;Brasil;Vinhos
+118;Portugal;2010;7801759.0;29299792.0;Brasil;Vinhos
+119;Reino Unido;2010;621.0;22292.0;Brasil;Vinhos
+120;Republica Dominicana;2010;0.0;0.0;Brasil;Vinhos
+121;Romênia;2010;0.0;0.0;Brasil;Vinhos
+122;Rússia;2010;0.0;0.0;Brasil;Vinhos
+123;San Marino;2010;0.0;0.0;Brasil;Vinhos
+124;Sérvia;2010;0.0;0.0;Brasil;Vinhos
+125;Síria;2010;0.0;0.0;Brasil;Vinhos
+126;Suazilândia;2010;0.0;0.0;Brasil;Vinhos
+127;Suíça;2010;2483.0;8010.0;Brasil;Vinhos
+128;República Tcheca;2010;0.0;0.0;Brasil;Vinhos
+129;Tunísia;2010;0.0;0.0;Brasil;Vinhos
+130;Turquia;2010;0.0;0.0;Brasil;Vinhos
+131;Ucrânia;2010;0.0;0.0;Brasil;Vinhos
+132;Uruguai;2010;1219387.0;3175051.0;Brasil;Vinhos
+133;Não consta na tabela;2010;0.0;0.0;Brasil;Vinhos
+134;Não declarados;2010;0.0;0.0;Brasil;Vinhos
+135;Outros;2010;0.0;0.0;Brasil;Vinhos
+136;Africa do Sul;2011;507509.0;2136394.0;Brasil;Vinhos
+137;Alemanha;2011;198025.0;933545.0;Brasil;Vinhos
+138;Argélia;2011;0.0;0.0;Brasil;Vinhos
+139;Arábia Saudita;2011;0.0;0.0;Brasil;Vinhos
+140;Argentina;2011;16673491.0;58806736.0;Brasil;Vinhos
+141;Armênia;2011;0.0;0.0;Brasil;Vinhos
+142;Austrália;2011;824440.0;2811273.0;Brasil;Vinhos
+143;Áustria;2011;6357.0;56227.0;Brasil;Vinhos
+144;Bermudas;2011;0.0;0.0;Brasil;Vinhos
+145;Bélgica;2011;0.0;0.0;Brasil;Vinhos
+146;Bolívia;2011;0.0;0.0;Brasil;Vinhos
+147;Bósnia-Herzegovina;2011;0.0;0.0;Brasil;Vinhos
+148;Brasil;2011;93.0;1164.0;Brasil;Vinhos
+149;Bulgária;2011;1097.0;2527.0;Brasil;Vinhos
+150;Canada;2011;2322.0;35032.0;Brasil;Vinhos
+151;Chile;2011;26642889.0;84952500.0;Brasil;Vinhos
+152;China;2011;0.0;0.0;Brasil;Vinhos
+153;Coreia do Sul, República;2011;0.0;0.0;Brasil;Vinhos
+154;Croácia;2011;450.0;12388.0;Brasil;Vinhos
+155;Cuba;2011;0.0;0.0;Brasil;Vinhos
+156;Emirados Árabes Unidos;2011;0.0;0.0;Brasil;Vinhos
+157;Eslovênia;2011;3600.0;62602.0;Brasil;Vinhos
+158;Eslováquia;2011;0.0;0.0;Brasil;Vinhos
+159;Espanha;2011;1999970.0;11175636.0;Brasil;Vinhos
+160;Estados Unidos;2011;369806.0;1756901.0;Brasil;Vinhos
+161;França;2011;3329437.0;22917012.0;Brasil;Vinhos
+162;Geórgia;2011;0.0;0.0;Brasil;Vinhos
+163;Geórgia do Sul e Sandwich do Sul, Ilhas;2011;0.0;0.0;Brasil;Vinhos
+164;Grécia;2011;82207.0;414329.0;Brasil;Vinhos
+165;Hong Kong;2011;0.0;0.0;Brasil;Vinhos
+166;Hungria;2011;15073.0;256240.0;Brasil;Vinhos
+167;Indonésia;2011;0.0;0.0;Brasil;Vinhos
+168;Irlanda;2011;0.0;0.0;Brasil;Vinhos
+169;Israel;2011;16382.0;68676.0;Brasil;Vinhos
+170;Itália;2011;12025827.0;35481781.0;Brasil;Vinhos
+171;Japão;2011;0.0;0.0;Brasil;Vinhos
+172;Iugoslávia;2011;0.0;0.0;Brasil;Vinhos
+173;Líbano;2011;17685.0;137954.0;Brasil;Vinhos
+174;Luxemburgo;2011;0.0;0.0;Brasil;Vinhos
+175;Macedônia;2011;0.0;0.0;Brasil;Vinhos
+176;Marrocos;2011;0.0;0.0;Brasil;Vinhos
+177;México;2011;0.0;0.0;Brasil;Vinhos
+178;Moldávia;2011;0.0;0.0;Brasil;Vinhos
+179;Montenegro;2011;0.0;0.0;Brasil;Vinhos
+180;Noruega;2011;0.0;0.0;Brasil;Vinhos
+181;Nova Zelândia;2011;151194.0;1267863.0;Brasil;Vinhos
+182;Países Baixos (Holanda);2011;0.0;0.0;Brasil;Vinhos
+183;Panamá;2011;0.0;0.0;Brasil;Vinhos
+184;Peru;2011;0.0;0.0;Brasil;Vinhos
+185;Porto Rico;2011;0.0;0.0;Brasil;Vinhos
+186;Portugal;2011;8556375.0;35247223.0;Brasil;Vinhos
+187;Reino Unido;2011;270.0;6021.0;Brasil;Vinhos
+188;Republica Dominicana;2011;0.0;0.0;Brasil;Vinhos
+189;Romênia;2011;0.0;0.0;Brasil;Vinhos
+190;Rússia;2011;0.0;0.0;Brasil;Vinhos
+191;San Marino;2011;0.0;0.0;Brasil;Vinhos
+192;Sérvia;2011;0.0;0.0;Brasil;Vinhos
+193;Síria;2011;0.0;0.0;Brasil;Vinhos
+194;Suazilândia;2011;0.0;0.0;Brasil;Vinhos
+195;Suíça;2011;0.0;0.0;Brasil;Vinhos
+196;República Tcheca;2011;0.0;0.0;Brasil;Vinhos
+197;Tunísia;2011;16420.0;37492.0;Brasil;Vinhos
+198;Turquia;2011;0.0;0.0;Brasil;Vinhos
+199;Ucrânia;2011;0.0;0.0;Brasil;Vinhos
+200;Uruguai;2011;1264306.0;3481552.0;Brasil;Vinhos
+201;Não consta na tabela;2011;0.0;0.0;Brasil;Vinhos
+202;Não declarados;2011;0.0;0.0;Brasil;Vinhos
+203;Outros;2011;0.0;0.0;Brasil;Vinhos
+204;Africa do Sul;2012;722327.0;3041449.0;Brasil;Vinhos
+205;Alemanha;2012;113243.0;591167.0;Brasil;Vinhos
+206;Argélia;2012;0.0;0.0;Brasil;Vinhos
+207;Arábia Saudita;2012;0.0;0.0;Brasil;Vinhos
+208;Argentina;2012;14613839.0;55633562.0;Brasil;Vinhos
+209;Armênia;2012;0.0;0.0;Brasil;Vinhos
+210;Austrália;2012;615334.0;2474783.0;Brasil;Vinhos
+211;Áustria;2012;8098.0;85116.0;Brasil;Vinhos
+212;Bermudas;2012;0.0;0.0;Brasil;Vinhos
+213;Bélgica;2012;0.0;0.0;Brasil;Vinhos
+214;Bolívia;2012;0.0;0.0;Brasil;Vinhos
+215;Bósnia-Herzegovina;2012;0.0;0.0;Brasil;Vinhos
+216;Brasil;2012;1051.0;15016.0;Brasil;Vinhos
+217;Bulgária;2012;0.0;0.0;Brasil;Vinhos
+218;Canada;2012;0.0;0.0;Brasil;Vinhos
+219;Chile;2012;30258795.0;93315735.0;Brasil;Vinhos
+220;China;2012;0.0;0.0;Brasil;Vinhos
+221;Coreia do Sul, República;2012;0.0;0.0;Brasil;Vinhos
+222;Croácia;2012;630.0;16571.0;Brasil;Vinhos
+223;Cuba;2012;0.0;0.0;Brasil;Vinhos
+224;Emirados Árabes Unidos;2012;0.0;0.0;Brasil;Vinhos
+225;Eslovênia;2012;433.0;1223.0;Brasil;Vinhos
+226;Eslováquia;2012;0.0;0.0;Brasil;Vinhos
+227;Espanha;2012;2540209.0;11724946.0;Brasil;Vinhos
+228;Estados Unidos;2012;379329.0;1995929.0;Brasil;Vinhos
+229;França;2012;3181440.0;21636175.0;Brasil;Vinhos
+230;Geórgia;2012;0.0;0.0;Brasil;Vinhos
+231;Geórgia do Sul e Sandwich do Sul, Ilhas;2012;0.0;0.0;Brasil;Vinhos
+232;Grécia;2012;68966.0;323206.0;Brasil;Vinhos
+233;Hong Kong;2012;0.0;0.0;Brasil;Vinhos
+234;Hungria;2012;10404.0;168862.0;Brasil;Vinhos
+235;Indonésia;2012;0.0;0.0;Brasil;Vinhos
+236;Irlanda;2012;0.0;0.0;Brasil;Vinhos
+237;Israel;2012;8439.0;47579.0;Brasil;Vinhos
+238;Itália;2012;10506144.0;30750897.0;Brasil;Vinhos
+239;Japão;2012;0.0;0.0;Brasil;Vinhos
+240;Iugoslávia;2012;0.0;0.0;Brasil;Vinhos
+241;Líbano;2012;5805.0;47826.0;Brasil;Vinhos
+242;Luxemburgo;2012;0.0;0.0;Brasil;Vinhos
+243;Macedônia;2012;0.0;0.0;Brasil;Vinhos
+244;Marrocos;2012;450.0;3851.0;Brasil;Vinhos
+245;México;2012;0.0;0.0;Brasil;Vinhos
+246;Moldávia;2012;0.0;0.0;Brasil;Vinhos
+247;Montenegro;2012;0.0;0.0;Brasil;Vinhos
+248;Noruega;2012;0.0;0.0;Brasil;Vinhos
+249;Nova Zelândia;2012;81611.0;790355.0;Brasil;Vinhos
+250;Países Baixos (Holanda);2012;0.0;0.0;Brasil;Vinhos
+251;Panamá;2012;0.0;0.0;Brasil;Vinhos
+252;Peru;2012;0.0;0.0;Brasil;Vinhos
+253;Porto Rico;2012;0.0;0.0;Brasil;Vinhos
+254;Portugal;2012;9714940.0;36190898.0;Brasil;Vinhos
+255;Reino Unido;2012;406.0;26466.0;Brasil;Vinhos
+256;Republica Dominicana;2012;0.0;0.0;Brasil;Vinhos
+257;Romênia;2012;33750.0;85321.0;Brasil;Vinhos
+258;Rússia;2012;0.0;0.0;Brasil;Vinhos
+259;San Marino;2012;0.0;0.0;Brasil;Vinhos
+260;Sérvia;2012;0.0;0.0;Brasil;Vinhos
+261;Síria;2012;0.0;0.0;Brasil;Vinhos
+262;Suazilândia;2012;0.0;0.0;Brasil;Vinhos
+263;Suíça;2012;0.0;0.0;Brasil;Vinhos
+264;República Tcheca;2012;0.0;0.0;Brasil;Vinhos
+265;Tunísia;2012;19913.0;42918.0;Brasil;Vinhos
+266;Turquia;2012;0.0;0.0;Brasil;Vinhos
+267;Ucrânia;2012;0.0;0.0;Brasil;Vinhos
+268;Uruguai;2012;1323884.0;3735892.0;Brasil;Vinhos
+269;Não consta na tabela;2012;0.0;0.0;Brasil;Vinhos
+270;Não declarados;2012;0.0;0.0;Brasil;Vinhos
+271;Outros;2012;0.0;0.0;Brasil;Vinhos
+272;Africa do Sul;2013;475331.0;1985184.0;Brasil;Vinhos
+273;Alemanha;2013;114866.0;414070.0;Brasil;Vinhos
+274;Argélia;2013;0.0;0.0;Brasil;Vinhos
+275;Arábia Saudita;2013;0.0;0.0;Brasil;Vinhos
+276;Argentina;2013;12732815.0;49524694.0;Brasil;Vinhos
+277;Armênia;2013;0.0;0.0;Brasil;Vinhos
+278;Austrália;2013;553190.0;1703815.0;Brasil;Vinhos
+279;Áustria;2013;56849.0;227204.0;Brasil;Vinhos
+280;Bermudas;2013;0.0;0.0;Brasil;Vinhos
+281;Bélgica;2013;0.0;0.0;Brasil;Vinhos
+282;Bolívia;2013;0.0;0.0;Brasil;Vinhos
+283;Bósnia-Herzegovina;2013;0.0;0.0;Brasil;Vinhos
+284;Brasil;2013;473.0;5747.0;Brasil;Vinhos
+285;Bulgária;2013;5947.0;21988.0;Brasil;Vinhos
+286;Canada;2013;0.0;0.0;Brasil;Vinhos
+287;Chile;2013;28288212.0;90281256.0;Brasil;Vinhos
+288;China;2013;0.0;0.0;Brasil;Vinhos
+289;Coreia do Sul, República;2013;0.0;0.0;Brasil;Vinhos
+290;Croácia;2013;0.0;0.0;Brasil;Vinhos
+291;Cuba;2013;0.0;0.0;Brasil;Vinhos
+292;Emirados Árabes Unidos;2013;0.0;0.0;Brasil;Vinhos
+293;Eslovênia;2013;2192.0;25307.0;Brasil;Vinhos
+294;Eslováquia;2013;0.0;0.0;Brasil;Vinhos
+295;Espanha;2013;2772104.0;13570874.0;Brasil;Vinhos
+296;Estados Unidos;2013;518888.0;2817086.0;Brasil;Vinhos
+297;França;2013;3265362.0;23336291.0;Brasil;Vinhos
+298;Geórgia;2013;33750.0;134202.0;Brasil;Vinhos
+299;Geórgia do Sul e Sandwich do Sul, Ilhas;2013;0.0;0.0;Brasil;Vinhos
+300;Grécia;2013;13241.0;71175.0;Brasil;Vinhos
+301;Hong Kong;2013;0.0;0.0;Brasil;Vinhos
+302;Hungria;2013;10911.0;140198.0;Brasil;Vinhos
+303;Indonésia;2013;0.0;0.0;Brasil;Vinhos
+304;Irlanda;2013;0.0;0.0;Brasil;Vinhos
+305;Israel;2013;24622.0;97645.0;Brasil;Vinhos
+306;Itália;2013;8308831.0;30799292.0;Brasil;Vinhos
+307;Japão;2013;0.0;0.0;Brasil;Vinhos
+308;Iugoslávia;2013;0.0;0.0;Brasil;Vinhos
+309;Líbano;2013;6588.0;75810.0;Brasil;Vinhos
+310;Luxemburgo;2013;0.0;0.0;Brasil;Vinhos
+311;Macedônia;2013;0.0;0.0;Brasil;Vinhos
+312;Marrocos;2013;0.0;0.0;Brasil;Vinhos
+313;México;2013;0.0;0.0;Brasil;Vinhos
+314;Moldávia;2013;0.0;0.0;Brasil;Vinhos
+315;Montenegro;2013;0.0;0.0;Brasil;Vinhos
+316;Noruega;2013;0.0;0.0;Brasil;Vinhos
+317;Nova Zelândia;2013;90728.0;840521.0;Brasil;Vinhos
+318;Países Baixos (Holanda);2013;0.0;0.0;Brasil;Vinhos
+319;Panamá;2013;0.0;0.0;Brasil;Vinhos
+320;Peru;2013;0.0;0.0;Brasil;Vinhos
+321;Porto Rico;2013;0.0;0.0;Brasil;Vinhos
+322;Portugal;2013;9299080.0;35729522.0;Brasil;Vinhos
+323;Reino Unido;2013;127.0;2789.0;Brasil;Vinhos
+324;Republica Dominicana;2013;0.0;0.0;Brasil;Vinhos
+325;Romênia;2013;0.0;0.0;Brasil;Vinhos
+326;Rússia;2013;0.0;0.0;Brasil;Vinhos
+327;San Marino;2013;0.0;0.0;Brasil;Vinhos
+328;Sérvia;2013;0.0;0.0;Brasil;Vinhos
+329;Síria;2013;0.0;0.0;Brasil;Vinhos
+330;Suazilândia;2013;0.0;0.0;Brasil;Vinhos
+331;Suíça;2013;0.0;0.0;Brasil;Vinhos
+332;República Tcheca;2013;0.0;0.0;Brasil;Vinhos
+333;Tunísia;2013;8000.0;20892.0;Brasil;Vinhos
+334;Turquia;2013;0.0;0.0;Brasil;Vinhos
+335;Ucrânia;2013;0.0;0.0;Brasil;Vinhos
+336;Uruguai;2013;1372329.0;3740613.0;Brasil;Vinhos
+337;Não consta na tabela;2013;0.0;0.0;Brasil;Vinhos
+338;Não declarados;2013;0.0;0.0;Brasil;Vinhos
+339;Outros;2013;0.0;0.0;Brasil;Vinhos
+340;Africa do Sul;2014;722715.0;3033932.0;Brasil;Vinhos
+341;Alemanha;2014;115804.0;483316.0;Brasil;Vinhos
+342;Argélia;2014;0.0;0.0;Brasil;Vinhos
+343;Arábia Saudita;2014;0.0;0.0;Brasil;Vinhos
+344;Argentina;2014;13437321.0;53815956.0;Brasil;Vinhos
+345;Armênia;2014;0.0;0.0;Brasil;Vinhos
+346;Austrália;2014;236742.0;1008851.0;Brasil;Vinhos
+347;Áustria;2014;2770.0;32116.0;Brasil;Vinhos
+348;Bermudas;2014;0.0;0.0;Brasil;Vinhos
+349;Bélgica;2014;0.0;0.0;Brasil;Vinhos
+350;Bolívia;2014;0.0;0.0;Brasil;Vinhos
+351;Bósnia-Herzegovina;2014;0.0;0.0;Brasil;Vinhos
+352;Brasil;2014;449.0;6011.0;Brasil;Vinhos
+353;Bulgária;2014;15019.0;46857.0;Brasil;Vinhos
+354;Canada;2014;1530.0;25958.0;Brasil;Vinhos
+355;Chile;2014;35479279.0;113375484.0;Brasil;Vinhos
+356;China;2014;0.0;0.0;Brasil;Vinhos
+357;Coreia do Sul, República;2014;0.0;0.0;Brasil;Vinhos
+358;Croácia;2014;0.0;0.0;Brasil;Vinhos
+359;Cuba;2014;0.0;0.0;Brasil;Vinhos
+360;Emirados Árabes Unidos;2014;35.0;1138.0;Brasil;Vinhos
+361;Eslovênia;2014;4190.0;23377.0;Brasil;Vinhos
+362;Eslováquia;2014;0.0;0.0;Brasil;Vinhos
+363;Espanha;2014;2760797.0;12797753.0;Brasil;Vinhos
+364;Estados Unidos;2014;788773.0;4171731.0;Brasil;Vinhos
+365;França;2014;3592782.0;27480375.0;Brasil;Vinhos
+366;Geórgia;2014;0.0;0.0;Brasil;Vinhos
+367;Geórgia do Sul e Sandwich do Sul, Ilhas;2014;0.0;0.0;Brasil;Vinhos
+368;Grécia;2014;24244.0;107195.0;Brasil;Vinhos
+369;Hong Kong;2014;0.0;0.0;Brasil;Vinhos
+370;Hungria;2014;18733.0;114610.0;Brasil;Vinhos
+371;Indonésia;2014;0.0;0.0;Brasil;Vinhos
+372;Irlanda;2014;0.0;0.0;Brasil;Vinhos
+373;Israel;2014;7734.0;40372.0;Brasil;Vinhos
+374;Itália;2014;8566756.0;31697736.0;Brasil;Vinhos
+375;Japão;2014;0.0;0.0;Brasil;Vinhos
+376;Iugoslávia;2014;0.0;0.0;Brasil;Vinhos
+377;Líbano;2014;47610.0;270145.0;Brasil;Vinhos
+378;Luxemburgo;2014;0.0;0.0;Brasil;Vinhos
+379;Macedônia;2014;252.0;497.0;Brasil;Vinhos
+380;Marrocos;2014;0.0;0.0;Brasil;Vinhos
+381;México;2014;0.0;0.0;Brasil;Vinhos
+382;Moldávia;2014;0.0;0.0;Brasil;Vinhos
+383;Montenegro;2014;0.0;0.0;Brasil;Vinhos
+384;Noruega;2014;0.0;0.0;Brasil;Vinhos
+385;Nova Zelândia;2014;106251.0;843533.0;Brasil;Vinhos
+386;Países Baixos (Holanda);2014;0.0;0.0;Brasil;Vinhos
+387;Panamá;2014;0.0;0.0;Brasil;Vinhos
+388;Peru;2014;3201.0;7906.0;Brasil;Vinhos
+389;Porto Rico;2014;0.0;0.0;Brasil;Vinhos
+390;Portugal;2014;9735153.0;37071142.0;Brasil;Vinhos
+391;Reino Unido;2014;315.0;9410.0;Brasil;Vinhos
+392;Republica Dominicana;2014;0.0;0.0;Brasil;Vinhos
+393;Romênia;2014;4163.0;5629.0;Brasil;Vinhos
+394;Rússia;2014;0.0;0.0;Brasil;Vinhos
+395;San Marino;2014;0.0;0.0;Brasil;Vinhos
+396;Sérvia;2014;0.0;0.0;Brasil;Vinhos
+397;Síria;2014;0.0;0.0;Brasil;Vinhos
+398;Suazilândia;2014;0.0;0.0;Brasil;Vinhos
+399;Suíça;2014;0.0;0.0;Brasil;Vinhos
+400;República Tcheca;2014;0.0;0.0;Brasil;Vinhos
+401;Tunísia;2014;0.0;0.0;Brasil;Vinhos
+402;Turquia;2014;0.0;0.0;Brasil;Vinhos
+403;Ucrânia;2014;0.0;0.0;Brasil;Vinhos
+404;Uruguai;2014;1237537.0;3782282.0;Brasil;Vinhos
+405;Não consta na tabela;2014;0.0;0.0;Brasil;Vinhos
+406;Não declarados;2014;0.0;0.0;Brasil;Vinhos
+407;Outros;2014;0.0;0.0;Brasil;Vinhos
+408;Africa do Sul;2015;743335.0;2996543.0;Brasil;Vinhos
+409;Alemanha;2015;95171.0;358275.0;Brasil;Vinhos
+410;Argélia;2015;0.0;0.0;Brasil;Vinhos
+411;Arábia Saudita;2015;0.0;0.0;Brasil;Vinhos
+412;Argentina;2015;12465041.0;48043201.0;Brasil;Vinhos
+413;Armênia;2015;0.0;0.0;Brasil;Vinhos
+414;Austrália;2015;395030.0;1261810.0;Brasil;Vinhos
+415;Áustria;2015;360.0;3891.0;Brasil;Vinhos
+416;Bermudas;2015;0.0;0.0;Brasil;Vinhos
+417;Bélgica;2015;0.0;0.0;Brasil;Vinhos
+418;Bolívia;2015;0.0;0.0;Brasil;Vinhos
+419;Bósnia-Herzegovina;2015;0.0;0.0;Brasil;Vinhos
+420;Brasil;2015;1359.0;12919.0;Brasil;Vinhos
+421;Bulgária;2015;17244.0;51678.0;Brasil;Vinhos
+422;Canada;2015;0.0;0.0;Brasil;Vinhos
+423;Chile;2015;36686870.0;107684380.0;Brasil;Vinhos
+424;China;2015;0.0;0.0;Brasil;Vinhos
+425;Coreia do Sul, República;2015;0.0;0.0;Brasil;Vinhos
+426;Croácia;2015;2069.0;3779.0;Brasil;Vinhos
+427;Cuba;2015;0.0;0.0;Brasil;Vinhos
+428;Emirados Árabes Unidos;2015;529.0;10093.0;Brasil;Vinhos
+429;Eslovênia;2015;4640.0;24190.0;Brasil;Vinhos
+430;Eslováquia;2015;0.0;0.0;Brasil;Vinhos
+431;Espanha;2015;3024533.0;11396855.0;Brasil;Vinhos
+432;Estados Unidos;2015;775131.0;3848755.0;Brasil;Vinhos
+433;França;2015;3617130.0;19353291.0;Brasil;Vinhos
+434;Geórgia;2015;0.0;0.0;Brasil;Vinhos
+435;Geórgia do Sul e Sandwich do Sul, Ilhas;2015;0.0;0.0;Brasil;Vinhos
+436;Grécia;2015;55680.0;190185.0;Brasil;Vinhos
+437;Hong Kong;2015;0.0;0.0;Brasil;Vinhos
+438;Hungria;2015;5117.0;74688.0;Brasil;Vinhos
+439;Indonésia;2015;0.0;0.0;Brasil;Vinhos
+440;Irlanda;2015;0.0;0.0;Brasil;Vinhos
+441;Israel;2015;19028.0;55248.0;Brasil;Vinhos
+442;Itália;2015;8261383.0;25846195.0;Brasil;Vinhos
+443;Japão;2015;0.0;0.0;Brasil;Vinhos
+444;Iugoslávia;2015;0.0;0.0;Brasil;Vinhos
+445;Líbano;2015;6480.0;56196.0;Brasil;Vinhos
+446;Luxemburgo;2015;0.0;0.0;Brasil;Vinhos
+447;Macedônia;2015;0.0;0.0;Brasil;Vinhos
+448;Marrocos;2015;1755.0;15082.0;Brasil;Vinhos
+449;México;2015;0.0;0.0;Brasil;Vinhos
+450;Moldávia;2015;0.0;0.0;Brasil;Vinhos
+451;Montenegro;2015;0.0;0.0;Brasil;Vinhos
+452;Noruega;2015;0.0;0.0;Brasil;Vinhos
+453;Nova Zelândia;2015;117340.0;950751.0;Brasil;Vinhos
+454;Países Baixos (Holanda);2015;0.0;0.0;Brasil;Vinhos
+455;Panamá;2015;0.0;0.0;Brasil;Vinhos
+456;Peru;2015;0.0;0.0;Brasil;Vinhos
+457;Porto Rico;2015;0.0;0.0;Brasil;Vinhos
+458;Portugal;2015;9952290.0;32547365.0;Brasil;Vinhos
+459;Reino Unido;2015;90.0;1352.0;Brasil;Vinhos
+460;Republica Dominicana;2015;0.0;0.0;Brasil;Vinhos
+461;Romênia;2015;5950.0;7925.0;Brasil;Vinhos
+462;Rússia;2015;0.0;0.0;Brasil;Vinhos
+463;San Marino;2015;0.0;0.0;Brasil;Vinhos
+464;Sérvia;2015;0.0;0.0;Brasil;Vinhos
+465;Síria;2015;0.0;0.0;Brasil;Vinhos
+466;Suazilândia;2015;0.0;0.0;Brasil;Vinhos
+467;Suíça;2015;1125.0;6284.0;Brasil;Vinhos
+468;República Tcheca;2015;0.0;0.0;Brasil;Vinhos
+469;Tunísia;2015;0.0;0.0;Brasil;Vinhos
+470;Turquia;2015;32247.0;109741.0;Brasil;Vinhos
+471;Ucrânia;2015;0.0;0.0;Brasil;Vinhos
+472;Uruguai;2015;1399547.0;4069100.0;Brasil;Vinhos
+473;Não consta na tabela;2015;0.0;0.0;Brasil;Vinhos
+474;Não declarados;2015;0.0;0.0;Brasil;Vinhos
+475;Outros;2015;0.0;0.0;Brasil;Vinhos
+476;Africa do Sul;2016;578829.0;1686226.0;Brasil;Vinhos
+477;Alemanha;2016;158386.0;606333.0;Brasil;Vinhos
+478;Argélia;2016;0.0;43.0;Brasil;Vinhos
+479;Arábia Saudita;2016;0.0;43.0;Brasil;Vinhos
+480;Argentina;2016;14098009.0;45214862.0;Brasil;Vinhos
+481;Armênia;2016;0.0;0.0;Brasil;Vinhos
+482;Austrália;2016;498515.0;1537834.0;Brasil;Vinhos
+483;Áustria;2016;1485.0;7551.0;Brasil;Vinhos
+484;Bermudas;2016;0.0;0.0;Brasil;Vinhos
+485;Bélgica;2016;7.0;1090.0;Brasil;Vinhos
+486;Bolívia;2016;0.0;0.0;Brasil;Vinhos
+487;Bósnia-Herzegovina;2016;0.0;0.0;Brasil;Vinhos
+488;Brasil;2016;183.0;2127.0;Brasil;Vinhos
+489;Bulgária;2016;17777.0;55253.0;Brasil;Vinhos
+490;Canada;2016;0.0;0.0;Brasil;Vinhos
+491;Chile;2016;43400991.0;123183079.0;Brasil;Vinhos
+492;China;2016;108.0;213.0;Brasil;Vinhos
+493;Coreia do Sul, República;2016;0.0;0.0;Brasil;Vinhos
+494;Croácia;2016;0.0;0.0;Brasil;Vinhos
+495;Cuba;2016;0.0;0.0;Brasil;Vinhos
+496;Emirados Árabes Unidos;2016;2175.0;35489.0;Brasil;Vinhos
+497;Eslovênia;2016;14366.0;46972.0;Brasil;Vinhos
+498;Eslováquia;2016;1305.0;3878.0;Brasil;Vinhos
+499;Espanha;2016;3948614.0;12221512.0;Brasil;Vinhos
+500;Estados Unidos;2016;725420.0;2924715.0;Brasil;Vinhos
+501;França;2016;3831566.0;15940341.0;Brasil;Vinhos
+502;Geórgia;2016;0.0;0.0;Brasil;Vinhos
+503;Geórgia do Sul e Sandwich do Sul, Ilhas;2016;0.0;0.0;Brasil;Vinhos
+504;Grécia;2016;6568.0;18637.0;Brasil;Vinhos
+505;Hong Kong;2016;0.0;0.0;Brasil;Vinhos
+506;Hungria;2016;8315.0;58756.0;Brasil;Vinhos
+507;Indonésia;2016;0.0;43.0;Brasil;Vinhos
+508;Irlanda;2016;0.0;43.0;Brasil;Vinhos
+509;Israel;2016;12548.0;44277.0;Brasil;Vinhos
+510;Itália;2016;7936409.0;22216811.0;Brasil;Vinhos
+511;Japão;2016;0.0;0.0;Brasil;Vinhos
+512;Iugoslávia;2016;0.0;0.0;Brasil;Vinhos
+513;Líbano;2016;10665.0;71374.0;Brasil;Vinhos
+514;Luxemburgo;2016;0.0;43.0;Brasil;Vinhos
+515;Macedônia;2016;0.0;0.0;Brasil;Vinhos
+516;Marrocos;2016;0.0;0.0;Brasil;Vinhos
+517;México;2016;0.0;0.0;Brasil;Vinhos
+518;Moldávia;2016;0.0;0.0;Brasil;Vinhos
+519;Montenegro;2016;0.0;0.0;Brasil;Vinhos
+520;Noruega;2016;396.0;253.0;Brasil;Vinhos
+521;Nova Zelândia;2016;50177.0;361030.0;Brasil;Vinhos
+522;Países Baixos (Holanda);2016;0.0;43.0;Brasil;Vinhos
+523;Panamá;2016;0.0;0.0;Brasil;Vinhos
+524;Peru;2016;0.0;0.0;Brasil;Vinhos
+525;Porto Rico;2016;0.0;0.0;Brasil;Vinhos
+526;Portugal;2016;10821232.0;29495190.0;Brasil;Vinhos
+527;Reino Unido;2016;5.0;255.0;Brasil;Vinhos
+528;Republica Dominicana;2016;0.0;43.0;Brasil;Vinhos
+529;Romênia;2016;0.0;0.0;Brasil;Vinhos
+530;Rússia;2016;0.0;43.0;Brasil;Vinhos
+531;San Marino;2016;0.0;0.0;Brasil;Vinhos
+532;Sérvia;2016;0.0;0.0;Brasil;Vinhos
+533;Síria;2016;0.0;0.0;Brasil;Vinhos
+534;Suazilândia;2016;0.0;0.0;Brasil;Vinhos
+535;Suíça;2016;6.0;245.0;Brasil;Vinhos
+536;República Tcheca;2016;0.0;0.0;Brasil;Vinhos
+537;Tunísia;2016;0.0;0.0;Brasil;Vinhos
+538;Turquia;2016;0.0;0.0;Brasil;Vinhos
+539;Ucrânia;2016;5319.0;9679.0;Brasil;Vinhos
+540;Uruguai;2016;2215692.0;5099162.0;Brasil;Vinhos
+541;Não consta na tabela;2016;0.0;0.0;Brasil;Vinhos
+542;Não declarados;2016;0.0;0.0;Brasil;Vinhos
+543;Outros;2016;0.0;0.0;Brasil;Vinhos
+544;Africa do Sul;2017;1138732.0;3241298.0;Brasil;Vinhos
+545;Alemanha;2017;83289.0;315959.0;Brasil;Vinhos
+546;Argélia;2017;0.0;0.0;Brasil;Vinhos
+547;Arábia Saudita;2017;0.0;0.0;Brasil;Vinhos
+548;Argentina;2017;15461740.0;51770842.0;Brasil;Vinhos
+549;Armênia;2017;0.0;0.0;Brasil;Vinhos
+550;Austrália;2017;354641.0;1246545.0;Brasil;Vinhos
+551;Áustria;2017;2655.0;24629.0;Brasil;Vinhos
+552;Bermudas;2017;0.0;0.0;Brasil;Vinhos
+553;Bélgica;2017;4376.0;45221.0;Brasil;Vinhos
+554;Bolívia;2017;0.0;0.0;Brasil;Vinhos
+555;Bósnia-Herzegovina;2017;0.0;0.0;Brasil;Vinhos
+556;Brasil;2017;845617.0;260135.0;Brasil;Vinhos
+557;Bulgária;2017;35284.0;68234.0;Brasil;Vinhos
+558;Canada;2017;0.0;0.0;Brasil;Vinhos
+559;Chile;2017;51787643.0;145628860.0;Brasil;Vinhos
+560;China;2017;1000.0;613.0;Brasil;Vinhos
+561;Coreia do Sul, República;2017;0.0;0.0;Brasil;Vinhos
+562;Croácia;2017;0.0;0.0;Brasil;Vinhos
+563;Cuba;2017;0.0;0.0;Brasil;Vinhos
+564;Emirados Árabes Unidos;2017;0.0;0.0;Brasil;Vinhos
+565;Eslovênia;2017;0.0;0.0;Brasil;Vinhos
+566;Eslováquia;2017;21424.0;64828.0;Brasil;Vinhos
+567;Espanha;2017;7240535.0;19834451.0;Brasil;Vinhos
+568;Estados Unidos;2017;1372347.0;4110641.0;Brasil;Vinhos
+569;França;2017;5921728.0;25280255.0;Brasil;Vinhos
+570;Geórgia;2017;0.0;0.0;Brasil;Vinhos
+571;Geórgia do Sul e Sandwich do Sul, Ilhas;2017;0.0;0.0;Brasil;Vinhos
+572;Grécia;2017;40775.0;139486.0;Brasil;Vinhos
+573;Hong Kong;2017;0.0;0.0;Brasil;Vinhos
+574;Hungria;2017;23813.0;168353.0;Brasil;Vinhos
+575;Indonésia;2017;0.0;0.0;Brasil;Vinhos
+576;Irlanda;2017;0.0;0.0;Brasil;Vinhos
+577;Israel;2017;37302.0;120463.0;Brasil;Vinhos
+578;Itália;2017;11538990.0;33707111.0;Brasil;Vinhos
+579;Japão;2017;0.0;0.0;Brasil;Vinhos
+580;Iugoslávia;2017;0.0;0.0;Brasil;Vinhos
+581;Líbano;2017;12737.0;93480.0;Brasil;Vinhos
+582;Luxemburgo;2017;0.0;0.0;Brasil;Vinhos
+583;Macedônia;2017;0.0;0.0;Brasil;Vinhos
+584;Marrocos;2017;0.0;0.0;Brasil;Vinhos
+585;México;2017;0.0;0.0;Brasil;Vinhos
+586;Moldávia;2017;0.0;0.0;Brasil;Vinhos
+587;Montenegro;2017;0.0;0.0;Brasil;Vinhos
+588;Noruega;2017;5.0;27.0;Brasil;Vinhos
+589;Nova Zelândia;2017;31379.0;248412.0;Brasil;Vinhos
+590;Países Baixos (Holanda);2017;0.0;0.0;Brasil;Vinhos
+591;Panamá;2017;0.0;0.0;Brasil;Vinhos
+592;Peru;2017;0.0;0.0;Brasil;Vinhos
+593;Porto Rico;2017;0.0;0.0;Brasil;Vinhos
+594;Portugal;2017;17345709.0;45032247.0;Brasil;Vinhos
+595;Reino Unido;2017;16.0;1033.0;Brasil;Vinhos
+596;Republica Dominicana;2017;0.0;0.0;Brasil;Vinhos
+597;Romênia;2017;18509.0;52150.0;Brasil;Vinhos
+598;Rússia;2017;0.0;0.0;Brasil;Vinhos
+599;San Marino;2017;0.0;0.0;Brasil;Vinhos
+600;Sérvia;2017;0.0;0.0;Brasil;Vinhos
+601;Síria;2017;398.0;269.0;Brasil;Vinhos
+602;Suazilândia;2017;0.0;0.0;Brasil;Vinhos
+603;Suíça;2017;138.0;2873.0;Brasil;Vinhos
+604;República Tcheca;2017;0.0;0.0;Brasil;Vinhos
+605;Tunísia;2017;0.0;0.0;Brasil;Vinhos
+606;Turquia;2017;0.0;0.0;Brasil;Vinhos
+607;Ucrânia;2017;865.0;931.0;Brasil;Vinhos
+608;Uruguai;2017;5009098.0;7751966.0;Brasil;Vinhos
+609;Não consta na tabela;2017;0.0;0.0;Brasil;Vinhos
+610;Não declarados;2017;0.0;0.0;Brasil;Vinhos
+611;Outros;2017;0.0;0.0;Brasil;Vinhos
+612;Africa do Sul;2018;1127053.0;3574371.0;Brasil;Vinhos
+613;Alemanha;2018;142971.0;516975.0;Brasil;Vinhos
+614;Argélia;2018;0.0;0.0;Brasil;Vinhos
+615;Arábia Saudita;2018;563.0;3249.0;Brasil;Vinhos
+616;Argentina;2018;15221318.0;52817642.0;Brasil;Vinhos
+617;Armênia;2018;0.0;0.0;Brasil;Vinhos
+618;Austrália;2018;3518.0;21664.0;Brasil;Vinhos
+619;Áustria;2018;513995.0;1567866.0;Brasil;Vinhos
+620;Bermudas;2018;0.0;0.0;Brasil;Vinhos
+621;Bélgica;2018;163.0;1201.0;Brasil;Vinhos
+622;Bolívia;2018;0.0;0.0;Brasil;Vinhos
+623;Bósnia-Herzegovina;2018;0.0;0.0;Brasil;Vinhos
+624;Brasil;2018;18040.0;121806.0;Brasil;Vinhos
+625;Bulgária;2018;16166.0;17550.0;Brasil;Vinhos
+626;Canada;2018;301.0;17418.0;Brasil;Vinhos
+627;Chile;2018;51104825.0;144731210.0;Brasil;Vinhos
+628;China;2018;5.0;472.0;Brasil;Vinhos
+629;Coreia do Sul, República;2018;0.0;0.0;Brasil;Vinhos
+630;Croácia;2018;0.0;0.0;Brasil;Vinhos
+631;Cuba;2018;0.0;0.0;Brasil;Vinhos
+632;Emirados Árabes Unidos;2018;0.0;0.0;Brasil;Vinhos
+633;Eslovênia;2018;20976.0;68521.0;Brasil;Vinhos
+634;Eslováquia;2018;10800.0;17938.0;Brasil;Vinhos
+635;Espanha;2018;5595268.0;19353631.0;Brasil;Vinhos
+636;Estados Unidos;2018;548655.0;2584781.0;Brasil;Vinhos
+637;França;2018;4653789.0;22688105.0;Brasil;Vinhos
+638;Geórgia;2018;8164.0;20416.0;Brasil;Vinhos
+639;Geórgia do Sul e Sandwich do Sul, Ilhas;2018;0.0;0.0;Brasil;Vinhos
+640;Grécia;2018;41601.0;135185.0;Brasil;Vinhos
+641;Hong Kong;2018;0.0;0.0;Brasil;Vinhos
+642;Hungria;2018;23742.0;113405.0;Brasil;Vinhos
+643;Indonésia;2018;36.0;210.0;Brasil;Vinhos
+644;Irlanda;2018;107.0;954.0;Brasil;Vinhos
+645;Israel;2018;40354.0;182017.0;Brasil;Vinhos
+646;Itália;2018;10154564.0;34857594.0;Brasil;Vinhos
+647;Japão;2018;0.0;0.0;Brasil;Vinhos
+648;Iugoslávia;2018;0.0;0.0;Brasil;Vinhos
+649;Líbano;2018;19742.0;150044.0;Brasil;Vinhos
+650;Luxemburgo;2018;5.0;42.0;Brasil;Vinhos
+651;Macedônia;2018;0.0;0.0;Brasil;Vinhos
+652;Marrocos;2018;0.0;0.0;Brasil;Vinhos
+653;México;2018;134.0;804.0;Brasil;Vinhos
+654;Moldávia;2018;0.0;0.0;Brasil;Vinhos
+655;Montenegro;2018;0.0;0.0;Brasil;Vinhos
+656;Noruega;2018;0.0;0.0;Brasil;Vinhos
+657;Nova Zelândia;2018;130854.0;686193.0;Brasil;Vinhos
+658;Países Baixos (Holanda);2018;283.0;8719.0;Brasil;Vinhos
+659;Panamá;2018;0.0;0.0;Brasil;Vinhos
+660;Peru;2018;77.0;653.0;Brasil;Vinhos
+661;Porto Rico;2018;47.0;404.0;Brasil;Vinhos
+662;Portugal;2018;17698831.0;53237413.0;Brasil;Vinhos
+663;Reino Unido;2018;4126.0;51034.0;Brasil;Vinhos
+664;Republica Dominicana;2018;2.0;13.0;Brasil;Vinhos
+665;Romênia;2018;13719.0;9695.0;Brasil;Vinhos
+666;Rússia;2018;17483.0;66160.0;Brasil;Vinhos
+667;San Marino;2018;0.0;0.0;Brasil;Vinhos
+668;Sérvia;2018;0.0;0.0;Brasil;Vinhos
+669;Síria;2018;0.0;0.0;Brasil;Vinhos
+670;Suazilândia;2018;0.0;0.0;Brasil;Vinhos
+671;Suíça;2018;559.0;7647.0;Brasil;Vinhos
+672;República Tcheca;2018;0.0;0.0;Brasil;Vinhos
+673;Tunísia;2018;0.0;0.0;Brasil;Vinhos
+674;Turquia;2018;1591.0;1245.0;Brasil;Vinhos
+675;Ucrânia;2018;0.0;0.0;Brasil;Vinhos
+676;Uruguai;2018;2836574.0;8467846.0;Brasil;Vinhos
+677;Não consta na tabela;2018;0.0;0.0;Brasil;Vinhos
+678;Não declarados;2018;0.0;0.0;Brasil;Vinhos
+679;Outros;2018;0.0;0.0;Brasil;Vinhos
+680;Africa do Sul;2019;1092042.0;3604038.0;Brasil;Vinhos
+681;Alemanha;2019;101055.0;412794.0;Brasil;Vinhos
+682;Argélia;2019;0.0;0.0;Brasil;Vinhos
+683;Arábia Saudita;2019;0.0;0.0;Brasil;Vinhos
+684;Argentina;2019;16548931.0;54527380.0;Brasil;Vinhos
+685;Armênia;2019;0.0;0.0;Brasil;Vinhos
+686;Austrália;2019;16292.0;1214643.0;Brasil;Vinhos
+687;Áustria;2019;348289.0;128379.0;Brasil;Vinhos
+688;Bermudas;2019;0.0;0.0;Brasil;Vinhos
+689;Bélgica;2019;7.0;30.0;Brasil;Vinhos
+690;Bolívia;2019;0.0;0.0;Brasil;Vinhos
+691;Bósnia-Herzegovina;2019;0.0;0.0;Brasil;Vinhos
+692;Brasil;2019;29295.0;246008.0;Brasil;Vinhos
+693;Bulgária;2019;10944.0;9915.0;Brasil;Vinhos
+694;Canada;2019;0.0;0.0;Brasil;Vinhos
+695;Chile;2019;52697108.0;145471294.0;Brasil;Vinhos
+696;China;2019;317.0;2458.0;Brasil;Vinhos
+697;Coreia do Sul, República;2019;0.0;0.0;Brasil;Vinhos
+698;Croácia;2019;450.0;2900.0;Brasil;Vinhos
+699;Cuba;2019;0.0;0.0;Brasil;Vinhos
+700;Emirados Árabes Unidos;2019;0.0;0.0;Brasil;Vinhos
+701;Eslovênia;2019;30968.0;101190.0;Brasil;Vinhos
+702;Eslováquia;2019;459.0;3160.0;Brasil;Vinhos
+703;Espanha;2019;5797980.0;17111436.0;Brasil;Vinhos
+704;Estados Unidos;2019;534870.0;2400830.0;Brasil;Vinhos
+705;França;2019;5324383.0;24299524.0;Brasil;Vinhos
+706;Geórgia;2019;21748.0;41161.0;Brasil;Vinhos
+707;Geórgia do Sul e Sandwich do Sul, Ilhas;2019;0.0;0.0;Brasil;Vinhos
+708;Grécia;2019;21251.0;70881.0;Brasil;Vinhos
+709;Hong Kong;2019;0.0;0.0;Brasil;Vinhos
+710;Hungria;2019;34591.0;146500.0;Brasil;Vinhos
+711;Indonésia;2019;258.0;1464.0;Brasil;Vinhos
+712;Irlanda;2019;179.0;1705.0;Brasil;Vinhos
+713;Israel;2019;52237.0;182602.0;Brasil;Vinhos
+714;Itália;2019;10323254.0;33355982.0;Brasil;Vinhos
+715;Japão;2019;153.0;1429.0;Brasil;Vinhos
+716;Iugoslávia;2019;0.0;0.0;Brasil;Vinhos
+717;Líbano;2019;21836.0;167358.0;Brasil;Vinhos
+718;Luxemburgo;2019;0.0;0.0;Brasil;Vinhos
+719;Macedônia;2019;1323.0;874.0;Brasil;Vinhos
+720;Marrocos;2019;2250.0;16816.0;Brasil;Vinhos
+721;México;2019;646.0;3927.0;Brasil;Vinhos
+722;Moldávia;2019;0.0;0.0;Brasil;Vinhos
+723;Montenegro;2019;1701.0;5440.0;Brasil;Vinhos
+724;Noruega;2019;0.0;0.0;Brasil;Vinhos
+725;Nova Zelândia;2019;133179.0;776830.0;Brasil;Vinhos
+726;Países Baixos (Holanda);2019;634.0;5297.0;Brasil;Vinhos
+727;Panamá;2019;17.0;96.0;Brasil;Vinhos
+728;Peru;2019;0.0;0.0;Brasil;Vinhos
+729;Porto Rico;2019;21.0;115.0;Brasil;Vinhos
+730;Portugal;2019;18228699.0;51444189.0;Brasil;Vinhos
+731;Reino Unido;2019;4819.0;46623.0;Brasil;Vinhos
+732;Republica Dominicana;2019;0.0;0.0;Brasil;Vinhos
+733;Romênia;2019;5196.0;6706.0;Brasil;Vinhos
+734;Rússia;2019;0.0;0.0;Brasil;Vinhos
+735;San Marino;2019;0.0;0.0;Brasil;Vinhos
+736;Sérvia;2019;0.0;0.0;Brasil;Vinhos
+737;Síria;2019;641.0;409.0;Brasil;Vinhos
+738;Suazilândia;2019;0.0;0.0;Brasil;Vinhos
+739;Suíça;2019;4510.0;63619.0;Brasil;Vinhos
+740;República Tcheca;2019;0.0;0.0;Brasil;Vinhos
+741;Tunísia;2019;0.0;0.0;Brasil;Vinhos
+742;Turquia;2019;0.0;0.0;Brasil;Vinhos
+743;Ucrânia;2019;4646.0;3074.0;Brasil;Vinhos
+744;Uruguai;2019;2778244.0;7938059.0;Brasil;Vinhos
+745;Não consta na tabela;2019;0.0;0.0;Brasil;Vinhos
+746;Não declarados;2019;0.0;0.0;Brasil;Vinhos
+747;Outros;2019;0.0;0.0;Brasil;Vinhos
+748;Africa do Sul;2020;627150.0;1701072.0;Brasil;Vinhos
+749;Alemanha;2020;136992.0;504168.0;Brasil;Vinhos
+750;Argélia;2020;0.0;0.0;Brasil;Vinhos
+751;Arábia Saudita;2020;0.0;0.0;Brasil;Vinhos
+752;Argentina;2020;22610267.0;66322932.0;Brasil;Vinhos
+753;Armênia;2020;0.0;0.0;Brasil;Vinhos
+754;Austrália;2020;212595.0;792051.0;Brasil;Vinhos
+755;Áustria;2020;6540.0;52348.0;Brasil;Vinhos
+756;Bermudas;2020;0.0;0.0;Brasil;Vinhos
+757;Bélgica;2020;0.0;0.0;Brasil;Vinhos
+758;Bolívia;2020;0.0;0.0;Brasil;Vinhos
+759;Bósnia-Herzegovina;2020;1218.0;902.0;Brasil;Vinhos
+760;Brasil;2020;4347.0;41213.0;Brasil;Vinhos
+761;Bulgária;2020;23110.0;58319.0;Brasil;Vinhos
+762;Canada;2020;0.0;0.0;Brasil;Vinhos
+763;Chile;2020;72726186.0;176540499.0;Brasil;Vinhos
+764;China;2020;0.0;0.0;Brasil;Vinhos
+765;Coreia do Sul, República;2020;0.0;0.0;Brasil;Vinhos
+766;Croácia;2020;0.0;0.0;Brasil;Vinhos
+767;Cuba;2020;0.0;0.0;Brasil;Vinhos
+768;Emirados Árabes Unidos;2020;0.0;0.0;Brasil;Vinhos
+769;Eslovênia;2020;11392.0;39771.0;Brasil;Vinhos
+770;Eslováquia;2020;0.0;0.0;Brasil;Vinhos
+771;Espanha;2020;7169384.0;19802061.0;Brasil;Vinhos
+772;Estados Unidos;2020;366584.0;2119234.0;Brasil;Vinhos
+773;França;2020;5658139.0;24894394.0;Brasil;Vinhos
+774;Geórgia;2020;20274.0;42948.0;Brasil;Vinhos
+775;Geórgia do Sul e Sandwich do Sul, Ilhas;2020;0.0;0.0;Brasil;Vinhos
+776;Grécia;2020;61181.0;219292.0;Brasil;Vinhos
+777;Hong Kong;2020;311.0;2776.0;Brasil;Vinhos
+778;Hungria;2020;5254.0;25250.0;Brasil;Vinhos
+779;Indonésia;2020;0.0;0.0;Brasil;Vinhos
+780;Irlanda;2020;0.0;0.0;Brasil;Vinhos
+781;Israel;2020;38239.0;224349.0;Brasil;Vinhos
+782;Itália;2020;9659999.0;32477890.0;Brasil;Vinhos
+783;Japão;2020;0.0;0.0;Brasil;Vinhos
+784;Iugoslávia;2020;0.0;0.0;Brasil;Vinhos
+785;Líbano;2020;12384.0;45908.0;Brasil;Vinhos
+786;Luxemburgo;2020;0.0;0.0;Brasil;Vinhos
+787;Macedônia;2020;0.0;0.0;Brasil;Vinhos
+788;Marrocos;2020;2160.0;8326.0;Brasil;Vinhos
+789;México;2020;33.0;181.0;Brasil;Vinhos
+790;Moldávia;2020;5832.0;8965.0;Brasil;Vinhos
+791;Montenegro;2020;0.0;0.0;Brasil;Vinhos
+792;Noruega;2020;0.0;0.0;Brasil;Vinhos
+793;Nova Zelândia;2020;15372.0;89763.0;Brasil;Vinhos
+794;Países Baixos (Holanda);2020;2285.0;22990.0;Brasil;Vinhos
+795;Panamá;2020;0.0;0.0;Brasil;Vinhos
+796;Peru;2020;0.0;0.0;Brasil;Vinhos
+797;Porto Rico;2020;54.0;1090.0;Brasil;Vinhos
+798;Portugal;2020;23627260.0;66353572.0;Brasil;Vinhos
+799;Reino Unido;2020;2586.0;22935.0;Brasil;Vinhos
+800;Republica Dominicana;2020;0.0;0.0;Brasil;Vinhos
+801;Romênia;2020;30635.0;70269.0;Brasil;Vinhos
+802;Rússia;2020;0.0;0.0;Brasil;Vinhos
+803;San Marino;2020;0.0;0.0;Brasil;Vinhos
+804;Sérvia;2020;0.0;0.0;Brasil;Vinhos
+805;Síria;2020;0.0;0.0;Brasil;Vinhos
+806;Suazilândia;2020;0.0;0.0;Brasil;Vinhos
+807;Suíça;2020;735.0;5848.0;Brasil;Vinhos
+808;República Tcheca;2020;0.0;0.0;Brasil;Vinhos
+809;Tunísia;2020;0.0;0.0;Brasil;Vinhos
+810;Turquia;2020;17563.0;55039.0;Brasil;Vinhos
+811;Ucrânia;2020;0.0;0.0;Brasil;Vinhos
+812;Uruguai;2020;4079076.0;10146829.0;Brasil;Vinhos
+813;Não consta na tabela;2020;0.0;0.0;Brasil;Vinhos
+814;Não declarados;2020;0.0;0.0;Brasil;Vinhos
+815;Outros;2020;0.0;0.0;Brasil;Vinhos
+816;Africa do Sul;2021;859169.0;2508140.0;Brasil;Vinhos
+817;Alemanha;2021;106541.0;546967.0;Brasil;Vinhos
+818;Argélia;2021;0.0;0.0;Brasil;Vinhos
+819;Arábia Saudita;2021;2510.0;8761.0;Brasil;Vinhos
+820;Argentina;2021;26869241.0;79527959.0;Brasil;Vinhos
+821;Armênia;2021;0.0;0.0;Brasil;Vinhos
+822;Austrália;2021;366875.0;1383093.0;Brasil;Vinhos
+823;Áustria;2021;13427.0;141822.0;Brasil;Vinhos
+824;Bermudas;2021;10.0;141.0;Brasil;Vinhos
+825;Bélgica;2021;0.0;0.0;Brasil;Vinhos
+826;Bolívia;2021;0.0;0.0;Brasil;Vinhos
+827;Bósnia-Herzegovina;2021;0.0;0.0;Brasil;Vinhos
+828;Brasil;2021;12602.0;39816.0;Brasil;Vinhos
+829;Bulgária;2021;34185.0;105623.0;Brasil;Vinhos
+830;Canada;2021;0.0;0.0;Brasil;Vinhos
+831;Chile;2021;69617587.0;182568098.0;Brasil;Vinhos
+832;China;2021;0.0;0.0;Brasil;Vinhos
+833;Coreia do Sul, República;2021;0.0;0.0;Brasil;Vinhos
+834;Croácia;2021;17343.0;78954.0;Brasil;Vinhos
+835;Cuba;2021;0.0;0.0;Brasil;Vinhos
+836;Emirados Árabes Unidos;2021;0.0;0.0;Brasil;Vinhos
+837;Eslovênia;2021;42944.0;172141.0;Brasil;Vinhos
+838;Eslováquia;2021;0.0;0.0;Brasil;Vinhos
+839;Espanha;2021;8793911.0;23795616.0;Brasil;Vinhos
+840;Estados Unidos;2021;506405.0;2809649.0;Brasil;Vinhos
+841;França;2021;6241310.0;31428188.0;Brasil;Vinhos
+842;Geórgia;2021;19188.0;32901.0;Brasil;Vinhos
+843;Geórgia do Sul e Sandwich do Sul, Ilhas;2021;1838.0;2915.0;Brasil;Vinhos
+844;Grécia;2021;13619.0;55228.0;Brasil;Vinhos
+845;Hong Kong;2021;0.0;0.0;Brasil;Vinhos
+846;Hungria;2021;20174.0;160816.0;Brasil;Vinhos
+847;Indonésia;2021;0.0;0.0;Brasil;Vinhos
+848;Irlanda;2021;0.0;0.0;Brasil;Vinhos
+849;Israel;2021;60281.0;298732.0;Brasil;Vinhos
+850;Itália;2021;11231625.0;39852162.0;Brasil;Vinhos
+851;Japão;2021;0.0;0.0;Brasil;Vinhos
+852;Iugoslávia;2021;0.0;0.0;Brasil;Vinhos
+853;Líbano;2021;24194.0;78872.0;Brasil;Vinhos
+854;Luxemburgo;2021;0.0;0.0;Brasil;Vinhos
+855;Macedônia;2021;0.0;0.0;Brasil;Vinhos
+856;Marrocos;2021;986.0;6958.0;Brasil;Vinhos
+857;México;2021;4.0;19.0;Brasil;Vinhos
+858;Moldávia;2021;25998.0;66480.0;Brasil;Vinhos
+859;Montenegro;2021;0.0;0.0;Brasil;Vinhos
+860;Noruega;2021;0.0;0.0;Brasil;Vinhos
+861;Nova Zelândia;2021;21995.0;137547.0;Brasil;Vinhos
+862;Países Baixos (Holanda);2021;0.0;0.0;Brasil;Vinhos
+863;Panamá;2021;0.0;0.0;Brasil;Vinhos
+864;Peru;2021;0.0;0.0;Brasil;Vinhos
+865;Porto Rico;2021;0.0;0.0;Brasil;Vinhos
+866;Portugal;2021;25925363.0;75668823.0;Brasil;Vinhos
+867;Reino Unido;2021;1164.0;9357.0;Brasil;Vinhos
+868;Republica Dominicana;2021;0.0;0.0;Brasil;Vinhos
+869;Romênia;2021;33770.0;99562.0;Brasil;Vinhos
+870;Rússia;2021;32179.0;64905.0;Brasil;Vinhos
+871;San Marino;2021;1095.0;2237.0;Brasil;Vinhos
+872;Sérvia;2021;3471.0;8302.0;Brasil;Vinhos
+873;Síria;2021;484.0;1280.0;Brasil;Vinhos
+874;Suazilândia;2021;0.0;0.0;Brasil;Vinhos
+875;Suíça;2021;7.0;157.0;Brasil;Vinhos
+876;República Tcheca;2021;225.0;5528.0;Brasil;Vinhos
+877;Tunísia;2021;0.0;0.0;Brasil;Vinhos
+878;Turquia;2021;0.0;0.0;Brasil;Vinhos
+879;Ucrânia;2021;0.0;0.0;Brasil;Vinhos
+880;Uruguai;2021;3788831.0;10063341.0;Brasil;Vinhos
+881;Não consta na tabela;2021;0.0;0.0;Brasil;Vinhos
+882;Não declarados;2021;0.0;0.0;Brasil;Vinhos
+883;Outros;2021;0.0;0.0;Brasil;Vinhos
+884;Africa do Sul;2022;738116.0;2266827.0;Brasil;Vinhos
+885;Alemanha;2022;92600.0;438595.0;Brasil;Vinhos
+886;Argélia;2022;0.0;0.0;Brasil;Vinhos
+887;Arábia Saudita;2022;0.0;0.0;Brasil;Vinhos
+888;Argentina;2022;27980574.0;87519642.0;Brasil;Vinhos
+889;Armênia;2022;2385.0;13668.0;Brasil;Vinhos
+890;Austrália;2022;579279.0;1590059.0;Brasil;Vinhos
+891;Áustria;2022;7403.0;53974.0;Brasil;Vinhos
+892;Bermudas;2022;1.0;4.0;Brasil;Vinhos
+893;Bélgica;2022;0.0;0.0;Brasil;Vinhos
+894;Bolívia;2022;0.0;0.0;Brasil;Vinhos
+895;Bósnia-Herzegovina;2022;0.0;0.0;Brasil;Vinhos
+896;Brasil;2022;1.0;5.0;Brasil;Vinhos
+897;Bulgária;2022;29929.0;43221.0;Brasil;Vinhos
+898;Canada;2022;884.0;11607.0;Brasil;Vinhos
+899;Chile;2022;68881232.0;184335335.0;Brasil;Vinhos
+900;China;2022;0.0;0.0;Brasil;Vinhos
+901;Coreia do Sul, República;2022;0.0;0.0;Brasil;Vinhos
+902;Croácia;2022;887.0;35563.0;Brasil;Vinhos
+903;Cuba;2022;0.0;0.0;Brasil;Vinhos
+904;Emirados Árabes Unidos;2022;0.0;0.0;Brasil;Vinhos
+905;Eslovênia;2022;31509.0;127726.0;Brasil;Vinhos
+906;Eslováquia;2022;0.0;0.0;Brasil;Vinhos
+907;Espanha;2022;6487047.0;17187749.0;Brasil;Vinhos
+908;Estados Unidos;2022;393211.0;3023220.0;Brasil;Vinhos
+909;França;2022;4911903.0;25955232.0;Brasil;Vinhos
+910;Geórgia;2022;12506.0;26983.0;Brasil;Vinhos
+911;Geórgia do Sul e Sandwich do Sul, Ilhas;2022;1788.0;2797.0;Brasil;Vinhos
+912;Grécia;2022;45440.0;148515.0;Brasil;Vinhos
+913;Hong Kong;2022;0.0;0.0;Brasil;Vinhos
+914;Hungria;2022;29260.0;160168.0;Brasil;Vinhos
+915;Indonésia;2022;0.0;0.0;Brasil;Vinhos
+916;Irlanda;2022;0.0;0.0;Brasil;Vinhos
+917;Israel;2022;19589.0;82489.0;Brasil;Vinhos
+918;Itália;2022;9622119.0;33330465.0;Brasil;Vinhos
+919;Japão;2022;0.0;0.0;Brasil;Vinhos
+920;Iugoslávia;2022;0.0;0.0;Brasil;Vinhos
+921;Líbano;2022;30149.0;182548.0;Brasil;Vinhos
+922;Luxemburgo;2022;0.0;0.0;Brasil;Vinhos
+923;Macedônia;2022;0.0;0.0;Brasil;Vinhos
+924;Marrocos;2022;13932.0;46497.0;Brasil;Vinhos
+925;México;2022;0.0;0.0;Brasil;Vinhos
+926;Moldávia;2022;38336.0;70282.0;Brasil;Vinhos
+927;Montenegro;2022;0.0;0.0;Brasil;Vinhos
+928;Noruega;2022;0.0;0.0;Brasil;Vinhos
+929;Nova Zelândia;2022;52265.0;403597.0;Brasil;Vinhos
+930;Países Baixos (Holanda);2022;0.0;0.0;Brasil;Vinhos
+931;Panamá;2022;0.0;0.0;Brasil;Vinhos
+932;Peru;2022;17861.0;84084.0;Brasil;Vinhos
+933;Porto Rico;2022;0.0;0.0;Brasil;Vinhos
+934;Portugal;2022;24108787.0;64795326.0;Brasil;Vinhos
+935;Reino Unido;2022;1655.0;19595.0;Brasil;Vinhos
+936;Republica Dominicana;2022;0.0;0.0;Brasil;Vinhos
+937;Romênia;2022;47715.0;99616.0;Brasil;Vinhos
+938;Rússia;2022;0.0;0.0;Brasil;Vinhos
+939;San Marino;2022;0.0;0.0;Brasil;Vinhos
+940;Sérvia;2022;0.0;0.0;Brasil;Vinhos
+941;Síria;2022;1094.0;5187.0;Brasil;Vinhos
+942;Suazilândia;2022;0.0;0.0;Brasil;Vinhos
+943;Suíça;2022;0.0;0.0;Brasil;Vinhos
+944;República Tcheca;2022;4950.0;12044.0;Brasil;Vinhos
+945;Tunísia;2022;0.0;0.0;Brasil;Vinhos
+946;Turquia;2022;22087.0;38817.0;Brasil;Vinhos
+947;Ucrânia;2022;0.0;0.0;Brasil;Vinhos
+948;Uruguai;2022;3394161.0;9867675.0;Brasil;Vinhos
+949;Não consta na tabela;2022;0.0;0.0;Brasil;Vinhos
+950;Não declarados;2022;0.0;0.0;Brasil;Vinhos
+951;Outros;2022;0.0;0.0;Brasil;Vinhos
+952;Africa do Sul;2023;522733.0;1732850.0;Brasil;Vinhos
+953;Alemanha;2023;102456.0;557947.0;Brasil;Vinhos
+954;Argélia;2023;0.0;0.0;Brasil;Vinhos
+955;Arábia Saudita;2023;8.0;161.0;Brasil;Vinhos
+956;Argentina;2023;25276991.0;83918138.0;Brasil;Vinhos
+957;Armênia;2023;3542.0;24336.0;Brasil;Vinhos
+958;Austrália;2023;432829.0;1568550.0;Brasil;Vinhos
+959;Áustria;2023;16832.0;145475.0;Brasil;Vinhos
+960;Bermudas;2023;6.0;879.0;Brasil;Vinhos
+961;Bélgica;2023;0.0;0.0;Brasil;Vinhos
+962;Bolívia;2023;1170.0;10920.0;Brasil;Vinhos
+963;Bósnia-Herzegovina;2023;0.0;0.0;Brasil;Vinhos
+964;Brasil;2023;6229.0;76894.0;Brasil;Vinhos
+965;Bulgária;2023;40281.0;95232.0;Brasil;Vinhos
+966;Canada;2023;14.0;1062.0;Brasil;Vinhos
+967;Chile;2023;62358765.0;170146247.0;Brasil;Vinhos
+968;China;2023;0.0;0.0;Brasil;Vinhos
+969;Coreia do Sul, República;2023;0.0;0.0;Brasil;Vinhos
+970;Croácia;2023;1107.0;9160.0;Brasil;Vinhos
+971;Cuba;2023;8.0;261.0;Brasil;Vinhos
+972;Emirados Árabes Unidos;2023;0.0;0.0;Brasil;Vinhos
+973;Eslovênia;2023;28806.0;124283.0;Brasil;Vinhos
+974;Eslováquia;2023;0.0;0.0;Brasil;Vinhos
+975;Espanha;2023;6591628.0;20097228.0;Brasil;Vinhos
+976;Estados Unidos;2023;244276.0;1775713.0;Brasil;Vinhos
+977;França;2023;4899631.0;30421272.0;Brasil;Vinhos
+978;Geórgia;2023;17173.0;29084.0;Brasil;Vinhos
+979;Geórgia do Sul e Sandwich do Sul, Ilhas;2023;0.0;0.0;Brasil;Vinhos
+980;Grécia;2023;45889.0;147724.0;Brasil;Vinhos
+981;Hong Kong;2023;0.0;0.0;Brasil;Vinhos
+982;Hungria;2023;41905.0;316481.0;Brasil;Vinhos
+983;Indonésia;2023;0.0;0.0;Brasil;Vinhos
+984;Irlanda;2023;0.0;0.0;Brasil;Vinhos
+985;Israel;2023;48772.0;259405.0;Brasil;Vinhos
+986;Itália;2023;8868133.0;34760596.0;Brasil;Vinhos
+987;Japão;2023;86.0;3427.0;Brasil;Vinhos
+988;Iugoslávia;2023;0.0;0.0;Brasil;Vinhos
+989;Líbano;2023;14328.0;106610.0;Brasil;Vinhos
+990;Luxemburgo;2023;0.0;0.0;Brasil;Vinhos
+991;Macedônia;2023;8522.0;17172.0;Brasil;Vinhos
+992;Marrocos;2023;603.0;2349.0;Brasil;Vinhos
+993;México;2023;0.0;0.0;Brasil;Vinhos
+994;Moldávia;2023;0.0;0.0;Brasil;Vinhos
+995;Montenegro;2023;51189.0;138741.0;Brasil;Vinhos
+996;Noruega;2023;0.0;0.0;Brasil;Vinhos
+997;Nova Zelândia;2023;28665.0;254138.0;Brasil;Vinhos
+998;Países Baixos (Holanda);2023;9.0;354.0;Brasil;Vinhos
+999;Panamá;2023;0.0;0.0;Brasil;Vinhos
+1000;Peru;2023;12276.0;58862.0;Brasil;Vinhos
+1001;Porto Rico;2023;2021.0;4481.0;Brasil;Vinhos
+1002;Portugal;2023;25099409.0;71970948.0;Brasil;Vinhos
+1003;Reino Unido;2023;1808.0;32757.0;Brasil;Vinhos
+1004;Republica Dominicana;2023;0.0;0.0;Brasil;Vinhos
+1005;Romênia;2023;36775.0;98835.0;Brasil;Vinhos
+1006;Rússia;2023;0.0;0.0;Brasil;Vinhos
+1007;San Marino;2023;0.0;0.0;Brasil;Vinhos
+1008;Sérvia;2023;0.0;0.0;Brasil;Vinhos
+1009;Síria;2023;0.0;0.0;Brasil;Vinhos
+1010;Suazilândia;2023;320.0;6968.0;Brasil;Vinhos
+1011;Suíça;2023;2109.0;101111.0;Brasil;Vinhos
+1012;República Tcheca;2023;0.0;0.0;Brasil;Vinhos
+1013;Tunísia;2023;0.0;0.0;Brasil;Vinhos
+1014;Turquia;2023;0.0;0.0;Brasil;Vinhos
+1015;Ucrânia;2023;0.0;0.0;Brasil;Vinhos
+1016;Uruguai;2023;2905567.0;9276001.0;Brasil;Vinhos
+1017;Não consta na tabela;2023;0.0;0.0;Brasil;Vinhos
+1018;Não declarados;2023;0.0;0.0;Brasil;Vinhos
+1019;Outros;2023;0.0;0.0;Brasil;Vinhos
+1020;Africa do Sul;2009;10381.0;42463.0;Brasil;Espumantes
+1021;Alemanha;2009;1170.0;8434.0;Brasil;Espumantes
+1022;Argentina;2009;894550.0;2730102.0;Brasil;Espumantes
+1023;Austrália;2009;225.0;2108.0;Brasil;Espumantes
+1024;Áustria;2009;0.0;0.0;Brasil;Espumantes
+1025;Bermudas;2009;0.0;0.0;Brasil;Espumantes
+1026;Bahamas;2009;0.0;0.0;Brasil;Espumantes
+1027;Bélgica;2009;0.0;0.0;Brasil;Espumantes
+1028;Brasil;2009;0.0;0.0;Brasil;Espumantes
+1029;Bulgária;2009;0.0;0.0;Brasil;Espumantes
+1030;Canada;2009;0.0;0.0;Brasil;Espumantes
+1031;Chile;2009;39533.0;165731.0;Brasil;Espumantes
+1032;Croácia;2009;0.0;0.0;Brasil;Espumantes
+1033;Cuba;2009;0.0;0.0;Brasil;Espumantes
+1034;Emirados Árabes Unidos;2009;0.0;0.0;Brasil;Espumantes
+1035;Eslovênia;2009;0.0;0.0;Brasil;Espumantes
+1036;Espanha;2009;388452.0;1397582.0;Brasil;Espumantes
+1037;Estados Unidos;2009;7119.0;25952.0;Brasil;Espumantes
+1038;França;2009;1130768.0;11933677.0;Brasil;Espumantes
+1039;Geórgia;2009;0.0;0.0;Brasil;Espumantes
+1040;Granada;2009;0.0;0.0;Brasil;Espumantes
+1041;Grécia;2009;0.0;0.0;Brasil;Espumantes
+1042;Hong Kong;2009;0.0;0.0;Brasil;Espumantes
+1043;Hungria;2009;0.0;0.0;Brasil;Espumantes
+1044;Indonésia;2009;0.0;0.0;Brasil;Espumantes
+1045;Irlanda;2009;0.0;0.0;Brasil;Espumantes
+1046;Israel;2009;0.0;0.0;Brasil;Espumantes
+1047;Itália;2009;693765.0;2984665.0;Brasil;Espumantes
+1048;Luxemburgo;2009;0.0;0.0;Brasil;Espumantes
+1049;México;2009;0.0;0.0;Brasil;Espumantes
+1050;Moldávia;2009;0.0;0.0;Brasil;Espumantes
+1051;Nova Zelândia;2009;630.0;5106.0;Brasil;Espumantes
+1052;Países Baixos;2009;0.0;0.0;Brasil;Espumantes
+1053;Panamá;2009;0.0;0.0;Brasil;Espumantes
+1054;Peru;2009;0.0;0.0;Brasil;Espumantes
+1055;Portugal;2009;31170.0;164404.0;Brasil;Espumantes
+1056;Reino Unido;2009;0.0;0.0;Brasil;Espumantes
+1057;Romênia;2009;0.0;0.0;Brasil;Espumantes
+1058;Suíça;2009;0.0;0.0;Brasil;Espumantes
+1059;Tunísia;2009;0.0;0.0;Brasil;Espumantes
+1060;Ucrânia;2009;0.0;0.0;Brasil;Espumantes
+1061;Uruguai;2009;900.0;10200.0;Brasil;Espumantes
+1062;Não consta na tabela;2009;0.0;0.0;Brasil;Espumantes
+1063;Não declarados;2009;0.0;0.0;Brasil;Espumantes
+1064;Outros;2009;972.0;2665.0;Brasil;Espumantes
+1065;Africa do Sul;2010;8121.0;37035.0;Brasil;Espumantes
+1066;Alemanha;2010;1116.0;5753.0;Brasil;Espumantes
+1067;Argentina;2010;1086901.0;3583463.0;Brasil;Espumantes
+1068;Austrália;2010;0.0;0.0;Brasil;Espumantes
+1069;Áustria;2010;0.0;0.0;Brasil;Espumantes
+1070;Bermudas;2010;0.0;0.0;Brasil;Espumantes
+1071;Bahamas;2010;0.0;0.0;Brasil;Espumantes
+1072;Bélgica;2010;0.0;0.0;Brasil;Espumantes
+1073;Brasil;2010;468.0;62570.0;Brasil;Espumantes
+1074;Bulgária;2010;0.0;0.0;Brasil;Espumantes
+1075;Canada;2010;0.0;0.0;Brasil;Espumantes
+1076;Chile;2010;68562.0;243004.0;Brasil;Espumantes
+1077;Croácia;2010;0.0;0.0;Brasil;Espumantes
+1078;Cuba;2010;0.0;0.0;Brasil;Espumantes
+1079;Emirados Árabes Unidos;2010;0.0;0.0;Brasil;Espumantes
+1080;Eslovênia;2010;0.0;0.0;Brasil;Espumantes
+1081;Espanha;2010;512539.0;1904476.0;Brasil;Espumantes
+1082;Estados Unidos;2010;11387.0;49664.0;Brasil;Espumantes
+1083;França;2010;1462949.0;17012302.0;Brasil;Espumantes
+1084;Geórgia;2010;0.0;0.0;Brasil;Espumantes
+1085;Granada;2010;0.0;0.0;Brasil;Espumantes
+1086;Grécia;2010;0.0;0.0;Brasil;Espumantes
+1087;Hong Kong;2010;0.0;0.0;Brasil;Espumantes
+1088;Hungria;2010;0.0;0.0;Brasil;Espumantes
+1089;Indonésia;2010;0.0;0.0;Brasil;Espumantes
+1090;Irlanda;2010;0.0;0.0;Brasil;Espumantes
+1091;Israel;2010;1224.0;5467.0;Brasil;Espumantes
+1092;Itália;2010;1079836.0;4703738.0;Brasil;Espumantes
+1093;Luxemburgo;2010;0.0;0.0;Brasil;Espumantes
+1094;México;2010;396.0;834.0;Brasil;Espumantes
+1095;Moldávia;2010;0.0;0.0;Brasil;Espumantes
+1096;Nova Zelândia;2010;720.0;6858.0;Brasil;Espumantes
+1097;Países Baixos;2010;0.0;0.0;Brasil;Espumantes
+1098;Panamá;2010;0.0;0.0;Brasil;Espumantes
+1099;Peru;2010;0.0;0.0;Brasil;Espumantes
+1100;Portugal;2010;74184.0;326868.0;Brasil;Espumantes
+1101;Reino Unido;2010;0.0;0.0;Brasil;Espumantes
+1102;Romênia;2010;0.0;0.0;Brasil;Espumantes
+1103;Suíça;2010;0.0;0.0;Brasil;Espumantes
+1104;Tunísia;2010;0.0;0.0;Brasil;Espumantes
+1105;Ucrânia;2010;0.0;0.0;Brasil;Espumantes
+1106;Uruguai;2010;5850.0;19080.0;Brasil;Espumantes
+1107;Não consta na tabela;2010;0.0;0.0;Brasil;Espumantes
+1108;Não declarados;2010;0.0;0.0;Brasil;Espumantes
+1109;Outros;2010;0.0;0.0;Brasil;Espumantes
+1110;Africa do Sul;2011;20213.0;123099.0;Brasil;Espumantes
+1111;Alemanha;2011;810.0;8800.0;Brasil;Espumantes
+1112;Argentina;2011;997492.0;3818944.0;Brasil;Espumantes
+1113;Austrália;2011;45.0;174.0;Brasil;Espumantes
+1114;Áustria;2011;0.0;0.0;Brasil;Espumantes
+1115;Bermudas;2011;0.0;0.0;Brasil;Espumantes
+1116;Bahamas;2011;0.0;0.0;Brasil;Espumantes
+1117;Bélgica;2011;0.0;0.0;Brasil;Espumantes
+1118;Brasil;2011;6210.0;52984.0;Brasil;Espumantes
+1119;Bulgária;2011;0.0;0.0;Brasil;Espumantes
+1120;Canada;2011;0.0;0.0;Brasil;Espumantes
+1121;Chile;2011;66639.0;248691.0;Brasil;Espumantes
+1122;Croácia;2011;0.0;0.0;Brasil;Espumantes
+1123;Cuba;2011;0.0;0.0;Brasil;Espumantes
+1124;Emirados Árabes Unidos;2011;0.0;0.0;Brasil;Espumantes
+1125;Eslovênia;2011;0.0;0.0;Brasil;Espumantes
+1126;Espanha;2011;831585.0;3017324.0;Brasil;Espumantes
+1127;Estados Unidos;2011;4553.0;15458.0;Brasil;Espumantes
+1128;França;2011;1802575.0;20020633.0;Brasil;Espumantes
+1129;Geórgia;2011;0.0;0.0;Brasil;Espumantes
+1130;Granada;2011;0.0;0.0;Brasil;Espumantes
+1131;Grécia;2011;0.0;0.0;Brasil;Espumantes
+1132;Hong Kong;2011;0.0;0.0;Brasil;Espumantes
+1133;Hungria;2011;0.0;0.0;Brasil;Espumantes
+1134;Indonésia;2011;0.0;0.0;Brasil;Espumantes
+1135;Irlanda;2011;0.0;0.0;Brasil;Espumantes
+1136;Israel;2011;990.0;11627.0;Brasil;Espumantes
+1137;Itália;2011;1137610.0;4966429.0;Brasil;Espumantes
+1138;Luxemburgo;2011;0.0;0.0;Brasil;Espumantes
+1139;México;2011;0.0;0.0;Brasil;Espumantes
+1140;Moldávia;2011;0.0;0.0;Brasil;Espumantes
+1141;Nova Zelândia;2011;135.0;861.0;Brasil;Espumantes
+1142;Países Baixos;2011;0.0;0.0;Brasil;Espumantes
+1143;Panamá;2011;0.0;0.0;Brasil;Espumantes
+1144;Peru;2011;0.0;0.0;Brasil;Espumantes
+1145;Portugal;2011;53756.0;317547.0;Brasil;Espumantes
+1146;Reino Unido;2011;0.0;0.0;Brasil;Espumantes
+1147;Romênia;2011;0.0;0.0;Brasil;Espumantes
+1148;Suíça;2011;0.0;0.0;Brasil;Espumantes
+1149;Tunísia;2011;870.0;2091.0;Brasil;Espumantes
+1150;Ucrânia;2011;0.0;0.0;Brasil;Espumantes
+1151;Uruguai;2011;135.0;932.0;Brasil;Espumantes
+1152;Não consta na tabela;2011;0.0;0.0;Brasil;Espumantes
+1153;Não declarados;2011;0.0;0.0;Brasil;Espumantes
+1154;Outros;2011;0.0;0.0;Brasil;Espumantes
+1155;Africa do Sul;2012;24954.0;133975.0;Brasil;Espumantes
+1156;Alemanha;2012;1260.0;9975.0;Brasil;Espumantes
+1157;Argentina;2012;963574.0;3985004.0;Brasil;Espumantes
+1158;Austrália;2012;0.0;0.0;Brasil;Espumantes
+1159;Áustria;2012;180.0;1139.0;Brasil;Espumantes
+1160;Bermudas;2012;0.0;0.0;Brasil;Espumantes
+1161;Bahamas;2012;0.0;0.0;Brasil;Espumantes
+1162;Bélgica;2012;0.0;0.0;Brasil;Espumantes
+1163;Brasil;2012;60601.0;313190.0;Brasil;Espumantes
+1164;Bulgária;2012;0.0;0.0;Brasil;Espumantes
+1165;Canada;2012;0.0;0.0;Brasil;Espumantes
+1166;Chile;2012;137790.0;484791.0;Brasil;Espumantes
+1167;Croácia;2012;0.0;0.0;Brasil;Espumantes
+1168;Cuba;2012;0.0;0.0;Brasil;Espumantes
+1169;Emirados Árabes Unidos;2012;0.0;0.0;Brasil;Espumantes
+1170;Eslovênia;2012;78.0;221.0;Brasil;Espumantes
+1171;Espanha;2012;1054367.0;4537094.0;Brasil;Espumantes
+1172;Estados Unidos;2012;15461.0;88292.0;Brasil;Espumantes
+1173;França;2012;1852431.0;22744192.0;Brasil;Espumantes
+1174;Geórgia;2012;0.0;0.0;Brasil;Espumantes
+1175;Granada;2012;0.0;0.0;Brasil;Espumantes
+1176;Grécia;2012;0.0;0.0;Brasil;Espumantes
+1177;Hong Kong;2012;2607.0;15170.0;Brasil;Espumantes
+1178;Hungria;2012;404.0;1317.0;Brasil;Espumantes
+1179;Indonésia;2012;0.0;0.0;Brasil;Espumantes
+1180;Irlanda;2012;0.0;0.0;Brasil;Espumantes
+1181;Israel;2012;310.0;6552.0;Brasil;Espumantes
+1182;Itália;2012;1123066.0;4953550.0;Brasil;Espumantes
+1183;Luxemburgo;2012;252.0;1115.0;Brasil;Espumantes
+1184;México;2012;0.0;0.0;Brasil;Espumantes
+1185;Moldávia;2012;0.0;0.0;Brasil;Espumantes
+1186;Nova Zelândia;2012;270.0;3046.0;Brasil;Espumantes
+1187;Países Baixos;2012;0.0;0.0;Brasil;Espumantes
+1188;Panamá;2012;0.0;0.0;Brasil;Espumantes
+1189;Peru;2012;0.0;0.0;Brasil;Espumantes
+1190;Portugal;2012;77260.0;382541.0;Brasil;Espumantes
+1191;Reino Unido;2012;0.0;0.0;Brasil;Espumantes
+1192;Romênia;2012;0.0;0.0;Brasil;Espumantes
+1193;Suíça;2012;0.0;0.0;Brasil;Espumantes
+1194;Tunísia;2012;1988.0;4035.0;Brasil;Espumantes
+1195;Ucrânia;2012;0.0;0.0;Brasil;Espumantes
+1196;Uruguai;2012;87.0;600.0;Brasil;Espumantes
+1197;Não consta na tabela;2012;0.0;0.0;Brasil;Espumantes
+1198;Não declarados;2012;0.0;0.0;Brasil;Espumantes
+1199;Outros;2012;0.0;0.0;Brasil;Espumantes
+1200;Africa do Sul;2013;26985.0;158325.0;Brasil;Espumantes
+1201;Alemanha;2013;1247.0;11745.0;Brasil;Espumantes
+1202;Argentina;2013;702963.0;2545215.0;Brasil;Espumantes
+1203;Austrália;2013;30.0;419.0;Brasil;Espumantes
+1204;Áustria;2013;720.0;6050.0;Brasil;Espumantes
+1205;Bermudas;2013;0.0;0.0;Brasil;Espumantes
+1206;Bahamas;2013;0.0;0.0;Brasil;Espumantes
+1207;Bélgica;2013;0.0;0.0;Brasil;Espumantes
+1208;Brasil;2013;10195.0;44337.0;Brasil;Espumantes
+1209;Bulgária;2013;0.0;0.0;Brasil;Espumantes
+1210;Canada;2013;0.0;0.0;Brasil;Espumantes
+1211;Chile;2013;123026.0;478646.0;Brasil;Espumantes
+1212;Croácia;2013;0.0;0.0;Brasil;Espumantes
+1213;Cuba;2013;0.0;0.0;Brasil;Espumantes
+1214;Emirados Árabes Unidos;2013;0.0;0.0;Brasil;Espumantes
+1215;Eslovênia;2013;0.0;0.0;Brasil;Espumantes
+1216;Espanha;2013;850428.0;3917939.0;Brasil;Espumantes
+1217;Estados Unidos;2013;15698.0;50841.0;Brasil;Espumantes
+1218;França;2013;1491052.0;22873679.0;Brasil;Espumantes
+1219;Geórgia;2013;0.0;0.0;Brasil;Espumantes
+1220;Granada;2013;0.0;0.0;Brasil;Espumantes
+1221;Grécia;2013;113.0;222.0;Brasil;Espumantes
+1222;Hong Kong;2013;283.0;1593.0;Brasil;Espumantes
+1223;Hungria;2013;1020.0;2984.0;Brasil;Espumantes
+1224;Indonésia;2013;0.0;0.0;Brasil;Espumantes
+1225;Irlanda;2013;0.0;0.0;Brasil;Espumantes
+1226;Israel;2013;0.0;0.0;Brasil;Espumantes
+1227;Itália;2013;978230.0;4223637.0;Brasil;Espumantes
+1228;Luxemburgo;2013;0.0;0.0;Brasil;Espumantes
+1229;México;2013;0.0;0.0;Brasil;Espumantes
+1230;Moldávia;2013;0.0;0.0;Brasil;Espumantes
+1231;Nova Zelândia;2013;180.0;1950.0;Brasil;Espumantes
+1232;Países Baixos;2013;0.0;0.0;Brasil;Espumantes
+1233;Panamá;2013;0.0;0.0;Brasil;Espumantes
+1234;Peru;2013;0.0;0.0;Brasil;Espumantes
+1235;Portugal;2013;66552.0;331054.0;Brasil;Espumantes
+1236;Reino Unido;2013;0.0;0.0;Brasil;Espumantes
+1237;Romênia;2013;0.0;0.0;Brasil;Espumantes
+1238;Suíça;2013;0.0;0.0;Brasil;Espumantes
+1239;Tunísia;2013;800.0;3887.0;Brasil;Espumantes
+1240;Ucrânia;2013;0.0;0.0;Brasil;Espumantes
+1241;Uruguai;2013;0.0;0.0;Brasil;Espumantes
+1242;Não consta na tabela;2013;0.0;0.0;Brasil;Espumantes
+1243;Não declarados;2013;0.0;0.0;Brasil;Espumantes
+1244;Outros;2013;0.0;0.0;Brasil;Espumantes
+1245;Africa do Sul;2014;18659.0;114275.0;Brasil;Espumantes
+1246;Alemanha;2014;5093.0;34413.0;Brasil;Espumantes
+1247;Argentina;2014;807366.0;3221463.0;Brasil;Espumantes
+1248;Austrália;2014;0.0;0.0;Brasil;Espumantes
+1249;Áustria;2014;698.0;6352.0;Brasil;Espumantes
+1250;Bermudas;2014;0.0;0.0;Brasil;Espumantes
+1251;Bahamas;2014;0.0;0.0;Brasil;Espumantes
+1252;Bélgica;2014;0.0;0.0;Brasil;Espumantes
+1253;Brasil;2014;8606.0;37228.0;Brasil;Espumantes
+1254;Bulgária;2014;222.0;546.0;Brasil;Espumantes
+1255;Canada;2014;0.0;0.0;Brasil;Espumantes
+1256;Chile;2014;133935.0;599993.0;Brasil;Espumantes
+1257;Croácia;2014;0.0;0.0;Brasil;Espumantes
+1258;Cuba;2014;0.0;0.0;Brasil;Espumantes
+1259;Emirados Árabes Unidos;2014;8.0;271.0;Brasil;Espumantes
+1260;Eslovênia;2014;445.0;2329.0;Brasil;Espumantes
+1261;Espanha;2014;925502.0;4519845.0;Brasil;Espumantes
+1262;Estados Unidos;2014;27023.0;101802.0;Brasil;Espumantes
+1263;França;2014;1230946.0;20831149.0;Brasil;Espumantes
+1264;Geórgia;2014;0.0;0.0;Brasil;Espumantes
+1265;Granada;2014;0.0;0.0;Brasil;Espumantes
+1266;Grécia;2014;329.0;1459.0;Brasil;Espumantes
+1267;Hong Kong;2014;0.0;0.0;Brasil;Espumantes
+1268;Hungria;2014;518.0;1715.0;Brasil;Espumantes
+1269;Indonésia;2014;0.0;0.0;Brasil;Espumantes
+1270;Irlanda;2014;0.0;0.0;Brasil;Espumantes
+1271;Israel;2014;0.0;0.0;Brasil;Espumantes
+1272;Itália;2014;1095148.0;4462987.0;Brasil;Espumantes
+1273;Luxemburgo;2014;0.0;0.0;Brasil;Espumantes
+1274;México;2014;0.0;0.0;Brasil;Espumantes
+1275;Moldávia;2014;0.0;0.0;Brasil;Espumantes
+1276;Nova Zelândia;2014;450.0;3023.0;Brasil;Espumantes
+1277;Países Baixos;2014;0.0;0.0;Brasil;Espumantes
+1278;Panamá;2014;0.0;0.0;Brasil;Espumantes
+1279;Peru;2014;305.0;977.0;Brasil;Espumantes
+1280;Portugal;2014;60430.0;316889.0;Brasil;Espumantes
+1281;Reino Unido;2014;0.0;0.0;Brasil;Espumantes
+1282;Romênia;2014;743.0;1011.0;Brasil;Espumantes
+1283;Suíça;2014;0.0;0.0;Brasil;Espumantes
+1284;Tunísia;2014;0.0;0.0;Brasil;Espumantes
+1285;Ucrânia;2014;0.0;0.0;Brasil;Espumantes
+1286;Uruguai;2014;1068.0;3310.0;Brasil;Espumantes
+1287;Não consta na tabela;2014;0.0;0.0;Brasil;Espumantes
+1288;Não declarados;2014;0.0;0.0;Brasil;Espumantes
+1289;Outros;2014;0.0;0.0;Brasil;Espumantes
+1290;Africa do Sul;2015;19686.0;96316.0;Brasil;Espumantes
+1291;Alemanha;2015;3647.0;5589.0;Brasil;Espumantes
+1292;Argentina;2015;490536.0;1814349.0;Brasil;Espumantes
+1293;Austrália;2015;4967.0;15439.0;Brasil;Espumantes
+1294;Áustria;2015;0.0;0.0;Brasil;Espumantes
+1295;Bermudas;2015;0.0;0.0;Brasil;Espumantes
+1296;Bahamas;2015;73.0;684.0;Brasil;Espumantes
+1297;Bélgica;2015;0.0;0.0;Brasil;Espumantes
+1298;Brasil;2015;6383.0;47936.0;Brasil;Espumantes
+1299;Bulgária;2015;4.0;7.0;Brasil;Espumantes
+1300;Canada;2015;0.0;0.0;Brasil;Espumantes
+1301;Chile;2015;236342.0;838250.0;Brasil;Espumantes
+1302;Croácia;2015;225.0;483.0;Brasil;Espumantes
+1303;Cuba;2015;29.0;243.0;Brasil;Espumantes
+1304;Emirados Árabes Unidos;2015;104.0;2005.0;Brasil;Espumantes
+1305;Eslovênia;2015;1058.0;5075.0;Brasil;Espumantes
+1306;Espanha;2015;899587.0;4183324.0;Brasil;Espumantes
+1307;Estados Unidos;2015;18519.0;85864.0;Brasil;Espumantes
+1308;França;2015;1341884.0;21849752.0;Brasil;Espumantes
+1309;Geórgia;2015;0.0;0.0;Brasil;Espumantes
+1310;Granada;2015;0.0;0.0;Brasil;Espumantes
+1311;Grécia;2015;577.0;1574.0;Brasil;Espumantes
+1312;Hong Kong;2015;0.0;0.0;Brasil;Espumantes
+1313;Hungria;2015;0.0;0.0;Brasil;Espumantes
+1314;Indonésia;2015;0.0;0.0;Brasil;Espumantes
+1315;Irlanda;2015;391.0;4062.0;Brasil;Espumantes
+1316;Israel;2015;0.0;0.0;Brasil;Espumantes
+1317;Itália;2015;1017420.0;3670403.0;Brasil;Espumantes
+1318;Luxemburgo;2015;0.0;0.0;Brasil;Espumantes
+1319;México;2015;1154.0;9334.0;Brasil;Espumantes
+1320;Moldávia;2015;0.0;0.0;Brasil;Espumantes
+1321;Nova Zelândia;2015;135.0;1684.0;Brasil;Espumantes
+1322;Países Baixos;2015;0.0;0.0;Brasil;Espumantes
+1323;Panamá;2015;0.0;0.0;Brasil;Espumantes
+1324;Peru;2015;0.0;0.0;Brasil;Espumantes
+1325;Portugal;2015;59472.0;223379.0;Brasil;Espumantes
+1326;Reino Unido;2015;467.0;4211.0;Brasil;Espumantes
+1327;Romênia;2015;488.0;528.0;Brasil;Espumantes
+1328;Suíça;2015;0.0;0.0;Brasil;Espumantes
+1329;Tunísia;2015;0.0;0.0;Brasil;Espumantes
+1330;Ucrânia;2015;0.0;0.0;Brasil;Espumantes
+1331;Uruguai;2015;1760.0;2832.0;Brasil;Espumantes
+1332;Não consta na tabela;2015;0.0;0.0;Brasil;Espumantes
+1333;Não declarados;2015;0.0;0.0;Brasil;Espumantes
+1334;Outros;2015;0.0;0.0;Brasil;Espumantes
+1335;Africa do Sul;2016;7394.0;50715.0;Brasil;Espumantes
+1336;Alemanha;2016;3420.0;8275.0;Brasil;Espumantes
+1337;Argentina;2016;358510.0;1240249.0;Brasil;Espumantes
+1338;Austrália;2016;19182.0;32115.0;Brasil;Espumantes
+1339;Áustria;2016;0.0;0.0;Brasil;Espumantes
+1340;Bermudas;2016;0.0;0.0;Brasil;Espumantes
+1341;Bahamas;2016;60.0;688.0;Brasil;Espumantes
+1342;Bélgica;2016;0.0;0.0;Brasil;Espumantes
+1343;Brasil;2016;1014.0;4936.0;Brasil;Espumantes
+1344;Bulgária;2016;0.0;0.0;Brasil;Espumantes
+1345;Canada;2016;0.0;0.0;Brasil;Espumantes
+1346;Chile;2016;117678.0;523242.0;Brasil;Espumantes
+1347;Croácia;2016;0.0;0.0;Brasil;Espumantes
+1348;Cuba;2016;0.0;0.0;Brasil;Espumantes
+1349;Emirados Árabes Unidos;2016;2371.0;38954.0;Brasil;Espumantes
+1350;Eslovênia;2016;2115.0;9486.0;Brasil;Espumantes
+1351;Espanha;2016;864154.0;3249876.0;Brasil;Espumantes
+1352;Estados Unidos;2016;12343.0;30366.0;Brasil;Espumantes
+1353;França;2016;1171383.0;12017375.0;Brasil;Espumantes
+1354;Geórgia;2016;0.0;0.0;Brasil;Espumantes
+1355;Granada;2016;0.0;0.0;Brasil;Espumantes
+1356;Grécia;2016;0.0;0.0;Brasil;Espumantes
+1357;Hong Kong;2016;0.0;0.0;Brasil;Espumantes
+1358;Hungria;2016;1238.0;5927.0;Brasil;Espumantes
+1359;Indonésia;2016;0.0;0.0;Brasil;Espumantes
+1360;Irlanda;2016;0.0;0.0;Brasil;Espumantes
+1361;Israel;2016;0.0;0.0;Brasil;Espumantes
+1362;Itália;2016;1089617.0;3467993.0;Brasil;Espumantes
+1363;Luxemburgo;2016;0.0;0.0;Brasil;Espumantes
+1364;México;2016;0.0;0.0;Brasil;Espumantes
+1365;Moldávia;2016;0.0;0.0;Brasil;Espumantes
+1366;Nova Zelândia;2016;0.0;0.0;Brasil;Espumantes
+1367;Países Baixos;2016;0.0;0.0;Brasil;Espumantes
+1368;Panamá;2016;0.0;0.0;Brasil;Espumantes
+1369;Peru;2016;0.0;0.0;Brasil;Espumantes
+1370;Portugal;2016;88448.0;321629.0;Brasil;Espumantes
+1371;Reino Unido;2016;0.0;0.0;Brasil;Espumantes
+1372;Romênia;2016;0.0;0.0;Brasil;Espumantes
+1373;Suíça;2016;11.0;711.0;Brasil;Espumantes
+1374;Tunísia;2016;0.0;0.0;Brasil;Espumantes
+1375;Ucrânia;2016;1739.0;2423.0;Brasil;Espumantes
+1376;Uruguai;2016;7880.0;42863.0;Brasil;Espumantes
+1377;Não consta na tabela;2016;0.0;0.0;Brasil;Espumantes
+1378;Não declarados;2016;0.0;0.0;Brasil;Espumantes
+1379;Outros;2016;0.0;0.0;Brasil;Espumantes
+1380;Africa do Sul;2017;4913.0;23919.0;Brasil;Espumantes
+1381;Alemanha;2017;4819.0;37116.0;Brasil;Espumantes
+1382;Argentina;2017;661857.0;2249681.0;Brasil;Espumantes
+1383;Austrália;2017;19198.0;51731.0;Brasil;Espumantes
+1384;Áustria;2017;0.0;0.0;Brasil;Espumantes
+1385;Bermudas;2017;0.0;0.0;Brasil;Espumantes
+1386;Bahamas;2017;519.0;11136.0;Brasil;Espumantes
+1387;Bélgica;2017;923.0;50574.0;Brasil;Espumantes
+1388;Brasil;2017;6166.0;180512.0;Brasil;Espumantes
+1389;Bulgária;2017;3.0;716.0;Brasil;Espumantes
+1390;Canada;2017;0.0;0.0;Brasil;Espumantes
+1391;Chile;2017;304391.0;1350744.0;Brasil;Espumantes
+1392;Croácia;2017;0.0;0.0;Brasil;Espumantes
+1393;Cuba;2017;0.0;0.0;Brasil;Espumantes
+1394;Emirados Árabes Unidos;2017;0.0;0.0;Brasil;Espumantes
+1395;Eslovênia;2017;2093.0;10110.0;Brasil;Espumantes
+1396;Espanha;2017;1493908.0;5592839.0;Brasil;Espumantes
+1397;Estados Unidos;2017;8408.0;226792.0;Brasil;Espumantes
+1398;França;2017;1778528.0;14966946.0;Brasil;Espumantes
+1399;Geórgia;2017;0.0;0.0;Brasil;Espumantes
+1400;Granada;2017;0.0;0.0;Brasil;Espumantes
+1401;Grécia;2017;156.0;277.0;Brasil;Espumantes
+1402;Hong Kong;2017;0.0;0.0;Brasil;Espumantes
+1403;Hungria;2017;1624.0;6960.0;Brasil;Espumantes
+1404;Indonésia;2017;0.0;0.0;Brasil;Espumantes
+1405;Irlanda;2017;0.0;0.0;Brasil;Espumantes
+1406;Israel;2017;0.0;0.0;Brasil;Espumantes
+1407;Itália;2017;3065767.0;5635842.0;Brasil;Espumantes
+1408;Luxemburgo;2017;0.0;0.0;Brasil;Espumantes
+1409;México;2017;0.0;0.0;Brasil;Espumantes
+1410;Moldávia;2017;0.0;0.0;Brasil;Espumantes
+1411;Nova Zelândia;2017;0.0;0.0;Brasil;Espumantes
+1412;Países Baixos;2017;0.0;0.0;Brasil;Espumantes
+1413;Panamá;2017;0.0;0.0;Brasil;Espumantes
+1414;Peru;2017;0.0;0.0;Brasil;Espumantes
+1415;Portugal;2017;123786.0;492083.0;Brasil;Espumantes
+1416;Reino Unido;2017;350.0;2424.0;Brasil;Espumantes
+1417;Romênia;2017;0.0;0.0;Brasil;Espumantes
+1418;Suíça;2017;0.0;0.0;Brasil;Espumantes
+1419;Tunísia;2017;0.0;0.0;Brasil;Espumantes
+1420;Ucrânia;2017;0.0;0.0;Brasil;Espumantes
+1421;Uruguai;2017;1080.0;7920.0;Brasil;Espumantes
+1422;Não consta na tabela;2017;0.0;0.0;Brasil;Espumantes
+1423;Não declarados;2017;0.0;0.0;Brasil;Espumantes
+1424;Outros;2017;0.0;0.0;Brasil;Espumantes
+1425;Africa do Sul;2018;15368.0;74800.0;Brasil;Espumantes
+1426;Alemanha;2018;18376.0;82273.0;Brasil;Espumantes
+1427;Argentina;2018;706478.0;2462909.0;Brasil;Espumantes
+1428;Austrália;2018;57917.0;212199.0;Brasil;Espumantes
+1429;Áustria;2018;1228.0;11638.0;Brasil;Espumantes
+1430;Bermudas;2018;0.0;0.0;Brasil;Espumantes
+1431;Bahamas;2018;169.0;2283.0;Brasil;Espumantes
+1432;Bélgica;2018;0.0;0.0;Brasil;Espumantes
+1433;Brasil;2018;566215.0;162992.0;Brasil;Espumantes
+1434;Bulgária;2018;0.0;0.0;Brasil;Espumantes
+1435;Canada;2018;3852.0;109402.0;Brasil;Espumantes
+1436;Chile;2018;316293.0;1312445.0;Brasil;Espumantes
+1437;Croácia;2018;0.0;0.0;Brasil;Espumantes
+1438;Cuba;2018;0.0;0.0;Brasil;Espumantes
+1439;Emirados Árabes Unidos;2018;0.0;0.0;Brasil;Espumantes
+1440;Eslovênia;2018;1800.0;8860.0;Brasil;Espumantes
+1441;Espanha;2018;1515106.0;5707839.0;Brasil;Espumantes
+1442;Estados Unidos;2018;26405.0;64081.0;Brasil;Espumantes
+1443;França;2018;3637804.0;12678962.0;Brasil;Espumantes
+1444;Geórgia;2018;0.0;0.0;Brasil;Espumantes
+1445;Granada;2018;0.0;0.0;Brasil;Espumantes
+1446;Grécia;2018;0.0;0.0;Brasil;Espumantes
+1447;Hong Kong;2018;0.0;0.0;Brasil;Espumantes
+1448;Hungria;2018;1802.0;5977.0;Brasil;Espumantes
+1449;Indonésia;2018;35.0;271.0;Brasil;Espumantes
+1450;Irlanda;2018;0.0;0.0;Brasil;Espumantes
+1451;Israel;2018;0.0;0.0;Brasil;Espumantes
+1452;Itália;2018;2147490.0;5947967.0;Brasil;Espumantes
+1453;Luxemburgo;2018;208.0;1902.0;Brasil;Espumantes
+1454;México;2018;95.0;777.0;Brasil;Espumantes
+1455;Moldávia;2018;0.0;0.0;Brasil;Espumantes
+1456;Nova Zelândia;2018;0.0;0.0;Brasil;Espumantes
+1457;Países Baixos;2018;305.0;10695.0;Brasil;Espumantes
+1458;Panamá;2018;15057.0;30546.0;Brasil;Espumantes
+1459;Peru;2018;0.0;0.0;Brasil;Espumantes
+1460;Portugal;2018;128802.0;526987.0;Brasil;Espumantes
+1461;Reino Unido;2018;3834.0;104831.0;Brasil;Espumantes
+1462;Romênia;2018;0.0;0.0;Brasil;Espumantes
+1463;Suíça;2018;576.0;4031.0;Brasil;Espumantes
+1464;Tunísia;2018;0.0;0.0;Brasil;Espumantes
+1465;Ucrânia;2018;0.0;0.0;Brasil;Espumantes
+1466;Uruguai;2018;776.0;5786.0;Brasil;Espumantes
+1467;Não consta na tabela;2018;0.0;0.0;Brasil;Espumantes
+1468;Não declarados;2018;0.0;0.0;Brasil;Espumantes
+1469;Outros;2018;0.0;0.0;Brasil;Espumantes
+1470;Africa do Sul;2019;17583.0;72077.0;Brasil;Espumantes
+1471;Alemanha;2019;26853.0;169989.0;Brasil;Espumantes
+1472;Argentina;2019;757716.0;2282614.0;Brasil;Espumantes
+1473;Austrália;2019;16701.0;27592.0;Brasil;Espumantes
+1474;Áustria;2019;1269.0;11571.0;Brasil;Espumantes
+1475;Bermudas;2019;0.0;0.0;Brasil;Espumantes
+1476;Bahamas;2019;0.0;0.0;Brasil;Espumantes
+1477;Bélgica;2019;0.0;0.0;Brasil;Espumantes
+1478;Brasil;2019;15464.0;238268.0;Brasil;Espumantes
+1479;Bulgária;2019;0.0;0.0;Brasil;Espumantes
+1480;Canada;2019;0.0;0.0;Brasil;Espumantes
+1481;Chile;2019;233064.0;912613.0;Brasil;Espumantes
+1482;Croácia;2019;0.0;0.0;Brasil;Espumantes
+1483;Cuba;2019;0.0;0.0;Brasil;Espumantes
+1484;Emirados Árabes Unidos;2019;0.0;0.0;Brasil;Espumantes
+1485;Eslovênia;2019;518.0;2539.0;Brasil;Espumantes
+1486;Espanha;2019;1440241.0;4463736.0;Brasil;Espumantes
+1487;Estados Unidos;2019;13239.0;105197.0;Brasil;Espumantes
+1488;França;2019;1610293.0;13991734.0;Brasil;Espumantes
+1489;Geórgia;2019;0.0;0.0;Brasil;Espumantes
+1490;Granada;2019;0.0;0.0;Brasil;Espumantes
+1491;Grécia;2019;230.0;318.0;Brasil;Espumantes
+1492;Hong Kong;2019;0.0;0.0;Brasil;Espumantes
+1493;Hungria;2019;585.0;1379.0;Brasil;Espumantes
+1494;Indonésia;2019;66.0;529.0;Brasil;Espumantes
+1495;Irlanda;2019;0.0;0.0;Brasil;Espumantes
+1496;Israel;2019;5035.0;17085.0;Brasil;Espumantes
+1497;Itália;2019;1874314.0;4790173.0;Brasil;Espumantes
+1498;Luxemburgo;2019;518.0;4067.0;Brasil;Espumantes
+1499;México;2019;133.0;1104.0;Brasil;Espumantes
+1500;Moldávia;2019;0.0;0.0;Brasil;Espumantes
+1501;Nova Zelândia;2019;72.0;657.0;Brasil;Espumantes
+1502;Países Baixos;2019;827.0;47027.0;Brasil;Espumantes
+1503;Panamá;2019;0.0;0.0;Brasil;Espumantes
+1504;Peru;2019;0.0;0.0;Brasil;Espumantes
+1505;Portugal;2019;144296.0;621259.0;Brasil;Espumantes
+1506;Reino Unido;2019;1320.0;11869.0;Brasil;Espumantes
+1507;Romênia;2019;0.0;0.0;Brasil;Espumantes
+1508;Suíça;2019;0.0;0.0;Brasil;Espumantes
+1509;Tunísia;2019;0.0;0.0;Brasil;Espumantes
+1510;Ucrânia;2019;0.0;0.0;Brasil;Espumantes
+1511;Uruguai;2019;2241.0;22983.0;Brasil;Espumantes
+1512;Não consta na tabela;2019;0.0;0.0;Brasil;Espumantes
+1513;Não declarados;2019;0.0;0.0;Brasil;Espumantes
+1514;Outros;2019;0.0;0.0;Brasil;Espumantes
+1515;Africa do Sul;2020;3574.0;14542.0;Brasil;Espumantes
+1516;Alemanha;2020;21174.0;65359.0;Brasil;Espumantes
+1517;Argentina;2020;469547.0;1304986.0;Brasil;Espumantes
+1518;Austrália;2020;7426.0;15190.0;Brasil;Espumantes
+1519;Áustria;2020;909.0;9399.0;Brasil;Espumantes
+1520;Bermudas;2020;0.0;0.0;Brasil;Espumantes
+1521;Bahamas;2020;0.0;0.0;Brasil;Espumantes
+1522;Bélgica;2020;0.0;0.0;Brasil;Espumantes
+1523;Brasil;2020;3491.0;106310.0;Brasil;Espumantes
+1524;Bulgária;2020;0.0;0.0;Brasil;Espumantes
+1525;Canada;2020;0.0;0.0;Brasil;Espumantes
+1526;Chile;2020;253225.0;775535.0;Brasil;Espumantes
+1527;Croácia;2020;0.0;0.0;Brasil;Espumantes
+1528;Cuba;2020;0.0;0.0;Brasil;Espumantes
+1529;Emirados Árabes Unidos;2020;0.0;0.0;Brasil;Espumantes
+1530;Eslovênia;2020;68.0;327.0;Brasil;Espumantes
+1531;Espanha;2020;1421655.0;3871128.0;Brasil;Espumantes
+1532;Estados Unidos;2020;13255.0;31083.0;Brasil;Espumantes
+1533;França;2020;1116188.0;8814571.0;Brasil;Espumantes
+1534;Geórgia;2020;0.0;0.0;Brasil;Espumantes
+1535;Granada;2020;0.0;0.0;Brasil;Espumantes
+1536;Grécia;2020;0.0;0.0;Brasil;Espumantes
+1537;Hong Kong;2020;72.0;5061.0;Brasil;Espumantes
+1538;Hungria;2020;765.0;2061.0;Brasil;Espumantes
+1539;Indonésia;2020;0.0;0.0;Brasil;Espumantes
+1540;Irlanda;2020;0.0;0.0;Brasil;Espumantes
+1541;Israel;2020;296.0;9540.0;Brasil;Espumantes
+1542;Itália;2020;1524542.0;3544718.0;Brasil;Espumantes
+1543;Luxemburgo;2020;0.0;0.0;Brasil;Espumantes
+1544;México;2020;0.0;0.0;Brasil;Espumantes
+1545;Moldávia;2020;0.0;0.0;Brasil;Espumantes
+1546;Nova Zelândia;2020;0.0;0.0;Brasil;Espumantes
+1547;Países Baixos;2020;3412.0;151690.0;Brasil;Espumantes
+1548;Panamá;2020;0.0;0.0;Brasil;Espumantes
+1549;Peru;2020;0.0;0.0;Brasil;Espumantes
+1550;Portugal;2020;102324.0;324099.0;Brasil;Espumantes
+1551;Reino Unido;2020;2309.0;17975.0;Brasil;Espumantes
+1552;Romênia;2020;0.0;0.0;Brasil;Espumantes
+1553;Suíça;2020;481.0;15222.0;Brasil;Espumantes
+1554;Tunísia;2020;0.0;0.0;Brasil;Espumantes
+1555;Ucrânia;2020;0.0;0.0;Brasil;Espumantes
+1556;Uruguai;2020;2908.0;18124.0;Brasil;Espumantes
+1557;Não consta na tabela;2020;0.0;0.0;Brasil;Espumantes
+1558;Não declarados;2020;0.0;0.0;Brasil;Espumantes
+1559;Outros;2020;0.0;0.0;Brasil;Espumantes
+1560;Africa do Sul;2021;6980.0;36677.0;Brasil;Espumantes
+1561;Alemanha;2021;19977.0;46237.0;Brasil;Espumantes
+1562;Argentina;2021;723847.0;2211657.0;Brasil;Espumantes
+1563;Austrália;2021;8062.0;26208.0;Brasil;Espumantes
+1564;Áustria;2021;90.0;1434.0;Brasil;Espumantes
+1565;Bermudas;2021;70.0;611.0;Brasil;Espumantes
+1566;Bahamas;2021;0.0;0.0;Brasil;Espumantes
+1567;Bélgica;2021;0.0;0.0;Brasil;Espumantes
+1568;Brasil;2021;548.0;3488.0;Brasil;Espumantes
+1569;Bulgária;2021;0.0;0.0;Brasil;Espumantes
+1570;Canada;2021;0.0;0.0;Brasil;Espumantes
+1571;Chile;2021;232948.0;686466.0;Brasil;Espumantes
+1572;Croácia;2021;0.0;0.0;Brasil;Espumantes
+1573;Cuba;2021;0.0;0.0;Brasil;Espumantes
+1574;Emirados Árabes Unidos;2021;0.0;0.0;Brasil;Espumantes
+1575;Eslovênia;2021;450.0;2426.0;Brasil;Espumantes
+1576;Espanha;2021;2016806.0;5732174.0;Brasil;Espumantes
+1577;Estados Unidos;2021;143.0;2173.0;Brasil;Espumantes
+1578;França;2021;1134059.0;12590570.0;Brasil;Espumantes
+1579;Geórgia;2021;0.0;0.0;Brasil;Espumantes
+1580;Granada;2021;0.0;0.0;Brasil;Espumantes
+1581;Grécia;2021;92.0;422.0;Brasil;Espumantes
+1582;Hong Kong;2021;0.0;0.0;Brasil;Espumantes
+1583;Hungria;2021;1142.0;2471.0;Brasil;Espumantes
+1584;Indonésia;2021;0.0;0.0;Brasil;Espumantes
+1585;Irlanda;2021;0.0;0.0;Brasil;Espumantes
+1586;Israel;2021;0.0;0.0;Brasil;Espumantes
+1587;Itália;2021;1093108.0;3142129.0;Brasil;Espumantes
+1588;Luxemburgo;2021;0.0;0.0;Brasil;Espumantes
+1589;México;2021;0.0;0.0;Brasil;Espumantes
+1590;Moldávia;2021;0.0;0.0;Brasil;Espumantes
+1591;Nova Zelândia;2021;0.0;0.0;Brasil;Espumantes
+1592;Países Baixos;2021;0.0;0.0;Brasil;Espumantes
+1593;Panamá;2021;0.0;0.0;Brasil;Espumantes
+1594;Peru;2021;0.0;0.0;Brasil;Espumantes
+1595;Portugal;2021;65238.0;277677.0;Brasil;Espumantes
+1596;Reino Unido;2021;254.0;3016.0;Brasil;Espumantes
+1597;Romênia;2021;432.0;2271.0;Brasil;Espumantes
+1598;Suíça;2021;66.0;376.0;Brasil;Espumantes
+1599;Tunísia;2021;0.0;0.0;Brasil;Espumantes
+1600;Ucrânia;2021;0.0;0.0;Brasil;Espumantes
+1601;Uruguai;2021;8947.0;47217.0;Brasil;Espumantes
+1602;Não consta na tabela;2021;0.0;0.0;Brasil;Espumantes
+1603;Não declarados;2021;0.0;0.0;Brasil;Espumantes
+1604;Outros;2021;0.0;0.0;Brasil;Espumantes
+1605;Africa do Sul;2022;9882.0;64582.0;Brasil;Espumantes
+1606;Alemanha;2022;12447.0;26877.0;Brasil;Espumantes
+1607;Argentina;2022;1333420.0;4123623.0;Brasil;Espumantes
+1608;Austrália;2022;0.0;0.0;Brasil;Espumantes
+1609;Áustria;2022;0.0;0.0;Brasil;Espumantes
+1610;Bermudas;2022;5.0;67.0;Brasil;Espumantes
+1611;Bahamas;2022;0.0;0.0;Brasil;Espumantes
+1612;Bélgica;2022;0.0;0.0;Brasil;Espumantes
+1613;Brasil;2022;0.0;0.0;Brasil;Espumantes
+1614;Bulgária;2022;976.0;1535.0;Brasil;Espumantes
+1615;Canada;2022;54.0;1017.0;Brasil;Espumantes
+1616;Chile;2022;342625.0;959421.0;Brasil;Espumantes
+1617;Croácia;2022;0.0;0.0;Brasil;Espumantes
+1618;Cuba;2022;0.0;0.0;Brasil;Espumantes
+1619;Emirados Árabes Unidos;2022;0.0;0.0;Brasil;Espumantes
+1620;Eslovênia;2022;803.0;2982.0;Brasil;Espumantes
+1621;Espanha;2022;2236061.0;5668798.0;Brasil;Espumantes
+1622;Estados Unidos;2022;181.0;2053.0;Brasil;Espumantes
+1623;França;2022;1268840.0;13164535.0;Brasil;Espumantes
+1624;Geórgia;2022;915.0;2325.0;Brasil;Espumantes
+1625;Granada;2022;0.0;0.0;Brasil;Espumantes
+1626;Grécia;2022;92.0;366.0;Brasil;Espumantes
+1627;Hong Kong;2022;0.0;0.0;Brasil;Espumantes
+1628;Hungria;2022;2090.0;3828.0;Brasil;Espumantes
+1629;Indonésia;2022;0.0;0.0;Brasil;Espumantes
+1630;Irlanda;2022;0.0;0.0;Brasil;Espumantes
+1631;Israel;2022;0.0;0.0;Brasil;Espumantes
+1632;Itália;2022;1169909.0;3356633.0;Brasil;Espumantes
+1633;Luxemburgo;2022;0.0;0.0;Brasil;Espumantes
+1634;México;2022;0.0;0.0;Brasil;Espumantes
+1635;Moldávia;2022;2892.0;3713.0;Brasil;Espumantes
+1636;Nova Zelândia;2022;270.0;3114.0;Brasil;Espumantes
+1637;Países Baixos;2022;0.0;0.0;Brasil;Espumantes
+1638;Panamá;2022;0.0;0.0;Brasil;Espumantes
+1639;Peru;2022;0.0;0.0;Brasil;Espumantes
+1640;Portugal;2022;103443.0;391952.0;Brasil;Espumantes
+1641;Reino Unido;2022;0.0;0.0;Brasil;Espumantes
+1642;Romênia;2022;1914.0;5007.0;Brasil;Espumantes
+1643;Suíça;2022;0.0;0.0;Brasil;Espumantes
+1644;Tunísia;2022;0.0;0.0;Brasil;Espumantes
+1645;Ucrânia;2022;1330.0;1616.0;Brasil;Espumantes
+1646;Uruguai;2022;1206.0;5579.0;Brasil;Espumantes
+1647;Não consta na tabela;2022;0.0;0.0;Brasil;Espumantes
+1648;Não declarados;2022;0.0;0.0;Brasil;Espumantes
+1649;Outros;2022;0.0;0.0;Brasil;Espumantes
+1650;Africa do Sul;2023;7650.0;69382.0;Brasil;Espumantes
+1651;Alemanha;2023;322.0;5111.0;Brasil;Espumantes
+1652;Argentina;2023;839006.0;2765843.0;Brasil;Espumantes
+1653;Austrália;2023;3150.0;10474.0;Brasil;Espumantes
+1654;Áustria;2023;882.0;8833.0;Brasil;Espumantes
+1655;Bermudas;2023;3.0;54.0;Brasil;Espumantes
+1656;Bahamas;2023;0.0;0.0;Brasil;Espumantes
+1657;Bélgica;2023;0.0;0.0;Brasil;Espumantes
+1658;Brasil;2023;7.0;184.0;Brasil;Espumantes
+1659;Bulgária;2023;0.0;0.0;Brasil;Espumantes
+1660;Canada;2023;23.0;279.0;Brasil;Espumantes
+1661;Chile;2023;592991.0;1952709.0;Brasil;Espumantes
+1662;Croácia;2023;0.0;0.0;Brasil;Espumantes
+1663;Cuba;2023;0.0;0.0;Brasil;Espumantes
+1664;Emirados Árabes Unidos;2023;0.0;0.0;Brasil;Espumantes
+1665;Eslovênia;2023;0.0;0.0;Brasil;Espumantes
+1666;Espanha;2023;3438264.0;9801916.0;Brasil;Espumantes
+1667;Estados Unidos;2023;259.0;10273.0;Brasil;Espumantes
+1668;França;2023;1401753.0;20166147.0;Brasil;Espumantes
+1669;Geórgia;2023;0.0;0.0;Brasil;Espumantes
+1670;Granada;2023;2.0;40.0;Brasil;Espumantes
+1671;Grécia;2023;300.0;1757.0;Brasil;Espumantes
+1672;Hong Kong;2023;0.0;0.0;Brasil;Espumantes
+1673;Hungria;2023;0.0;0.0;Brasil;Espumantes
+1674;Indonésia;2023;0.0;0.0;Brasil;Espumantes
+1675;Irlanda;2023;0.0;0.0;Brasil;Espumantes
+1676;Israel;2023;0.0;0.0;Brasil;Espumantes
+1677;Itália;2023;952639.0;3533749.0;Brasil;Espumantes
+1678;Luxemburgo;2023;0.0;0.0;Brasil;Espumantes
+1679;México;2023;0.0;0.0;Brasil;Espumantes
+1680;Moldávia;2023;955.0;1165.0;Brasil;Espumantes
+1681;Nova Zelândia;2023;0.0;0.0;Brasil;Espumantes
+1682;Países Baixos;2023;0.0;0.0;Brasil;Espumantes
+1683;Panamá;2023;0.0;0.0;Brasil;Espumantes
+1684;Peru;2023;0.0;0.0;Brasil;Espumantes
+1685;Portugal;2023;95326.0;386265.0;Brasil;Espumantes
+1686;Reino Unido;2023;1507.0;28581.0;Brasil;Espumantes
+1687;Romênia;2023;743.0;3841.0;Brasil;Espumantes
+1688;Suíça;2023;464.0;34430.0;Brasil;Espumantes
+1689;Tunísia;2023;0.0;0.0;Brasil;Espumantes
+1690;Ucrânia;2023;0.0;0.0;Brasil;Espumantes
+1691;Uruguai;2023;10814.0;45704.0;Brasil;Espumantes
+1692;Não consta na tabela;2023;0.0;0.0;Brasil;Espumantes
+1693;Não declarados;2023;0.0;0.0;Brasil;Espumantes
+1694;Outros;2023;0.0;0.0;Brasil;Espumantes
+1695;Argélia;2009;0.0;0.0;Brasil;Uvas Frescas
+1696;Argentina;2009;7453027.0;8062155.0;Brasil;Uvas Frescas
+1697;Brasil;2009;0.0;0.0;Brasil;Uvas Frescas
+1698;Chile;2009;10846054.0;12828213.0;Brasil;Uvas Frescas
+1699;Colômbia;2009;0.0;0.0;Brasil;Uvas Frescas
+1700;Egito;2009;0.0;0.0;Brasil;Uvas Frescas
+1701;Espanha;2009;124345.0;253794.0;Brasil;Uvas Frescas
+1702;Estados Unidos;2009;120861.0;283233.0;Brasil;Uvas Frescas
+1703;Grécia;2009;0.0;0.0;Brasil;Uvas Frescas
+1704;Itália;2009;14439.0;40411.0;Brasil;Uvas Frescas
+1705;México;2009;31200.0;93644.0;Brasil;Uvas Frescas
+1706;Peru;2009;75550.0;135846.0;Brasil;Uvas Frescas
+1707;Paraguai;2009;0.0;0.0;Brasil;Uvas Frescas
+1708;Portugal;2009;0.0;0.0;Brasil;Uvas Frescas
+1709;Panamá;2009;0.0;0.0;Brasil;Uvas Frescas
+1710;Reino Unido;2009;0.0;0.0;Brasil;Uvas Frescas
+1711;Uruguai;2009;0.0;0.0;Brasil;Uvas Frescas
+1712;Venezuela;2009;0.0;0.0;Brasil;Uvas Frescas
+1713;Não consta na tabela;2009;0.0;0.0;Brasil;Uvas Frescas
+1714;Outros;2009;0.0;0.0;Brasil;Uvas Frescas
+1715;Argélia;2010;0.0;0.0;Brasil;Uvas Frescas
+1716;Argentina;2010;11559264.0;15926306.0;Brasil;Uvas Frescas
+1717;Brasil;2010;0.0;0.0;Brasil;Uvas Frescas
+1718;Chile;2010;11806542.0;17019296.0;Brasil;Uvas Frescas
+1719;Colômbia;2010;0.0;0.0;Brasil;Uvas Frescas
+1720;Egito;2010;0.0;0.0;Brasil;Uvas Frescas
+1721;Espanha;2010;212463.0;325707.0;Brasil;Uvas Frescas
+1722;Estados Unidos;2010;89492.0;241211.0;Brasil;Uvas Frescas
+1723;Grécia;2010;0.0;0.0;Brasil;Uvas Frescas
+1724;Itália;2010;190141.0;438972.0;Brasil;Uvas Frescas
+1725;México;2010;432639.0;1025498.0;Brasil;Uvas Frescas
+1726;Peru;2010;504154.0;1097870.0;Brasil;Uvas Frescas
+1727;Paraguai;2010;0.0;0.0;Brasil;Uvas Frescas
+1728;Portugal;2010;0.0;0.0;Brasil;Uvas Frescas
+1729;Panamá;2010;0.0;0.0;Brasil;Uvas Frescas
+1730;Reino Unido;2010;0.0;0.0;Brasil;Uvas Frescas
+1731;Uruguai;2010;0.0;0.0;Brasil;Uvas Frescas
+1732;Venezuela;2010;0.0;0.0;Brasil;Uvas Frescas
+1733;Não consta na tabela;2010;0.0;0.0;Brasil;Uvas Frescas
+1734;Outros;2010;0.0;0.0;Brasil;Uvas Frescas
+1735;Argélia;2011;0.0;0.0;Brasil;Uvas Frescas
+1736;Argentina;2011;13438557.0;19759895.0;Brasil;Uvas Frescas
+1737;Brasil;2011;0.0;0.0;Brasil;Uvas Frescas
+1738;Chile;2011;18620819.0;27472449.0;Brasil;Uvas Frescas
+1739;Colômbia;2011;0.0;0.0;Brasil;Uvas Frescas
+1740;Egito;2011;0.0;0.0;Brasil;Uvas Frescas
+1741;Espanha;2011;993310.0;1894982.0;Brasil;Uvas Frescas
+1742;Estados Unidos;2011;3265.0;16288.0;Brasil;Uvas Frescas
+1743;Grécia;2011;0.0;0.0;Brasil;Uvas Frescas
+1744;Itália;2011;552911.0;1045123.0;Brasil;Uvas Frescas
+1745;México;2011;233856.0;601883.0;Brasil;Uvas Frescas
+1746;Peru;2011;240389.0;580014.0;Brasil;Uvas Frescas
+1747;Paraguai;2011;0.0;0.0;Brasil;Uvas Frescas
+1748;Portugal;2011;0.0;0.0;Brasil;Uvas Frescas
+1749;Panamá;2011;0.0;0.0;Brasil;Uvas Frescas
+1750;Reino Unido;2011;0.0;0.0;Brasil;Uvas Frescas
+1751;Uruguai;2011;0.0;0.0;Brasil;Uvas Frescas
+1752;Venezuela;2011;0.0;0.0;Brasil;Uvas Frescas
+1753;Não consta na tabela;2011;0.0;0.0;Brasil;Uvas Frescas
+1754;Outros;2011;0.0;0.0;Brasil;Uvas Frescas
+1755;Argélia;2012;0.0;0.0;Brasil;Uvas Frescas
+1756;Argentina;2012;8714800.0;13595978.0;Brasil;Uvas Frescas
+1757;Brasil;2012;14612.0;37412.0;Brasil;Uvas Frescas
+1758;Chile;2012;22385291.0;36393910.0;Brasil;Uvas Frescas
+1759;Colômbia;2012;0.0;0.0;Brasil;Uvas Frescas
+1760;Egito;2012;0.0;0.0;Brasil;Uvas Frescas
+1761;Espanha;2012;393387.0;679189.0;Brasil;Uvas Frescas
+1762;Estados Unidos;2012;32458.0;85451.0;Brasil;Uvas Frescas
+1763;Grécia;2012;0.0;0.0;Brasil;Uvas Frescas
+1764;Itália;2012;1154322.0;2161324.0;Brasil;Uvas Frescas
+1765;México;2012;173184.0;388467.0;Brasil;Uvas Frescas
+1766;Peru;2012;426468.0;1040103.0;Brasil;Uvas Frescas
+1767;Paraguai;2012;0.0;0.0;Brasil;Uvas Frescas
+1768;Portugal;2012;0.0;0.0;Brasil;Uvas Frescas
+1769;Panamá;2012;0.0;0.0;Brasil;Uvas Frescas
+1770;Reino Unido;2012;0.0;0.0;Brasil;Uvas Frescas
+1771;Uruguai;2012;0.0;0.0;Brasil;Uvas Frescas
+1772;Venezuela;2012;0.0;0.0;Brasil;Uvas Frescas
+1773;Não consta na tabela;2012;0.0;0.0;Brasil;Uvas Frescas
+1774;Outros;2012;0.0;0.0;Brasil;Uvas Frescas
+1775;Argélia;2013;0.0;0.0;Brasil;Uvas Frescas
+1776;Argentina;2013;5810559.0;10558621.0;Brasil;Uvas Frescas
+1777;Brasil;2013;0.0;0.0;Brasil;Uvas Frescas
+1778;Chile;2013;24392313.0;43466944.0;Brasil;Uvas Frescas
+1779;Colômbia;2013;0.0;0.0;Brasil;Uvas Frescas
+1780;Egito;2013;0.0;0.0;Brasil;Uvas Frescas
+1781;Espanha;2013;246827.0;505467.0;Brasil;Uvas Frescas
+1782;Estados Unidos;2013;80518.0;205104.0;Brasil;Uvas Frescas
+1783;Grécia;2013;0.0;0.0;Brasil;Uvas Frescas
+1784;Itália;2013;1073920.0;2303222.0;Brasil;Uvas Frescas
+1785;México;2013;298656.0;742610.0;Brasil;Uvas Frescas
+1786;Peru;2013;728022.0;1798788.0;Brasil;Uvas Frescas
+1787;Paraguai;2013;0.0;0.0;Brasil;Uvas Frescas
+1788;Portugal;2013;0.0;0.0;Brasil;Uvas Frescas
+1789;Panamá;2013;0.0;0.0;Brasil;Uvas Frescas
+1790;Reino Unido;2013;0.0;0.0;Brasil;Uvas Frescas
+1791;Uruguai;2013;0.0;0.0;Brasil;Uvas Frescas
+1792;Venezuela;2013;0.0;0.0;Brasil;Uvas Frescas
+1793;Não consta na tabela;2013;0.0;0.0;Brasil;Uvas Frescas
+1794;Outros;2013;0.0;0.0;Brasil;Uvas Frescas
+1795;Argélia;2014;0.0;0.0;Brasil;Uvas Frescas
+1796;Argentina;2014;2758211.0;4852008.0;Brasil;Uvas Frescas
+1797;Brasil;2014;0.0;0.0;Brasil;Uvas Frescas
+1798;Chile;2014;25952434.0;47301298.0;Brasil;Uvas Frescas
+1799;Colômbia;2014;0.0;0.0;Brasil;Uvas Frescas
+1800;Egito;2014;0.0;0.0;Brasil;Uvas Frescas
+1801;Espanha;2014;401281.0;716423.0;Brasil;Uvas Frescas
+1802;Estados Unidos;2014;50811.0;166753.0;Brasil;Uvas Frescas
+1803;Grécia;2014;0.0;0.0;Brasil;Uvas Frescas
+1804;Itália;2014;1228338.0;2274045.0;Brasil;Uvas Frescas
+1805;México;2014;184747.0;398096.0;Brasil;Uvas Frescas
+1806;Peru;2014;3184984.0;6629415.0;Brasil;Uvas Frescas
+1807;Paraguai;2014;0.0;0.0;Brasil;Uvas Frescas
+1808;Portugal;2014;0.0;0.0;Brasil;Uvas Frescas
+1809;Panamá;2014;0.0;0.0;Brasil;Uvas Frescas
+1810;Reino Unido;2014;0.0;0.0;Brasil;Uvas Frescas
+1811;Uruguai;2014;0.0;0.0;Brasil;Uvas Frescas
+1812;Venezuela;2014;0.0;0.0;Brasil;Uvas Frescas
+1813;Não consta na tabela;2014;0.0;0.0;Brasil;Uvas Frescas
+1814;Outros;2014;0.0;0.0;Brasil;Uvas Frescas
+1815;Argélia;2015;0.0;0.0;Brasil;Uvas Frescas
+1816;Argentina;2015;3569873.0;5636226.0;Brasil;Uvas Frescas
+1817;Brasil;2015;0.0;0.0;Brasil;Uvas Frescas
+1818;Chile;2015;24254096.0;36956724.0;Brasil;Uvas Frescas
+1819;Colômbia;2015;0.0;0.0;Brasil;Uvas Frescas
+1820;Egito;2015;0.0;0.0;Brasil;Uvas Frescas
+1821;Espanha;2015;145066.0;257656.0;Brasil;Uvas Frescas
+1822;Estados Unidos;2015;16504.0;65265.0;Brasil;Uvas Frescas
+1823;Grécia;2015;0.0;0.0;Brasil;Uvas Frescas
+1824;Itália;2015;1053083.0;1856161.0;Brasil;Uvas Frescas
+1825;México;2015;133608.0;307654.0;Brasil;Uvas Frescas
+1826;Peru;2015;2645931.0;4885560.0;Brasil;Uvas Frescas
+1827;Paraguai;2015;0.0;0.0;Brasil;Uvas Frescas
+1828;Portugal;2015;0.0;0.0;Brasil;Uvas Frescas
+1829;Panamá;2015;0.0;0.0;Brasil;Uvas Frescas
+1830;Reino Unido;2015;0.0;0.0;Brasil;Uvas Frescas
+1831;Uruguai;2015;0.0;0.0;Brasil;Uvas Frescas
+1832;Venezuela;2015;0.0;0.0;Brasil;Uvas Frescas
+1833;Não consta na tabela;2015;0.0;0.0;Brasil;Uvas Frescas
+1834;Outros;2015;0.0;0.0;Brasil;Uvas Frescas
+1835;Argélia;2016;0.0;0.0;Brasil;Uvas Frescas
+1836;Argentina;2016;3931377.0;5771032.0;Brasil;Uvas Frescas
+1837;Brasil;2016;0.0;0.0;Brasil;Uvas Frescas
+1838;Chile;2016;18424582.0;30767570.0;Brasil;Uvas Frescas
+1839;Colômbia;2016;0.0;0.0;Brasil;Uvas Frescas
+1840;Egito;2016;0.0;0.0;Brasil;Uvas Frescas
+1841;Espanha;2016;431567.0;628571.0;Brasil;Uvas Frescas
+1842;Estados Unidos;2016;3522.0;21093.0;Brasil;Uvas Frescas
+1843;Grécia;2016;0.0;0.0;Brasil;Uvas Frescas
+1844;Itália;2016;589675.0;1002856.0;Brasil;Uvas Frescas
+1845;México;2016;0.0;0.0;Brasil;Uvas Frescas
+1846;Peru;2016;4399499.0;7646918.0;Brasil;Uvas Frescas
+1847;Paraguai;2016;0.0;0.0;Brasil;Uvas Frescas
+1848;Portugal;2016;0.0;0.0;Brasil;Uvas Frescas
+1849;Panamá;2016;0.0;0.0;Brasil;Uvas Frescas
+1850;Reino Unido;2016;0.0;0.0;Brasil;Uvas Frescas
+1851;Uruguai;2016;0.0;0.0;Brasil;Uvas Frescas
+1852;Venezuela;2016;0.0;0.0;Brasil;Uvas Frescas
+1853;Não consta na tabela;2016;0.0;0.0;Brasil;Uvas Frescas
+1854;Outros;2016;0.0;0.0;Brasil;Uvas Frescas
+1855;Argélia;2017;0.0;0.0;Brasil;Uvas Frescas
+1856;Argentina;2017;2097970.0;3302565.0;Brasil;Uvas Frescas
+1857;Brasil;2017;0.0;0.0;Brasil;Uvas Frescas
+1858;Chile;2017;18510455.0;29248621.0;Brasil;Uvas Frescas
+1859;Colômbia;2017;0.0;0.0;Brasil;Uvas Frescas
+1860;Egito;2017;0.0;0.0;Brasil;Uvas Frescas
+1861;Espanha;2017;243947.0;403978.0;Brasil;Uvas Frescas
+1862;Estados Unidos;2017;2164.0;17056.0;Brasil;Uvas Frescas
+1863;Grécia;2017;0.0;0.0;Brasil;Uvas Frescas
+1864;Itália;2017;788663.0;1442078.0;Brasil;Uvas Frescas
+1865;México;2017;0.0;0.0;Brasil;Uvas Frescas
+1866;Peru;2017;2553897.0;4729591.0;Brasil;Uvas Frescas
+1867;Paraguai;2017;0.0;0.0;Brasil;Uvas Frescas
+1868;Portugal;2017;0.0;0.0;Brasil;Uvas Frescas
+1869;Panamá;2017;0.0;0.0;Brasil;Uvas Frescas
+1870;Reino Unido;2017;0.0;0.0;Brasil;Uvas Frescas
+1871;Uruguai;2017;0.0;0.0;Brasil;Uvas Frescas
+1872;Venezuela;2017;0.0;0.0;Brasil;Uvas Frescas
+1873;Não consta na tabela;2017;0.0;0.0;Brasil;Uvas Frescas
+1874;Outros;2017;0.0;0.0;Brasil;Uvas Frescas
+1875;Argélia;2018;0.0;0.0;Brasil;Uvas Frescas
+1876;Argentina;2018;1616855.0;2499358.0;Brasil;Uvas Frescas
+1877;Brasil;2018;0.0;0.0;Brasil;Uvas Frescas
+1878;Chile;2018;16103415.0;25237521.0;Brasil;Uvas Frescas
+1879;Colômbia;2018;0.0;0.0;Brasil;Uvas Frescas
+1880;Egito;2018;0.0;0.0;Brasil;Uvas Frescas
+1881;Espanha;2018;83212.0;164529.0;Brasil;Uvas Frescas
+1882;Estados Unidos;2018;15100.0;40981.0;Brasil;Uvas Frescas
+1883;Grécia;2018;0.0;0.0;Brasil;Uvas Frescas
+1884;Itália;2018;334544.0;610245.0;Brasil;Uvas Frescas
+1885;México;2018;0.0;0.0;Brasil;Uvas Frescas
+1886;Peru;2018;947045.0;1936467.0;Brasil;Uvas Frescas
+1887;Paraguai;2018;0.0;0.0;Brasil;Uvas Frescas
+1888;Portugal;2018;0.0;0.0;Brasil;Uvas Frescas
+1889;Panamá;2018;0.0;0.0;Brasil;Uvas Frescas
+1890;Reino Unido;2018;0.0;0.0;Brasil;Uvas Frescas
+1891;Uruguai;2018;0.0;0.0;Brasil;Uvas Frescas
+1892;Venezuela;2018;0.0;0.0;Brasil;Uvas Frescas
+1893;Não consta na tabela;2018;0.0;0.0;Brasil;Uvas Frescas
+1894;Outros;2018;0.0;0.0;Brasil;Uvas Frescas
+1895;Argélia;2019;0.0;0.0;Brasil;Uvas Frescas
+1896;Argentina;2019;3211513.0;4659791.0;Brasil;Uvas Frescas
+1897;Brasil;2019;0.0;0.0;Brasil;Uvas Frescas
+1898;Chile;2019;9082957.0;13450429.0;Brasil;Uvas Frescas
+1899;Colômbia;2019;0.0;0.0;Brasil;Uvas Frescas
+1900;Egito;2019;0.0;0.0;Brasil;Uvas Frescas
+1901;Espanha;2019;51079.0;109171.0;Brasil;Uvas Frescas
+1902;Estados Unidos;2019;1343.0;10481.0;Brasil;Uvas Frescas
+1903;Grécia;2019;0.0;0.0;Brasil;Uvas Frescas
+1904;Itália;2019;591991.0;1020673.0;Brasil;Uvas Frescas
+1905;México;2019;0.0;0.0;Brasil;Uvas Frescas
+1906;Peru;2019;1585923.0;2862870.0;Brasil;Uvas Frescas
+1907;Paraguai;2019;0.0;0.0;Brasil;Uvas Frescas
+1908;Portugal;2019;0.0;0.0;Brasil;Uvas Frescas
+1909;Panamá;2019;0.0;0.0;Brasil;Uvas Frescas
+1910;Reino Unido;2019;0.0;0.0;Brasil;Uvas Frescas
+1911;Uruguai;2019;0.0;0.0;Brasil;Uvas Frescas
+1912;Venezuela;2019;0.0;0.0;Brasil;Uvas Frescas
+1913;Não consta na tabela;2019;0.0;0.0;Brasil;Uvas Frescas
+1914;Outros;2019;0.0;0.0;Brasil;Uvas Frescas
+1915;Argélia;2020;21746.0;34476.0;Brasil;Uvas Frescas
+1916;Argentina;2020;1798220.0;2559671.0;Brasil;Uvas Frescas
+1917;Brasil;2020;0.0;0.0;Brasil;Uvas Frescas
+1918;Chile;2020;4943446.0;6986630.0;Brasil;Uvas Frescas
+1919;Colômbia;2020;0.0;0.0;Brasil;Uvas Frescas
+1920;Egito;2020;0.0;0.0;Brasil;Uvas Frescas
+1921;Espanha;2020;0.0;0.0;Brasil;Uvas Frescas
+1922;Estados Unidos;2020;0.0;0.0;Brasil;Uvas Frescas
+1923;Grécia;2020;0.0;0.0;Brasil;Uvas Frescas
+1924;Itália;2020;0.0;0.0;Brasil;Uvas Frescas
+1925;México;2020;0.0;0.0;Brasil;Uvas Frescas
+1926;Peru;2020;487080.0;852856.0;Brasil;Uvas Frescas
+1927;Paraguai;2020;0.0;0.0;Brasil;Uvas Frescas
+1928;Portugal;2020;0.0;0.0;Brasil;Uvas Frescas
+1929;Panamá;2020;0.0;0.0;Brasil;Uvas Frescas
+1930;Reino Unido;2020;0.0;0.0;Brasil;Uvas Frescas
+1931;Uruguai;2020;0.0;0.0;Brasil;Uvas Frescas
+1932;Venezuela;2020;0.0;0.0;Brasil;Uvas Frescas
+1933;Não consta na tabela;2020;0.0;0.0;Brasil;Uvas Frescas
+1934;Outros;2020;0.0;0.0;Brasil;Uvas Frescas
+1935;Argélia;2021;0.0;0.0;Brasil;Uvas Frescas
+1936;Argentina;2021;1356735.0;1696659.0;Brasil;Uvas Frescas
+1937;Brasil;2021;0.0;0.0;Brasil;Uvas Frescas
+1938;Chile;2021;3888723.0;5404163.0;Brasil;Uvas Frescas
+1939;Colômbia;2021;0.0;0.0;Brasil;Uvas Frescas
+1940;Egito;2021;0.0;0.0;Brasil;Uvas Frescas
+1941;Espanha;2021;0.0;0.0;Brasil;Uvas Frescas
+1942;Estados Unidos;2021;0.0;0.0;Brasil;Uvas Frescas
+1943;Grécia;2021;0.0;0.0;Brasil;Uvas Frescas
+1944;Itália;2021;0.0;0.0;Brasil;Uvas Frescas
+1945;México;2021;0.0;0.0;Brasil;Uvas Frescas
+1946;Peru;2021;75768.0;151819.0;Brasil;Uvas Frescas
+1947;Paraguai;2021;0.0;0.0;Brasil;Uvas Frescas
+1948;Portugal;2021;0.0;0.0;Brasil;Uvas Frescas
+1949;Panamá;2021;0.0;0.0;Brasil;Uvas Frescas
+1950;Reino Unido;2021;0.0;0.0;Brasil;Uvas Frescas
+1951;Uruguai;2021;0.0;0.0;Brasil;Uvas Frescas
+1952;Venezuela;2021;0.0;0.0;Brasil;Uvas Frescas
+1953;Não consta na tabela;2021;0.0;0.0;Brasil;Uvas Frescas
+1954;Outros;2021;0.0;0.0;Brasil;Uvas Frescas
+1955;Argélia;2022;0.0;0.0;Brasil;Uvas Frescas
+1956;Argentina;2022;771187.0;1053519.0;Brasil;Uvas Frescas
+1957;Brasil;2022;0.0;0.0;Brasil;Uvas Frescas
+1958;Chile;2022;6536258.0;9640996.0;Brasil;Uvas Frescas
+1959;Colômbia;2022;0.0;0.0;Brasil;Uvas Frescas
+1960;Egito;2022;27760.0;53709.0;Brasil;Uvas Frescas
+1961;Espanha;2022;0.0;0.0;Brasil;Uvas Frescas
+1962;Estados Unidos;2022;0.0;0.0;Brasil;Uvas Frescas
+1963;Grécia;2022;0.0;0.0;Brasil;Uvas Frescas
+1964;Itália;2022;0.0;0.0;Brasil;Uvas Frescas
+1965;México;2022;414622.0;902301.0;Brasil;Uvas Frescas
+1966;Peru;2022;0.0;0.0;Brasil;Uvas Frescas
+1967;Paraguai;2022;0.0;0.0;Brasil;Uvas Frescas
+1968;Portugal;2022;0.0;0.0;Brasil;Uvas Frescas
+1969;Panamá;2022;0.0;0.0;Brasil;Uvas Frescas
+1970;Reino Unido;2022;0.0;0.0;Brasil;Uvas Frescas
+1971;Uruguai;2022;0.0;0.0;Brasil;Uvas Frescas
+1972;Venezuela;2022;0.0;0.0;Brasil;Uvas Frescas
+1973;Não consta na tabela;2022;0.0;0.0;Brasil;Uvas Frescas
+1974;Outros;2022;0.0;0.0;Brasil;Uvas Frescas
+1975;Argélia;2023;0.0;0.0;Brasil;Uvas Frescas
+1976;Argentina;2023;400781.0;525034.0;Brasil;Uvas Frescas
+1977;Brasil;2023;0.0;0.0;Brasil;Uvas Frescas
+1978;Chile;2023;6144949.0;9738753.0;Brasil;Uvas Frescas
+1979;Colômbia;2023;0.0;0.0;Brasil;Uvas Frescas
+1980;Egito;2023;0.0;0.0;Brasil;Uvas Frescas
+1981;Espanha;2023;0.0;0.0;Brasil;Uvas Frescas
+1982;Estados Unidos;2023;0.0;0.0;Brasil;Uvas Frescas
+1983;Grécia;2023;0.0;0.0;Brasil;Uvas Frescas
+1984;Itália;2023;0.0;0.0;Brasil;Uvas Frescas
+1985;México;2023;0.0;0.0;Brasil;Uvas Frescas
+1986;Peru;2023;1086032.0;2635488.0;Brasil;Uvas Frescas
+1987;Paraguai;2023;0.0;0.0;Brasil;Uvas Frescas
+1988;Portugal;2023;0.0;0.0;Brasil;Uvas Frescas
+1989;Panamá;2023;0.0;0.0;Brasil;Uvas Frescas
+1990;Reino Unido;2023;0.0;0.0;Brasil;Uvas Frescas
+1991;Uruguai;2023;0.0;0.0;Brasil;Uvas Frescas
+1992;Venezuela;2023;0.0;0.0;Brasil;Uvas Frescas
+1993;Não consta na tabela;2023;0.0;0.0;Brasil;Uvas Frescas
+1994;Outros;2023;0.0;0.0;Brasil;Uvas Frescas
+1995;Africa do Sul;2009;11839.0;9400.0;Brasil;Suco de Uva
+1996;Alemanha;2009;0.0;0.0;Brasil;Suco de Uva
+1997;Argentina;2009;0.0;0.0;Brasil;Suco de Uva
+1998;Austria;2009;0.0;0.0;Brasil;Suco de Uva
+1999;Canadá;2009;0.0;0.0;Brasil;Suco de Uva
+2000;Coreia do Sul, República;2009;16661.0;17249.0;Brasil;Suco de Uva
+2001;Coreia do Norte, República;2009;0.0;0.0;Brasil;Suco de Uva
+2002;Chile;2009;0.0;0.0;Brasil;Suco de Uva
+2003;China;2009;0.0;0.0;Brasil;Suco de Uva
+2004;Dinamarca;2009;0.0;0.0;Brasil;Suco de Uva
+2005;Espanha;2009;0.0;0.0;Brasil;Suco de Uva
+2006;Estados Unidos;2009;13178.0;24066.0;Brasil;Suco de Uva
+2007;França;2009;0.0;0.0;Brasil;Suco de Uva
+2008;Guiana;2009;0.0;0.0;Brasil;Suco de Uva
+2009;Israel;2009;900.0;1783.0;Brasil;Suco de Uva
+2010;itália;2009;0.0;0.0;Brasil;Suco de Uva
+2011;Japão;2009;0.0;0.0;Brasil;Suco de Uva
+2012;Líbano;2009;0.0;0.0;Brasil;Suco de Uva
+2013;México;2009;0.0;0.0;Brasil;Suco de Uva
+2014;Países Baixos;2009;0.0;0.0;Brasil;Suco de Uva
+2015;Panamá;2009;0.0;0.0;Brasil;Suco de Uva
+2016;Peru;2009;0.0;0.0;Brasil;Suco de Uva
+2017;Portugal;2009;0.0;0.0;Brasil;Suco de Uva
+2018;Reino Unido;2009;0.0;0.0;Brasil;Suco de Uva
+2019;Taiwan;2009;0.0;0.0;Brasil;Suco de Uva
+2020;Turquia;2009;0.0;0.0;Brasil;Suco de Uva
+2021;Uruguai;2009;0.0;0.0;Brasil;Suco de Uva
+2022;Venezuela;2009;0.0;0.0;Brasil;Suco de Uva
+2023;Outros;2009;0.0;0.0;Brasil;Suco de Uva
+2024;Africa do Sul;2010;37353.0;31729.0;Brasil;Suco de Uva
+2025;Alemanha;2010;0.0;0.0;Brasil;Suco de Uva
+2026;Argentina;2010;108000.0;138240.0;Brasil;Suco de Uva
+2027;Austria;2010;0.0;0.0;Brasil;Suco de Uva
+2028;Canadá;2010;0.0;0.0;Brasil;Suco de Uva
+2029;Coreia do Sul, República;2010;15080.0;18097.0;Brasil;Suco de Uva
+2030;Coreia do Norte, República;2010;0.0;0.0;Brasil;Suco de Uva
+2031;Chile;2010;1015000.0;3003445.0;Brasil;Suco de Uva
+2032;China;2010;0.0;0.0;Brasil;Suco de Uva
+2033;Dinamarca;2010;0.0;0.0;Brasil;Suco de Uva
+2034;Espanha;2010;0.0;0.0;Brasil;Suco de Uva
+2035;Estados Unidos;2010;10657.0;17793.0;Brasil;Suco de Uva
+2036;França;2010;0.0;0.0;Brasil;Suco de Uva
+2037;Guiana;2010;0.0;0.0;Brasil;Suco de Uva
+2038;Israel;2010;1125.0;1684.0;Brasil;Suco de Uva
+2039;itália;2010;0.0;0.0;Brasil;Suco de Uva
+2040;Japão;2010;0.0;0.0;Brasil;Suco de Uva
+2041;Líbano;2010;0.0;0.0;Brasil;Suco de Uva
+2042;México;2010;0.0;0.0;Brasil;Suco de Uva
+2043;Países Baixos;2010;0.0;0.0;Brasil;Suco de Uva
+2044;Panamá;2010;0.0;0.0;Brasil;Suco de Uva
+2045;Peru;2010;0.0;0.0;Brasil;Suco de Uva
+2046;Portugal;2010;0.0;0.0;Brasil;Suco de Uva
+2047;Reino Unido;2010;0.0;0.0;Brasil;Suco de Uva
+2048;Taiwan;2010;0.0;0.0;Brasil;Suco de Uva
+2049;Turquia;2010;0.0;0.0;Brasil;Suco de Uva
+2050;Uruguai;2010;2139.0;1783.0;Brasil;Suco de Uva
+2051;Venezuela;2010;0.0;0.0;Brasil;Suco de Uva
+2052;Outros;2010;0.0;0.0;Brasil;Suco de Uva
+2053;Africa do Sul;2011;38796.0;34605.0;Brasil;Suco de Uva
+2054;Alemanha;2011;0.0;0.0;Brasil;Suco de Uva
+2055;Argentina;2011;0.0;0.0;Brasil;Suco de Uva
+2056;Austria;2011;3264.0;3254.0;Brasil;Suco de Uva
+2057;Canadá;2011;0.0;0.0;Brasil;Suco de Uva
+2058;Coreia do Sul, República;2011;130902.0;136380.0;Brasil;Suco de Uva
+2059;Coreia do Norte, República;2011;0.0;0.0;Brasil;Suco de Uva
+2060;Chile;2011;0.0;0.0;Brasil;Suco de Uva
+2061;China;2011;0.0;0.0;Brasil;Suco de Uva
+2062;Dinamarca;2011;0.0;0.0;Brasil;Suco de Uva
+2063;Espanha;2011;0.0;0.0;Brasil;Suco de Uva
+2064;Estados Unidos;2011;12487.0;13866.0;Brasil;Suco de Uva
+2065;França;2011;0.0;0.0;Brasil;Suco de Uva
+2066;Guiana;2011;0.0;0.0;Brasil;Suco de Uva
+2067;Israel;2011;0.0;0.0;Brasil;Suco de Uva
+2068;itália;2011;0.0;0.0;Brasil;Suco de Uva
+2069;Japão;2011;0.0;0.0;Brasil;Suco de Uva
+2070;Líbano;2011;0.0;0.0;Brasil;Suco de Uva
+2071;México;2011;0.0;0.0;Brasil;Suco de Uva
+2072;Países Baixos;2011;0.0;0.0;Brasil;Suco de Uva
+2073;Panamá;2011;0.0;0.0;Brasil;Suco de Uva
+2074;Peru;2011;0.0;0.0;Brasil;Suco de Uva
+2075;Portugal;2011;0.0;0.0;Brasil;Suco de Uva
+2076;Reino Unido;2011;1632.0;1016.0;Brasil;Suco de Uva
+2077;Taiwan;2011;0.0;0.0;Brasil;Suco de Uva
+2078;Turquia;2011;0.0;0.0;Brasil;Suco de Uva
+2079;Uruguai;2011;5786.0;4989.0;Brasil;Suco de Uva
+2080;Venezuela;2011;0.0;0.0;Brasil;Suco de Uva
+2081;Outros;2011;0.0;0.0;Brasil;Suco de Uva
+2082;Africa do Sul;2012;74388.0;71839.0;Brasil;Suco de Uva
+2083;Alemanha;2012;0.0;0.0;Brasil;Suco de Uva
+2084;Argentina;2012;0.0;0.0;Brasil;Suco de Uva
+2085;Austria;2012;0.0;0.0;Brasil;Suco de Uva
+2086;Canadá;2012;0.0;0.0;Brasil;Suco de Uva
+2087;Coreia do Sul, República;2012;542548.0;577061.0;Brasil;Suco de Uva
+2088;Coreia do Norte, República;2012;0.0;0.0;Brasil;Suco de Uva
+2089;Chile;2012;0.0;0.0;Brasil;Suco de Uva
+2090;China;2012;0.0;0.0;Brasil;Suco de Uva
+2091;Dinamarca;2012;0.0;0.0;Brasil;Suco de Uva
+2092;Espanha;2012;0.0;0.0;Brasil;Suco de Uva
+2093;Estados Unidos;2012;13498.0;9740.0;Brasil;Suco de Uva
+2094;França;2012;0.0;0.0;Brasil;Suco de Uva
+2095;Guiana;2012;0.0;0.0;Brasil;Suco de Uva
+2096;Israel;2012;1139.0;2021.0;Brasil;Suco de Uva
+2097;itália;2012;0.0;0.0;Brasil;Suco de Uva
+2098;Japão;2012;0.0;0.0;Brasil;Suco de Uva
+2099;Líbano;2012;0.0;0.0;Brasil;Suco de Uva
+2100;México;2012;0.0;0.0;Brasil;Suco de Uva
+2101;Países Baixos;2012;0.0;0.0;Brasil;Suco de Uva
+2102;Panamá;2012;0.0;0.0;Brasil;Suco de Uva
+2103;Peru;2012;0.0;0.0;Brasil;Suco de Uva
+2104;Portugal;2012;1151.0;3796.0;Brasil;Suco de Uva
+2105;Reino Unido;2012;0.0;0.0;Brasil;Suco de Uva
+2106;Taiwan;2012;1632.0;1034.0;Brasil;Suco de Uva
+2107;Turquia;2012;6210.0;15446.0;Brasil;Suco de Uva
+2108;Uruguai;2012;0.0;0.0;Brasil;Suco de Uva
+2109;Venezuela;2012;0.0;0.0;Brasil;Suco de Uva
+2110;Outros;2012;0.0;0.0;Brasil;Suco de Uva
+2111;Africa do Sul;2013;67758.0;68254.0;Brasil;Suco de Uva
+2112;Alemanha;2013;0.0;0.0;Brasil;Suco de Uva
+2113;Argentina;2013;0.0;0.0;Brasil;Suco de Uva
+2114;Austria;2013;0.0;0.0;Brasil;Suco de Uva
+2115;Canadá;2013;0.0;0.0;Brasil;Suco de Uva
+2116;Coreia do Sul, República;2013;176796.0;227252.0;Brasil;Suco de Uva
+2117;Coreia do Norte, República;2013;0.0;0.0;Brasil;Suco de Uva
+2118;Chile;2013;0.0;0.0;Brasil;Suco de Uva
+2119;China;2013;0.0;0.0;Brasil;Suco de Uva
+2120;Dinamarca;2013;0.0;0.0;Brasil;Suco de Uva
+2121;Espanha;2013;9588.0;8215.0;Brasil;Suco de Uva
+2122;Estados Unidos;2013;32044.0;34722.0;Brasil;Suco de Uva
+2123;França;2013;0.0;0.0;Brasil;Suco de Uva
+2124;Guiana;2013;0.0;0.0;Brasil;Suco de Uva
+2125;Israel;2013;2528.0;4831.0;Brasil;Suco de Uva
+2126;itália;2013;771457.0;408318.0;Brasil;Suco de Uva
+2127;Japão;2013;0.0;0.0;Brasil;Suco de Uva
+2128;Líbano;2013;0.0;0.0;Brasil;Suco de Uva
+2129;México;2013;0.0;0.0;Brasil;Suco de Uva
+2130;Países Baixos;2013;0.0;0.0;Brasil;Suco de Uva
+2131;Panamá;2013;0.0;0.0;Brasil;Suco de Uva
+2132;Peru;2013;0.0;0.0;Brasil;Suco de Uva
+2133;Portugal;2013;0.0;0.0;Brasil;Suco de Uva
+2134;Reino Unido;2013;0.0;0.0;Brasil;Suco de Uva
+2135;Taiwan;2013;3672.0;2328.0;Brasil;Suco de Uva
+2136;Turquia;2013;0.0;0.0;Brasil;Suco de Uva
+2137;Uruguai;2013;0.0;0.0;Brasil;Suco de Uva
+2138;Venezuela;2013;0.0;0.0;Brasil;Suco de Uva
+2139;Outros;2013;0.0;0.0;Brasil;Suco de Uva
+2140;Africa do Sul;2014;43104.0;40489.0;Brasil;Suco de Uva
+2141;Alemanha;2014;0.0;0.0;Brasil;Suco de Uva
+2142;Argentina;2014;0.0;0.0;Brasil;Suco de Uva
+2143;Austria;2014;0.0;0.0;Brasil;Suco de Uva
+2144;Canadá;2014;0.0;0.0;Brasil;Suco de Uva
+2145;Coreia do Sul, República;2014;12655.0;14784.0;Brasil;Suco de Uva
+2146;Coreia do Norte, República;2014;16704.0;24698.0;Brasil;Suco de Uva
+2147;Chile;2014;0.0;0.0;Brasil;Suco de Uva
+2148;China;2014;0.0;0.0;Brasil;Suco de Uva
+2149;Dinamarca;2014;0.0;0.0;Brasil;Suco de Uva
+2150;Espanha;2014;0.0;0.0;Brasil;Suco de Uva
+2151;Estados Unidos;2014;0.0;0.0;Brasil;Suco de Uva
+2152;França;2014;0.0;0.0;Brasil;Suco de Uva
+2153;Guiana;2014;0.0;0.0;Brasil;Suco de Uva
+2154;Israel;2014;0.0;0.0;Brasil;Suco de Uva
+2155;itália;2014;0.0;0.0;Brasil;Suco de Uva
+2156;Japão;2014;0.0;0.0;Brasil;Suco de Uva
+2157;Líbano;2014;0.0;0.0;Brasil;Suco de Uva
+2158;México;2014;0.0;0.0;Brasil;Suco de Uva
+2159;Países Baixos;2014;0.0;0.0;Brasil;Suco de Uva
+2160;Panamá;2014;0.0;0.0;Brasil;Suco de Uva
+2161;Peru;2014;0.0;0.0;Brasil;Suco de Uva
+2162;Portugal;2014;0.0;0.0;Brasil;Suco de Uva
+2163;Reino Unido;2014;0.0;0.0;Brasil;Suco de Uva
+2164;Taiwan;2014;2040.0;1294.0;Brasil;Suco de Uva
+2165;Turquia;2014;13428.0;10216.0;Brasil;Suco de Uva
+2166;Uruguai;2014;0.0;0.0;Brasil;Suco de Uva
+2167;Venezuela;2014;0.0;0.0;Brasil;Suco de Uva
+2168;Outros;2014;0.0;0.0;Brasil;Suco de Uva
+2169;Africa do Sul;2015;13125.0;13209.0;Brasil;Suco de Uva
+2170;Alemanha;2015;6496.0;46692.0;Brasil;Suco de Uva
+2171;Argentina;2015;0.0;0.0;Brasil;Suco de Uva
+2172;Austria;2015;0.0;0.0;Brasil;Suco de Uva
+2173;Canadá;2015;0.0;0.0;Brasil;Suco de Uva
+2174;Coreia do Sul, República;2015;85145.0;49712.0;Brasil;Suco de Uva
+2175;Coreia do Norte, República;2015;15651.0;22621.0;Brasil;Suco de Uva
+2176;Chile;2015;23790.0;29024.0;Brasil;Suco de Uva
+2177;China;2015;0.0;0.0;Brasil;Suco de Uva
+2178;Dinamarca;2015;0.0;0.0;Brasil;Suco de Uva
+2179;Espanha;2015;0.0;0.0;Brasil;Suco de Uva
+2180;Estados Unidos;2015;23578.0;28765.0;Brasil;Suco de Uva
+2181;França;2015;862.0;2229.0;Brasil;Suco de Uva
+2182;Guiana;2015;0.0;0.0;Brasil;Suco de Uva
+2183;Israel;2015;2575.0;4651.0;Brasil;Suco de Uva
+2184;itália;2015;225.0;771.0;Brasil;Suco de Uva
+2185;Japão;2015;0.0;0.0;Brasil;Suco de Uva
+2186;Líbano;2015;0.0;0.0;Brasil;Suco de Uva
+2187;México;2015;0.0;0.0;Brasil;Suco de Uva
+2188;Países Baixos;2015;0.0;0.0;Brasil;Suco de Uva
+2189;Panamá;2015;0.0;0.0;Brasil;Suco de Uva
+2190;Peru;2015;0.0;0.0;Brasil;Suco de Uva
+2191;Portugal;2015;0.0;0.0;Brasil;Suco de Uva
+2192;Reino Unido;2015;0.0;0.0;Brasil;Suco de Uva
+2193;Taiwan;2015;0.0;0.0;Brasil;Suco de Uva
+2194;Turquia;2015;5052.0;3846.0;Brasil;Suco de Uva
+2195;Uruguai;2015;0.0;0.0;Brasil;Suco de Uva
+2196;Venezuela;2015;0.0;0.0;Brasil;Suco de Uva
+2197;Outros;2015;0.0;0.0;Brasil;Suco de Uva
+2198;Africa do Sul;2016;7154.0;5841.0;Brasil;Suco de Uva
+2199;Alemanha;2016;6540.0;75902.0;Brasil;Suco de Uva
+2200;Argentina;2016;59028.0;80898.0;Brasil;Suco de Uva
+2201;Austria;2016;0.0;0.0;Brasil;Suco de Uva
+2202;Canadá;2016;0.0;0.0;Brasil;Suco de Uva
+2203;Coreia do Sul, República;2016;30022.0;44524.0;Brasil;Suco de Uva
+2204;Coreia do Norte, República;2016;0.0;0.0;Brasil;Suco de Uva
+2205;Chile;2016;94940.0;183525.0;Brasil;Suco de Uva
+2206;China;2016;0.0;0.0;Brasil;Suco de Uva
+2207;Dinamarca;2016;0.0;0.0;Brasil;Suco de Uva
+2208;Espanha;2016;0.0;0.0;Brasil;Suco de Uva
+2209;Estados Unidos;2016;68730.0;108205.0;Brasil;Suco de Uva
+2210;França;2016;0.0;0.0;Brasil;Suco de Uva
+2211;Guiana;2016;0.0;0.0;Brasil;Suco de Uva
+2212;Israel;2016;1200.0;1656.0;Brasil;Suco de Uva
+2213;itália;2016;774.0;1594.0;Brasil;Suco de Uva
+2214;Japão;2016;0.0;0.0;Brasil;Suco de Uva
+2215;Líbano;2016;0.0;0.0;Brasil;Suco de Uva
+2216;México;2016;0.0;0.0;Brasil;Suco de Uva
+2217;Países Baixos;2016;0.0;0.0;Brasil;Suco de Uva
+2218;Panamá;2016;0.0;0.0;Brasil;Suco de Uva
+2219;Peru;2016;10238.0;8908.0;Brasil;Suco de Uva
+2220;Portugal;2016;0.0;0.0;Brasil;Suco de Uva
+2221;Reino Unido;2016;0.0;0.0;Brasil;Suco de Uva
+2222;Taiwan;2016;0.0;0.0;Brasil;Suco de Uva
+2223;Turquia;2016;0.0;0.0;Brasil;Suco de Uva
+2224;Uruguai;2016;0.0;0.0;Brasil;Suco de Uva
+2225;Venezuela;2016;0.0;0.0;Brasil;Suco de Uva
+2226;Outros;2016;0.0;0.0;Brasil;Suco de Uva
+2227;Africa do Sul;2017;22029.0;17551.0;Brasil;Suco de Uva
+2228;Alemanha;2017;0.0;0.0;Brasil;Suco de Uva
+2229;Argentina;2017;72900.0;90518.0;Brasil;Suco de Uva
+2230;Austria;2017;1333.0;1467.0;Brasil;Suco de Uva
+2231;Canadá;2017;0.0;0.0;Brasil;Suco de Uva
+2232;Coreia do Sul, República;2017;28927.0;41276.0;Brasil;Suco de Uva
+2233;Coreia do Norte, República;2017;0.0;0.0;Brasil;Suco de Uva
+2234;Chile;2017;0.0;0.0;Brasil;Suco de Uva
+2235;China;2017;2475.0;2098.0;Brasil;Suco de Uva
+2236;Dinamarca;2017;0.0;0.0;Brasil;Suco de Uva
+2237;Espanha;2017;0.0;0.0;Brasil;Suco de Uva
+2238;Estados Unidos;2017;32691.0;40554.0;Brasil;Suco de Uva
+2239;França;2017;0.0;0.0;Brasil;Suco de Uva
+2240;Guiana;2017;0.0;0.0;Brasil;Suco de Uva
+2241;Israel;2017;5340.0;7399.0;Brasil;Suco de Uva
+2242;itália;2017;1161.0;4254.0;Brasil;Suco de Uva
+2243;Japão;2017;0.0;0.0;Brasil;Suco de Uva
+2244;Líbano;2017;0.0;0.0;Brasil;Suco de Uva
+2245;México;2017;0.0;0.0;Brasil;Suco de Uva
+2246;Países Baixos;2017;0.0;0.0;Brasil;Suco de Uva
+2247;Panamá;2017;0.0;0.0;Brasil;Suco de Uva
+2248;Peru;2017;38321.0;37176.0;Brasil;Suco de Uva
+2249;Portugal;2017;4500.0;5576.0;Brasil;Suco de Uva
+2250;Reino Unido;2017;0.0;0.0;Brasil;Suco de Uva
+2251;Taiwan;2017;0.0;0.0;Brasil;Suco de Uva
+2252;Turquia;2017;27816.0;19461.0;Brasil;Suco de Uva
+2253;Uruguai;2017;0.0;0.0;Brasil;Suco de Uva
+2254;Venezuela;2017;0.0;0.0;Brasil;Suco de Uva
+2255;Outros;2017;0.0;0.0;Brasil;Suco de Uva
+2256;Africa do Sul;2018;21618.0;18334.0;Brasil;Suco de Uva
+2257;Alemanha;2018;80.0;652.0;Brasil;Suco de Uva
+2258;Argentina;2018;2998.0;3139.0;Brasil;Suco de Uva
+2259;Austria;2018;0.0;0.0;Brasil;Suco de Uva
+2260;Canadá;2018;0.0;0.0;Brasil;Suco de Uva
+2261;Coreia do Sul, República;2018;77955.0;99441.0;Brasil;Suco de Uva
+2262;Coreia do Norte, República;2018;0.0;0.0;Brasil;Suco de Uva
+2263;Chile;2018;0.0;0.0;Brasil;Suco de Uva
+2264;China;2018;0.0;0.0;Brasil;Suco de Uva
+2265;Dinamarca;2018;0.0;0.0;Brasil;Suco de Uva
+2266;Espanha;2018;422.0;806.0;Brasil;Suco de Uva
+2267;Estados Unidos;2018;14541.0;8226.0;Brasil;Suco de Uva
+2268;França;2018;0.0;0.0;Brasil;Suco de Uva
+2269;Guiana;2018;0.0;0.0;Brasil;Suco de Uva
+2270;Israel;2018;840.0;1034.0;Brasil;Suco de Uva
+2271;itália;2018;0.0;0.0;Brasil;Suco de Uva
+2272;Japão;2018;0.0;0.0;Brasil;Suco de Uva
+2273;Líbano;2018;0.0;0.0;Brasil;Suco de Uva
+2274;México;2018;0.0;0.0;Brasil;Suco de Uva
+2275;Países Baixos;2018;0.0;0.0;Brasil;Suco de Uva
+2276;Panamá;2018;0.0;0.0;Brasil;Suco de Uva
+2277;Peru;2018;0.0;0.0;Brasil;Suco de Uva
+2278;Portugal;2018;0.0;0.0;Brasil;Suco de Uva
+2279;Reino Unido;2018;0.0;0.0;Brasil;Suco de Uva
+2280;Taiwan;2018;0.0;0.0;Brasil;Suco de Uva
+2281;Turquia;2018;0.0;0.0;Brasil;Suco de Uva
+2282;Uruguai;2018;225.0;600.0;Brasil;Suco de Uva
+2283;Venezuela;2018;0.0;0.0;Brasil;Suco de Uva
+2284;Outros;2018;0.0;0.0;Brasil;Suco de Uva
+2285;Africa do Sul;2019;0.0;0.0;Brasil;Suco de Uva
+2286;Alemanha;2019;0.0;0.0;Brasil;Suco de Uva
+2287;Argentina;2019;0.0;0.0;Brasil;Suco de Uva
+2288;Austria;2019;666.0;655.0;Brasil;Suco de Uva
+2289;Canadá;2019;0.0;0.0;Brasil;Suco de Uva
+2290;Coreia do Sul, República;2019;0.0;0.0;Brasil;Suco de Uva
+2291;Coreia do Norte, República;2019;0.0;0.0;Brasil;Suco de Uva
+2292;Chile;2019;0.0;0.0;Brasil;Suco de Uva
+2293;China;2019;0.0;0.0;Brasil;Suco de Uva
+2294;Dinamarca;2019;0.0;0.0;Brasil;Suco de Uva
+2295;Espanha;2019;0.0;0.0;Brasil;Suco de Uva
+2296;Estados Unidos;2019;9273.0;14093.0;Brasil;Suco de Uva
+2297;França;2019;0.0;0.0;Brasil;Suco de Uva
+2298;Guiana;2019;0.0;0.0;Brasil;Suco de Uva
+2299;Israel;2019;3360.0;3609.0;Brasil;Suco de Uva
+2300;itália;2019;0.0;0.0;Brasil;Suco de Uva
+2301;Japão;2019;0.0;0.0;Brasil;Suco de Uva
+2302;Líbano;2019;0.0;0.0;Brasil;Suco de Uva
+2303;México;2019;0.0;0.0;Brasil;Suco de Uva
+2304;Países Baixos;2019;0.0;0.0;Brasil;Suco de Uva
+2305;Panamá;2019;0.0;0.0;Brasil;Suco de Uva
+2306;Peru;2019;0.0;0.0;Brasil;Suco de Uva
+2307;Portugal;2019;0.0;0.0;Brasil;Suco de Uva
+2308;Reino Unido;2019;0.0;0.0;Brasil;Suco de Uva
+2309;Taiwan;2019;0.0;0.0;Brasil;Suco de Uva
+2310;Turquia;2019;0.0;0.0;Brasil;Suco de Uva
+2311;Uruguai;2019;0.0;0.0;Brasil;Suco de Uva
+2312;Venezuela;2019;0.0;0.0;Brasil;Suco de Uva
+2313;Outros;2019;0.0;0.0;Brasil;Suco de Uva
+2314;Africa do Sul;2020;0.0;0.0;Brasil;Suco de Uva
+2315;Alemanha;2020;0.0;0.0;Brasil;Suco de Uva
+2316;Argentina;2020;0.0;0.0;Brasil;Suco de Uva
+2317;Austria;2020;0.0;0.0;Brasil;Suco de Uva
+2318;Canadá;2020;0.0;0.0;Brasil;Suco de Uva
+2319;Coreia do Sul, República;2020;0.0;0.0;Brasil;Suco de Uva
+2320;Coreia do Norte, República;2020;0.0;0.0;Brasil;Suco de Uva
+2321;Chile;2020;0.0;0.0;Brasil;Suco de Uva
+2322;China;2020;0.0;0.0;Brasil;Suco de Uva
+2323;Dinamarca;2020;0.0;0.0;Brasil;Suco de Uva
+2324;Espanha;2020;0.0;0.0;Brasil;Suco de Uva
+2325;Estados Unidos;2020;28180.0;25418.0;Brasil;Suco de Uva
+2326;França;2020;0.0;0.0;Brasil;Suco de Uva
+2327;Guiana;2020;0.0;0.0;Brasil;Suco de Uva
+2328;Israel;2020;0.0;0.0;Brasil;Suco de Uva
+2329;itália;2020;0.0;0.0;Brasil;Suco de Uva
+2330;Japão;2020;0.0;0.0;Brasil;Suco de Uva
+2331;Líbano;2020;0.0;0.0;Brasil;Suco de Uva
+2332;México;2020;0.0;0.0;Brasil;Suco de Uva
+2333;Países Baixos;2020;0.0;0.0;Brasil;Suco de Uva
+2334;Panamá;2020;0.0;0.0;Brasil;Suco de Uva
+2335;Peru;2020;0.0;0.0;Brasil;Suco de Uva
+2336;Portugal;2020;0.0;0.0;Brasil;Suco de Uva
+2337;Reino Unido;2020;0.0;0.0;Brasil;Suco de Uva
+2338;Taiwan;2020;0.0;0.0;Brasil;Suco de Uva
+2339;Turquia;2020;0.0;0.0;Brasil;Suco de Uva
+2340;Uruguai;2020;0.0;0.0;Brasil;Suco de Uva
+2341;Venezuela;2020;0.0;0.0;Brasil;Suco de Uva
+2342;Outros;2020;0.0;0.0;Brasil;Suco de Uva
+2343;Africa do Sul;2021;0.0;0.0;Brasil;Suco de Uva
+2344;Alemanha;2021;0.0;0.0;Brasil;Suco de Uva
+2345;Argentina;2021;0.0;0.0;Brasil;Suco de Uva
+2346;Austria;2021;0.0;0.0;Brasil;Suco de Uva
+2347;Canadá;2021;0.0;0.0;Brasil;Suco de Uva
+2348;Coreia do Sul, República;2021;0.0;0.0;Brasil;Suco de Uva
+2349;Coreia do Norte, República;2021;0.0;0.0;Brasil;Suco de Uva
+2350;Chile;2021;0.0;0.0;Brasil;Suco de Uva
+2351;China;2021;0.0;0.0;Brasil;Suco de Uva
+2352;Dinamarca;2021;0.0;0.0;Brasil;Suco de Uva
+2353;Espanha;2021;0.0;0.0;Brasil;Suco de Uva
+2354;Estados Unidos;2021;3870.0;3551.0;Brasil;Suco de Uva
+2355;França;2021;0.0;0.0;Brasil;Suco de Uva
+2356;Guiana;2021;0.0;0.0;Brasil;Suco de Uva
+2357;Israel;2021;720.0;969.0;Brasil;Suco de Uva
+2358;itália;2021;0.0;0.0;Brasil;Suco de Uva
+2359;Japão;2021;0.0;0.0;Brasil;Suco de Uva
+2360;Líbano;2021;0.0;0.0;Brasil;Suco de Uva
+2361;México;2021;0.0;0.0;Brasil;Suco de Uva
+2362;Países Baixos;2021;0.0;0.0;Brasil;Suco de Uva
+2363;Panamá;2021;0.0;0.0;Brasil;Suco de Uva
+2364;Peru;2021;0.0;0.0;Brasil;Suco de Uva
+2365;Portugal;2021;0.0;0.0;Brasil;Suco de Uva
+2366;Reino Unido;2021;0.0;0.0;Brasil;Suco de Uva
+2367;Taiwan;2021;0.0;0.0;Brasil;Suco de Uva
+2368;Turquia;2021;0.0;0.0;Brasil;Suco de Uva
+2369;Uruguai;2021;0.0;0.0;Brasil;Suco de Uva
+2370;Venezuela;2021;0.0;0.0;Brasil;Suco de Uva
+2371;Outros;2021;0.0;0.0;Brasil;Suco de Uva
+2372;Africa do Sul;2022;0.0;0.0;Brasil;Suco de Uva
+2373;Alemanha;2022;0.0;0.0;Brasil;Suco de Uva
+2374;Argentina;2022;0.0;0.0;Brasil;Suco de Uva
+2375;Austria;2022;0.0;0.0;Brasil;Suco de Uva
+2376;Canadá;2022;0.0;0.0;Brasil;Suco de Uva
+2377;Coreia do Sul, República;2022;0.0;0.0;Brasil;Suco de Uva
+2378;Coreia do Norte, República;2022;0.0;0.0;Brasil;Suco de Uva
+2379;Chile;2022;0.0;0.0;Brasil;Suco de Uva
+2380;China;2022;0.0;0.0;Brasil;Suco de Uva
+2381;Dinamarca;2022;0.0;0.0;Brasil;Suco de Uva
+2382;Espanha;2022;0.0;0.0;Brasil;Suco de Uva
+2383;Estados Unidos;2022;29414.0;16781.0;Brasil;Suco de Uva
+2384;França;2022;0.0;0.0;Brasil;Suco de Uva
+2385;Guiana;2022;0.0;0.0;Brasil;Suco de Uva
+2386;Israel;2022;0.0;0.0;Brasil;Suco de Uva
+2387;itália;2022;0.0;0.0;Brasil;Suco de Uva
+2388;Japão;2022;0.0;0.0;Brasil;Suco de Uva
+2389;Líbano;2022;0.0;0.0;Brasil;Suco de Uva
+2390;México;2022;0.0;0.0;Brasil;Suco de Uva
+2391;Países Baixos;2022;0.0;0.0;Brasil;Suco de Uva
+2392;Panamá;2022;0.0;0.0;Brasil;Suco de Uva
+2393;Peru;2022;0.0;0.0;Brasil;Suco de Uva
+2394;Portugal;2022;0.0;0.0;Brasil;Suco de Uva
+2395;Reino Unido;2022;0.0;0.0;Brasil;Suco de Uva
+2396;Taiwan;2022;0.0;0.0;Brasil;Suco de Uva
+2397;Turquia;2022;0.0;0.0;Brasil;Suco de Uva
+2398;Uruguai;2022;0.0;0.0;Brasil;Suco de Uva
+2399;Venezuela;2022;0.0;0.0;Brasil;Suco de Uva
+2400;Outros;2022;0.0;0.0;Brasil;Suco de Uva
+2401;Africa do Sul;2023;0.0;0.0;Brasil;Suco de Uva
+2402;Alemanha;2023;0.0;0.0;Brasil;Suco de Uva
+2403;Argentina;2023;0.0;0.0;Brasil;Suco de Uva
+2404;Austria;2023;0.0;0.0;Brasil;Suco de Uva
+2405;Canadá;2023;0.0;0.0;Brasil;Suco de Uva
+2406;Coreia do Sul, República;2023;0.0;0.0;Brasil;Suco de Uva
+2407;Coreia do Norte, República;2023;0.0;0.0;Brasil;Suco de Uva
+2408;Chile;2023;0.0;0.0;Brasil;Suco de Uva
+2409;China;2023;0.0;0.0;Brasil;Suco de Uva
+2410;Dinamarca;2023;0.0;0.0;Brasil;Suco de Uva
+2411;Espanha;2023;0.0;0.0;Brasil;Suco de Uva
+2412;Estados Unidos;2023;28627.0;15200.0;Brasil;Suco de Uva
+2413;França;2023;0.0;0.0;Brasil;Suco de Uva
+2414;Guiana;2023;0.0;0.0;Brasil;Suco de Uva
+2415;Israel;2023;0.0;0.0;Brasil;Suco de Uva
+2416;itália;2023;1836.0;1966.0;Brasil;Suco de Uva
+2417;Japão;2023;0.0;0.0;Brasil;Suco de Uva
+2418;Líbano;2023;0.0;0.0;Brasil;Suco de Uva
+2419;México;2023;0.0;0.0;Brasil;Suco de Uva
+2420;Países Baixos;2023;0.0;0.0;Brasil;Suco de Uva
+2421;Panamá;2023;0.0;0.0;Brasil;Suco de Uva
+2422;Peru;2023;0.0;0.0;Brasil;Suco de Uva
+2423;Portugal;2023;0.0;0.0;Brasil;Suco de Uva
+2424;Reino Unido;2023;0.0;0.0;Brasil;Suco de Uva
+2425;Taiwan;2023;0.0;0.0;Brasil;Suco de Uva
+2426;Turquia;2023;0.0;0.0;Brasil;Suco de Uva
+2427;Uruguai;2023;0.0;0.0;Brasil;Suco de Uva
+2428;Venezuela;2023;0.0;0.0;Brasil;Suco de Uva
+2429;Outros;2023;0.0;0.0;Brasil;Suco de Uva

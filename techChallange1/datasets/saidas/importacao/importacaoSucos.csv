@@ -1,0 +1,436 @@
+;pais;anos;quantidade;valor;origem;tipo
+0;Africa do Sul;2009;11839;9400;Brasil;Suco de Uva
+1;Alemanha;2009;0;0;Brasil;Suco de Uva
+2;Argentina;2009;0;0;Brasil;Suco de Uva
+3;Austria;2009;0;0;Brasil;Suco de Uva
+4;Canadá;2009;0;0;Brasil;Suco de Uva
+5;Coreia do Sul, República;2009;16661;17249;Brasil;Suco de Uva
+6;Coreia do Norte, República;2009;0;0;Brasil;Suco de Uva
+7;Chile;2009;0;0;Brasil;Suco de Uva
+8;China;2009;0;0;Brasil;Suco de Uva
+9;Dinamarca;2009;0;0;Brasil;Suco de Uva
+10;Espanha;2009;0;0;Brasil;Suco de Uva
+11;Estados Unidos;2009;13178;24066;Brasil;Suco de Uva
+12;França;2009;0;0;Brasil;Suco de Uva
+13;Guiana;2009;0;0;Brasil;Suco de Uva
+14;Israel;2009;900;1783;Brasil;Suco de Uva
+15;itália;2009;0;0;Brasil;Suco de Uva
+16;Japão;2009;0;0;Brasil;Suco de Uva
+17;Líbano;2009;0;0;Brasil;Suco de Uva
+18;México;2009;0;0;Brasil;Suco de Uva
+19;Países Baixos;2009;0;0;Brasil;Suco de Uva
+20;Panamá;2009;0;0;Brasil;Suco de Uva
+21;Peru;2009;0;0;Brasil;Suco de Uva
+22;Portugal;2009;0;0;Brasil;Suco de Uva
+23;Reino Unido;2009;0;0;Brasil;Suco de Uva
+24;Taiwan;2009;0;0;Brasil;Suco de Uva
+25;Turquia;2009;0;0;Brasil;Suco de Uva
+26;Uruguai;2009;0;0;Brasil;Suco de Uva
+27;Venezuela;2009;0;0;Brasil;Suco de Uva
+28;Outros;2009;0;0;Brasil;Suco de Uva
+29;Africa do Sul;2010;37353;31729;Brasil;Suco de Uva
+30;Alemanha;2010;0;0;Brasil;Suco de Uva
+31;Argentina;2010;108000;138240;Brasil;Suco de Uva
+32;Austria;2010;0;0;Brasil;Suco de Uva
+33;Canadá;2010;0;0;Brasil;Suco de Uva
+34;Coreia do Sul, República;2010;15080;18097;Brasil;Suco de Uva
+35;Coreia do Norte, República;2010;0;0;Brasil;Suco de Uva
+36;Chile;2010;1015000;3003445;Brasil;Suco de Uva
+37;China;2010;0;0;Brasil;Suco de Uva
+38;Dinamarca;2010;0;0;Brasil;Suco de Uva
+39;Espanha;2010;0;0;Brasil;Suco de Uva
+40;Estados Unidos;2010;10657;17793;Brasil;Suco de Uva
+41;França;2010;0;0;Brasil;Suco de Uva
+42;Guiana;2010;0;0;Brasil;Suco de Uva
+43;Israel;2010;1125;1684;Brasil;Suco de Uva
+44;itália;2010;0;0;Brasil;Suco de Uva
+45;Japão;2010;0;0;Brasil;Suco de Uva
+46;Líbano;2010;0;0;Brasil;Suco de Uva
+47;México;2010;0;0;Brasil;Suco de Uva
+48;Países Baixos;2010;0;0;Brasil;Suco de Uva
+49;Panamá;2010;0;0;Brasil;Suco de Uva
+50;Peru;2010;0;0;Brasil;Suco de Uva
+51;Portugal;2010;0;0;Brasil;Suco de Uva
+52;Reino Unido;2010;0;0;Brasil;Suco de Uva
+53;Taiwan;2010;0;0;Brasil;Suco de Uva
+54;Turquia;2010;0;0;Brasil;Suco de Uva
+55;Uruguai;2010;2139;1783;Brasil;Suco de Uva
+56;Venezuela;2010;0;0;Brasil;Suco de Uva
+57;Outros;2010;0;0;Brasil;Suco de Uva
+58;Africa do Sul;2011;38796;34605;Brasil;Suco de Uva
+59;Alemanha;2011;0;0;Brasil;Suco de Uva
+60;Argentina;2011;0;0;Brasil;Suco de Uva
+61;Austria;2011;3264;3254;Brasil;Suco de Uva
+62;Canadá;2011;0;0;Brasil;Suco de Uva
+63;Coreia do Sul, República;2011;130902;136380;Brasil;Suco de Uva
+64;Coreia do Norte, República;2011;0;0;Brasil;Suco de Uva
+65;Chile;2011;0;0;Brasil;Suco de Uva
+66;China;2011;0;0;Brasil;Suco de Uva
+67;Dinamarca;2011;0;0;Brasil;Suco de Uva
+68;Espanha;2011;0;0;Brasil;Suco de Uva
+69;Estados Unidos;2011;12487;13866;Brasil;Suco de Uva
+70;França;2011;0;0;Brasil;Suco de Uva
+71;Guiana;2011;0;0;Brasil;Suco de Uva
+72;Israel;2011;0;0;Brasil;Suco de Uva
+73;itália;2011;0;0;Brasil;Suco de Uva
+74;Japão;2011;0;0;Brasil;Suco de Uva
+75;Líbano;2011;0;0;Brasil;Suco de Uva
+76;México;2011;0;0;Brasil;Suco de Uva
+77;Países Baixos;2011;0;0;Brasil;Suco de Uva
+78;Panamá;2011;0;0;Brasil;Suco de Uva
+79;Peru;2011;0;0;Brasil;Suco de Uva
+80;Portugal;2011;0;0;Brasil;Suco de Uva
+81;Reino Unido;2011;1632;1016;Brasil;Suco de Uva
+82;Taiwan;2011;0;0;Brasil;Suco de Uva
+83;Turquia;2011;0;0;Brasil;Suco de Uva
+84;Uruguai;2011;5786;4989;Brasil;Suco de Uva
+85;Venezuela;2011;0;0;Brasil;Suco de Uva
+86;Outros;2011;0;0;Brasil;Suco de Uva
+87;Africa do Sul;2012;74388;71839;Brasil;Suco de Uva
+88;Alemanha;2012;0;0;Brasil;Suco de Uva
+89;Argentina;2012;0;0;Brasil;Suco de Uva
+90;Austria;2012;0;0;Brasil;Suco de Uva
+91;Canadá;2012;0;0;Brasil;Suco de Uva
+92;Coreia do Sul, República;2012;542548;577061;Brasil;Suco de Uva
+93;Coreia do Norte, República;2012;0;0;Brasil;Suco de Uva
+94;Chile;2012;0;0;Brasil;Suco de Uva
+95;China;2012;0;0;Brasil;Suco de Uva
+96;Dinamarca;2012;0;0;Brasil;Suco de Uva
+97;Espanha;2012;0;0;Brasil;Suco de Uva
+98;Estados Unidos;2012;13498;9740;Brasil;Suco de Uva
+99;França;2012;0;0;Brasil;Suco de Uva
+100;Guiana;2012;0;0;Brasil;Suco de Uva
+101;Israel;2012;1139;2021;Brasil;Suco de Uva
+102;itália;2012;0;0;Brasil;Suco de Uva
+103;Japão;2012;0;0;Brasil;Suco de Uva
+104;Líbano;2012;0;0;Brasil;Suco de Uva
+105;México;2012;0;0;Brasil;Suco de Uva
+106;Países Baixos;2012;0;0;Brasil;Suco de Uva
+107;Panamá;2012;0;0;Brasil;Suco de Uva
+108;Peru;2012;0;0;Brasil;Suco de Uva
+109;Portugal;2012;1151;3796;Brasil;Suco de Uva
+110;Reino Unido;2012;0;0;Brasil;Suco de Uva
+111;Taiwan;2012;1632;1034;Brasil;Suco de Uva
+112;Turquia;2012;6210;15446;Brasil;Suco de Uva
+113;Uruguai;2012;0;0;Brasil;Suco de Uva
+114;Venezuela;2012;0;0;Brasil;Suco de Uva
+115;Outros;2012;0;0;Brasil;Suco de Uva
+116;Africa do Sul;2013;67758;68254;Brasil;Suco de Uva
+117;Alemanha;2013;0;0;Brasil;Suco de Uva
+118;Argentina;2013;0;0;Brasil;Suco de Uva
+119;Austria;2013;0;0;Brasil;Suco de Uva
+120;Canadá;2013;0;0;Brasil;Suco de Uva
+121;Coreia do Sul, República;2013;176796;227252;Brasil;Suco de Uva
+122;Coreia do Norte, República;2013;0;0;Brasil;Suco de Uva
+123;Chile;2013;0;0;Brasil;Suco de Uva
+124;China;2013;0;0;Brasil;Suco de Uva
+125;Dinamarca;2013;0;0;Brasil;Suco de Uva
+126;Espanha;2013;9588;8215;Brasil;Suco de Uva
+127;Estados Unidos;2013;32044;34722;Brasil;Suco de Uva
+128;França;2013;0;0;Brasil;Suco de Uva
+129;Guiana;2013;0;0;Brasil;Suco de Uva
+130;Israel;2013;2528;4831;Brasil;Suco de Uva
+131;itália;2013;771457;408318;Brasil;Suco de Uva
+132;Japão;2013;0;0;Brasil;Suco de Uva
+133;Líbano;2013;0;0;Brasil;Suco de Uva
+134;México;2013;0;0;Brasil;Suco de Uva
+135;Países Baixos;2013;0;0;Brasil;Suco de Uva
+136;Panamá;2013;0;0;Brasil;Suco de Uva
+137;Peru;2013;0;0;Brasil;Suco de Uva
+138;Portugal;2013;0;0;Brasil;Suco de Uva
+139;Reino Unido;2013;0;0;Brasil;Suco de Uva
+140;Taiwan;2013;3672;2328;Brasil;Suco de Uva
+141;Turquia;2013;0;0;Brasil;Suco de Uva
+142;Uruguai;2013;0;0;Brasil;Suco de Uva
+143;Venezuela;2013;0;0;Brasil;Suco de Uva
+144;Outros;2013;0;0;Brasil;Suco de Uva
+145;Africa do Sul;2014;43104;40489;Brasil;Suco de Uva
+146;Alemanha;2014;0;0;Brasil;Suco de Uva
+147;Argentina;2014;0;0;Brasil;Suco de Uva
+148;Austria;2014;0;0;Brasil;Suco de Uva
+149;Canadá;2014;0;0;Brasil;Suco de Uva
+150;Coreia do Sul, República;2014;12655;14784;Brasil;Suco de Uva
+151;Coreia do Norte, República;2014;16704;24698;Brasil;Suco de Uva
+152;Chile;2014;0;0;Brasil;Suco de Uva
+153;China;2014;0;0;Brasil;Suco de Uva
+154;Dinamarca;2014;0;0;Brasil;Suco de Uva
+155;Espanha;2014;0;0;Brasil;Suco de Uva
+156;Estados Unidos;2014;0;0;Brasil;Suco de Uva
+157;França;2014;0;0;Brasil;Suco de Uva
+158;Guiana;2014;0;0;Brasil;Suco de Uva
+159;Israel;2014;0;0;Brasil;Suco de Uva
+160;itália;2014;0;0;Brasil;Suco de Uva
+161;Japão;2014;0;0;Brasil;Suco de Uva
+162;Líbano;2014;0;0;Brasil;Suco de Uva
+163;México;2014;0;0;Brasil;Suco de Uva
+164;Países Baixos;2014;0;0;Brasil;Suco de Uva
+165;Panamá;2014;0;0;Brasil;Suco de Uva
+166;Peru;2014;0;0;Brasil;Suco de Uva
+167;Portugal;2014;0;0;Brasil;Suco de Uva
+168;Reino Unido;2014;0;0;Brasil;Suco de Uva
+169;Taiwan;2014;2040;1294;Brasil;Suco de Uva
+170;Turquia;2014;13428;10216;Brasil;Suco de Uva
+171;Uruguai;2014;0;0;Brasil;Suco de Uva
+172;Venezuela;2014;0;0;Brasil;Suco de Uva
+173;Outros;2014;0;0;Brasil;Suco de Uva
+174;Africa do Sul;2015;13125;13209;Brasil;Suco de Uva
+175;Alemanha;2015;6496;46692;Brasil;Suco de Uva
+176;Argentina;2015;0;0;Brasil;Suco de Uva
+177;Austria;2015;0;0;Brasil;Suco de Uva
+178;Canadá;2015;0;0;Brasil;Suco de Uva
+179;Coreia do Sul, República;2015;85145;49712;Brasil;Suco de Uva
+180;Coreia do Norte, República;2015;15651;22621;Brasil;Suco de Uva
+181;Chile;2015;23790;29024;Brasil;Suco de Uva
+182;China;2015;0;0;Brasil;Suco de Uva
+183;Dinamarca;2015;0;0;Brasil;Suco de Uva
+184;Espanha;2015;0;0;Brasil;Suco de Uva
+185;Estados Unidos;2015;23578;28765;Brasil;Suco de Uva
+186;França;2015;862;2229;Brasil;Suco de Uva
+187;Guiana;2015;0;0;Brasil;Suco de Uva
+188;Israel;2015;2575;4651;Brasil;Suco de Uva
+189;itália;2015;225;771;Brasil;Suco de Uva
+190;Japão;2015;0;0;Brasil;Suco de Uva
+191;Líbano;2015;0;0;Brasil;Suco de Uva
+192;México;2015;0;0;Brasil;Suco de Uva
+193;Países Baixos;2015;0;0;Brasil;Suco de Uva
+194;Panamá;2015;0;0;Brasil;Suco de Uva
+195;Peru;2015;0;0;Brasil;Suco de Uva
+196;Portugal;2015;0;0;Brasil;Suco de Uva
+197;Reino Unido;2015;0;0;Brasil;Suco de Uva
+198;Taiwan;2015;0;0;Brasil;Suco de Uva
+199;Turquia;2015;5052;3846;Brasil;Suco de Uva
+200;Uruguai;2015;0;0;Brasil;Suco de Uva
+201;Venezuela;2015;0;0;Brasil;Suco de Uva
+202;Outros;2015;0;0;Brasil;Suco de Uva
+203;Africa do Sul;2016;7154;5841;Brasil;Suco de Uva
+204;Alemanha;2016;6540;75902;Brasil;Suco de Uva
+205;Argentina;2016;59028;80898;Brasil;Suco de Uva
+206;Austria;2016;0;0;Brasil;Suco de Uva
+207;Canadá;2016;0;0;Brasil;Suco de Uva
+208;Coreia do Sul, República;2016;30022;44524;Brasil;Suco de Uva
+209;Coreia do Norte, República;2016;0;0;Brasil;Suco de Uva
+210;Chile;2016;94940;183525;Brasil;Suco de Uva
+211;China;2016;0;0;Brasil;Suco de Uva
+212;Dinamarca;2016;0;0;Brasil;Suco de Uva
+213;Espanha;2016;0;0;Brasil;Suco de Uva
+214;Estados Unidos;2016;68730;108205;Brasil;Suco de Uva
+215;França;2016;0;0;Brasil;Suco de Uva
+216;Guiana;2016;0;0;Brasil;Suco de Uva
+217;Israel;2016;1200;1656;Brasil;Suco de Uva
+218;itália;2016;774;1594;Brasil;Suco de Uva
+219;Japão;2016;0;0;Brasil;Suco de Uva
+220;Líbano;2016;0;0;Brasil;Suco de Uva
+221;México;2016;0;0;Brasil;Suco de Uva
+222;Países Baixos;2016;0;0;Brasil;Suco de Uva
+223;Panamá;2016;0;0;Brasil;Suco de Uva
+224;Peru;2016;10238;8908;Brasil;Suco de Uva
+225;Portugal;2016;0;0;Brasil;Suco de Uva
+226;Reino Unido;2016;0;0;Brasil;Suco de Uva
+227;Taiwan;2016;0;0;Brasil;Suco de Uva
+228;Turquia;2016;0;0;Brasil;Suco de Uva
+229;Uruguai;2016;0;0;Brasil;Suco de Uva
+230;Venezuela;2016;0;0;Brasil;Suco de Uva
+231;Outros;2016;0;0;Brasil;Suco de Uva
+232;Africa do Sul;2017;22029;17551;Brasil;Suco de Uva
+233;Alemanha;2017;0;0;Brasil;Suco de Uva
+234;Argentina;2017;72900;90518;Brasil;Suco de Uva
+235;Austria;2017;1333;1467;Brasil;Suco de Uva
+236;Canadá;2017;0;0;Brasil;Suco de Uva
+237;Coreia do Sul, República;2017;28927;41276;Brasil;Suco de Uva
+238;Coreia do Norte, República;2017;0;0;Brasil;Suco de Uva
+239;Chile;2017;0;0;Brasil;Suco de Uva
+240;China;2017;2475;2098;Brasil;Suco de Uva
+241;Dinamarca;2017;0;0;Brasil;Suco de Uva
+242;Espanha;2017;0;0;Brasil;Suco de Uva
+243;Estados Unidos;2017;32691;40554;Brasil;Suco de Uva
+244;França;2017;0;0;Brasil;Suco de Uva
+245;Guiana;2017;0;0;Brasil;Suco de Uva
+246;Israel;2017;5340;7399;Brasil;Suco de Uva
+247;itália;2017;1161;4254;Brasil;Suco de Uva
+248;Japão;2017;0;0;Brasil;Suco de Uva
+249;Líbano;2017;0;0;Brasil;Suco de Uva
+250;México;2017;0;0;Brasil;Suco de Uva
+251;Países Baixos;2017;0;0;Brasil;Suco de Uva
+252;Panamá;2017;0;0;Brasil;Suco de Uva
+253;Peru;2017;38321;37176;Brasil;Suco de Uva
+254;Portugal;2017;4500;5576;Brasil;Suco de Uva
+255;Reino Unido;2017;0;0;Brasil;Suco de Uva
+256;Taiwan;2017;0;0;Brasil;Suco de Uva
+257;Turquia;2017;27816;19461;Brasil;Suco de Uva
+258;Uruguai;2017;0;0;Brasil;Suco de Uva
+259;Venezuela;2017;0;0;Brasil;Suco de Uva
+260;Outros;2017;0;0;Brasil;Suco de Uva
+261;Africa do Sul;2018;21618;18334;Brasil;Suco de Uva
+262;Alemanha;2018;80;652;Brasil;Suco de Uva
+263;Argentina;2018;2998;3139;Brasil;Suco de Uva
+264;Austria;2018;0;0;Brasil;Suco de Uva
+265;Canadá;2018;0;0;Brasil;Suco de Uva
+266;Coreia do Sul, República;2018;77955;99441;Brasil;Suco de Uva
+267;Coreia do Norte, República;2018;0;0;Brasil;Suco de Uva
+268;Chile;2018;0;0;Brasil;Suco de Uva
+269;China;2018;0;0;Brasil;Suco de Uva
+270;Dinamarca;2018;0;0;Brasil;Suco de Uva
+271;Espanha;2018;422;806;Brasil;Suco de Uva
+272;Estados Unidos;2018;14541;8226;Brasil;Suco de Uva
+273;França;2018;0;0;Brasil;Suco de Uva
+274;Guiana;2018;0;0;Brasil;Suco de Uva
+275;Israel;2018;840;1034;Brasil;Suco de Uva
+276;itália;2018;0;0;Brasil;Suco de Uva
+277;Japão;2018;0;0;Brasil;Suco de Uva
+278;Líbano;2018;0;0;Brasil;Suco de Uva
+279;México;2018;0;0;Brasil;Suco de Uva
+280;Países Baixos;2018;0;0;Brasil;Suco de Uva
+281;Panamá;2018;0;0;Brasil;Suco de Uva
+282;Peru;2018;0;0;Brasil;Suco de Uva
+283;Portugal;2018;0;0;Brasil;Suco de Uva
+284;Reino Unido;2018;0;0;Brasil;Suco de Uva
+285;Taiwan;2018;0;0;Brasil;Suco de Uva
+286;Turquia;2018;0;0;Brasil;Suco de Uva
+287;Uruguai;2018;225;600;Brasil;Suco de Uva
+288;Venezuela;2018;0;0;Brasil;Suco de Uva
+289;Outros;2018;0;0;Brasil;Suco de Uva
+290;Africa do Sul;2019;0;0;Brasil;Suco de Uva
+291;Alemanha;2019;0;0;Brasil;Suco de Uva
+292;Argentina;2019;0;0;Brasil;Suco de Uva
+293;Austria;2019;666;655;Brasil;Suco de Uva
+294;Canadá;2019;0;0;Brasil;Suco de Uva
+295;Coreia do Sul, República;2019;0;0;Brasil;Suco de Uva
+296;Coreia do Norte, República;2019;0;0;Brasil;Suco de Uva
+297;Chile;2019;0;0;Brasil;Suco de Uva
+298;China;2019;0;0;Brasil;Suco de Uva
+299;Dinamarca;2019;0;0;Brasil;Suco de Uva
+300;Espanha;2019;0;0;Brasil;Suco de Uva
+301;Estados Unidos;2019;9273;14093;Brasil;Suco de Uva
+302;França;2019;0;0;Brasil;Suco de Uva
+303;Guiana;2019;0;0;Brasil;Suco de Uva
+304;Israel;2019;3360;3609;Brasil;Suco de Uva
+305;itália;2019;0;0;Brasil;Suco de Uva
+306;Japão;2019;0;0;Brasil;Suco de Uva
+307;Líbano;2019;0;0;Brasil;Suco de Uva
+308;México;2019;0;0;Brasil;Suco de Uva
+309;Países Baixos;2019;0;0;Brasil;Suco de Uva
+310;Panamá;2019;0;0;Brasil;Suco de Uva
+311;Peru;2019;0;0;Brasil;Suco de Uva
+312;Portugal;2019;0;0;Brasil;Suco de Uva
+313;Reino Unido;2019;0;0;Brasil;Suco de Uva
+314;Taiwan;2019;0;0;Brasil;Suco de Uva
+315;Turquia;2019;0;0;Brasil;Suco de Uva
+316;Uruguai;2019;0;0;Brasil;Suco de Uva
+317;Venezuela;2019;0;0;Brasil;Suco de Uva
+318;Outros;2019;0;0;Brasil;Suco de Uva
+319;Africa do Sul;2020;0;0;Brasil;Suco de Uva
+320;Alemanha;2020;0;0;Brasil;Suco de Uva
+321;Argentina;2020;0;0;Brasil;Suco de Uva
+322;Austria;2020;0;0;Brasil;Suco de Uva
+323;Canadá;2020;0;0;Brasil;Suco de Uva
+324;Coreia do Sul, República;2020;0;0;Brasil;Suco de Uva
+325;Coreia do Norte, República;2020;0;0;Brasil;Suco de Uva
+326;Chile;2020;0;0;Brasil;Suco de Uva
+327;China;2020;0;0;Brasil;Suco de Uva
+328;Dinamarca;2020;0;0;Brasil;Suco de Uva
+329;Espanha;2020;0;0;Brasil;Suco de Uva
+330;Estados Unidos;2020;28180;25418;Brasil;Suco de Uva
+331;França;2020;0;0;Brasil;Suco de Uva
+332;Guiana;2020;0;0;Brasil;Suco de Uva
+333;Israel;2020;0;0;Brasil;Suco de Uva
+334;itália;2020;0;0;Brasil;Suco de Uva
+335;Japão;2020;0;0;Brasil;Suco de Uva
+336;Líbano;2020;0;0;Brasil;Suco de Uva
+337;México;2020;0;0;Brasil;Suco de Uva
+338;Países Baixos;2020;0;0;Brasil;Suco de Uva
+339;Panamá;2020;0;0;Brasil;Suco de Uva
+340;Peru;2020;0;0;Brasil;Suco de Uva
+341;Portugal;2020;0;0;Brasil;Suco de Uva
+342;Reino Unido;2020;0;0;Brasil;Suco de Uva
+343;Taiwan;2020;0;0;Brasil;Suco de Uva
+344;Turquia;2020;0;0;Brasil;Suco de Uva
+345;Uruguai;2020;0;0;Brasil;Suco de Uva
+346;Venezuela;2020;0;0;Brasil;Suco de Uva
+347;Outros;2020;0;0;Brasil;Suco de Uva
+348;Africa do Sul;2021;0;0;Brasil;Suco de Uva
+349;Alemanha;2021;0;0;Brasil;Suco de Uva
+350;Argentina;2021;0;0;Brasil;Suco de Uva
+351;Austria;2021;0;0;Brasil;Suco de Uva
+352;Canadá;2021;0;0;Brasil;Suco de Uva
+353;Coreia do Sul, República;2021;0;0;Brasil;Suco de Uva
+354;Coreia do Norte, República;2021;0;0;Brasil;Suco de Uva
+355;Chile;2021;0;0;Brasil;Suco de Uva
+356;China;2021;0;0;Brasil;Suco de Uva
+357;Dinamarca;2021;0;0;Brasil;Suco de Uva
+358;Espanha;2021;0;0;Brasil;Suco de Uva
+359;Estados Unidos;2021;3870;3551;Brasil;Suco de Uva
+360;França;2021;0;0;Brasil;Suco de Uva
+361;Guiana;2021;0;0;Brasil;Suco de Uva
+362;Israel;2021;720;969;Brasil;Suco de Uva
+363;itália;2021;0;0;Brasil;Suco de Uva
+364;Japão;2021;0;0;Brasil;Suco de Uva
+365;Líbano;2021;0;0;Brasil;Suco de Uva
+366;México;2021;0;0;Brasil;Suco de Uva
+367;Países Baixos;2021;0;0;Brasil;Suco de Uva
+368;Panamá;2021;0;0;Brasil;Suco de Uva
+369;Peru;2021;0;0;Brasil;Suco de Uva
+370;Portugal;2021;0;0;Brasil;Suco de Uva
+371;Reino Unido;2021;0;0;Brasil;Suco de Uva
+372;Taiwan;2021;0;0;Brasil;Suco de Uva
+373;Turquia;2021;0;0;Brasil;Suco de Uva
+374;Uruguai;2021;0;0;Brasil;Suco de Uva
+375;Venezuela;2021;0;0;Brasil;Suco de Uva
+376;Outros;2021;0;0;Brasil;Suco de Uva
+377;Africa do Sul;2022;0;0;Brasil;Suco de Uva
+378;Alemanha;2022;0;0;Brasil;Suco de Uva
+379;Argentina;2022;0;0;Brasil;Suco de Uva
+380;Austria;2022;0;0;Brasil;Suco de Uva
+381;Canadá;2022;0;0;Brasil;Suco de Uva
+382;Coreia do Sul, República;2022;0;0;Brasil;Suco de Uva
+383;Coreia do Norte, República;2022;0;0;Brasil;Suco de Uva
+384;Chile;2022;0;0;Brasil;Suco de Uva
+385;China;2022;0;0;Brasil;Suco de Uva
+386;Dinamarca;2022;0;0;Brasil;Suco de Uva
+387;Espanha;2022;0;0;Brasil;Suco de Uva
+388;Estados Unidos;2022;29414;16781;Brasil;Suco de Uva
+389;França;2022;0;0;Brasil;Suco de Uva
+390;Guiana;2022;0;0;Brasil;Suco de Uva
+391;Israel;2022;0;0;Brasil;Suco de Uva
+392;itália;2022;0;0;Brasil;Suco de Uva
+393;Japão;2022;0;0;Brasil;Suco de Uva
+394;Líbano;2022;0;0;Brasil;Suco de Uva
+395;México;2022;0;0;Brasil;Suco de Uva
+396;Países Baixos;2022;0;0;Brasil;Suco de Uva
+397;Panamá;2022;0;0;Brasil;Suco de Uva
+398;Peru;2022;0;0;Brasil;Suco de Uva
+399;Portugal;2022;0;0;Brasil;Suco de Uva
+400;Reino Unido;2022;0;0;Brasil;Suco de Uva
+401;Taiwan;2022;0;0;Brasil;Suco de Uva
+402;Turquia;2022;0;0;Brasil;Suco de Uva
+403;Uruguai;2022;0;0;Brasil;Suco de Uva
+404;Venezuela;2022;0;0;Brasil;Suco de Uva
+405;Outros;2022;0;0;Brasil;Suco de Uva
+406;Africa do Sul;2023;0;0;Brasil;Suco de Uva
+407;Alemanha;2023;0;0;Brasil;Suco de Uva
+408;Argentina;2023;0;0;Brasil;Suco de Uva
+409;Austria;2023;0;0;Brasil;Suco de Uva
+410;Canadá;2023;0;0;Brasil;Suco de Uva
+411;Coreia do Sul, República;2023;0;0;Brasil;Suco de Uva
+412;Coreia do Norte, República;2023;0;0;Brasil;Suco de Uva
+413;Chile;2023;0;0;Brasil;Suco de Uva
+414;China;2023;0;0;Brasil;Suco de Uva
+415;Dinamarca;2023;0;0;Brasil;Suco de Uva
+416;Espanha;2023;0;0;Brasil;Suco de Uva
+417;Estados Unidos;2023;28627;15200;Brasil;Suco de Uva
+418;França;2023;0;0;Brasil;Suco de Uva
+419;Guiana;2023;0;0;Brasil;Suco de Uva
+420;Israel;2023;0;0;Brasil;Suco de Uva
+421;itália;2023;1836;1966;Brasil;Suco de Uva
+422;Japão;2023;0;0;Brasil;Suco de Uva
+423;Líbano;2023;0;0;Brasil;Suco de Uva
+424;México;2023;0;0;Brasil;Suco de Uva
+425;Países Baixos;2023;0;0;Brasil;Suco de Uva
+426;Panamá;2023;0;0;Brasil;Suco de Uva
+427;Peru;2023;0;0;Brasil;Suco de Uva
+428;Portugal;2023;0;0;Brasil;Suco de Uva
+429;Reino Unido;2023;0;0;Brasil;Suco de Uva
+430;Taiwan;2023;0;0;Brasil;Suco de Uva
+431;Turquia;2023;0;0;Brasil;Suco de Uva
+432;Uruguai;2023;0;0;Brasil;Suco de Uva
+433;Venezuela;2023;0;0;Brasil;Suco de Uva
+434;Outros;2023;0;0;Brasil;Suco de Uva

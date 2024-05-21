@@ -1,0 +1,103 @@
+﻿Continent,Region/Country,Product,Variable,Year,Unit,Quantity
+America,Argentina,Wine,Production,2009,1000 hl, 12 135
+America,Argentina,Wine,Production,2010,1000 hl, 16 250
+America,Argentina,Wine,Production,2011,1000 hl, 15 473
+America,Argentina,Wine,Production,2012,1000 hl, 11 778
+America,Argentina,Wine,Production,2013,1000 hl, 14 984
+America,Argentina,Wine,Production,2014,1000 hl, 15 197
+America,Argentina,Wine,Production,2015,1000 hl, 13 362
+America,Argentina,Wine,Production,2016,1000 hl, 9 447
+America,Argentina,Wine,Production,2017,1000 hl, 11 821
+America,Argentina,Wine,Production,2018,1000 hl, 14 522
+America,Argentina,Wine,Production,2019,1000 hl, 13 019
+America,Argentina,Wine,Production,2020,1000 hl, 10 796
+America,Argentina,Wine,Production,2021,1000 hl, 12 482
+America,Argentina,Wine,Production,2022,1000 hl, 11 451
+America,Argentina,Wine,Production,2023,1000 hl, 8 813
+America,Bolivia,Wine,Production,2009,1000 hl,  70
+America,Bolivia,Wine,Production,2010,1000 hl,  74
+America,Bolivia,Wine,Production,2011,1000 hl,  74
+America,Bolivia,Wine,Production,2012,1000 hl,  80
+America,Bolivia,Wine,Production,2013,1000 hl,  83
+America,Bolivia,Wine,Production,2014,1000 hl,  55
+America,Bolivia,Wine,Production,2015,1000 hl,  83
+America,Bolivia,Wine,Production,2016,1000 hl,  83
+America,Bolivia,Wine,Production,2017,1000 hl,  84
+America,Bolivia,Wine,Production,2018,1000 hl,  67
+America,Bolivia,Wine,Production,2019,1000 hl,  84
+America,Bolivia,Wine,Production,2020,1000 hl,  84
+America,Bolivia,Wine,Production,2021,1000 hl,  84
+America,Bolivia,Wine,Production,2022,1000 hl,  84
+America,Brazil,Wine,Production,2009,1000 hl, 2 720
+America,Brazil,Wine,Production,2010,1000 hl, 2 459
+America,Brazil,Wine,Production,2011,1000 hl, 3 460
+America,Brazil,Wine,Production,2012,1000 hl, 2 967
+America,Brazil,Wine,Production,2013,1000 hl, 2 710
+America,Brazil,Wine,Production,2014,1000 hl, 2 810
+America,Brazil,Wine,Production,2015,1000 hl, 2 699
+America,Brazil,Wine,Production,2016,1000 hl, 1 257
+America,Brazil,Wine,Production,2017,1000 hl, 3 553
+America,Brazil,Wine,Production,2018,1000 hl, 3 084
+America,Brazil,Wine,Production,2019,1000 hl, 2 176
+America,Brazil,Wine,Production,2020,1000 hl, 2 257
+America,Brazil,Wine,Production,2021,1000 hl, 2 928
+America,Brazil,Wine,Production,2022,1000 hl, 3 200
+America,Brazil,Wine,Production,2023,1000 hl, 3 587
+America,Chile,Wine,Production,2009,1000 hl, 10 093
+America,Chile,Wine,Production,2010,1000 hl, 8 844
+America,Chile,Wine,Production,2011,1000 hl, 10 464
+America,Chile,Wine,Production,2012,1000 hl, 12 554
+America,Chile,Wine,Production,2013,1000 hl, 12 821
+America,Chile,Wine,Production,2014,1000 hl, 9 896
+America,Chile,Wine,Production,2015,1000 hl, 12 866
+America,Chile,Wine,Production,2016,1000 hl, 10 143
+America,Chile,Wine,Production,2017,1000 hl, 9 492
+America,Chile,Wine,Production,2018,1000 hl, 12 898
+America,Chile,Wine,Production,2019,1000 hl, 11 939
+America,Chile,Wine,Production,2020,1000 hl, 10 337
+America,Chile,Wine,Production,2021,1000 hl, 13 437
+America,Chile,Wine,Production,2022,1000 hl, 12 443
+America,Chile,Wine,Production,2023,1000 hl, 11 030
+America,Paraguay,Wine,Production,2009,1000 hl,  14
+America,Paraguay,Wine,Production,2010,1000 hl,  13
+America,Paraguay,Wine,Production,2011,1000 hl,  14
+America,Paraguay,Wine,Production,2012,1000 hl,  14
+America,Paraguay,Wine,Production,2013,1000 hl,  14
+America,Paraguay,Wine,Production,2014,1000 hl,  15
+America,Paraguay,Wine,Production,2015,1000 hl,  15
+America,Paraguay,Wine,Production,2016,1000 hl,  16
+America,Paraguay,Wine,Production,2017,1000 hl,  16
+America,Paraguay,Wine,Production,2018,1000 hl,  19
+America,Paraguay,Wine,Production,2019,1000 hl,  18
+America,Paraguay,Wine,Production,2020,1000 hl,  17
+America,Paraguay,Wine,Production,2021,1000 hl,  17
+America,Paraguay,Wine,Production,2022,1000 hl,  17
+America,Peru,Wine,Production,2009,1000 hl,  515
+America,Peru,Wine,Production,2010,1000 hl,  520
+America,Peru,Wine,Production,2011,1000 hl,  630
+America,Peru,Wine,Production,2012,1000 hl,  650
+America,Peru,Wine,Production,2013,1000 hl,  700
+America,Peru,Wine,Production,2014,1000 hl,  730
+America,Peru,Wine,Production,2015,1000 hl,  747
+America,Peru,Wine,Production,2016,1000 hl,  750
+America,Peru,Wine,Production,2017,1000 hl,  765
+America,Peru,Wine,Production,2018,1000 hl,  820
+America,Peru,Wine,Production,2019,1000 hl,  820
+America,Peru,Wine,Production,2020,1000 hl,  810
+America,Peru,Wine,Production,2021,1000 hl,  810
+America,Peru,Wine,Production,2022,1000 hl,  810
+America,Uruguay,Wine,Production,2009,1000 hl,  620
+America,Uruguay,Wine,Production,2010,1000 hl,  769
+America,Uruguay,Wine,Production,2011,1000 hl,  901
+America,Uruguay,Wine,Production,2012,1000 hl,  962
+America,Uruguay,Wine,Production,2013,1000 hl,  667
+America,Uruguay,Wine,Production,2014,1000 hl,  670
+America,Uruguay,Wine,Production,2015,1000 hl,  658
+America,Uruguay,Wine,Production,2016,1000 hl,  755
+America,Uruguay,Wine,Production,2017,1000 hl,  763
+America,Uruguay,Wine,Production,2018,1000 hl,  745
+America,Uruguay,Wine,Production,2019,1000 hl,  604
+America,Uruguay,Wine,Production,2020,1000 hl,  695
+America,Uruguay,Wine,Production,2021,1000 hl,  749
+America,Uruguay,Wine,Production,2022,1000 hl,  756
+America,Uruguay,Wine,Production,2023,1000 hl,  503

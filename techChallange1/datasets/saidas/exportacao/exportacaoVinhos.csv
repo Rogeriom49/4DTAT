@@ -1,0 +1,2056 @@
+     ;pais                            ;anos ;quantidade ;valor    ;origem ;tipo
+   0 ;Afeganistão                     ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+   1 ;África do Sul                   ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+   2 ;Alemanha, República Democrática ;2009 ;    225086 ;  393482 ;Brasil ;Vinhos de Mesa
+   3 ;Angola                          ;2009 ;     54786 ;   84235 ;Brasil ;Vinhos de Mesa
+   4 ;Anguilla                        ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+   5 ;Antígua e Barbuda               ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+   6 ;Antilhas Holandesas             ;2009 ;      8235 ;   10651 ;Brasil ;Vinhos de Mesa
+   7 ;Arábia Saudita                  ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+   8 ;Argentina                       ;2009 ;       162 ;    4523 ;Brasil ;Vinhos de Mesa
+   9 ;Aruba                           ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  10 ;Austrália                       ;2009 ;      1014 ;    9195 ;Brasil ;Vinhos de Mesa
+  11 ;Áustria                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  12 ;Bahamas                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  13 ;Bangladesh                      ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  14 ;Barbados                        ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  15 ;Barein                          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  16 ;Bélgica                         ;2009 ;    125962 ;   58764 ;Brasil ;Vinhos de Mesa
+  17 ;Belice                          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  18 ;Benin                           ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  19 ;Bermudas                        ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  20 ;Bolívia                         ;2009 ;     40463 ;   20729 ;Brasil ;Vinhos de Mesa
+  21 ;Bósnia-Herzegovina              ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  22 ;Brasil                          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  23 ;Bulgária                        ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  24 ;Cabo Verde                      ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  25 ;Camarões                        ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  26 ;Canadá                          ;2009 ;     15664 ;   73445 ;Brasil ;Vinhos de Mesa
+  27 ;Catar                           ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  28 ;Cayman, Ilhas                   ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  29 ;Chile                           ;2009 ;      1475 ;    4297 ;Brasil ;Vinhos de Mesa
+  30 ;China                           ;2009 ;   1553416 ;  482400 ;Brasil ;Vinhos de Mesa
+  31 ;Chipre                          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  32 ;Cingapura                       ;2009 ;      2419 ;    6110 ;Brasil ;Vinhos de Mesa
+  33 ;Cocos (Keeling), Ilhas          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  34 ;Colômbia                        ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  35 ;Comores                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  36 ;Congo                           ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  37 ;Coreia, Republica Sul           ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  38 ;Costa do Marfim                 ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  39 ;Costa Rica                      ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  40 ;Croácia                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  41 ;Cuba                            ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  42 ;Curaçao                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  43 ;Dinamarca                       ;2009 ;      1980 ;   21780 ;Brasil ;Vinhos de Mesa
+  44 ;Dominica                        ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  45 ;El Salvador                     ;2009 ;        55 ;     100 ;Brasil ;Vinhos de Mesa
+  46 ;Emirados Arabes Unidos          ;2009 ;      1398 ;    4032 ;Brasil ;Vinhos de Mesa
+  47 ;Equador                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  48 ;Eslovaca, Republica             ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  49 ;Espanha                         ;2009 ;      2181 ;    4050 ;Brasil ;Vinhos de Mesa
+  50 ;Estados Unidos                  ;2009 ;    372319 ;  660066 ;Brasil ;Vinhos de Mesa
+  51 ;Estônia                         ;2009 ;      5438 ;   10802 ;Brasil ;Vinhos de Mesa
+  52 ;Filipinas                       ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  53 ;Finlândia                       ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  54 ;França                          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  55 ;Gana                            ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  56 ;Gibraltar                       ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  57 ;Granada                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  58 ;Grécia                          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  59 ;Guatemala                       ;2009 ;        20 ;      20 ;Brasil ;Vinhos de Mesa
+  60 ;Guiana                          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  61 ;Guiana Francesa                 ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  62 ;Guine Bissau                    ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  63 ;Guine Equatorial                ;2009 ;       169 ;     272 ;Brasil ;Vinhos de Mesa
+  64 ;Haiti                           ;2009 ;      4500 ;    5863 ;Brasil ;Vinhos de Mesa
+  65 ;Honduras                        ;2009 ;        14 ;      30 ;Brasil ;Vinhos de Mesa
+  66 ;Hong Kong                       ;2009 ;     50319 ;   27188 ;Brasil ;Vinhos de Mesa
+  67 ;Hungria                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  68 ;Ilha de Man                     ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  69 ;Ilhas Virgens                   ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  70 ;India                           ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  71 ;Indonésia                       ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  72 ;Irã                             ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  73 ;Iraque                          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  74 ;Irlanda                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  75 ;Itália                          ;2009 ;      1817 ;    5251 ;Brasil ;Vinhos de Mesa
+  76 ;Jamaica                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  77 ;Japão                           ;2009 ;    217974 ;  283436 ;Brasil ;Vinhos de Mesa
+  78 ;Jordânia                        ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  79 ;Letônia                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  80 ;Líbano                          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  81 ;Libéria                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  82 ;Luxemburgo                      ;2009 ;      7845 ;   42124 ;Brasil ;Vinhos de Mesa
+  83 ;Macau                           ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  84 ;Malásia                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  85 ;Malavi                          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  86 ;Malta                           ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  87 ;Marshall, Ilhas                 ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  88 ;Martinica                       ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  89 ;Mauritânia                      ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  90 ;México                          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  91 ;Moçambique                      ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  92 ;Montenegro                      ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  93 ;Namíbia                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  94 ;Nicarágua                       ;2009 ;        24 ;      24 ;Brasil ;Vinhos de Mesa
+  95 ;Nigéria                         ;2009 ;        41 ;     115 ;Brasil ;Vinhos de Mesa
+  96 ;Noruega                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  97 ;Nova Caledônia                  ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  98 ;Nova Zelândia                   ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+  99 ;Omã                             ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 100 ;Países Baixos                   ;2009 ;    171654 ;  136991 ;Brasil ;Vinhos de Mesa
+ 101 ;Palau                           ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 102 ;Panamá                          ;2009 ;        24 ;      30 ;Brasil ;Vinhos de Mesa
+ 103 ;Paraguai                        ;2009 ;    486927 ;  392087 ;Brasil ;Vinhos de Mesa
+ 104 ;Peru                            ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 105 ;Pitcairn                        ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 106 ;Polônia                         ;2009 ;      6982 ;   35797 ;Brasil ;Vinhos de Mesa
+ 107 ;Porto Rico                      ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 108 ;Portugal                        ;2009 ;    141000 ;  168923 ;Brasil ;Vinhos de Mesa
+ 109 ;Quênia                          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 110 ;Reino Unido                     ;2009 ;     30092 ;   68788 ;Brasil ;Vinhos de Mesa
+ 111 ;República Dominicana            ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 112 ;Rússia                          ;2009 ;  21912914 ; 5732280 ;Brasil ;Vinhos de Mesa
+ 113 ;São Cristóvão e Névis           ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 114 ;São Tomé e Príncipe             ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 115 ;São Vicente e Granadinas        ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 116 ;Senegal                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 117 ;Serra Leoa                      ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 118 ;Singapura                       ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 119 ;Suazilândia                     ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 120 ;Suécia                          ;2009 ;     28334 ;   52826 ;Brasil ;Vinhos de Mesa
+ 121 ;Suíça                           ;2009 ;     27653 ;   81319 ;Brasil ;Vinhos de Mesa
+ 122 ;Suriname                        ;2009 ;      3830 ;   12918 ;Brasil ;Vinhos de Mesa
+ 123 ;Tailândia                       ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 124 ;Taiwan (Formosa)                ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 125 ;Tanzânia                        ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 126 ;Tcheca, República               ;2009 ;      9269 ;   43902 ;Brasil ;Vinhos de Mesa
+ 127 ;Togo                            ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 128 ;Toquelau                        ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 129 ;Trinidade Tobago                ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 130 ;Tunísia                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 131 ;Turquia                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 132 ;Tuvalu                          ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 133 ;Uruguai                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 134 ;Vanuatu                         ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 135 ;Venezuela                       ;2009 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 136 ;Vietnã                          ;2009 ;       743 ;    2143 ;Brasil ;Vinhos de Mesa
+ 137 ;Afeganistão                     ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 138 ;África do Sul                   ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 139 ;Alemanha, República Democrática ;2010 ;     27715 ;  138666 ;Brasil ;Vinhos de Mesa
+ 140 ;Angola                          ;2010 ;     33557 ;  189891 ;Brasil ;Vinhos de Mesa
+ 141 ;Anguilla                        ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 142 ;Antígua e Barbuda               ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 143 ;Antilhas Holandesas             ;2010 ;      9810 ;   12808 ;Brasil ;Vinhos de Mesa
+ 144 ;Arábia Saudita                  ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 145 ;Argentina                       ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 146 ;Aruba                           ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 147 ;Austrália                       ;2010 ;      1823 ;   17960 ;Brasil ;Vinhos de Mesa
+ 148 ;Áustria                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 149 ;Bahamas                         ;2010 ;      3175 ;   12759 ;Brasil ;Vinhos de Mesa
+ 150 ;Bangladesh                      ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 151 ;Barbados                        ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 152 ;Barein                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 153 ;Bélgica                         ;2010 ;     42532 ;  185411 ;Brasil ;Vinhos de Mesa
+ 154 ;Belice                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 155 ;Benin                           ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 156 ;Bermudas                        ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 157 ;Bolívia                         ;2010 ;        54 ;     282 ;Brasil ;Vinhos de Mesa
+ 158 ;Bósnia-Herzegovina              ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 159 ;Brasil                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 160 ;Bulgária                        ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 161 ;Cabo Verde                      ;2010 ;     11991 ;   49366 ;Brasil ;Vinhos de Mesa
+ 162 ;Camarões                        ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 163 ;Canadá                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 164 ;Catar                           ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 165 ;Cayman, Ilhas                   ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 166 ;Chile                           ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 167 ;China                           ;2010 ;       795 ;    2358 ;Brasil ;Vinhos de Mesa
+ 168 ;Chipre                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 169 ;Cingapura                       ;2010 ;      1533 ;    5504 ;Brasil ;Vinhos de Mesa
+ 170 ;Cocos (Keeling), Ilhas          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 171 ;Colômbia                        ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 172 ;Comores                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 173 ;Congo                           ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 174 ;Coreia, Republica Sul           ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 175 ;Costa do Marfim                 ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 176 ;Costa Rica                      ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 177 ;Croácia                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 178 ;Cuba                            ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 179 ;Curaçao                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 180 ;Dinamarca                       ;2010 ;      7034 ;   69161 ;Brasil ;Vinhos de Mesa
+ 181 ;Dominica                        ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 182 ;El Salvador                     ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 183 ;Emirados Arabes Unidos          ;2010 ;      1035 ;    3206 ;Brasil ;Vinhos de Mesa
+ 184 ;Equador                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 185 ;Eslovaca, Republica             ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 186 ;Espanha                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 187 ;Estados Unidos                  ;2010 ;    228968 ;  478630 ;Brasil ;Vinhos de Mesa
+ 188 ;Estônia                         ;2010 ;     15848 ;   40778 ;Brasil ;Vinhos de Mesa
+ 189 ;Filipinas                       ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 190 ;Finlândia                       ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 191 ;França                          ;2010 ;      3614 ;   18904 ;Brasil ;Vinhos de Mesa
+ 192 ;Gana                            ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 193 ;Gibraltar                       ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 194 ;Granada                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 195 ;Grécia                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 196 ;Guatemala                       ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 197 ;Guiana                          ;2010 ;       783 ;    3654 ;Brasil ;Vinhos de Mesa
+ 198 ;Guiana Francesa                 ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 199 ;Guine Bissau                    ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 200 ;Guine Equatorial                ;2010 ;       410 ;    1015 ;Brasil ;Vinhos de Mesa
+ 201 ;Haiti                           ;2010 ;      2700 ;    3750 ;Brasil ;Vinhos de Mesa
+ 202 ;Honduras                        ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 203 ;Hong Kong                       ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 204 ;Hungria                         ;2010 ;       540 ;    4103 ;Brasil ;Vinhos de Mesa
+ 205 ;Ilha de Man                     ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 206 ;Ilhas Virgens                   ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 207 ;India                           ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 208 ;Indonésia                       ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 209 ;Irã                             ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 210 ;Iraque                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 211 ;Irlanda                         ;2010 ;      3969 ;   42795 ;Brasil ;Vinhos de Mesa
+ 212 ;Itália                          ;2010 ;      1458 ;    4828 ;Brasil ;Vinhos de Mesa
+ 213 ;Jamaica                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 214 ;Japão                           ;2010 ;    112178 ;   74628 ;Brasil ;Vinhos de Mesa
+ 215 ;Jordânia                        ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 216 ;Letônia                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 217 ;Líbano                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 218 ;Libéria                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 219 ;Luxemburgo                      ;2010 ;      7344 ;   32549 ;Brasil ;Vinhos de Mesa
+ 220 ;Macau                           ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 221 ;Malásia                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 222 ;Malavi                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 223 ;Malta                           ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 224 ;Marshall, Ilhas                 ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 225 ;Martinica                       ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 226 ;Mauritânia                      ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 227 ;México                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 228 ;Moçambique                      ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 229 ;Montenegro                      ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 230 ;Namíbia                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 231 ;Nicarágua                       ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 232 ;Nigéria                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 233 ;Noruega                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 234 ;Nova Caledônia                  ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 235 ;Nova Zelândia                   ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 236 ;Omã                             ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 237 ;Países Baixos                   ;2010 ;     87368 ;  302182 ;Brasil ;Vinhos de Mesa
+ 238 ;Palau                           ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 239 ;Panamá                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 240 ;Paraguai                        ;2010 ;    510989 ;  449197 ;Brasil ;Vinhos de Mesa
+ 241 ;Peru                            ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 242 ;Pitcairn                        ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 243 ;Polônia                         ;2010 ;     20464 ;   95198 ;Brasil ;Vinhos de Mesa
+ 244 ;Porto Rico                      ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 245 ;Portugal                        ;2010 ;      4577 ;   18970 ;Brasil ;Vinhos de Mesa
+ 246 ;Quênia                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 247 ;Reino Unido                     ;2010 ;    123624 ;  295690 ;Brasil ;Vinhos de Mesa
+ 248 ;República Dominicana            ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 249 ;Rússia                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 250 ;São Cristóvão e Névis           ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 251 ;São Tomé e Príncipe             ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 252 ;São Vicente e Granadinas        ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 253 ;Senegal                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 254 ;Serra Leoa                      ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 255 ;Singapura                       ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 256 ;Suazilândia                     ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 257 ;Suécia                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 258 ;Suíça                           ;2010 ;      2025 ;   21600 ;Brasil ;Vinhos de Mesa
+ 259 ;Suriname                        ;2010 ;      1836 ;    1269 ;Brasil ;Vinhos de Mesa
+ 260 ;Tailândia                       ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 261 ;Taiwan (Formosa)                ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 262 ;Tanzânia                        ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 263 ;Tcheca, República               ;2010 ;      1091 ;    5285 ;Brasil ;Vinhos de Mesa
+ 264 ;Togo                            ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 265 ;Toquelau                        ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 266 ;Trinidade Tobago                ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 267 ;Tunísia                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 268 ;Turquia                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 269 ;Tuvalu                          ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 270 ;Uruguai                         ;2010 ;       914 ;    2929 ;Brasil ;Vinhos de Mesa
+ 271 ;Vanuatu                         ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 272 ;Venezuela                       ;2010 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 273 ;Vietnã                          ;2010 ;      8820 ;    9977 ;Brasil ;Vinhos de Mesa
+ 274 ;Afeganistão                     ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 275 ;África do Sul                   ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 276 ;Alemanha, República Democrática ;2011 ;     36070 ;  144150 ;Brasil ;Vinhos de Mesa
+ 277 ;Angola                          ;2011 ;     13889 ;   69001 ;Brasil ;Vinhos de Mesa
+ 278 ;Anguilla                        ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 279 ;Antígua e Barbuda               ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 280 ;Antilhas Holandesas             ;2011 ;      7335 ;   10188 ;Brasil ;Vinhos de Mesa
+ 281 ;Arábia Saudita                  ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 282 ;Argentina                       ;2011 ;     13253 ;   55460 ;Brasil ;Vinhos de Mesa
+ 283 ;Aruba                           ;2011 ;       900 ;    1680 ;Brasil ;Vinhos de Mesa
+ 284 ;Austrália                       ;2011 ;      3632 ;   40704 ;Brasil ;Vinhos de Mesa
+ 285 ;Áustria                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 286 ;Bahamas                         ;2011 ;      4529 ;   28810 ;Brasil ;Vinhos de Mesa
+ 287 ;Bangladesh                      ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 288 ;Barbados                        ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 289 ;Barein                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 290 ;Bélgica                         ;2011 ;     11802 ;   62339 ;Brasil ;Vinhos de Mesa
+ 291 ;Belice                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 292 ;Benin                           ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 293 ;Bermudas                        ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 294 ;Bolívia                         ;2011 ;     12775 ;   20215 ;Brasil ;Vinhos de Mesa
+ 295 ;Bósnia-Herzegovina              ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 296 ;Brasil                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 297 ;Bulgária                        ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 298 ;Cabo Verde                      ;2011 ;       600 ;     825 ;Brasil ;Vinhos de Mesa
+ 299 ;Camarões                        ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 300 ;Canadá                          ;2011 ;     28906 ;  128076 ;Brasil ;Vinhos de Mesa
+ 301 ;Catar                           ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 302 ;Cayman, Ilhas                   ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 303 ;Chile                           ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 304 ;China                           ;2011 ;     54156 ;  334867 ;Brasil ;Vinhos de Mesa
+ 305 ;Chipre                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 306 ;Cingapura                       ;2011 ;       911 ;    3317 ;Brasil ;Vinhos de Mesa
+ 307 ;Cocos (Keeling), Ilhas          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 308 ;Colômbia                        ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 309 ;Comores                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 310 ;Congo                           ;2011 ;       360 ;     570 ;Brasil ;Vinhos de Mesa
+ 311 ;Coreia, Republica Sul           ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 312 ;Costa do Marfim                 ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 313 ;Costa Rica                      ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 314 ;Croácia                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 315 ;Cuba                            ;2011 ;      2880 ;    4899 ;Brasil ;Vinhos de Mesa
+ 316 ;Curaçao                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 317 ;Dinamarca                       ;2011 ;     32797 ;   83057 ;Brasil ;Vinhos de Mesa
+ 318 ;Dominica                        ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 319 ;El Salvador                     ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 320 ;Emirados Arabes Unidos          ;2011 ;      2120 ;    6594 ;Brasil ;Vinhos de Mesa
+ 321 ;Equador                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 322 ;Eslovaca, Republica             ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 323 ;Espanha                         ;2011 ;      5206 ;   24618 ;Brasil ;Vinhos de Mesa
+ 324 ;Estados Unidos                  ;2011 ;    306787 ; 1030254 ;Brasil ;Vinhos de Mesa
+ 325 ;Estônia                         ;2011 ;       450 ;    5336 ;Brasil ;Vinhos de Mesa
+ 326 ;Filipinas                       ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 327 ;Finlândia                       ;2011 ;     12404 ;   50394 ;Brasil ;Vinhos de Mesa
+ 328 ;França                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 329 ;Gana                            ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 330 ;Gibraltar                       ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 331 ;Granada                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 332 ;Grécia                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 333 ;Guatemala                       ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 334 ;Guiana                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 335 ;Guiana Francesa                 ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 336 ;Guine Bissau                    ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 337 ;Guine Equatorial                ;2011 ;       956 ;    1979 ;Brasil ;Vinhos de Mesa
+ 338 ;Haiti                           ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 339 ;Honduras                        ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 340 ;Hong Kong                       ;2011 ;      2063 ;    7975 ;Brasil ;Vinhos de Mesa
+ 341 ;Hungria                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 342 ;Ilha de Man                     ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 343 ;Ilhas Virgens                   ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 344 ;India                           ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 345 ;Indonésia                       ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 346 ;Irã                             ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 347 ;Iraque                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 348 ;Irlanda                         ;2011 ;      5376 ;   35690 ;Brasil ;Vinhos de Mesa
+ 349 ;Itália                          ;2011 ;     11999 ;   80298 ;Brasil ;Vinhos de Mesa
+ 350 ;Jamaica                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 351 ;Japão                           ;2011 ;    100835 ;  144662 ;Brasil ;Vinhos de Mesa
+ 352 ;Jordânia                        ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 353 ;Letônia                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 354 ;Líbano                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 355 ;Libéria                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 356 ;Luxemburgo                      ;2011 ;      9547 ;   65592 ;Brasil ;Vinhos de Mesa
+ 357 ;Macau                           ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 358 ;Malásia                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 359 ;Malavi                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 360 ;Malta                           ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 361 ;Marshall, Ilhas                 ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 362 ;Martinica                       ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 363 ;Mauritânia                      ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 364 ;México                          ;2011 ;      1350 ;    7200 ;Brasil ;Vinhos de Mesa
+ 365 ;Moçambique                      ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 366 ;Montenegro                      ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 367 ;Namíbia                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 368 ;Nicarágua                       ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 369 ;Nigéria                         ;2011 ;        54 ;     210 ;Brasil ;Vinhos de Mesa
+ 370 ;Noruega                         ;2011 ;     10268 ;   78688 ;Brasil ;Vinhos de Mesa
+ 371 ;Nova Caledônia                  ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 372 ;Nova Zelândia                   ;2011 ;      2587 ;    7992 ;Brasil ;Vinhos de Mesa
+ 373 ;Omã                             ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 374 ;Países Baixos                   ;2011 ;    125414 ;  395356 ;Brasil ;Vinhos de Mesa
+ 375 ;Palau                           ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 376 ;Panamá                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 377 ;Paraguai                        ;2011 ;    240168 ;  276281 ;Brasil ;Vinhos de Mesa
+ 378 ;Peru                            ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 379 ;Pitcairn                        ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 380 ;Polônia                         ;2011 ;     11732 ;   50684 ;Brasil ;Vinhos de Mesa
+ 381 ;Porto Rico                      ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 382 ;Portugal                        ;2011 ;        95 ;    1031 ;Brasil ;Vinhos de Mesa
+ 383 ;Quênia                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 384 ;Reino Unido                     ;2011 ;    122629 ;  285642 ;Brasil ;Vinhos de Mesa
+ 385 ;República Dominicana            ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 386 ;Rússia                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 387 ;São Cristóvão e Névis           ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 388 ;São Tomé e Príncipe             ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 389 ;São Vicente e Granadinas        ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 390 ;Senegal                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 391 ;Serra Leoa                      ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 392 ;Singapura                       ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 393 ;Suazilândia                     ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 394 ;Suécia                          ;2011 ;      1641 ;   14476 ;Brasil ;Vinhos de Mesa
+ 395 ;Suíça                           ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 396 ;Suriname                        ;2011 ;      3774 ;    3735 ;Brasil ;Vinhos de Mesa
+ 397 ;Tailândia                       ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 398 ;Taiwan (Formosa)                ;2011 ;      4500 ;   10600 ;Brasil ;Vinhos de Mesa
+ 399 ;Tanzânia                        ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 400 ;Tcheca, República               ;2011 ;      6846 ;   37271 ;Brasil ;Vinhos de Mesa
+ 401 ;Togo                            ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 402 ;Toquelau                        ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 403 ;Trinidade Tobago                ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 404 ;Tunísia                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 405 ;Turquia                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 406 ;Tuvalu                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 407 ;Uruguai                         ;2011 ;      1238 ;    4404 ;Brasil ;Vinhos de Mesa
+ 408 ;Vanuatu                         ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 409 ;Venezuela                       ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 410 ;Vietnã                          ;2011 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 411 ;Afeganistão                     ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 412 ;África do Sul                   ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 413 ;Alemanha, República Democrática ;2012 ;      8189 ;   56342 ;Brasil ;Vinhos de Mesa
+ 414 ;Angola                          ;2012 ;      2833 ;    8861 ;Brasil ;Vinhos de Mesa
+ 415 ;Anguilla                        ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 416 ;Antígua e Barbuda               ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 417 ;Antilhas Holandesas             ;2012 ;      9247 ;   14081 ;Brasil ;Vinhos de Mesa
+ 418 ;Arábia Saudita                  ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 419 ;Argentina                       ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 420 ;Aruba                           ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 421 ;Austrália                       ;2012 ;      9345 ;   56045 ;Brasil ;Vinhos de Mesa
+ 422 ;Áustria                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 423 ;Bahamas                         ;2012 ;      1374 ;   12087 ;Brasil ;Vinhos de Mesa
+ 424 ;Bangladesh                      ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 425 ;Barbados                        ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 426 ;Barein                          ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 427 ;Bélgica                         ;2012 ;     16132 ;   90718 ;Brasil ;Vinhos de Mesa
+ 428 ;Belice                          ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 429 ;Benin                           ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 430 ;Bermudas                        ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 431 ;Bolívia                         ;2012 ;     11868 ;   16804 ;Brasil ;Vinhos de Mesa
+ 432 ;Bósnia-Herzegovina              ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 433 ;Brasil                          ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 434 ;Bulgária                        ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 435 ;Cabo Verde                      ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 436 ;Camarões                        ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 437 ;Canadá                          ;2012 ;     14304 ;  146035 ;Brasil ;Vinhos de Mesa
+ 438 ;Catar                           ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 439 ;Cayman, Ilhas                   ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 440 ;Chile                           ;2012 ;      8550 ;   15438 ;Brasil ;Vinhos de Mesa
+ 441 ;China                           ;2012 ;     87905 ;  642177 ;Brasil ;Vinhos de Mesa
+ 442 ;Chipre                          ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 443 ;Cingapura                       ;2012 ;      1212 ;    5310 ;Brasil ;Vinhos de Mesa
+ 444 ;Cocos (Keeling), Ilhas          ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 445 ;Colômbia                        ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 446 ;Comores                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 447 ;Congo                           ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 448 ;Coreia, Republica Sul           ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 449 ;Costa do Marfim                 ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 450 ;Costa Rica                      ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 451 ;Croácia                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 452 ;Cuba                            ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 453 ;Curaçao                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 454 ;Dinamarca                       ;2012 ;      4716 ;   23802 ;Brasil ;Vinhos de Mesa
+ 455 ;Dominica                        ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 456 ;El Salvador                     ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 457 ;Emirados Arabes Unidos          ;2012 ;       675 ;    3300 ;Brasil ;Vinhos de Mesa
+ 458 ;Equador                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 459 ;Eslovaca, Republica             ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 460 ;Espanha                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 461 ;Estados Unidos                  ;2012 ;    146585 ;  303986 ;Brasil ;Vinhos de Mesa
+ 462 ;Estônia                         ;2012 ;      3321 ;   19384 ;Brasil ;Vinhos de Mesa
+ 463 ;Filipinas                       ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 464 ;Finlândia                       ;2012 ;     17100 ;   67959 ;Brasil ;Vinhos de Mesa
+ 465 ;França                          ;2012 ;    195604 ;  185791 ;Brasil ;Vinhos de Mesa
+ 466 ;Gana                            ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 467 ;Gibraltar                       ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 468 ;Granada                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 469 ;Grécia                          ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 470 ;Guatemala                       ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 471 ;Guiana                          ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 472 ;Guiana Francesa                 ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 473 ;Guine Bissau                    ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 474 ;Guine Equatorial                ;2012 ;       819 ;    2530 ;Brasil ;Vinhos de Mesa
+ 475 ;Haiti                           ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 476 ;Honduras                        ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 477 ;Hong Kong                       ;2012 ;      1609 ;    7653 ;Brasil ;Vinhos de Mesa
+ 478 ;Hungria                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 479 ;Ilha de Man                     ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 480 ;Ilhas Virgens                   ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 481 ;India                           ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 482 ;Indonésia                       ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 483 ;Irã                             ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 484 ;Iraque                          ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 485 ;Irlanda                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 486 ;Itália                          ;2012 ;       792 ;    5622 ;Brasil ;Vinhos de Mesa
+ 487 ;Jamaica                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 488 ;Japão                           ;2012 ;     29281 ;  116961 ;Brasil ;Vinhos de Mesa
+ 489 ;Jordânia                        ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 490 ;Letônia                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 491 ;Líbano                          ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 492 ;Libéria                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 493 ;Luxemburgo                      ;2012 ;      2444 ;   16547 ;Brasil ;Vinhos de Mesa
+ 494 ;Macau                           ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 495 ;Malásia                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 496 ;Malavi                          ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 497 ;Malta                           ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 498 ;Marshall, Ilhas                 ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 499 ;Martinica                       ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 500 ;Mauritânia                      ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 501 ;México                          ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 502 ;Moçambique                      ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 503 ;Montenegro                      ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 504 ;Namíbia                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 505 ;Nicarágua                       ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 506 ;Nigéria                         ;2012 ;      6449 ;   10196 ;Brasil ;Vinhos de Mesa
+ 507 ;Noruega                         ;2012 ;      5104 ;   31515 ;Brasil ;Vinhos de Mesa
+ 508 ;Nova Caledônia                  ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 509 ;Nova Zelândia                   ;2012 ;      2364 ;    8817 ;Brasil ;Vinhos de Mesa
+ 510 ;Omã                             ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 511 ;Países Baixos                   ;2012 ;    134879 ;  539641 ;Brasil ;Vinhos de Mesa
+ 512 ;Palau                           ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 513 ;Panamá                          ;2012 ;        39 ;    2262 ;Brasil ;Vinhos de Mesa
+ 514 ;Paraguai                        ;2012 ;    354824 ;  428279 ;Brasil ;Vinhos de Mesa
+ 515 ;Peru                            ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 516 ;Pitcairn                        ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 517 ;Polônia                         ;2012 ;     21663 ;   89158 ;Brasil ;Vinhos de Mesa
+ 518 ;Porto Rico                      ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 519 ;Portugal                        ;2012 ;     47172 ;   47022 ;Brasil ;Vinhos de Mesa
+ 520 ;Quênia                          ;2012 ;        94 ;     458 ;Brasil ;Vinhos de Mesa
+ 521 ;Reino Unido                     ;2012 ;     82937 ;  334856 ;Brasil ;Vinhos de Mesa
+ 522 ;República Dominicana            ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 523 ;Rússia                          ;2012 ;   4528176 ; 2103968 ;Brasil ;Vinhos de Mesa
+ 524 ;São Cristóvão e Névis           ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 525 ;São Tomé e Príncipe             ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 526 ;São Vicente e Granadinas        ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 527 ;Senegal                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 528 ;Serra Leoa                      ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 529 ;Singapura                       ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 530 ;Suazilândia                     ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 531 ;Suécia                          ;2012 ;      2705 ;   17280 ;Brasil ;Vinhos de Mesa
+ 532 ;Suíça                           ;2012 ;      4014 ;   47240 ;Brasil ;Vinhos de Mesa
+ 533 ;Suriname                        ;2012 ;       396 ;    1288 ;Brasil ;Vinhos de Mesa
+ 534 ;Tailândia                       ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 535 ;Taiwan (Formosa)                ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 536 ;Tanzânia                        ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 537 ;Tcheca, República               ;2012 ;      7960 ;   27789 ;Brasil ;Vinhos de Mesa
+ 538 ;Togo                            ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 539 ;Toquelau                        ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 540 ;Trinidade Tobago                ;2012 ;       531 ;    2720 ;Brasil ;Vinhos de Mesa
+ 541 ;Tunísia                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 542 ;Turquia                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 543 ;Tuvalu                          ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 544 ;Uruguai                         ;2012 ;      1135 ;    3879 ;Brasil ;Vinhos de Mesa
+ 545 ;Vanuatu                         ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 546 ;Venezuela                       ;2012 ;      1029 ;    7492 ;Brasil ;Vinhos de Mesa
+ 547 ;Vietnã                          ;2012 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 548 ;Afeganistão                     ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 549 ;África do Sul                   ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 550 ;Alemanha, República Democrática ;2013 ;     61699 ;  265978 ;Brasil ;Vinhos de Mesa
+ 551 ;Angola                          ;2013 ;      1573 ;    9300 ;Brasil ;Vinhos de Mesa
+ 552 ;Anguilla                        ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 553 ;Antígua e Barbuda               ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 554 ;Antilhas Holandesas             ;2013 ;     11281 ;   19565 ;Brasil ;Vinhos de Mesa
+ 555 ;Arábia Saudita                  ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 556 ;Argentina                       ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 557 ;Aruba                           ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 558 ;Austrália                       ;2013 ;     16707 ;  101715 ;Brasil ;Vinhos de Mesa
+ 559 ;Áustria                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 560 ;Bahamas                         ;2013 ;       581 ;    5145 ;Brasil ;Vinhos de Mesa
+ 561 ;Bangladesh                      ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 562 ;Barbados                        ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 563 ;Barein                          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 564 ;Bélgica                         ;2013 ;     22461 ;   95893 ;Brasil ;Vinhos de Mesa
+ 565 ;Belice                          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 566 ;Benin                           ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 567 ;Bermudas                        ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 568 ;Bolívia                         ;2013 ;     19147 ;   25998 ;Brasil ;Vinhos de Mesa
+ 569 ;Bósnia-Herzegovina              ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 570 ;Brasil                          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 571 ;Bulgária                        ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 572 ;Cabo Verde                      ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 573 ;Camarões                        ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 574 ;Canadá                          ;2013 ;     25329 ;  174643 ;Brasil ;Vinhos de Mesa
+ 575 ;Catar                           ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 576 ;Cayman, Ilhas                   ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 577 ;Chile                           ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 578 ;China                           ;2013 ;     40929 ;  279956 ;Brasil ;Vinhos de Mesa
+ 579 ;Chipre                          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 580 ;Cingapura                       ;2013 ;       766 ;    5779 ;Brasil ;Vinhos de Mesa
+ 581 ;Cocos (Keeling), Ilhas          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 582 ;Colômbia                        ;2013 ;         8 ;      30 ;Brasil ;Vinhos de Mesa
+ 583 ;Comores                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 584 ;Congo                           ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 585 ;Coreia, Republica Sul           ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 586 ;Costa do Marfim                 ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 587 ;Costa Rica                      ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 588 ;Croácia                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 589 ;Cuba                            ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 590 ;Curaçao                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 591 ;Dinamarca                       ;2013 ;     17892 ;  101915 ;Brasil ;Vinhos de Mesa
+ 592 ;Dominica                        ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 593 ;El Salvador                     ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 594 ;Emirados Arabes Unidos          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 595 ;Equador                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 596 ;Eslovaca, Republica             ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 597 ;Espanha                         ;2013 ;   1972980 ; 3748940 ;Brasil ;Vinhos de Mesa
+ 598 ;Estados Unidos                  ;2013 ;    245368 ;  786556 ;Brasil ;Vinhos de Mesa
+ 599 ;Estônia                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 600 ;Filipinas                       ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 601 ;Finlândia                       ;2013 ;     36682 ;  283114 ;Brasil ;Vinhos de Mesa
+ 602 ;França                          ;2013 ;      6885 ;   42256 ;Brasil ;Vinhos de Mesa
+ 603 ;Gana                            ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 604 ;Gibraltar                       ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 605 ;Granada                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 606 ;Grécia                          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 607 ;Guatemala                       ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 608 ;Guiana                          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 609 ;Guiana Francesa                 ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 610 ;Guine Bissau                    ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 611 ;Guine Equatorial                ;2013 ;      1108 ;    5336 ;Brasil ;Vinhos de Mesa
+ 612 ;Haiti                           ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 613 ;Honduras                        ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 614 ;Hong Kong                       ;2013 ;     16013 ;   61224 ;Brasil ;Vinhos de Mesa
+ 615 ;Hungria                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 616 ;Ilha de Man                     ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 617 ;Ilhas Virgens                   ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 618 ;India                           ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 619 ;Indonésia                       ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 620 ;Irã                             ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 621 ;Iraque                          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 622 ;Irlanda                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 623 ;Itália                          ;2013 ;      1710 ;   11967 ;Brasil ;Vinhos de Mesa
+ 624 ;Jamaica                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 625 ;Japão                           ;2013 ;     91988 ;  429088 ;Brasil ;Vinhos de Mesa
+ 626 ;Jordânia                        ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 627 ;Letônia                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 628 ;Líbano                          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 629 ;Libéria                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 630 ;Luxemburgo                      ;2013 ;      5135 ;   29474 ;Brasil ;Vinhos de Mesa
+ 631 ;Macau                           ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 632 ;Malásia                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 633 ;Malavi                          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 634 ;Malta                           ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 635 ;Marshall, Ilhas                 ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 636 ;Martinica                       ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 637 ;Mauritânia                      ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 638 ;México                          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 639 ;Moçambique                      ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 640 ;Montenegro                      ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 641 ;Namíbia                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 642 ;Nicarágua                       ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 643 ;Nigéria                         ;2013 ;      1350 ;    2245 ;Brasil ;Vinhos de Mesa
+ 644 ;Noruega                         ;2013 ;      2375 ;   19008 ;Brasil ;Vinhos de Mesa
+ 645 ;Nova Caledônia                  ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 646 ;Nova Zelândia                   ;2013 ;      1004 ;    4092 ;Brasil ;Vinhos de Mesa
+ 647 ;Omã                             ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 648 ;Países Baixos                   ;2013 ;     57792 ;  255690 ;Brasil ;Vinhos de Mesa
+ 649 ;Palau                           ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 650 ;Panamá                          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 651 ;Paraguai                        ;2013 ;    481564 ;  680828 ;Brasil ;Vinhos de Mesa
+ 652 ;Peru                            ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 653 ;Pitcairn                        ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 654 ;Polônia                         ;2013 ;     19249 ;   90960 ;Brasil ;Vinhos de Mesa
+ 655 ;Porto Rico                      ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 656 ;Portugal                        ;2013 ;     23810 ;   17627 ;Brasil ;Vinhos de Mesa
+ 657 ;Quênia                          ;2013 ;         6 ;       4 ;Brasil ;Vinhos de Mesa
+ 658 ;Reino Unido                     ;2013 ;     59161 ;  305005 ;Brasil ;Vinhos de Mesa
+ 659 ;República Dominicana            ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 660 ;Rússia                          ;2013 ;   5893291 ;14795694 ;Brasil ;Vinhos de Mesa
+ 661 ;São Cristóvão e Névis           ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 662 ;São Tomé e Príncipe             ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 663 ;São Vicente e Granadinas        ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 664 ;Senegal                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 665 ;Serra Leoa                      ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 666 ;Singapura                       ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 667 ;Suazilândia                     ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 668 ;Suécia                          ;2013 ;      3195 ;   20183 ;Brasil ;Vinhos de Mesa
+ 669 ;Suíça                           ;2013 ;      2997 ;   29785 ;Brasil ;Vinhos de Mesa
+ 670 ;Suriname                        ;2013 ;      1800 ;    2960 ;Brasil ;Vinhos de Mesa
+ 671 ;Tailândia                       ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 672 ;Taiwan (Formosa)                ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 673 ;Tanzânia                        ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 674 ;Tcheca, República               ;2013 ;      3697 ;   23549 ;Brasil ;Vinhos de Mesa
+ 675 ;Togo                            ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 676 ;Toquelau                        ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 677 ;Trinidade Tobago                ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 678 ;Tunísia                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 679 ;Turquia                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 680 ;Tuvalu                          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 681 ;Uruguai                         ;2013 ;      1526 ;   13343 ;Brasil ;Vinhos de Mesa
+ 682 ;Vanuatu                         ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 683 ;Venezuela                       ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 684 ;Vietnã                          ;2013 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 685 ;Afeganistão                     ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 686 ;África do Sul                   ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 687 ;Alemanha, República Democrática ;2014 ;    213348 ;  761653 ;Brasil ;Vinhos de Mesa
+ 688 ;Angola                          ;2014 ;     12182 ;   23124 ;Brasil ;Vinhos de Mesa
+ 689 ;Anguilla                        ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 690 ;Antígua e Barbuda               ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 691 ;Antilhas Holandesas             ;2014 ;      4455 ;    7169 ;Brasil ;Vinhos de Mesa
+ 692 ;Arábia Saudita                  ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 693 ;Argentina                       ;2014 ;     20385 ;   95130 ;Brasil ;Vinhos de Mesa
+ 694 ;Aruba                           ;2014 ;       450 ;     755 ;Brasil ;Vinhos de Mesa
+ 695 ;Austrália                       ;2014 ;      6308 ;   43709 ;Brasil ;Vinhos de Mesa
+ 696 ;Áustria                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 697 ;Bahamas                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 698 ;Bangladesh                      ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 699 ;Barbados                        ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 700 ;Barein                          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 701 ;Bélgica                         ;2014 ;    151320 ;  704093 ;Brasil ;Vinhos de Mesa
+ 702 ;Belice                          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 703 ;Benin                           ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 704 ;Bermudas                        ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 705 ;Bolívia                         ;2014 ;     12534 ;   18303 ;Brasil ;Vinhos de Mesa
+ 706 ;Bósnia-Herzegovina              ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 707 ;Brasil                          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 708 ;Bulgária                        ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 709 ;Cabo Verde                      ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 710 ;Camarões                        ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 711 ;Canadá                          ;2014 ;     35082 ;  226875 ;Brasil ;Vinhos de Mesa
+ 712 ;Catar                           ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 713 ;Cayman, Ilhas                   ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 714 ;Chile                           ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 715 ;China                           ;2014 ;     64040 ;  455340 ;Brasil ;Vinhos de Mesa
+ 716 ;Chipre                          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 717 ;Cingapura                       ;2014 ;       541 ;    3887 ;Brasil ;Vinhos de Mesa
+ 718 ;Cocos (Keeling), Ilhas          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 719 ;Colômbia                        ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 720 ;Comores                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 721 ;Congo                           ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 722 ;Coreia, Republica Sul           ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 723 ;Costa do Marfim                 ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 724 ;Costa Rica                      ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 725 ;Croácia                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 726 ;Cuba                            ;2014 ;     38875 ;   43200 ;Brasil ;Vinhos de Mesa
+ 727 ;Curaçao                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 728 ;Dinamarca                       ;2014 ;      3240 ;   16871 ;Brasil ;Vinhos de Mesa
+ 729 ;Dominica                        ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 730 ;El Salvador                     ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 731 ;Emirados Arabes Unidos          ;2014 ;       640 ;    3381 ;Brasil ;Vinhos de Mesa
+ 732 ;Equador                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 733 ;Eslovaca, Republica             ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 734 ;Espanha                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 735 ;Estados Unidos                  ;2014 ;    222267 ;  494216 ;Brasil ;Vinhos de Mesa
+ 736 ;Estônia                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 737 ;Filipinas                       ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 738 ;Finlândia                       ;2014 ;     12960 ;   94962 ;Brasil ;Vinhos de Mesa
+ 739 ;França                          ;2014 ;     33755 ;  167807 ;Brasil ;Vinhos de Mesa
+ 740 ;Gana                            ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 741 ;Gibraltar                       ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 742 ;Granada                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 743 ;Grécia                          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 744 ;Guatemala                       ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 745 ;Guiana                          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 746 ;Guiana Francesa                 ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 747 ;Guine Bissau                    ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 748 ;Guine Equatorial                ;2014 ;      5646 ;   11983 ;Brasil ;Vinhos de Mesa
+ 749 ;Haiti                           ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 750 ;Honduras                        ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 751 ;Hong Kong                       ;2014 ;     18130 ;   63534 ;Brasil ;Vinhos de Mesa
+ 752 ;Hungria                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 753 ;Ilha de Man                     ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 754 ;Ilhas Virgens                   ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 755 ;India                           ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 756 ;Indonésia                       ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 757 ;Irã                             ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 758 ;Iraque                          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 759 ;Irlanda                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 760 ;Itália                          ;2014 ;       604 ;    2492 ;Brasil ;Vinhos de Mesa
+ 761 ;Jamaica                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 762 ;Japão                           ;2014 ;    106426 ;  401774 ;Brasil ;Vinhos de Mesa
+ 763 ;Jordânia                        ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 764 ;Letônia                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 765 ;Líbano                          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 766 ;Libéria                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 767 ;Luxemburgo                      ;2014 ;      8281 ;   52400 ;Brasil ;Vinhos de Mesa
+ 768 ;Macau                           ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 769 ;Malásia                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 770 ;Malavi                          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 771 ;Malta                           ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 772 ;Marshall, Ilhas                 ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 773 ;Martinica                       ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 774 ;Mauritânia                      ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 775 ;México                          ;2014 ;      1521 ;   24336 ;Brasil ;Vinhos de Mesa
+ 776 ;Moçambique                      ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 777 ;Montenegro                      ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 778 ;Namíbia                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 779 ;Nicarágua                       ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 780 ;Nigéria                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 781 ;Noruega                         ;2014 ;      7179 ;   50464 ;Brasil ;Vinhos de Mesa
+ 782 ;Nova Caledônia                  ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 783 ;Nova Zelândia                   ;2014 ;      2800 ;   13675 ;Brasil ;Vinhos de Mesa
+ 784 ;Omã                             ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 785 ;Países Baixos                   ;2014 ;    165289 ;  773767 ;Brasil ;Vinhos de Mesa
+ 786 ;Palau                           ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 787 ;Panamá                          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 788 ;Paraguai                        ;2014 ;    521847 ;  908028 ;Brasil ;Vinhos de Mesa
+ 789 ;Peru                            ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 790 ;Pitcairn                        ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 791 ;Polônia                         ;2014 ;     30181 ;  107957 ;Brasil ;Vinhos de Mesa
+ 792 ;Porto Rico                      ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 793 ;Portugal                        ;2014 ;     71544 ;   79141 ;Brasil ;Vinhos de Mesa
+ 794 ;Quênia                          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 795 ;Reino Unido                     ;2014 ;    305807 ; 1373747 ;Brasil ;Vinhos de Mesa
+ 796 ;República Dominicana            ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 797 ;Rússia                          ;2014 ;    190656 ;   61440 ;Brasil ;Vinhos de Mesa
+ 798 ;São Cristóvão e Névis           ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 799 ;São Tomé e Príncipe             ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 800 ;São Vicente e Granadinas        ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 801 ;Senegal                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 802 ;Serra Leoa                      ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 803 ;Singapura                       ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 804 ;Suazilândia                     ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 805 ;Suécia                          ;2014 ;     10404 ;   51057 ;Brasil ;Vinhos de Mesa
+ 806 ;Suíça                           ;2014 ;     27933 ;  231762 ;Brasil ;Vinhos de Mesa
+ 807 ;Suriname                        ;2014 ;         6 ;      19 ;Brasil ;Vinhos de Mesa
+ 808 ;Tailândia                       ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 809 ;Taiwan (Formosa)                ;2014 ;     12519 ;   67907 ;Brasil ;Vinhos de Mesa
+ 810 ;Tanzânia                        ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 811 ;Tcheca, República               ;2014 ;      4500 ;   35005 ;Brasil ;Vinhos de Mesa
+ 812 ;Togo                            ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 813 ;Toquelau                        ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 814 ;Trinidade Tobago                ;2014 ;       360 ;    1600 ;Brasil ;Vinhos de Mesa
+ 815 ;Tunísia                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 816 ;Turquia                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 817 ;Tuvalu                          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 818 ;Uruguai                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 819 ;Vanuatu                         ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 820 ;Venezuela                       ;2014 ;        14 ;     232 ;Brasil ;Vinhos de Mesa
+ 821 ;Vietnã                          ;2014 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 822 ;Afeganistão                     ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 823 ;África do Sul                   ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 824 ;Alemanha, República Democrática ;2015 ;     10680 ;   44780 ;Brasil ;Vinhos de Mesa
+ 825 ;Angola                          ;2015 ;      1908 ;   17089 ;Brasil ;Vinhos de Mesa
+ 826 ;Anguilla                        ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 827 ;Antígua e Barbuda               ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 828 ;Antilhas Holandesas             ;2015 ;      6660 ;   10545 ;Brasil ;Vinhos de Mesa
+ 829 ;Arábia Saudita                  ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 830 ;Argentina                       ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 831 ;Aruba                           ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 832 ;Austrália                       ;2015 ;      7437 ;   48011 ;Brasil ;Vinhos de Mesa
+ 833 ;Áustria                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 834 ;Bahamas                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 835 ;Bangladesh                      ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 836 ;Barbados                        ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 837 ;Barein                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 838 ;Bélgica                         ;2015 ;      4473 ;   26399 ;Brasil ;Vinhos de Mesa
+ 839 ;Belice                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 840 ;Benin                           ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 841 ;Bermudas                        ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 842 ;Bolívia                         ;2015 ;     10674 ;   12990 ;Brasil ;Vinhos de Mesa
+ 843 ;Bósnia-Herzegovina              ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 844 ;Brasil                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 845 ;Bulgária                        ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 846 ;Cabo Verde                      ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 847 ;Camarões                        ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 848 ;Canadá                          ;2015 ;     24547 ;  118394 ;Brasil ;Vinhos de Mesa
+ 849 ;Catar                           ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 850 ;Cayman, Ilhas                   ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 851 ;Chile                           ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 852 ;China                           ;2015 ;     47609 ;  222866 ;Brasil ;Vinhos de Mesa
+ 853 ;Chipre                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 854 ;Cingapura                       ;2015 ;      1116 ;    2774 ;Brasil ;Vinhos de Mesa
+ 855 ;Cocos (Keeling), Ilhas          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 856 ;Colômbia                        ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 857 ;Comores                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 858 ;Congo                           ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 859 ;Coreia, Republica Sul           ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 860 ;Costa do Marfim                 ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 861 ;Costa Rica                      ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 862 ;Croácia                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 863 ;Cuba                            ;2015 ;     97965 ;  108864 ;Brasil ;Vinhos de Mesa
+ 864 ;Curaçao                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 865 ;Dinamarca                       ;2015 ;      7080 ;   29306 ;Brasil ;Vinhos de Mesa
+ 866 ;Dominica                        ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 867 ;El Salvador                     ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 868 ;Emirados Arabes Unidos          ;2015 ;       765 ;    3740 ;Brasil ;Vinhos de Mesa
+ 869 ;Equador                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 870 ;Eslovaca, Republica             ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 871 ;Espanha                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 872 ;Estados Unidos                  ;2015 ;    195896 ;  524109 ;Brasil ;Vinhos de Mesa
+ 873 ;Estônia                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 874 ;Filipinas                       ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 875 ;Finlândia                       ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 876 ;França                          ;2015 ;      1596 ;    4749 ;Brasil ;Vinhos de Mesa
+ 877 ;Gana                            ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 878 ;Gibraltar                       ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 879 ;Granada                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 880 ;Grécia                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 881 ;Guatemala                       ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 882 ;Guiana                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 883 ;Guiana Francesa                 ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 884 ;Guine Bissau                    ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 885 ;Guine Equatorial                ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 886 ;Haiti                           ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 887 ;Honduras                        ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 888 ;Hong Kong                       ;2015 ;      1229 ;    7837 ;Brasil ;Vinhos de Mesa
+ 889 ;Hungria                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 890 ;Ilha de Man                     ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 891 ;Ilhas Virgens                   ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 892 ;India                           ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 893 ;Indonésia                       ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 894 ;Irã                             ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 895 ;Iraque                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 896 ;Irlanda                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 897 ;Itália                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 898 ;Jamaica                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 899 ;Japão                           ;2015 ;     31597 ;   87853 ;Brasil ;Vinhos de Mesa
+ 900 ;Jordânia                        ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 901 ;Letônia                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 902 ;Líbano                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 903 ;Libéria                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 904 ;Luxemburgo                      ;2015 ;      2295 ;   17358 ;Brasil ;Vinhos de Mesa
+ 905 ;Macau                           ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 906 ;Malásia                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 907 ;Malavi                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 908 ;Malta                           ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 909 ;Marshall, Ilhas                 ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 910 ;Martinica                       ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 911 ;Mauritânia                      ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 912 ;México                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 913 ;Moçambique                      ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 914 ;Montenegro                      ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 915 ;Namíbia                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 916 ;Nicarágua                       ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 917 ;Nigéria                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 918 ;Noruega                         ;2015 ;      1058 ;    6021 ;Brasil ;Vinhos de Mesa
+ 919 ;Nova Caledônia                  ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 920 ;Nova Zelândia                   ;2015 ;       809 ;    3476 ;Brasil ;Vinhos de Mesa
+ 921 ;Omã                             ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 922 ;Países Baixos                   ;2015 ;     44987 ;  186464 ;Brasil ;Vinhos de Mesa
+ 923 ;Palau                           ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 924 ;Panamá                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 925 ;Paraguai                        ;2015 ;    495428 ;  741370 ;Brasil ;Vinhos de Mesa
+ 926 ;Peru                            ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 927 ;Pitcairn                        ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 928 ;Polônia                         ;2015 ;     11654 ;   42781 ;Brasil ;Vinhos de Mesa
+ 929 ;Porto Rico                      ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 930 ;Portugal                        ;2015 ;     47736 ;   42586 ;Brasil ;Vinhos de Mesa
+ 931 ;Quênia                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 932 ;Reino Unido                     ;2015 ;     68382 ;  308407 ;Brasil ;Vinhos de Mesa
+ 933 ;República Dominicana            ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 934 ;Rússia                          ;2015 ;     47664 ;   18240 ;Brasil ;Vinhos de Mesa
+ 935 ;São Cristóvão e Névis           ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 936 ;São Tomé e Príncipe             ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 937 ;São Vicente e Granadinas        ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 938 ;Senegal                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 939 ;Serra Leoa                      ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 940 ;Singapura                       ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 941 ;Suazilândia                     ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 942 ;Suécia                          ;2015 ;      1412 ;    6404 ;Brasil ;Vinhos de Mesa
+ 943 ;Suíça                           ;2015 ;     15872 ;   85790 ;Brasil ;Vinhos de Mesa
+ 944 ;Suriname                        ;2015 ;       453 ;     713 ;Brasil ;Vinhos de Mesa
+ 945 ;Tailândia                       ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 946 ;Taiwan (Formosa)                ;2015 ;      7200 ;   23940 ;Brasil ;Vinhos de Mesa
+ 947 ;Tanzânia                        ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 948 ;Tcheca, República               ;2015 ;      2297 ;   15304 ;Brasil ;Vinhos de Mesa
+ 949 ;Togo                            ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 950 ;Toquelau                        ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 951 ;Trinidade Tobago                ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 952 ;Tunísia                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 953 ;Turquia                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 954 ;Tuvalu                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 955 ;Uruguai                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 956 ;Vanuatu                         ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 957 ;Venezuela                       ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 958 ;Vietnã                          ;2015 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 959 ;Afeganistão                     ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 960 ;África do Sul                   ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 961 ;Alemanha, República Democrática ;2016 ;     14012 ;   68109 ;Brasil ;Vinhos de Mesa
+ 962 ;Angola                          ;2016 ;      7359 ;   35390 ;Brasil ;Vinhos de Mesa
+ 963 ;Anguilla                        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 964 ;Antígua e Barbuda               ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 965 ;Antilhas Holandesas             ;2016 ;     16641 ;   26450 ;Brasil ;Vinhos de Mesa
+ 966 ;Arábia Saudita                  ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 967 ;Argentina                       ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 968 ;Aruba                           ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 969 ;Austrália                       ;2016 ;      1954 ;   13799 ;Brasil ;Vinhos de Mesa
+ 970 ;Áustria                         ;2016 ;       675 ;    5220 ;Brasil ;Vinhos de Mesa
+ 971 ;Bahamas                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 972 ;Bangladesh                      ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 973 ;Barbados                        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 974 ;Barein                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 975 ;Bélgica                         ;2016 ;      7200 ;   46534 ;Brasil ;Vinhos de Mesa
+ 976 ;Belice                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 977 ;Benin                           ;2016 ;      5040 ;   20333 ;Brasil ;Vinhos de Mesa
+ 978 ;Bermudas                        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 979 ;Bolívia                         ;2016 ;     13586 ;   16902 ;Brasil ;Vinhos de Mesa
+ 980 ;Bósnia-Herzegovina              ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 981 ;Brasil                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 982 ;Bulgária                        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 983 ;Cabo Verde                      ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 984 ;Camarões                        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 985 ;Canadá                          ;2016 ;     13711 ;   71096 ;Brasil ;Vinhos de Mesa
+ 986 ;Catar                           ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 987 ;Cayman, Ilhas                   ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 988 ;Chile                           ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 989 ;China                           ;2016 ;    134106 ;  499622 ;Brasil ;Vinhos de Mesa
+ 990 ;Chipre                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 991 ;Cingapura                       ;2016 ;      5445 ;   13199 ;Brasil ;Vinhos de Mesa
+ 992 ;Cocos (Keeling), Ilhas          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 993 ;Colômbia                        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 994 ;Comores                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 995 ;Congo                           ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 996 ;Coreia, Republica Sul           ;2016 ;         8 ;      20 ;Brasil ;Vinhos de Mesa
+ 997 ;Costa do Marfim                 ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 998 ;Costa Rica                      ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+ 999 ;Croácia                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1000 ;Cuba                            ;2016 ;     63741 ;   69830 ;Brasil ;Vinhos de Mesa
+1001 ;Curaçao                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1002 ;Dinamarca                       ;2016 ;      1278 ;    8171 ;Brasil ;Vinhos de Mesa
+1003 ;Dominica                        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1004 ;El Salvador                     ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1005 ;Emirados Arabes Unidos          ;2016 ;       585 ;    2760 ;Brasil ;Vinhos de Mesa
+1006 ;Equador                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1007 ;Eslovaca, Republica             ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1008 ;Espanha                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1009 ;Estados Unidos                  ;2016 ;    258072 ;  687411 ;Brasil ;Vinhos de Mesa
+1010 ;Estônia                         ;2016 ;       900 ;    4800 ;Brasil ;Vinhos de Mesa
+1011 ;Filipinas                       ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1012 ;Finlândia                       ;2016 ;      7617 ;   41003 ;Brasil ;Vinhos de Mesa
+1013 ;França                          ;2016 ;      6037 ;   30055 ;Brasil ;Vinhos de Mesa
+1014 ;Gana                            ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1015 ;Gibraltar                       ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1016 ;Granada                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1017 ;Grécia                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1018 ;Guatemala                       ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1019 ;Guiana                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1020 ;Guiana Francesa                 ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1021 ;Guine Bissau                    ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1022 ;Guine Equatorial                ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1023 ;Haiti                           ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1024 ;Honduras                        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1025 ;Hong Kong                       ;2016 ;      6975 ;   86199 ;Brasil ;Vinhos de Mesa
+1026 ;Hungria                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1027 ;Ilha de Man                     ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1028 ;Ilhas Virgens                   ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1029 ;India                           ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1030 ;Indonésia                       ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1031 ;Irã                             ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1032 ;Iraque                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1033 ;Irlanda                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1034 ;Itália                          ;2016 ;       585 ;    3465 ;Brasil ;Vinhos de Mesa
+1035 ;Jamaica                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1036 ;Japão                           ;2016 ;     34341 ;   90954 ;Brasil ;Vinhos de Mesa
+1037 ;Jordânia                        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1038 ;Letônia                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1039 ;Líbano                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1040 ;Libéria                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1041 ;Luxemburgo                      ;2016 ;      2759 ;   21426 ;Brasil ;Vinhos de Mesa
+1042 ;Macau                           ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1043 ;Malásia                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1044 ;Malavi                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1045 ;Malta                           ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1046 ;Marshall, Ilhas                 ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1047 ;Martinica                       ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1048 ;Mauritânia                      ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1049 ;México                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1050 ;Moçambique                      ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1051 ;Montenegro                      ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1052 ;Namíbia                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1053 ;Nicarágua                       ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1054 ;Nigéria                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1055 ;Noruega                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1056 ;Nova Caledônia                  ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1057 ;Nova Zelândia                   ;2016 ;       504 ;    9472 ;Brasil ;Vinhos de Mesa
+1058 ;Omã                             ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1059 ;Países Baixos                   ;2016 ;     42953 ;  190203 ;Brasil ;Vinhos de Mesa
+1060 ;Palau                           ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1061 ;Panamá                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1062 ;Paraguai                        ;2016 ;    985739 ; 1655417 ;Brasil ;Vinhos de Mesa
+1063 ;Peru                            ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1064 ;Pitcairn                        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1065 ;Polônia                         ;2016 ;     11457 ;   35402 ;Brasil ;Vinhos de Mesa
+1066 ;Porto Rico                      ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1067 ;Portugal                        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1068 ;Quênia                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1069 ;Reino Unido                     ;2016 ;    117044 ;  536681 ;Brasil ;Vinhos de Mesa
+1070 ;República Dominicana            ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1071 ;Rússia                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1072 ;São Cristóvão e Névis           ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1073 ;São Tomé e Príncipe             ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1074 ;São Vicente e Granadinas        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1075 ;Senegal                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1076 ;Serra Leoa                      ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1077 ;Singapura                       ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1078 ;Suazilândia                     ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1079 ;Suécia                          ;2016 ;       291 ;    1214 ;Brasil ;Vinhos de Mesa
+1080 ;Suíça                           ;2016 ;      4230 ;   33340 ;Brasil ;Vinhos de Mesa
+1081 ;Suriname                        ;2016 ;       900 ;    1375 ;Brasil ;Vinhos de Mesa
+1082 ;Tailândia                       ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1083 ;Taiwan (Formosa)                ;2016 ;     16967 ;   80379 ;Brasil ;Vinhos de Mesa
+1084 ;Tanzânia                        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1085 ;Tcheca, República               ;2016 ;      3837 ;   28473 ;Brasil ;Vinhos de Mesa
+1086 ;Togo                            ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1087 ;Toquelau                        ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1088 ;Trinidade Tobago                ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1089 ;Tunísia                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1090 ;Turquia                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1091 ;Tuvalu                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1092 ;Uruguai                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1093 ;Vanuatu                         ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1094 ;Venezuela                       ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1095 ;Vietnã                          ;2016 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1096 ;Afeganistão                     ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1097 ;África do Sul                   ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1098 ;Alemanha, República Democrática ;2017 ;     15467 ;   87702 ;Brasil ;Vinhos de Mesa
+1099 ;Angola                          ;2017 ;     10170 ;   61680 ;Brasil ;Vinhos de Mesa
+1100 ;Anguilla                        ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1101 ;Antígua e Barbuda               ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1102 ;Antilhas Holandesas             ;2017 ;      5400 ;    8550 ;Brasil ;Vinhos de Mesa
+1103 ;Arábia Saudita                  ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1104 ;Argentina                       ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1105 ;Aruba                           ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1106 ;Austrália                       ;2017 ;      1350 ;    7500 ;Brasil ;Vinhos de Mesa
+1107 ;Áustria                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1108 ;Bahamas                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1109 ;Bangladesh                      ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1110 ;Barbados                        ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1111 ;Barein                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1112 ;Bélgica                         ;2017 ;      2790 ;   16405 ;Brasil ;Vinhos de Mesa
+1113 ;Belice                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1114 ;Benin                           ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1115 ;Bermudas                        ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1116 ;Bolívia                         ;2017 ;      9495 ;   23085 ;Brasil ;Vinhos de Mesa
+1117 ;Bósnia-Herzegovina              ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1118 ;Brasil                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1119 ;Bulgária                        ;2017 ;       117 ;    1579 ;Brasil ;Vinhos de Mesa
+1120 ;Cabo Verde                      ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1121 ;Camarões                        ;2017 ;      1749 ;    7476 ;Brasil ;Vinhos de Mesa
+1122 ;Canadá                          ;2017 ;      6075 ;   30658 ;Brasil ;Vinhos de Mesa
+1123 ;Catar                           ;2017 ;     13338 ;   81606 ;Brasil ;Vinhos de Mesa
+1124 ;Cayman, Ilhas                   ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1125 ;Chile                           ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1126 ;China                           ;2017 ;     67594 ;  266086 ;Brasil ;Vinhos de Mesa
+1127 ;Chipre                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1128 ;Cingapura                       ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1129 ;Cocos (Keeling), Ilhas          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1130 ;Colômbia                        ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1131 ;Comores                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1132 ;Congo                           ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1133 ;Coreia, Republica Sul           ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1134 ;Costa do Marfim                 ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1135 ;Costa Rica                      ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1136 ;Croácia                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1137 ;Cuba                            ;2017 ;     62791 ;   72229 ;Brasil ;Vinhos de Mesa
+1138 ;Curaçao                         ;2017 ;     12340 ;   23011 ;Brasil ;Vinhos de Mesa
+1139 ;Dinamarca                       ;2017 ;       581 ;    2829 ;Brasil ;Vinhos de Mesa
+1140 ;Dominica                        ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1141 ;El Salvador                     ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1142 ;Emirados Arabes Unidos          ;2017 ;       675 ;    3302 ;Brasil ;Vinhos de Mesa
+1143 ;Equador                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1144 ;Eslovaca, Republica             ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1145 ;Espanha                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1146 ;Estados Unidos                  ;2017 ;    132688 ; 1523699 ;Brasil ;Vinhos de Mesa
+1147 ;Estônia                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1148 ;Filipinas                       ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1149 ;Finlândia                       ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1150 ;França                          ;2017 ;      4253 ;   21654 ;Brasil ;Vinhos de Mesa
+1151 ;Gana                            ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1152 ;Gibraltar                       ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1153 ;Granada                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1154 ;Grécia                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1155 ;Guatemala                       ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1156 ;Guiana                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1157 ;Guiana Francesa                 ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1158 ;Guine Bissau                    ;2017 ;        48 ;      90 ;Brasil ;Vinhos de Mesa
+1159 ;Guine Equatorial                ;2017 ;      2639 ;   30563 ;Brasil ;Vinhos de Mesa
+1160 ;Haiti                           ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1161 ;Honduras                        ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1162 ;Hong Kong                       ;2017 ;      1934 ;    8180 ;Brasil ;Vinhos de Mesa
+1163 ;Hungria                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1164 ;Ilha de Man                     ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1165 ;Ilhas Virgens                   ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1166 ;India                           ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1167 ;Indonésia                       ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1168 ;Irã                             ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1169 ;Iraque                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1170 ;Irlanda                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1171 ;Itália                          ;2017 ;       468 ;    2248 ;Brasil ;Vinhos de Mesa
+1172 ;Jamaica                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1173 ;Japão                           ;2017 ;     33909 ;   92886 ;Brasil ;Vinhos de Mesa
+1174 ;Jordânia                        ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1175 ;Letônia                         ;2017 ;       387 ;    3723 ;Brasil ;Vinhos de Mesa
+1176 ;Líbano                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1177 ;Libéria                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1178 ;Luxemburgo                      ;2017 ;      2719 ;   21947 ;Brasil ;Vinhos de Mesa
+1179 ;Macau                           ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1180 ;Malásia                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1181 ;Malavi                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1182 ;Malta                           ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1183 ;Marshall, Ilhas                 ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1184 ;Martinica                       ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1185 ;Mauritânia                      ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1186 ;México                          ;2017 ;       664 ;    2292 ;Brasil ;Vinhos de Mesa
+1187 ;Moçambique                      ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1188 ;Montenegro                      ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1189 ;Namíbia                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1190 ;Nicarágua                       ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1191 ;Nigéria                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1192 ;Noruega                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1193 ;Nova Caledônia                  ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1194 ;Nova Zelândia                   ;2017 ;      1678 ;    8140 ;Brasil ;Vinhos de Mesa
+1195 ;Omã                             ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1196 ;Países Baixos                   ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1197 ;Palau                           ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1198 ;Panamá                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1199 ;Paraguai                        ;2017 ;   2393468 ; 4274650 ;Brasil ;Vinhos de Mesa
+1200 ;Peru                            ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1201 ;Pitcairn                        ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1202 ;Polônia                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1203 ;Porto Rico                      ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1204 ;Portugal                        ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1205 ;Quênia                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1206 ;Reino Unido                     ;2017 ;     60711 ;  242883 ;Brasil ;Vinhos de Mesa
+1207 ;República Dominicana            ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1208 ;Rússia                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1209 ;São Cristóvão e Névis           ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1210 ;São Tomé e Príncipe             ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1211 ;São Vicente e Granadinas        ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1212 ;Senegal                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1213 ;Serra Leoa                      ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1214 ;Singapura                       ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1215 ;Suazilândia                     ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1216 ;Suécia                          ;2017 ;     15445 ;   64953 ;Brasil ;Vinhos de Mesa
+1217 ;Suíça                           ;2017 ;      6525 ;   74816 ;Brasil ;Vinhos de Mesa
+1218 ;Suriname                        ;2017 ;      3690 ;    5638 ;Brasil ;Vinhos de Mesa
+1219 ;Tailândia                       ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1220 ;Taiwan (Formosa)                ;2017 ;     14988 ;   43954 ;Brasil ;Vinhos de Mesa
+1221 ;Tanzânia                        ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1222 ;Tcheca, República               ;2017 ;      2746 ;   16947 ;Brasil ;Vinhos de Mesa
+1223 ;Togo                            ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1224 ;Toquelau                        ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1225 ;Trinidade Tobago                ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1226 ;Tunísia                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1227 ;Turquia                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1228 ;Tuvalu                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1229 ;Uruguai                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1230 ;Vanuatu                         ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1231 ;Venezuela                       ;2017 ;       680 ;    2646 ;Brasil ;Vinhos de Mesa
+1232 ;Vietnã                          ;2017 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1233 ;Afeganistão                     ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1234 ;África do Sul                   ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1235 ;Alemanha, República Democrática ;2018 ;     10794 ;   45382 ;Brasil ;Vinhos de Mesa
+1236 ;Angola                          ;2018 ;       477 ;     709 ;Brasil ;Vinhos de Mesa
+1237 ;Anguilla                        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1238 ;Antígua e Barbuda               ;2018 ;        37 ;     191 ;Brasil ;Vinhos de Mesa
+1239 ;Antilhas Holandesas             ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1240 ;Arábia Saudita                  ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1241 ;Argentina                       ;2018 ;     15711 ;   59150 ;Brasil ;Vinhos de Mesa
+1242 ;Aruba                           ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1243 ;Austrália                       ;2018 ;      2055 ;    6902 ;Brasil ;Vinhos de Mesa
+1244 ;Áustria                         ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1245 ;Bahamas                         ;2018 ;       141 ;     634 ;Brasil ;Vinhos de Mesa
+1246 ;Bangladesh                      ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1247 ;Barbados                        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1248 ;Barein                          ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1249 ;Bélgica                         ;2018 ;      7497 ;   52799 ;Brasil ;Vinhos de Mesa
+1250 ;Belice                          ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1251 ;Benin                           ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1252 ;Bermudas                        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1253 ;Bolívia                         ;2018 ;     21566 ;   57424 ;Brasil ;Vinhos de Mesa
+1254 ;Bósnia-Herzegovina              ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1255 ;Brasil                          ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1256 ;Bulgária                        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1257 ;Cabo Verde                      ;2018 ;        18 ;      48 ;Brasil ;Vinhos de Mesa
+1258 ;Camarões                        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1259 ;Canadá                          ;2018 ;      5308 ;   20414 ;Brasil ;Vinhos de Mesa
+1260 ;Catar                           ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1261 ;Cayman, Ilhas                   ;2018 ;        19 ;     203 ;Brasil ;Vinhos de Mesa
+1262 ;Chile                           ;2018 ;     11049 ;   42832 ;Brasil ;Vinhos de Mesa
+1263 ;China                           ;2018 ;     30835 ;  126336 ;Brasil ;Vinhos de Mesa
+1264 ;Chipre                          ;2018 ;       279 ;     480 ;Brasil ;Vinhos de Mesa
+1265 ;Cingapura                       ;2018 ;      3298 ;   11616 ;Brasil ;Vinhos de Mesa
+1266 ;Cocos (Keeling), Ilhas          ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1267 ;Colômbia                        ;2018 ;      6944 ;   26273 ;Brasil ;Vinhos de Mesa
+1268 ;Comores                         ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1269 ;Congo                           ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1270 ;Coreia, Republica Sul           ;2018 ;       120 ;     109 ;Brasil ;Vinhos de Mesa
+1271 ;Costa do Marfim                 ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1272 ;Costa Rica                      ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1273 ;Croácia                         ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1274 ;Cuba                            ;2018 ;      4776 ;    5584 ;Brasil ;Vinhos de Mesa
+1275 ;Curaçao                         ;2018 ;     23930 ;   43676 ;Brasil ;Vinhos de Mesa
+1276 ;Dinamarca                       ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1277 ;Dominica                        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1278 ;El Salvador                     ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1279 ;Emirados Arabes Unidos          ;2018 ;       360 ;    1762 ;Brasil ;Vinhos de Mesa
+1280 ;Equador                         ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1281 ;Eslovaca, Republica             ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1282 ;Espanha                         ;2018 ;      6123 ;   22631 ;Brasil ;Vinhos de Mesa
+1283 ;Estados Unidos                  ;2018 ;    169109 ;  512519 ;Brasil ;Vinhos de Mesa
+1284 ;Estônia                         ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1285 ;Filipinas                       ;2018 ;      9608 ;   16205 ;Brasil ;Vinhos de Mesa
+1286 ;Finlândia                       ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1287 ;França                          ;2018 ;     11077 ;   48677 ;Brasil ;Vinhos de Mesa
+1288 ;Gana                            ;2018 ;      9000 ;   13502 ;Brasil ;Vinhos de Mesa
+1289 ;Gibraltar                       ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1290 ;Granada                         ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1291 ;Grécia                          ;2018 ;       232 ;     730 ;Brasil ;Vinhos de Mesa
+1292 ;Guatemala                       ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1293 ;Guiana                          ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1294 ;Guiana Francesa                 ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1295 ;Guine Bissau                    ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1296 ;Guine Equatorial                ;2018 ;      8389 ;   26808 ;Brasil ;Vinhos de Mesa
+1297 ;Haiti                           ;2018 ;     79500 ;  144425 ;Brasil ;Vinhos de Mesa
+1298 ;Honduras                        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1299 ;Hong Kong                       ;2018 ;      1742 ;    9029 ;Brasil ;Vinhos de Mesa
+1300 ;Hungria                         ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1301 ;Ilha de Man                     ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1302 ;Ilhas Virgens                   ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1303 ;India                           ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1304 ;Indonésia                       ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1305 ;Irã                             ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1306 ;Iraque                          ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1307 ;Irlanda                         ;2018 ;      7560 ;   25767 ;Brasil ;Vinhos de Mesa
+1308 ;Itália                          ;2018 ;      3661 ;   13260 ;Brasil ;Vinhos de Mesa
+1309 ;Jamaica                         ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1310 ;Japão                           ;2018 ;     36992 ;  112342 ;Brasil ;Vinhos de Mesa
+1311 ;Jordânia                        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1312 ;Letônia                         ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1313 ;Líbano                          ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1314 ;Libéria                         ;2018 ;       658 ;    3100 ;Brasil ;Vinhos de Mesa
+1315 ;Luxemburgo                      ;2018 ;      1778 ;   11053 ;Brasil ;Vinhos de Mesa
+1316 ;Macau                           ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1317 ;Malásia                         ;2018 ;        15 ;      33 ;Brasil ;Vinhos de Mesa
+1318 ;Malavi                          ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1319 ;Malta                           ;2018 ;       503 ;    1192 ;Brasil ;Vinhos de Mesa
+1320 ;Marshall, Ilhas                 ;2018 ;       923 ;    2436 ;Brasil ;Vinhos de Mesa
+1321 ;Martinica                       ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1322 ;Mauritânia                      ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1323 ;México                          ;2018 ;      2748 ;    9744 ;Brasil ;Vinhos de Mesa
+1324 ;Moçambique                      ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1325 ;Montenegro                      ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1326 ;Namíbia                         ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1327 ;Nicarágua                       ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1328 ;Nigéria                         ;2018 ;      5175 ;    6250 ;Brasil ;Vinhos de Mesa
+1329 ;Noruega                         ;2018 ;      1295 ;    9847 ;Brasil ;Vinhos de Mesa
+1330 ;Nova Caledônia                  ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1331 ;Nova Zelândia                   ;2018 ;       969 ;    5565 ;Brasil ;Vinhos de Mesa
+1332 ;Omã                             ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1333 ;Países Baixos                   ;2018 ;      9451 ;   32395 ;Brasil ;Vinhos de Mesa
+1334 ;Palau                           ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1335 ;Panamá                          ;2018 ;      1183 ;    3117 ;Brasil ;Vinhos de Mesa
+1336 ;Paraguai                        ;2018 ;   3234168 ; 5494321 ;Brasil ;Vinhos de Mesa
+1337 ;Peru                            ;2018 ;      5193 ;   19372 ;Brasil ;Vinhos de Mesa
+1338 ;Pitcairn                        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1339 ;Polônia                         ;2018 ;       720 ;    4679 ;Brasil ;Vinhos de Mesa
+1340 ;Porto Rico                      ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1341 ;Portugal                        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1342 ;Quênia                          ;2018 ;      6771 ;   31225 ;Brasil ;Vinhos de Mesa
+1343 ;Reino Unido                     ;2018 ;     67708 ;  296827 ;Brasil ;Vinhos de Mesa
+1344 ;República Dominicana            ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1345 ;Rússia                          ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1346 ;São Cristóvão e Névis           ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1347 ;São Tomé e Príncipe             ;2018 ;      2184 ;    2357 ;Brasil ;Vinhos de Mesa
+1348 ;São Vicente e Granadinas        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1349 ;Senegal                         ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1350 ;Serra Leoa                      ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1351 ;Singapura                       ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1352 ;Suazilândia                     ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1353 ;Suécia                          ;2018 ;      8062 ;   34563 ;Brasil ;Vinhos de Mesa
+1354 ;Suíça                           ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1355 ;Suriname                        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1356 ;Tailândia                       ;2018 ;         8 ;      45 ;Brasil ;Vinhos de Mesa
+1357 ;Taiwan (Formosa)                ;2018 ;      7589 ;   18421 ;Brasil ;Vinhos de Mesa
+1358 ;Tanzânia                        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1359 ;Tcheca, República               ;2018 ;      2712 ;   20980 ;Brasil ;Vinhos de Mesa
+1360 ;Togo                            ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1361 ;Toquelau                        ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1362 ;Trinidade Tobago                ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1363 ;Tunísia                         ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1364 ;Turquia                         ;2018 ;       360 ;     150 ;Brasil ;Vinhos de Mesa
+1365 ;Tuvalu                          ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1366 ;Uruguai                         ;2018 ;      7711 ;   29617 ;Brasil ;Vinhos de Mesa
+1367 ;Vanuatu                         ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1368 ;Venezuela                       ;2018 ;        71 ;     355 ;Brasil ;Vinhos de Mesa
+1369 ;Vietnã                          ;2018 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1370 ;Afeganistão                     ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1371 ;África do Sul                   ;2019 ;        26 ;      95 ;Brasil ;Vinhos de Mesa
+1372 ;Alemanha, República Democrática ;2019 ;      3660 ;   25467 ;Brasil ;Vinhos de Mesa
+1373 ;Angola                          ;2019 ;       345 ;    1065 ;Brasil ;Vinhos de Mesa
+1374 ;Anguilla                        ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1375 ;Antígua e Barbuda               ;2019 ;       219 ;    1549 ;Brasil ;Vinhos de Mesa
+1376 ;Antilhas Holandesas             ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1377 ;Arábia Saudita                  ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1378 ;Argentina                       ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1379 ;Aruba                           ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1380 ;Austrália                       ;2019 ;      1161 ;    4682 ;Brasil ;Vinhos de Mesa
+1381 ;Áustria                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1382 ;Bahamas                         ;2019 ;       791 ;    3124 ;Brasil ;Vinhos de Mesa
+1383 ;Bangladesh                      ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1384 ;Barbados                        ;2019 ;        36 ;     394 ;Brasil ;Vinhos de Mesa
+1385 ;Barein                          ;2019 ;       482 ;    2144 ;Brasil ;Vinhos de Mesa
+1386 ;Bélgica                         ;2019 ;      2498 ;   12548 ;Brasil ;Vinhos de Mesa
+1387 ;Belice                          ;2019 ;         9 ;      29 ;Brasil ;Vinhos de Mesa
+1388 ;Benin                           ;2019 ;         9 ;       9 ;Brasil ;Vinhos de Mesa
+1389 ;Bermudas                        ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1390 ;Bolívia                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1391 ;Bósnia-Herzegovina              ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1392 ;Brasil                          ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1393 ;Bulgária                        ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1394 ;Cabo Verde                      ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1395 ;Camarões                        ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1396 ;Canadá                          ;2019 ;      1589 ;    6933 ;Brasil ;Vinhos de Mesa
+1397 ;Catar                           ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1398 ;Cayman, Ilhas                   ;2019 ;        19 ;     106 ;Brasil ;Vinhos de Mesa
+1399 ;Chile                           ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1400 ;China                           ;2019 ;    129852 ;  376828 ;Brasil ;Vinhos de Mesa
+1401 ;Chipre                          ;2019 ;       672 ;    1843 ;Brasil ;Vinhos de Mesa
+1402 ;Cingapura                       ;2019 ;      5044 ;   19099 ;Brasil ;Vinhos de Mesa
+1403 ;Cocos (Keeling), Ilhas          ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1404 ;Colômbia                        ;2019 ;       897 ;    1999 ;Brasil ;Vinhos de Mesa
+1405 ;Comores                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1406 ;Congo                           ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1407 ;Coreia, Republica Sul           ;2019 ;        70 ;     194 ;Brasil ;Vinhos de Mesa
+1408 ;Costa do Marfim                 ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1409 ;Costa Rica                      ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1410 ;Croácia                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1411 ;Cuba                            ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1412 ;Curaçao                         ;2019 ;     33951 ;   62067 ;Brasil ;Vinhos de Mesa
+1413 ;Dinamarca                       ;2019 ;       240 ;     306 ;Brasil ;Vinhos de Mesa
+1414 ;Dominica                        ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1415 ;El Salvador                     ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1416 ;Emirados Arabes Unidos          ;2019 ;       450 ;    2202 ;Brasil ;Vinhos de Mesa
+1417 ;Equador                         ;2019 ;         2 ;       3 ;Brasil ;Vinhos de Mesa
+1418 ;Eslovaca, Republica             ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1419 ;Espanha                         ;2019 ;      3540 ;    1353 ;Brasil ;Vinhos de Mesa
+1420 ;Estados Unidos                  ;2019 ;    209765 ;  616274 ;Brasil ;Vinhos de Mesa
+1421 ;Estônia                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1422 ;Filipinas                       ;2019 ;       736 ;    2486 ;Brasil ;Vinhos de Mesa
+1423 ;Finlândia                       ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1424 ;França                          ;2019 ;     18286 ;   67072 ;Brasil ;Vinhos de Mesa
+1425 ;Gana                            ;2019 ;      7673 ;   10010 ;Brasil ;Vinhos de Mesa
+1426 ;Gibraltar                       ;2019 ;        23 ;      93 ;Brasil ;Vinhos de Mesa
+1427 ;Granada                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1428 ;Grécia                          ;2019 ;       561 ;    1994 ;Brasil ;Vinhos de Mesa
+1429 ;Guatemala                       ;2019 ;      1597 ;    8719 ;Brasil ;Vinhos de Mesa
+1430 ;Guiana                          ;2019 ;       424 ;    1311 ;Brasil ;Vinhos de Mesa
+1431 ;Guiana Francesa                 ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1432 ;Guine Bissau                    ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1433 ;Guine Equatorial                ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1434 ;Haiti                           ;2019 ;     81873 ;  129803 ;Brasil ;Vinhos de Mesa
+1435 ;Honduras                        ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1436 ;Hong Kong                       ;2019 ;      9651 ;   42020 ;Brasil ;Vinhos de Mesa
+1437 ;Hungria                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1438 ;Ilha de Man                     ;2019 ;        28 ;     175 ;Brasil ;Vinhos de Mesa
+1439 ;Ilhas Virgens                   ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1440 ;India                           ;2019 ;        51 ;     273 ;Brasil ;Vinhos de Mesa
+1441 ;Indonésia                       ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1442 ;Irã                             ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1443 ;Iraque                          ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1444 ;Irlanda                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1445 ;Itália                          ;2019 ;       587 ;    1625 ;Brasil ;Vinhos de Mesa
+1446 ;Jamaica                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1447 ;Japão                           ;2019 ;     40621 ;   99642 ;Brasil ;Vinhos de Mesa
+1448 ;Jordânia                        ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1449 ;Letônia                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1450 ;Líbano                          ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1451 ;Libéria                         ;2019 ;      4441 ;   20068 ;Brasil ;Vinhos de Mesa
+1452 ;Luxemburgo                      ;2019 ;      1666 ;   11211 ;Brasil ;Vinhos de Mesa
+1453 ;Macau                           ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1454 ;Malásia                         ;2019 ;        48 ;     110 ;Brasil ;Vinhos de Mesa
+1455 ;Malavi                          ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1456 ;Malta                           ;2019 ;      3661 ;    8828 ;Brasil ;Vinhos de Mesa
+1457 ;Marshall, Ilhas                 ;2019 ;      7276 ;   15786 ;Brasil ;Vinhos de Mesa
+1458 ;Martinica                       ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1459 ;Mauritânia                      ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1460 ;México                          ;2019 ;         4 ;       4 ;Brasil ;Vinhos de Mesa
+1461 ;Moçambique                      ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1462 ;Montenegro                      ;2019 ;         9 ;      46 ;Brasil ;Vinhos de Mesa
+1463 ;Namíbia                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1464 ;Nicarágua                       ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1465 ;Nigéria                         ;2019 ;     28437 ;   38555 ;Brasil ;Vinhos de Mesa
+1466 ;Noruega                         ;2019 ;       628 ;    3139 ;Brasil ;Vinhos de Mesa
+1467 ;Nova Caledônia                  ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1468 ;Nova Zelândia                   ;2019 ;       500 ;    2832 ;Brasil ;Vinhos de Mesa
+1469 ;Omã                             ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1470 ;Países Baixos                   ;2019 ;     44882 ;  148031 ;Brasil ;Vinhos de Mesa
+1471 ;Palau                           ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1472 ;Panamá                          ;2019 ;      7918 ;   29017 ;Brasil ;Vinhos de Mesa
+1473 ;Paraguai                        ;2019 ;   2419537 ; 3826587 ;Brasil ;Vinhos de Mesa
+1474 ;Peru                            ;2019 ;      9755 ;   17310 ;Brasil ;Vinhos de Mesa
+1475 ;Pitcairn                        ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1476 ;Polônia                         ;2019 ;         5 ;      11 ;Brasil ;Vinhos de Mesa
+1477 ;Porto Rico                      ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1478 ;Portugal                        ;2019 ;     18328 ;   72413 ;Brasil ;Vinhos de Mesa
+1479 ;Quênia                          ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1480 ;Reino Unido                     ;2019 ;     34295 ;  164592 ;Brasil ;Vinhos de Mesa
+1481 ;República Dominicana            ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1482 ;Rússia                          ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1483 ;São Cristóvão e Névis           ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1484 ;São Tomé e Príncipe             ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1485 ;São Vicente e Granadinas        ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1486 ;Senegal                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1487 ;Serra Leoa                      ;2019 ;        18 ;     717 ;Brasil ;Vinhos de Mesa
+1488 ;Singapura                       ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1489 ;Suazilândia                     ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1490 ;Suécia                          ;2019 ;        28 ;     761 ;Brasil ;Vinhos de Mesa
+1491 ;Suíça                           ;2019 ;      2223 ;   28503 ;Brasil ;Vinhos de Mesa
+1492 ;Suriname                        ;2019 ;      3206 ;    4741 ;Brasil ;Vinhos de Mesa
+1493 ;Tailândia                       ;2019 ;       128 ;     832 ;Brasil ;Vinhos de Mesa
+1494 ;Taiwan (Formosa)                ;2019 ;        12 ;      67 ;Brasil ;Vinhos de Mesa
+1495 ;Tanzânia                        ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1496 ;Tcheca, República               ;2019 ;      2115 ;   16391 ;Brasil ;Vinhos de Mesa
+1497 ;Togo                            ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1498 ;Toquelau                        ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1499 ;Trinidade Tobago                ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1500 ;Tunísia                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1501 ;Turquia                         ;2019 ;       115 ;     209 ;Brasil ;Vinhos de Mesa
+1502 ;Tuvalu                          ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1503 ;Uruguai                         ;2019 ;      6180 ;   18497 ;Brasil ;Vinhos de Mesa
+1504 ;Vanuatu                         ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1505 ;Venezuela                       ;2019 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1506 ;Vietnã                          ;2019 ;        20 ;      32 ;Brasil ;Vinhos de Mesa
+1507 ;Afeganistão                     ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1508 ;África do Sul                   ;2020 ;         4 ;      21 ;Brasil ;Vinhos de Mesa
+1509 ;Alemanha, República Democrática ;2020 ;      6261 ;   32605 ;Brasil ;Vinhos de Mesa
+1510 ;Angola                          ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1511 ;Anguilla                        ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1512 ;Antígua e Barbuda               ;2020 ;       624 ;    1864 ;Brasil ;Vinhos de Mesa
+1513 ;Antilhas Holandesas             ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1514 ;Arábia Saudita                  ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1515 ;Argentina                       ;2020 ;      1015 ;    4176 ;Brasil ;Vinhos de Mesa
+1516 ;Aruba                           ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1517 ;Austrália                       ;2020 ;      1013 ;    3413 ;Brasil ;Vinhos de Mesa
+1518 ;Áustria                         ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1519 ;Bahamas                         ;2020 ;      1212 ;    3703 ;Brasil ;Vinhos de Mesa
+1520 ;Bangladesh                      ;2020 ;         3 ;      29 ;Brasil ;Vinhos de Mesa
+1521 ;Barbados                        ;2020 ;       143 ;     169 ;Brasil ;Vinhos de Mesa
+1522 ;Barein                          ;2020 ;         8 ;      28 ;Brasil ;Vinhos de Mesa
+1523 ;Bélgica                         ;2020 ;      3166 ;   20460 ;Brasil ;Vinhos de Mesa
+1524 ;Belice                          ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1525 ;Benin                           ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1526 ;Bermudas                        ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1527 ;Bolívia                         ;2020 ;      9900 ;   16025 ;Brasil ;Vinhos de Mesa
+1528 ;Bósnia-Herzegovina              ;2020 ;        45 ;      52 ;Brasil ;Vinhos de Mesa
+1529 ;Brasil                          ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1530 ;Bulgária                        ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1531 ;Cabo Verde                      ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1532 ;Camarões                        ;2020 ;         0 ;     178 ;Brasil ;Vinhos de Mesa
+1533 ;Canadá                          ;2020 ;      1672 ;    8431 ;Brasil ;Vinhos de Mesa
+1534 ;Catar                           ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1535 ;Cayman, Ilhas                   ;2020 ;       123 ;     339 ;Brasil ;Vinhos de Mesa
+1536 ;Chile                           ;2020 ;        11 ;      13 ;Brasil ;Vinhos de Mesa
+1537 ;China                           ;2020 ;    122253 ;  363000 ;Brasil ;Vinhos de Mesa
+1538 ;Chipre                          ;2020 ;      2478 ;    6785 ;Brasil ;Vinhos de Mesa
+1539 ;Cingapura                       ;2020 ;      4049 ;    9316 ;Brasil ;Vinhos de Mesa
+1540 ;Cocos (Keeling), Ilhas          ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1541 ;Colômbia                        ;2020 ;     15660 ;   23780 ;Brasil ;Vinhos de Mesa
+1542 ;Comores                         ;2020 ;         9 ;      25 ;Brasil ;Vinhos de Mesa
+1543 ;Congo                           ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1544 ;Coreia, Republica Sul           ;2020 ;       103 ;     433 ;Brasil ;Vinhos de Mesa
+1545 ;Costa do Marfim                 ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1546 ;Costa Rica                      ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1547 ;Croácia                         ;2020 ;        21 ;     123 ;Brasil ;Vinhos de Mesa
+1548 ;Cuba                            ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1549 ;Curaçao                         ;2020 ;     47962 ;   65986 ;Brasil ;Vinhos de Mesa
+1550 ;Dinamarca                       ;2020 ;       659 ;    1962 ;Brasil ;Vinhos de Mesa
+1551 ;Dominica                        ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1552 ;El Salvador                     ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1553 ;Emirados Arabes Unidos          ;2020 ;       581 ;    2279 ;Brasil ;Vinhos de Mesa
+1554 ;Equador                         ;2020 ;      3780 ;    3824 ;Brasil ;Vinhos de Mesa
+1555 ;Eslovaca, Republica             ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1556 ;Espanha                         ;2020 ;        28 ;     126 ;Brasil ;Vinhos de Mesa
+1557 ;Estados Unidos                  ;2020 ;    300178 ;  610793 ;Brasil ;Vinhos de Mesa
+1558 ;Estônia                         ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1559 ;Filipinas                       ;2020 ;       719 ;    1548 ;Brasil ;Vinhos de Mesa
+1560 ;Finlândia                       ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1561 ;França                          ;2020 ;     12622 ;   57144 ;Brasil ;Vinhos de Mesa
+1562 ;Gana                            ;2020 ;     18810 ;   22027 ;Brasil ;Vinhos de Mesa
+1563 ;Gibraltar                       ;2020 ;       769 ;    2860 ;Brasil ;Vinhos de Mesa
+1564 ;Granada                         ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1565 ;Grécia                          ;2020 ;      6859 ;   18092 ;Brasil ;Vinhos de Mesa
+1566 ;Guatemala                       ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1567 ;Guiana                          ;2020 ;       990 ;    2577 ;Brasil ;Vinhos de Mesa
+1568 ;Guiana Francesa                 ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1569 ;Guine Bissau                    ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1570 ;Guine Equatorial                ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1571 ;Haiti                           ;2020 ;    399128 ;  471152 ;Brasil ;Vinhos de Mesa
+1572 ;Honduras                        ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1573 ;Hong Kong                       ;2020 ;     15159 ;   41987 ;Brasil ;Vinhos de Mesa
+1574 ;Hungria                         ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1575 ;Ilha de Man                     ;2020 ;        11 ;     121 ;Brasil ;Vinhos de Mesa
+1576 ;Ilhas Virgens                   ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1577 ;India                           ;2020 ;         7 ;      10 ;Brasil ;Vinhos de Mesa
+1578 ;Indonésia                       ;2020 ;         5 ;       6 ;Brasil ;Vinhos de Mesa
+1579 ;Irã                             ;2020 ;        21 ;      35 ;Brasil ;Vinhos de Mesa
+1580 ;Iraque                          ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1581 ;Irlanda                         ;2020 ;        29 ;     257 ;Brasil ;Vinhos de Mesa
+1582 ;Itália                          ;2020 ;        91 ;     376 ;Brasil ;Vinhos de Mesa
+1583 ;Jamaica                         ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1584 ;Japão                           ;2020 ;     36442 ;   92674 ;Brasil ;Vinhos de Mesa
+1585 ;Jordânia                        ;2020 ;        12 ;      52 ;Brasil ;Vinhos de Mesa
+1586 ;Letônia                         ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1587 ;Líbano                          ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1588 ;Libéria                         ;2020 ;      5155 ;   17624 ;Brasil ;Vinhos de Mesa
+1589 ;Luxemburgo                      ;2020 ;      1086 ;    5110 ;Brasil ;Vinhos de Mesa
+1590 ;Macau                           ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1591 ;Malásia                         ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1592 ;Malavi                          ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1593 ;Malta                           ;2020 ;      3490 ;    9688 ;Brasil ;Vinhos de Mesa
+1594 ;Marshall, Ilhas                 ;2020 ;      6270 ;   19639 ;Brasil ;Vinhos de Mesa
+1595 ;Martinica                       ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1596 ;Mauritânia                      ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1597 ;México                          ;2020 ;        24 ;     226 ;Brasil ;Vinhos de Mesa
+1598 ;Moçambique                      ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1599 ;Montenegro                      ;2020 ;         9 ;      20 ;Brasil ;Vinhos de Mesa
+1600 ;Namíbia                         ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1601 ;Nicarágua                       ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1602 ;Nigéria                         ;2020 ;     12094 ;   26514 ;Brasil ;Vinhos de Mesa
+1603 ;Noruega                         ;2020 ;      1859 ;   15134 ;Brasil ;Vinhos de Mesa
+1604 ;Nova Caledônia                  ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1605 ;Nova Zelândia                   ;2020 ;        95 ;     515 ;Brasil ;Vinhos de Mesa
+1606 ;Omã                             ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1607 ;Países Baixos                   ;2020 ;       248 ;    1532 ;Brasil ;Vinhos de Mesa
+1608 ;Palau                           ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1609 ;Panamá                          ;2020 ;     10821 ;   28372 ;Brasil ;Vinhos de Mesa
+1610 ;Paraguai                        ;2020 ;   3299013 ; 3869243 ;Brasil ;Vinhos de Mesa
+1611 ;Peru                            ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1612 ;Pitcairn                        ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1613 ;Polônia                         ;2020 ;        74 ;      86 ;Brasil ;Vinhos de Mesa
+1614 ;Porto Rico                      ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1615 ;Portugal                        ;2020 ;      7958 ;   34518 ;Brasil ;Vinhos de Mesa
+1616 ;Quênia                          ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1617 ;Reino Unido                     ;2020 ;     22913 ;   82722 ;Brasil ;Vinhos de Mesa
+1618 ;República Dominicana            ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1619 ;Rússia                          ;2020 ;      1463 ;    8550 ;Brasil ;Vinhos de Mesa
+1620 ;São Cristóvão e Névis           ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1621 ;São Tomé e Príncipe             ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1622 ;São Vicente e Granadinas        ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1623 ;Senegal                         ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1624 ;Serra Leoa                      ;2020 ;      9240 ;   13050 ;Brasil ;Vinhos de Mesa
+1625 ;Singapura                       ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1626 ;Suazilândia                     ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1627 ;Suécia                          ;2020 ;         6 ;      24 ;Brasil ;Vinhos de Mesa
+1628 ;Suíça                           ;2020 ;      2827 ;   27930 ;Brasil ;Vinhos de Mesa
+1629 ;Suriname                        ;2020 ;      4185 ;    5277 ;Brasil ;Vinhos de Mesa
+1630 ;Tailândia                       ;2020 ;       534 ;    1753 ;Brasil ;Vinhos de Mesa
+1631 ;Taiwan (Formosa)                ;2020 ;       963 ;    4673 ;Brasil ;Vinhos de Mesa
+1632 ;Tanzânia                        ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1633 ;Tcheca, República               ;2020 ;       563 ;    4805 ;Brasil ;Vinhos de Mesa
+1634 ;Togo                            ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1635 ;Toquelau                        ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1636 ;Trinidade Tobago                ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1637 ;Tunísia                         ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1638 ;Turquia                         ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1639 ;Tuvalu                          ;2020 ;         2 ;       4 ;Brasil ;Vinhos de Mesa
+1640 ;Uruguai                         ;2020 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1641 ;Vanuatu                         ;2020 ;        18 ;      31 ;Brasil ;Vinhos de Mesa
+1642 ;Venezuela                       ;2020 ;      4086 ;    9808 ;Brasil ;Vinhos de Mesa
+1643 ;Vietnã                          ;2020 ;        86 ;     584 ;Brasil ;Vinhos de Mesa
+1644 ;Afeganistão                     ;2021 ;        11 ;      46 ;Brasil ;Vinhos de Mesa
+1645 ;África do Sul                   ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1646 ;Alemanha, República Democrática ;2021 ;      2698 ;    6741 ;Brasil ;Vinhos de Mesa
+1647 ;Angola                          ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1648 ;Anguilla                        ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1649 ;Antígua e Barbuda               ;2021 ;       805 ;    2268 ;Brasil ;Vinhos de Mesa
+1650 ;Antilhas Holandesas             ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1651 ;Arábia Saudita                  ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1652 ;Argentina                       ;2021 ;         6 ;      13 ;Brasil ;Vinhos de Mesa
+1653 ;Aruba                           ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1654 ;Austrália                       ;2021 ;       705 ;    4034 ;Brasil ;Vinhos de Mesa
+1655 ;Áustria                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1656 ;Bahamas                         ;2021 ;      1083 ;    4567 ;Brasil ;Vinhos de Mesa
+1657 ;Bangladesh                      ;2021 ;         2 ;      20 ;Brasil ;Vinhos de Mesa
+1658 ;Barbados                        ;2021 ;       216 ;     844 ;Brasil ;Vinhos de Mesa
+1659 ;Barein                          ;2021 ;       302 ;     894 ;Brasil ;Vinhos de Mesa
+1660 ;Bélgica                         ;2021 ;       483 ;    3749 ;Brasil ;Vinhos de Mesa
+1661 ;Belice                          ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1662 ;Benin                           ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1663 ;Bermudas                        ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1664 ;Bolívia                         ;2021 ;      5850 ;    8360 ;Brasil ;Vinhos de Mesa
+1665 ;Bósnia-Herzegovina              ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1666 ;Brasil                          ;2021 ;        31 ;      46 ;Brasil ;Vinhos de Mesa
+1667 ;Bulgária                        ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1668 ;Cabo Verde                      ;2021 ;        16 ;     124 ;Brasil ;Vinhos de Mesa
+1669 ;Camarões                        ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1670 ;Canadá                          ;2021 ;      1172 ;    6157 ;Brasil ;Vinhos de Mesa
+1671 ;Catar                           ;2021 ;         1 ;       2 ;Brasil ;Vinhos de Mesa
+1672 ;Cayman, Ilhas                   ;2021 ;       104 ;     356 ;Brasil ;Vinhos de Mesa
+1673 ;Chile                           ;2021 ;        26 ;       6 ;Brasil ;Vinhos de Mesa
+1674 ;China                           ;2021 ;     61884 ;  264116 ;Brasil ;Vinhos de Mesa
+1675 ;Chipre                          ;2021 ;      1855 ;    4530 ;Brasil ;Vinhos de Mesa
+1676 ;Cingapura                       ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1677 ;Cocos (Keeling), Ilhas          ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1678 ;Colômbia                        ;2021 ;     12160 ;   21867 ;Brasil ;Vinhos de Mesa
+1679 ;Comores                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1680 ;Congo                           ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1681 ;Coreia, Republica Sul           ;2021 ;        67 ;     100 ;Brasil ;Vinhos de Mesa
+1682 ;Costa do Marfim                 ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1683 ;Costa Rica                      ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1684 ;Croácia                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1685 ;Cuba                            ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1686 ;Curaçao                         ;2021 ;     32263 ;   58993 ;Brasil ;Vinhos de Mesa
+1687 ;Dinamarca                       ;2021 ;        87 ;     504 ;Brasil ;Vinhos de Mesa
+1688 ;Dominica                        ;2021 ;       460 ;     634 ;Brasil ;Vinhos de Mesa
+1689 ;El Salvador                     ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1690 ;Emirados Arabes Unidos          ;2021 ;       810 ;   10522 ;Brasil ;Vinhos de Mesa
+1691 ;Equador                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1692 ;Eslovaca, Republica             ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1693 ;Espanha                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1694 ;Estados Unidos                  ;2021 ;    111085 ;  203554 ;Brasil ;Vinhos de Mesa
+1695 ;Estônia                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1696 ;Filipinas                       ;2021 ;      2784 ;   10368 ;Brasil ;Vinhos de Mesa
+1697 ;Finlândia                       ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1698 ;França                          ;2021 ;      7052 ;   23742 ;Brasil ;Vinhos de Mesa
+1699 ;Gana                            ;2021 ;     12578 ;   19196 ;Brasil ;Vinhos de Mesa
+1700 ;Gibraltar                       ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1701 ;Granada                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1702 ;Grécia                          ;2021 ;       908 ;    3014 ;Brasil ;Vinhos de Mesa
+1703 ;Guatemala                       ;2021 ;     17347 ;   29100 ;Brasil ;Vinhos de Mesa
+1704 ;Guiana                          ;2021 ;      2372 ;    6525 ;Brasil ;Vinhos de Mesa
+1705 ;Guiana Francesa                 ;2021 ;        90 ;      32 ;Brasil ;Vinhos de Mesa
+1706 ;Guine Bissau                    ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1707 ;Guine Equatorial                ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1708 ;Haiti                           ;2021 ;    670379 ;  831181 ;Brasil ;Vinhos de Mesa
+1709 ;Honduras                        ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1710 ;Hong Kong                       ;2021 ;     12507 ;   39390 ;Brasil ;Vinhos de Mesa
+1711 ;Hungria                         ;2021 ;        87 ;     583 ;Brasil ;Vinhos de Mesa
+1712 ;Ilha de Man                     ;2021 ;        97 ;     445 ;Brasil ;Vinhos de Mesa
+1713 ;Ilhas Virgens                   ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1714 ;India                           ;2021 ;        13 ;      86 ;Brasil ;Vinhos de Mesa
+1715 ;Indonésia                       ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1716 ;Irã                             ;2021 ;       116 ;     287 ;Brasil ;Vinhos de Mesa
+1717 ;Iraque                          ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1718 ;Irlanda                         ;2021 ;        36 ;     208 ;Brasil ;Vinhos de Mesa
+1719 ;Itália                          ;2021 ;       696 ;    3715 ;Brasil ;Vinhos de Mesa
+1720 ;Jamaica                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1721 ;Japão                           ;2021 ;     39491 ;   90275 ;Brasil ;Vinhos de Mesa
+1722 ;Jordânia                        ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1723 ;Letônia                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1724 ;Líbano                          ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1725 ;Libéria                         ;2021 ;      7554 ;   23060 ;Brasil ;Vinhos de Mesa
+1726 ;Luxemburgo                      ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1727 ;Macau                           ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1728 ;Malásia                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1729 ;Malavi                          ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1730 ;Malta                           ;2021 ;      3441 ;   15454 ;Brasil ;Vinhos de Mesa
+1731 ;Marshall, Ilhas                 ;2021 ;      8644 ;   22561 ;Brasil ;Vinhos de Mesa
+1732 ;Martinica                       ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1733 ;Mauritânia                      ;2021 ;         9 ;      85 ;Brasil ;Vinhos de Mesa
+1734 ;México                          ;2021 ;         9 ;       2 ;Brasil ;Vinhos de Mesa
+1735 ;Moçambique                      ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1736 ;Montenegro                      ;2021 ;        14 ;      65 ;Brasil ;Vinhos de Mesa
+1737 ;Namíbia                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1738 ;Nicarágua                       ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1739 ;Nigéria                         ;2021 ;     68247 ;  113172 ;Brasil ;Vinhos de Mesa
+1740 ;Noruega                         ;2021 ;      1878 ;    8320 ;Brasil ;Vinhos de Mesa
+1741 ;Nova Caledônia                  ;2021 ;      7227 ;   11924 ;Brasil ;Vinhos de Mesa
+1742 ;Nova Zelândia                   ;2021 ;       657 ;   10477 ;Brasil ;Vinhos de Mesa
+1743 ;Omã                             ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1744 ;Países Baixos                   ;2021 ;      3791 ;    8484 ;Brasil ;Vinhos de Mesa
+1745 ;Palau                           ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1746 ;Panamá                          ;2021 ;     29520 ;   48444 ;Brasil ;Vinhos de Mesa
+1747 ;Paraguai                        ;2021 ;   6522527 ; 7192362 ;Brasil ;Vinhos de Mesa
+1748 ;Peru                            ;2021 ;      9720 ;   17107 ;Brasil ;Vinhos de Mesa
+1749 ;Pitcairn                        ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1750 ;Polônia                         ;2021 ;         4 ;      14 ;Brasil ;Vinhos de Mesa
+1751 ;Porto Rico                      ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1752 ;Portugal                        ;2021 ;      6358 ;   42633 ;Brasil ;Vinhos de Mesa
+1753 ;Quênia                          ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1754 ;Reino Unido                     ;2021 ;     25316 ;  122394 ;Brasil ;Vinhos de Mesa
+1755 ;República Dominicana            ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1756 ;Rússia                          ;2021 ;    181931 ;  312926 ;Brasil ;Vinhos de Mesa
+1757 ;São Cristóvão e Névis           ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1758 ;São Tomé e Príncipe             ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1759 ;São Vicente e Granadinas        ;2021 ;         8 ;      48 ;Brasil ;Vinhos de Mesa
+1760 ;Senegal                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1761 ;Serra Leoa                      ;2021 ;      6525 ;   12955 ;Brasil ;Vinhos de Mesa
+1762 ;Singapura                       ;2021 ;      4504 ;   14346 ;Brasil ;Vinhos de Mesa
+1763 ;Suazilândia                     ;2021 ;        10 ;      24 ;Brasil ;Vinhos de Mesa
+1764 ;Suécia                          ;2021 ;        23 ;      74 ;Brasil ;Vinhos de Mesa
+1765 ;Suíça                           ;2021 ;       627 ;    6999 ;Brasil ;Vinhos de Mesa
+1766 ;Suriname                        ;2021 ;       900 ;    1472 ;Brasil ;Vinhos de Mesa
+1767 ;Tailândia                       ;2021 ;      1334 ;    2529 ;Brasil ;Vinhos de Mesa
+1768 ;Taiwan (Formosa)                ;2021 ;      1313 ;    8153 ;Brasil ;Vinhos de Mesa
+1769 ;Tanzânia                        ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1770 ;Tcheca, República               ;2021 ;       456 ;    5988 ;Brasil ;Vinhos de Mesa
+1771 ;Togo                            ;2021 ;      1890 ;    2012 ;Brasil ;Vinhos de Mesa
+1772 ;Toquelau                        ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1773 ;Trinidade Tobago                ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1774 ;Tunísia                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1775 ;Turquia                         ;2021 ;       343 ;     878 ;Brasil ;Vinhos de Mesa
+1776 ;Tuvalu                          ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1777 ;Uruguai                         ;2021 ;    136774 ;  149842 ;Brasil ;Vinhos de Mesa
+1778 ;Vanuatu                         ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1779 ;Venezuela                       ;2021 ;     26415 ;   35944 ;Brasil ;Vinhos de Mesa
+1780 ;Vietnã                          ;2021 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1781 ;Afeganistão                     ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1782 ;África do Sul                   ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1783 ;Alemanha, República Democrática ;2022 ;      7630 ;   45367 ;Brasil ;Vinhos de Mesa
+1784 ;Angola                          ;2022 ;      4068 ;    4761 ;Brasil ;Vinhos de Mesa
+1785 ;Anguilla                        ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1786 ;Antígua e Barbuda               ;2022 ;       419 ;    1866 ;Brasil ;Vinhos de Mesa
+1787 ;Antilhas Holandesas             ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1788 ;Arábia Saudita                  ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1789 ;Argentina                       ;2022 ;       480 ;    3232 ;Brasil ;Vinhos de Mesa
+1790 ;Aruba                           ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1791 ;Austrália                       ;2022 ;      1424 ;   12299 ;Brasil ;Vinhos de Mesa
+1792 ;Áustria                         ;2022 ;         6 ;     212 ;Brasil ;Vinhos de Mesa
+1793 ;Bahamas                         ;2022 ;      1215 ;    5799 ;Brasil ;Vinhos de Mesa
+1794 ;Bangladesh                      ;2022 ;         7 ;      84 ;Brasil ;Vinhos de Mesa
+1795 ;Barbados                        ;2022 ;       220 ;    1145 ;Brasil ;Vinhos de Mesa
+1796 ;Barein                          ;2022 ;       979 ;    2789 ;Brasil ;Vinhos de Mesa
+1797 ;Bélgica                         ;2022 ;       828 ;    6145 ;Brasil ;Vinhos de Mesa
+1798 ;Belice                          ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1799 ;Benin                           ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1800 ;Bermudas                        ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1801 ;Bolívia                         ;2022 ;     32530 ;   49011 ;Brasil ;Vinhos de Mesa
+1802 ;Bósnia-Herzegovina              ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1803 ;Brasil                          ;2022 ;      2504 ;     952 ;Brasil ;Vinhos de Mesa
+1804 ;Bulgária                        ;2022 ;         5 ;      31 ;Brasil ;Vinhos de Mesa
+1805 ;Cabo Verde                      ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1806 ;Camarões                        ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1807 ;Canadá                          ;2022 ;      1183 ;    5784 ;Brasil ;Vinhos de Mesa
+1808 ;Catar                           ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1809 ;Cayman, Ilhas                   ;2022 ;       160 ;     958 ;Brasil ;Vinhos de Mesa
+1810 ;Chile                           ;2022 ;      2094 ;    7986 ;Brasil ;Vinhos de Mesa
+1811 ;China                           ;2022 ;    105395 ;  404647 ;Brasil ;Vinhos de Mesa
+1812 ;Chipre                          ;2022 ;      1521 ;    4458 ;Brasil ;Vinhos de Mesa
+1813 ;Cingapura                       ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1814 ;Cocos (Keeling), Ilhas          ;2022 ;        26 ;      60 ;Brasil ;Vinhos de Mesa
+1815 ;Colômbia                        ;2022 ;      8217 ;   14068 ;Brasil ;Vinhos de Mesa
+1816 ;Comores                         ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1817 ;Congo                           ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1818 ;Coreia, Republica Sul           ;2022 ;        77 ;     257 ;Brasil ;Vinhos de Mesa
+1819 ;Costa do Marfim                 ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1820 ;Costa Rica                      ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1821 ;Croácia                         ;2022 ;        34 ;     484 ;Brasil ;Vinhos de Mesa
+1822 ;Cuba                            ;2022 ;        16 ;       6 ;Brasil ;Vinhos de Mesa
+1823 ;Curaçao                         ;2022 ;     40673 ;   66950 ;Brasil ;Vinhos de Mesa
+1824 ;Dinamarca                       ;2022 ;         2 ;       6 ;Brasil ;Vinhos de Mesa
+1825 ;Dominica                        ;2022 ;      1485 ;    2223 ;Brasil ;Vinhos de Mesa
+1826 ;El Salvador                     ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1827 ;Emirados Arabes Unidos          ;2022 ;      4781 ;   85465 ;Brasil ;Vinhos de Mesa
+1828 ;Equador                         ;2022 ;       135 ;     210 ;Brasil ;Vinhos de Mesa
+1829 ;Eslovaca, Republica             ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1830 ;Espanha                         ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1831 ;Estados Unidos                  ;2022 ;    220373 ;  447893 ;Brasil ;Vinhos de Mesa
+1832 ;Estônia                         ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1833 ;Filipinas                       ;2022 ;       375 ;     790 ;Brasil ;Vinhos de Mesa
+1834 ;Finlândia                       ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1835 ;França                          ;2022 ;      5694 ;   25008 ;Brasil ;Vinhos de Mesa
+1836 ;Gana                            ;2022 ;     35949 ;   49304 ;Brasil ;Vinhos de Mesa
+1837 ;Gibraltar                       ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1838 ;Granada                         ;2022 ;      5610 ;    7914 ;Brasil ;Vinhos de Mesa
+1839 ;Grécia                          ;2022 ;       920 ;    2426 ;Brasil ;Vinhos de Mesa
+1840 ;Guatemala                       ;2022 ;      1283 ;    5350 ;Brasil ;Vinhos de Mesa
+1841 ;Guiana                          ;2022 ;      2064 ;    5823 ;Brasil ;Vinhos de Mesa
+1842 ;Guiana Francesa                 ;2022 ;        22 ;      18 ;Brasil ;Vinhos de Mesa
+1843 ;Guine Bissau                    ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1844 ;Guine Equatorial                ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1845 ;Haiti                           ;2022 ;    553503 ;  741014 ;Brasil ;Vinhos de Mesa
+1846 ;Honduras                        ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1847 ;Hong Kong                       ;2022 ;      9371 ;   38218 ;Brasil ;Vinhos de Mesa
+1848 ;Hungria                         ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1849 ;Ilha de Man                     ;2022 ;       165 ;     641 ;Brasil ;Vinhos de Mesa
+1850 ;Ilhas Virgens                   ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1851 ;India                           ;2022 ;       247 ;    1021 ;Brasil ;Vinhos de Mesa
+1852 ;Indonésia                       ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1853 ;Irã                             ;2022 ;        47 ;      90 ;Brasil ;Vinhos de Mesa
+1854 ;Iraque                          ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1855 ;Irlanda                         ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1856 ;Itália                          ;2022 ;      1129 ;    6151 ;Brasil ;Vinhos de Mesa
+1857 ;Jamaica                         ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1858 ;Japão                           ;2022 ;     37324 ;   82208 ;Brasil ;Vinhos de Mesa
+1859 ;Jordânia                        ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1860 ;Letônia                         ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1861 ;Líbano                          ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1862 ;Libéria                         ;2022 ;      9145 ;   34815 ;Brasil ;Vinhos de Mesa
+1863 ;Luxemburgo                      ;2022 ;        36 ;     802 ;Brasil ;Vinhos de Mesa
+1864 ;Macau                           ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1865 ;Malásia                         ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1866 ;Malavi                          ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1867 ;Malta                           ;2022 ;      3127 ;   15587 ;Brasil ;Vinhos de Mesa
+1868 ;Marshall, Ilhas                 ;2022 ;      7240 ;   27178 ;Brasil ;Vinhos de Mesa
+1869 ;Martinica                       ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1870 ;Mauritânia                      ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1871 ;México                          ;2022 ;         6 ;      33 ;Brasil ;Vinhos de Mesa
+1872 ;Moçambique                      ;2022 ;       383 ;    1927 ;Brasil ;Vinhos de Mesa
+1873 ;Montenegro                      ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1874 ;Namíbia                         ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1875 ;Nicarágua                       ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1876 ;Nigéria                         ;2022 ;     32234 ;   50283 ;Brasil ;Vinhos de Mesa
+1877 ;Noruega                         ;2022 ;      2711 ;   40316 ;Brasil ;Vinhos de Mesa
+1878 ;Nova Caledônia                  ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1879 ;Nova Zelândia                   ;2022 ;        63 ;     156 ;Brasil ;Vinhos de Mesa
+1880 ;Omã                             ;2022 ;       194 ;     670 ;Brasil ;Vinhos de Mesa
+1881 ;Países Baixos                   ;2022 ;      7034 ;   37240 ;Brasil ;Vinhos de Mesa
+1882 ;Palau                           ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1883 ;Panamá                          ;2022 ;     11490 ;   49392 ;Brasil ;Vinhos de Mesa
+1884 ;Paraguai                        ;2022 ;   5076670 ; 7156293 ;Brasil ;Vinhos de Mesa
+1885 ;Peru                            ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1886 ;Pitcairn                        ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1887 ;Polônia                         ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1888 ;Porto Rico                      ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1889 ;Portugal                        ;2022 ;      1918 ;    7613 ;Brasil ;Vinhos de Mesa
+1890 ;Quênia                          ;2022 ;      1440 ;    2080 ;Brasil ;Vinhos de Mesa
+1891 ;Reino Unido                     ;2022 ;     18835 ;  138154 ;Brasil ;Vinhos de Mesa
+1892 ;República Dominicana            ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1893 ;Rússia                          ;2022 ;     66046 ;  118618 ;Brasil ;Vinhos de Mesa
+1894 ;São Cristóvão e Névis           ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1895 ;São Tomé e Príncipe             ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1896 ;São Vicente e Granadinas        ;2022 ;        20 ;      51 ;Brasil ;Vinhos de Mesa
+1897 ;Senegal                         ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1898 ;Serra Leoa                      ;2022 ;      8101 ;   15182 ;Brasil ;Vinhos de Mesa
+1899 ;Singapura                       ;2022 ;      4322 ;   15434 ;Brasil ;Vinhos de Mesa
+1900 ;Suazilândia                     ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1901 ;Suécia                          ;2022 ;         5 ;      18 ;Brasil ;Vinhos de Mesa
+1902 ;Suíça                           ;2022 ;      1584 ;   20863 ;Brasil ;Vinhos de Mesa
+1903 ;Suriname                        ;2022 ;      1225 ;    3360 ;Brasil ;Vinhos de Mesa
+1904 ;Tailândia                       ;2022 ;       432 ;    1713 ;Brasil ;Vinhos de Mesa
+1905 ;Taiwan (Formosa)                ;2022 ;        25 ;     277 ;Brasil ;Vinhos de Mesa
+1906 ;Tanzânia                        ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1907 ;Tcheca, República               ;2022 ;      1305 ;    9997 ;Brasil ;Vinhos de Mesa
+1908 ;Togo                            ;2022 ;     17317 ;   25608 ;Brasil ;Vinhos de Mesa
+1909 ;Toquelau                        ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1910 ;Trinidade Tobago                ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1911 ;Tunísia                         ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1912 ;Turquia                         ;2022 ;       418 ;     503 ;Brasil ;Vinhos de Mesa
+1913 ;Tuvalu                          ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1914 ;Uruguai                         ;2022 ;    637117 ;  997367 ;Brasil ;Vinhos de Mesa
+1915 ;Vanuatu                         ;2022 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1916 ;Venezuela                       ;2022 ;     23220 ;   32351 ;Brasil ;Vinhos de Mesa
+1917 ;Vietnã                          ;2022 ;       130 ;     277 ;Brasil ;Vinhos de Mesa
+1918 ;Afeganistão                     ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1919 ;África do Sul                   ;2023 ;       117 ;     698 ;Brasil ;Vinhos de Mesa
+1920 ;Alemanha, República Democrática ;2023 ;      4806 ;   31853 ;Brasil ;Vinhos de Mesa
+1921 ;Angola                          ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1922 ;Anguilla                        ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1923 ;Antígua e Barbuda               ;2023 ;       383 ;    1848 ;Brasil ;Vinhos de Mesa
+1924 ;Antilhas Holandesas             ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1925 ;Arábia Saudita                  ;2023 ;       124 ;     142 ;Brasil ;Vinhos de Mesa
+1926 ;Argentina                       ;2023 ;      4545 ;   36133 ;Brasil ;Vinhos de Mesa
+1927 ;Aruba                           ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1928 ;Austrália                       ;2023 ;      2485 ;   13565 ;Brasil ;Vinhos de Mesa
+1929 ;Áustria                         ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1930 ;Bahamas                         ;2023 ;      1348 ;    7402 ;Brasil ;Vinhos de Mesa
+1931 ;Bangladesh                      ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1932 ;Barbados                        ;2023 ;        58 ;     303 ;Brasil ;Vinhos de Mesa
+1933 ;Barein                          ;2023 ;       283 ;    1684 ;Brasil ;Vinhos de Mesa
+1934 ;Bélgica                         ;2023 ;        95 ;     683 ;Brasil ;Vinhos de Mesa
+1935 ;Belice                          ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1936 ;Benin                           ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1937 ;Bermudas                        ;2023 ;        16 ;     153 ;Brasil ;Vinhos de Mesa
+1938 ;Bolívia                         ;2023 ;     21926 ;   36950 ;Brasil ;Vinhos de Mesa
+1939 ;Bósnia-Herzegovina              ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1940 ;Brasil                          ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1941 ;Bulgária                        ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1942 ;Cabo Verde                      ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1943 ;Camarões                        ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1944 ;Canadá                          ;2023 ;     11539 ;   42179 ;Brasil ;Vinhos de Mesa
+1945 ;Catar                           ;2023 ;         5 ;      18 ;Brasil ;Vinhos de Mesa
+1946 ;Cayman, Ilhas                   ;2023 ;       438 ;    2632 ;Brasil ;Vinhos de Mesa
+1947 ;Chile                           ;2023 ;         9 ;      63 ;Brasil ;Vinhos de Mesa
+1948 ;China                           ;2023 ;     73917 ;  183096 ;Brasil ;Vinhos de Mesa
+1949 ;Chipre                          ;2023 ;       524 ;    2995 ;Brasil ;Vinhos de Mesa
+1950 ;Cingapura                       ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1951 ;Cocos (Keeling), Ilhas          ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1952 ;Colômbia                        ;2023 ;       450 ;    1259 ;Brasil ;Vinhos de Mesa
+1953 ;Comores                         ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1954 ;Congo                           ;2023 ;     17100 ;   26600 ;Brasil ;Vinhos de Mesa
+1955 ;Coreia, Republica Sul           ;2023 ;        25 ;     171 ;Brasil ;Vinhos de Mesa
+1956 ;Costa do Marfim                 ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1957 ;Costa Rica                      ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1958 ;Croácia                         ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1959 ;Cuba                            ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1960 ;Curaçao                         ;2023 ;     25135 ;   40807 ;Brasil ;Vinhos de Mesa
+1961 ;Dinamarca                       ;2023 ;      1734 ;   15261 ;Brasil ;Vinhos de Mesa
+1962 ;Dominica                        ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1963 ;El Salvador                     ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1964 ;Emirados Arabes Unidos          ;2023 ;      1417 ;    6762 ;Brasil ;Vinhos de Mesa
+1965 ;Equador                         ;2023 ;      2790 ;    4392 ;Brasil ;Vinhos de Mesa
+1966 ;Eslovaca, Republica             ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1967 ;Espanha                         ;2023 ;       180 ;    4171 ;Brasil ;Vinhos de Mesa
+1968 ;Estados Unidos                  ;2023 ;    229839 ;  429091 ;Brasil ;Vinhos de Mesa
+1969 ;Estônia                         ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1970 ;Filipinas                       ;2023 ;        94 ;     334 ;Brasil ;Vinhos de Mesa
+1971 ;Finlândia                       ;2023 ;         5 ;      11 ;Brasil ;Vinhos de Mesa
+1972 ;França                          ;2023 ;      2265 ;   14722 ;Brasil ;Vinhos de Mesa
+1973 ;Gana                            ;2023 ;      7237 ;   29473 ;Brasil ;Vinhos de Mesa
+1974 ;Gibraltar                       ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1975 ;Granada                         ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1976 ;Grécia                          ;2023 ;      1294 ;    3214 ;Brasil ;Vinhos de Mesa
+1977 ;Guatemala                       ;2023 ;      2053 ;    3758 ;Brasil ;Vinhos de Mesa
+1978 ;Guiana                          ;2023 ;     33651 ;   88715 ;Brasil ;Vinhos de Mesa
+1979 ;Guiana Francesa                 ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1980 ;Guine Bissau                    ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1981 ;Guine Equatorial                ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1982 ;Haiti                           ;2023 ;    559645 ;  871661 ;Brasil ;Vinhos de Mesa
+1983 ;Honduras                        ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1984 ;Hong Kong                       ;2023 ;     16255 ;   71025 ;Brasil ;Vinhos de Mesa
+1985 ;Hungria                         ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1986 ;Ilha de Man                     ;2023 ;      1428 ;    4533 ;Brasil ;Vinhos de Mesa
+1987 ;Ilhas Virgens                   ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1988 ;India                           ;2023 ;        60 ;     170 ;Brasil ;Vinhos de Mesa
+1989 ;Indonésia                       ;2023 ;         9 ;      30 ;Brasil ;Vinhos de Mesa
+1990 ;Irã                             ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1991 ;Iraque                          ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1992 ;Irlanda                         ;2023 ;       150 ;     377 ;Brasil ;Vinhos de Mesa
+1993 ;Itália                          ;2023 ;      2922 ;   27665 ;Brasil ;Vinhos de Mesa
+1994 ;Jamaica                         ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1995 ;Japão                           ;2023 ;     22942 ;   57780 ;Brasil ;Vinhos de Mesa
+1996 ;Jordânia                        ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1997 ;Letônia                         ;2023 ;         8 ;       8 ;Brasil ;Vinhos de Mesa
+1998 ;Líbano                          ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+1999 ;Libéria                         ;2023 ;     39784 ;   42463 ;Brasil ;Vinhos de Mesa
+2000 ;Luxemburgo                      ;2023 ;       581 ;    7048 ;Brasil ;Vinhos de Mesa
+2001 ;Macau                           ;2023 ;         7 ;       6 ;Brasil ;Vinhos de Mesa
+2002 ;Malásia                         ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2003 ;Malavi                          ;2023 ;      3660 ;    6252 ;Brasil ;Vinhos de Mesa
+2004 ;Malta                           ;2023 ;      6561 ;   24199 ;Brasil ;Vinhos de Mesa
+2005 ;Marshall, Ilhas                 ;2023 ;      7417 ;   31691 ;Brasil ;Vinhos de Mesa
+2006 ;Martinica                       ;2023 ;         9 ;      31 ;Brasil ;Vinhos de Mesa
+2007 ;Mauritânia                      ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2008 ;México                          ;2023 ;         3 ;      19 ;Brasil ;Vinhos de Mesa
+2009 ;Moçambique                      ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2010 ;Montenegro                      ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2011 ;Namíbia                         ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2012 ;Nicarágua                       ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2013 ;Nigéria                         ;2023 ;     10800 ;   16464 ;Brasil ;Vinhos de Mesa
+2014 ;Noruega                         ;2023 ;       861 ;    4243 ;Brasil ;Vinhos de Mesa
+2015 ;Nova Caledônia                  ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2016 ;Nova Zelândia                   ;2023 ;       338 ;    7177 ;Brasil ;Vinhos de Mesa
+2017 ;Omã                             ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2018 ;Países Baixos                   ;2023 ;      2244 ;    4958 ;Brasil ;Vinhos de Mesa
+2019 ;Palau                           ;2023 ;        45 ;     143 ;Brasil ;Vinhos de Mesa
+2020 ;Panamá                          ;2023 ;     14785 ;   68173 ;Brasil ;Vinhos de Mesa
+2021 ;Paraguai                        ;2023 ;   3780378 ; 5517263 ;Brasil ;Vinhos de Mesa
+2022 ;Peru                            ;2023 ;     47277 ;   84282 ;Brasil ;Vinhos de Mesa
+2023 ;Pitcairn                        ;2023 ;        11 ;      22 ;Brasil ;Vinhos de Mesa
+2024 ;Polônia                         ;2023 ;       298 ;     590 ;Brasil ;Vinhos de Mesa
+2025 ;Porto Rico                      ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2026 ;Portugal                        ;2023 ;     13742 ;   46311 ;Brasil ;Vinhos de Mesa
+2027 ;Quênia                          ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2028 ;Reino Unido                     ;2023 ;     11326 ;   84547 ;Brasil ;Vinhos de Mesa
+2029 ;República Dominicana            ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2030 ;Rússia                          ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2031 ;São Cristóvão e Névis           ;2023 ;        16 ;      31 ;Brasil ;Vinhos de Mesa
+2032 ;São Tomé e Príncipe             ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2033 ;São Vicente e Granadinas        ;2023 ;        39 ;     139 ;Brasil ;Vinhos de Mesa
+2034 ;Senegal                         ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2035 ;Serra Leoa                      ;2023 ;     23200 ;   38548 ;Brasil ;Vinhos de Mesa
+2036 ;Singapura                       ;2023 ;      3941 ;   19781 ;Brasil ;Vinhos de Mesa
+2037 ;Suazilândia                     ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2038 ;Suécia                          ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2039 ;Suíça                           ;2023 ;      2500 ;   28763 ;Brasil ;Vinhos de Mesa
+2040 ;Suriname                        ;2023 ;      3105 ;    5235 ;Brasil ;Vinhos de Mesa
+2041 ;Tailândia                       ;2023 ;       189 ;    1387 ;Brasil ;Vinhos de Mesa
+2042 ;Taiwan (Formosa)                ;2023 ;      4208 ;   19998 ;Brasil ;Vinhos de Mesa
+2043 ;Tanzânia                        ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2044 ;Tcheca, República               ;2023 ;       405 ;    3348 ;Brasil ;Vinhos de Mesa
+2045 ;Togo                            ;2023 ;     14550 ;   25235 ;Brasil ;Vinhos de Mesa
+2046 ;Toquelau                        ;2023 ;         3 ;      10 ;Brasil ;Vinhos de Mesa
+2047 ;Trinidade Tobago                ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2048 ;Tunísia                         ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2049 ;Turquia                         ;2023 ;     28104 ;   95421 ;Brasil ;Vinhos de Mesa
+2050 ;Tuvalu                          ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2051 ;Uruguai                         ;2023 ;    326093 ;  454271 ;Brasil ;Vinhos de Mesa
+2052 ;Vanuatu                         ;2023 ;         0 ;       0 ;Brasil ;Vinhos de Mesa
+2053 ;Venezuela                       ;2023 ;    141030 ;  220512 ;Brasil ;Vinhos de Mesa
+2054 ;Vietnã                          ;2023 ;        72 ;     128 ;Brasil ;Vinhos de Mesa

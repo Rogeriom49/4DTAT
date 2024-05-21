@@ -1,0 +1,1546 @@
+;pais;anos;quantidade;valor;origem;tipo
+0;África do Sul;2009;0;0;Brasil;Espumantes
+1;Alemanha;2009;6648;29018;Brasil;Espumantes
+2;Angola;2009;11393;33664;Brasil;Espumantes
+3;Antigua e Barbuda;2009;0;0;Brasil;Espumantes
+4;Antilhas Holandesas;2009;180;1660;Brasil;Espumantes
+5;Argentina;2009;0;0;Brasil;Espumantes
+6;Aruba;2009;0;0;Brasil;Espumantes
+7;Australia;2009;0;0;Brasil;Espumantes
+8;Bahamas;2009;0;0;Brasil;Espumantes
+9;Bangladesh;2009;0;0;Brasil;Espumantes
+10;Barbados;2009;0;0;Brasil;Espumantes
+11;Belgica;2009;0;0;Brasil;Espumantes
+12;Benin;2009;0;0;Brasil;Espumantes
+13;Bermudas;2009;0;0;Brasil;Espumantes
+14;Bolívia;2009;0;0;Brasil;Espumantes
+15;Bósnia-Herzegovina;2009;0;0;Brasil;Espumantes
+16;Bulgaria;2009;0;0;Brasil;Espumantes
+17;Cabo Verde;2009;0;0;Brasil;Espumantes
+18;Camarões;2009;0;0;Brasil;Espumantes
+19;Canada;2009;0;0;Brasil;Espumantes
+20;Catar;2009;0;0;Brasil;Espumantes
+21;Cayman, Ilhas;2009;0;0;Brasil;Espumantes
+22;Chile;2009;1673;8613;Brasil;Espumantes
+23;China;2009;0;0;Brasil;Espumantes
+24;Chipre;2009;0;0;Brasil;Espumantes
+25;Cingapura;2009;976;2784;Brasil;Espumantes
+26;Colombia;2009;0;0;Brasil;Espumantes
+27;Coreia do Sul, Republica da;2009;0;0;Brasil;Espumantes
+28;Costa Rica;2009;0;0;Brasil;Espumantes
+29;Cuba;2009;0;0;Brasil;Espumantes
+30;Curaçao;2009;0;0;Brasil;Espumantes
+31;Dinamarca;2009;0;0;Brasil;Espumantes
+32;Dominica;2009;0;0;Brasil;Espumantes
+33;El Salvador;2009;0;0;Brasil;Espumantes
+34;Emirados Arabes Unidos;2009;0;0;Brasil;Espumantes
+35;Equador;2009;0;0;Brasil;Espumantes
+36;Espanha;2009;0;0;Brasil;Espumantes
+37;Estados Unidos;2009;35695;200975;Brasil;Espumantes
+38;Estonia;2009;0;0;Brasil;Espumantes
+39;Falkland (Malvinas);2009;0;0;Brasil;Espumantes
+40;Filipinas;2009;0;0;Brasil;Espumantes
+41;Filânldia;2009;0;0;Brasil;Espumantes
+42;França;2009;0;0;Brasil;Espumantes
+43;Gana;2009;0;0;Brasil;Espumantes
+44;Gibraltar;2009;0;0;Brasil;Espumantes
+45;Granada;2009;0;0;Brasil;Espumantes
+46;Grécia;2009;0;0;Brasil;Espumantes
+47;Guatemala;2009;0;0;Brasil;Espumantes
+48;Guiana;2009;0;0;Brasil;Espumantes
+49;Guiné Equatorial;2009;0;0;Brasil;Espumantes
+50;Guiné-Bissau;2009;0;0;Brasil;Espumantes
+51;Haiti;2009;0;0;Brasil;Espumantes
+52;Honduras;2009;0;0;Brasil;Espumantes
+53;Hong Kong;2009;120;505;Brasil;Espumantes
+54;Hungria;2009;0;0;Brasil;Espumantes
+55;Ilha de Man;2009;0;0;Brasil;Espumantes
+56;Índia;2009;0;0;Brasil;Espumantes
+57;Iraque;2009;0;0;Brasil;Espumantes
+58;Irlanda;2009;0;0;Brasil;Espumantes
+59;Islândia;2009;0;0;Brasil;Espumantes
+60;Itália;2009;2369;6590;Brasil;Espumantes
+61;Japão;2009;2900;8650;Brasil;Espumantes
+62;Jordânia;2009;0;0;Brasil;Espumantes
+63;Letônia;2009;0;0;Brasil;Espumantes
+64;Líbano;2009;0;0;Brasil;Espumantes
+65;Libéria;2009;0;0;Brasil;Espumantes
+66;Luxemburgo;2009;993;3963;Brasil;Espumantes
+67;Maldivas;2009;0;0;Brasil;Espumantes
+68;Malta;2009;0;0;Brasil;Espumantes
+69;Marshall, Ilhas;2009;0;0;Brasil;Espumantes
+70;Montenegro;2009;0;0;Brasil;Espumantes
+71;México;2009;0;0;Brasil;Espumantes
+72;Nicarágua;2009;0;0;Brasil;Espumantes
+73;Nigéria;2009;0;0;Brasil;Espumantes
+74;Noruega;2009;0;0;Brasil;Espumantes
+75;Nova Zelândia;2009;0;0;Brasil;Espumantes
+76;Países Baixos (Holanda);2009;2250;11276;Brasil;Espumantes
+77;Panamá;2009;0;0;Brasil;Espumantes
+78;Paraguai;2009;20099;18376;Brasil;Espumantes
+79;Peru;2009;0;0;Brasil;Espumantes
+80;Polônia;2009;1545;6859;Brasil;Espumantes
+81;Porto Rico;2009;0;0;Brasil;Espumantes
+82;Portugal;2009;0;0;Brasil;Espumantes
+83;Quênia;2009;0;0;Brasil;Espumantes
+84;Reino Unido;2009;0;0;Brasil;Espumantes
+85;Republica Dominicana;2009;0;0;Brasil;Espumantes
+86;Republica Tcheca;2009;395;900;Brasil;Espumantes
+87;Rússia;2009;0;0;Brasil;Espumantes
+88;Serra Leoa;2009;0;0;Brasil;Espumantes
+89;Singapura;2009;0;0;Brasil;Espumantes
+90;Suécia;2009;2070;10950;Brasil;Espumantes
+91;Suíça;2009;0;0;Brasil;Espumantes
+92;Suriname;2009;0;0;Brasil;Espumantes
+93;Tailândia;2009;0;0;Brasil;Espumantes
+94;Taiwan (Formosa);2009;0;0;Brasil;Espumantes
+95;Tcheca, República;2009;0;0;Brasil;Espumantes
+96;Trinidade e Tobago;2009;0;0;Brasil;Espumantes
+97;Turquia;2009;0;0;Brasil;Espumantes
+98;Uruguai;2009;0;0;Brasil;Espumantes
+99;Vanuatu;2009;0;0;Brasil;Espumantes
+100;Venezuela;2009;0;0;Brasil;Espumantes
+101;Vietnã;2009;675;1768;Brasil;Espumantes
+102;Outros(1);2009;0;0;Brasil;Espumantes
+103;África do Sul;2010;0;0;Brasil;Espumantes
+104;Alemanha;2010;1958;6877;Brasil;Espumantes
+105;Angola;2010;104138;672533;Brasil;Espumantes
+106;Antigua e Barbuda;2010;0;0;Brasil;Espumantes
+107;Antilhas Holandesas;2010;0;0;Brasil;Espumantes
+108;Argentina;2010;0;0;Brasil;Espumantes
+109;Aruba;2010;0;0;Brasil;Espumantes
+110;Australia;2010;0;0;Brasil;Espumantes
+111;Bahamas;2010;146;795;Brasil;Espumantes
+112;Bangladesh;2010;0;0;Brasil;Espumantes
+113;Barbados;2010;0;0;Brasil;Espumantes
+114;Belgica;2010;12897;49742;Brasil;Espumantes
+115;Benin;2010;0;0;Brasil;Espumantes
+116;Bermudas;2010;0;0;Brasil;Espumantes
+117;Bolívia;2010;11960;5553;Brasil;Espumantes
+118;Bósnia-Herzegovina;2010;0;0;Brasil;Espumantes
+119;Bulgaria;2010;0;0;Brasil;Espumantes
+120;Cabo Verde;2010;0;0;Brasil;Espumantes
+121;Camarões;2010;0;0;Brasil;Espumantes
+122;Canada;2010;0;0;Brasil;Espumantes
+123;Catar;2010;0;0;Brasil;Espumantes
+124;Cayman, Ilhas;2010;0;0;Brasil;Espumantes
+125;Chile;2010;0;0;Brasil;Espumantes
+126;China;2010;416;1566;Brasil;Espumantes
+127;Chipre;2010;0;0;Brasil;Espumantes
+128;Cingapura;2010;247;738;Brasil;Espumantes
+129;Colombia;2010;0;0;Brasil;Espumantes
+130;Coreia do Sul, Republica da;2010;0;0;Brasil;Espumantes
+131;Costa Rica;2010;12;30;Brasil;Espumantes
+132;Cuba;2010;0;0;Brasil;Espumantes
+133;Curaçao;2010;0;0;Brasil;Espumantes
+134;Dinamarca;2010;0;0;Brasil;Espumantes
+135;Dominica;2010;0;0;Brasil;Espumantes
+136;El Salvador;2010;0;0;Brasil;Espumantes
+137;Emirados Arabes Unidos;2010;198;804;Brasil;Espumantes
+138;Equador;2010;0;0;Brasil;Espumantes
+139;Espanha;2010;0;0;Brasil;Espumantes
+140;Estados Unidos;2010;123001;172488;Brasil;Espumantes
+141;Estonia;2010;495;1860;Brasil;Espumantes
+142;Falkland (Malvinas);2010;0;0;Brasil;Espumantes
+143;Filipinas;2010;0;0;Brasil;Espumantes
+144;Filânldia;2010;0;0;Brasil;Espumantes
+145;França;2010;990;3951;Brasil;Espumantes
+146;Gana;2010;0;0;Brasil;Espumantes
+147;Gibraltar;2010;0;0;Brasil;Espumantes
+148;Granada;2010;0;0;Brasil;Espumantes
+149;Grécia;2010;0;0;Brasil;Espumantes
+150;Guatemala;2010;4;10;Brasil;Espumantes
+151;Guiana;2010;0;0;Brasil;Espumantes
+152;Guiné Equatorial;2010;0;0;Brasil;Espumantes
+153;Guiné-Bissau;2010;0;0;Brasil;Espumantes
+154;Haiti;2010;0;0;Brasil;Espumantes
+155;Honduras;2010;0;0;Brasil;Espumantes
+156;Hong Kong;2010;0;0;Brasil;Espumantes
+157;Hungria;2010;0;0;Brasil;Espumantes
+158;Ilha de Man;2010;0;0;Brasil;Espumantes
+159;Índia;2010;0;0;Brasil;Espumantes
+160;Iraque;2010;0;0;Brasil;Espumantes
+161;Irlanda;2010;360;3012;Brasil;Espumantes
+162;Islândia;2010;0;0;Brasil;Espumantes
+163;Itália;2010;99;390;Brasil;Espumantes
+164;Japão;2010;4737;15240;Brasil;Espumantes
+165;Jordânia;2010;0;0;Brasil;Espumantes
+166;Letônia;2010;0;0;Brasil;Espumantes
+167;Líbano;2010;0;0;Brasil;Espumantes
+168;Libéria;2010;0;0;Brasil;Espumantes
+169;Luxemburgo;2010;846;4975;Brasil;Espumantes
+170;Maldivas;2010;0;0;Brasil;Espumantes
+171;Malta;2010;0;0;Brasil;Espumantes
+172;Marshall, Ilhas;2010;0;0;Brasil;Espumantes
+173;Montenegro;2010;0;0;Brasil;Espumantes
+174;México;2010;95328;24000;Brasil;Espumantes
+175;Nicarágua;2010;20;40;Brasil;Espumantes
+176;Nigéria;2010;0;0;Brasil;Espumantes
+177;Noruega;2010;0;0;Brasil;Espumantes
+178;Nova Zelândia;2010;0;0;Brasil;Espumantes
+179;Países Baixos (Holanda);2010;2896;11444;Brasil;Espumantes
+180;Panamá;2010;27;30;Brasil;Espumantes
+181;Paraguai;2010;6728;24228;Brasil;Espumantes
+182;Peru;2010;0;0;Brasil;Espumantes
+183;Polônia;2010;90;599;Brasil;Espumantes
+184;Porto Rico;2010;0;0;Brasil;Espumantes
+185;Portugal;2010;5387;17475;Brasil;Espumantes
+186;Quênia;2010;0;0;Brasil;Espumantes
+187;Reino Unido;2010;13501;55256;Brasil;Espumantes
+188;Republica Dominicana;2010;0;0;Brasil;Espumantes
+189;Republica Tcheca;2010;0;0;Brasil;Espumantes
+190;Rússia;2010;0;0;Brasil;Espumantes
+191;Serra Leoa;2010;0;0;Brasil;Espumantes
+192;Singapura;2010;0;0;Brasil;Espumantes
+193;Suécia;2010;0;0;Brasil;Espumantes
+194;Suíça;2010;0;0;Brasil;Espumantes
+195;Suriname;2010;0;0;Brasil;Espumantes
+196;Tailândia;2010;0;0;Brasil;Espumantes
+197;Taiwan (Formosa);2010;0;0;Brasil;Espumantes
+198;Tcheca, República;2010;0;0;Brasil;Espumantes
+199;Trinidade e Tobago;2010;18;20;Brasil;Espumantes
+200;Turquia;2010;0;0;Brasil;Espumantes
+201;Uruguai;2010;472;21325;Brasil;Espumantes
+202;Vanuatu;2010;0;0;Brasil;Espumantes
+203;Venezuela;2010;0;0;Brasil;Espumantes
+204;Vietnã;2010;189;651;Brasil;Espumantes
+205;Outros(1);2010;0;0;Brasil;Espumantes
+206;África do Sul;2011;0;0;Brasil;Espumantes
+207;Alemanha;2011;1976;12018;Brasil;Espumantes
+208;Angola;2011;904;14196;Brasil;Espumantes
+209;Antigua e Barbuda;2011;0;0;Brasil;Espumantes
+210;Antilhas Holandesas;2011;9144;65766;Brasil;Espumantes
+211;Argentina;2011;0;0;Brasil;Espumantes
+212;Aruba;2011;0;0;Brasil;Espumantes
+213;Australia;2011;0;0;Brasil;Espumantes
+214;Bahamas;2011;1001;7034;Brasil;Espumantes
+215;Bangladesh;2011;0;0;Brasil;Espumantes
+216;Barbados;2011;0;0;Brasil;Espumantes
+217;Belgica;2011;0;0;Brasil;Espumantes
+218;Benin;2011;0;0;Brasil;Espumantes
+219;Bermudas;2011;0;0;Brasil;Espumantes
+220;Bolívia;2011;0;0;Brasil;Espumantes
+221;Bósnia-Herzegovina;2011;0;0;Brasil;Espumantes
+222;Bulgaria;2011;0;0;Brasil;Espumantes
+223;Cabo Verde;2011;0;0;Brasil;Espumantes
+224;Camarões;2011;0;0;Brasil;Espumantes
+225;Canada;2011;1894;7716;Brasil;Espumantes
+226;Catar;2011;0;0;Brasil;Espumantes
+227;Cayman, Ilhas;2011;0;0;Brasil;Espumantes
+228;Chile;2011;0;0;Brasil;Espumantes
+229;China;2011;1682;8342;Brasil;Espumantes
+230;Chipre;2011;0;0;Brasil;Espumantes
+231;Cingapura;2011;0;0;Brasil;Espumantes
+232;Colombia;2011;90;1068;Brasil;Espumantes
+233;Coreia do Sul, Republica da;2011;0;0;Brasil;Espumantes
+234;Costa Rica;2011;0;0;Brasil;Espumantes
+235;Cuba;2011;0;0;Brasil;Espumantes
+236;Curaçao;2011;0;0;Brasil;Espumantes
+237;Dinamarca;2011;864;4130;Brasil;Espumantes
+238;Dominica;2011;0;0;Brasil;Espumantes
+239;El Salvador;2011;20;10;Brasil;Espumantes
+240;Emirados Arabes Unidos;2011;190;590;Brasil;Espumantes
+241;Equador;2011;0;0;Brasil;Espumantes
+242;Espanha;2011;720;5057;Brasil;Espumantes
+243;Estados Unidos;2011;67547;333438;Brasil;Espumantes
+244;Estonia;2011;0;0;Brasil;Espumantes
+245;Falkland (Malvinas);2011;0;0;Brasil;Espumantes
+246;Filipinas;2011;0;0;Brasil;Espumantes
+247;Filânldia;2011;1287;6359;Brasil;Espumantes
+248;França;2011;1481;4436;Brasil;Espumantes
+249;Gana;2011;0;0;Brasil;Espumantes
+250;Gibraltar;2011;0;0;Brasil;Espumantes
+251;Granada;2011;0;0;Brasil;Espumantes
+252;Grécia;2011;0;0;Brasil;Espumantes
+253;Guatemala;2011;0;0;Brasil;Espumantes
+254;Guiana;2011;0;0;Brasil;Espumantes
+255;Guiné Equatorial;2011;0;0;Brasil;Espumantes
+256;Guiné-Bissau;2011;0;0;Brasil;Espumantes
+257;Haiti;2011;0;0;Brasil;Espumantes
+258;Honduras;2011;55;120;Brasil;Espumantes
+259;Hong Kong;2011;424;1620;Brasil;Espumantes
+260;Hungria;2011;0;0;Brasil;Espumantes
+261;Ilha de Man;2011;0;0;Brasil;Espumantes
+262;Índia;2011;0;0;Brasil;Espumantes
+263;Iraque;2011;0;0;Brasil;Espumantes
+264;Irlanda;2011;1335;9411;Brasil;Espumantes
+265;Islândia;2011;0;0;Brasil;Espumantes
+266;Itália;2011;1602;9002;Brasil;Espumantes
+267;Japão;2011;632;2480;Brasil;Espumantes
+268;Jordânia;2011;0;0;Brasil;Espumantes
+269;Letônia;2011;0;0;Brasil;Espumantes
+270;Líbano;2011;0;0;Brasil;Espumantes
+271;Libéria;2011;0;0;Brasil;Espumantes
+272;Luxemburgo;2011;471;2873;Brasil;Espumantes
+273;Maldivas;2011;0;0;Brasil;Espumantes
+274;Malta;2011;0;0;Brasil;Espumantes
+275;Marshall, Ilhas;2011;0;0;Brasil;Espumantes
+276;Montenegro;2011;0;0;Brasil;Espumantes
+277;México;2011;0;0;Brasil;Espumantes
+278;Nicarágua;2011;39;20;Brasil;Espumantes
+279;Nigéria;2011;108;506;Brasil;Espumantes
+280;Noruega;2011;3693;21352;Brasil;Espumantes
+281;Nova Zelândia;2011;291;1606;Brasil;Espumantes
+282;Países Baixos (Holanda);2011;5948;18399;Brasil;Espumantes
+283;Panamá;2011;0;0;Brasil;Espumantes
+284;Paraguai;2011;2513;8531;Brasil;Espumantes
+285;Peru;2011;0;0;Brasil;Espumantes
+286;Polônia;2011;0;0;Brasil;Espumantes
+287;Porto Rico;2011;0;0;Brasil;Espumantes
+288;Portugal;2011;0;0;Brasil;Espumantes
+289;Quênia;2011;0;0;Brasil;Espumantes
+290;Reino Unido;2011;1980;8040;Brasil;Espumantes
+291;Republica Dominicana;2011;0;0;Brasil;Espumantes
+292;Republica Tcheca;2011;526;2020;Brasil;Espumantes
+293;Rússia;2011;0;0;Brasil;Espumantes
+294;Serra Leoa;2011;0;0;Brasil;Espumantes
+295;Singapura;2011;0;0;Brasil;Espumantes
+296;Suécia;2011;0;0;Brasil;Espumantes
+297;Suíça;2011;3465;12250;Brasil;Espumantes
+298;Suriname;2011;0;0;Brasil;Espumantes
+299;Tailândia;2011;0;0;Brasil;Espumantes
+300;Taiwan (Formosa);2011;0;0;Brasil;Espumantes
+301;Tcheca, República;2011;0;0;Brasil;Espumantes
+302;Trinidade e Tobago;2011;0;0;Brasil;Espumantes
+303;Turquia;2011;0;0;Brasil;Espumantes
+304;Uruguai;2011;0;0;Brasil;Espumantes
+305;Vanuatu;2011;0;0;Brasil;Espumantes
+306;Venezuela;2011;0;0;Brasil;Espumantes
+307;Vietnã;2011;0;0;Brasil;Espumantes
+308;Outros(1);2011;0;0;Brasil;Espumantes
+309;África do Sul;2012;0;0;Brasil;Espumantes
+310;Alemanha;2012;833;5072;Brasil;Espumantes
+311;Angola;2012;73;1426;Brasil;Espumantes
+312;Antigua e Barbuda;2012;0;0;Brasil;Espumantes
+313;Antilhas Holandesas;2012;0;0;Brasil;Espumantes
+314;Argentina;2012;0;0;Brasil;Espumantes
+315;Aruba;2012;0;0;Brasil;Espumantes
+316;Australia;2012;1317;11057;Brasil;Espumantes
+317;Bahamas;2012;216;2160;Brasil;Espumantes
+318;Bangladesh;2012;0;0;Brasil;Espumantes
+319;Barbados;2012;0;0;Brasil;Espumantes
+320;Belgica;2012;7404;40086;Brasil;Espumantes
+321;Benin;2012;0;0;Brasil;Espumantes
+322;Bermudas;2012;0;0;Brasil;Espumantes
+323;Bolívia;2012;0;0;Brasil;Espumantes
+324;Bósnia-Herzegovina;2012;0;0;Brasil;Espumantes
+325;Bulgaria;2012;0;0;Brasil;Espumantes
+326;Cabo Verde;2012;0;0;Brasil;Espumantes
+327;Camarões;2012;0;0;Brasil;Espumantes
+328;Canada;2012;640;4663;Brasil;Espumantes
+329;Catar;2012;0;0;Brasil;Espumantes
+330;Cayman, Ilhas;2012;0;0;Brasil;Espumantes
+331;Chile;2012;811;10143;Brasil;Espumantes
+332;China;2012;3219;25604;Brasil;Espumantes
+333;Chipre;2012;0;0;Brasil;Espumantes
+334;Cingapura;2012;0;0;Brasil;Espumantes
+335;Colombia;2012;0;0;Brasil;Espumantes
+336;Coreia do Sul, Republica da;2012;0;0;Brasil;Espumantes
+337;Costa Rica;2012;34;30;Brasil;Espumantes
+338;Cuba;2012;0;0;Brasil;Espumantes
+339;Curaçao;2012;0;0;Brasil;Espumantes
+340;Dinamarca;2012;1296;5921;Brasil;Espumantes
+341;Dominica;2012;0;0;Brasil;Espumantes
+342;El Salvador;2012;0;0;Brasil;Espumantes
+343;Emirados Arabes Unidos;2012;0;0;Brasil;Espumantes
+344;Equador;2012;0;0;Brasil;Espumantes
+345;Espanha;2012;0;0;Brasil;Espumantes
+346;Estados Unidos;2012;126129;513426;Brasil;Espumantes
+347;Estonia;2012;369;1882;Brasil;Espumantes
+348;Falkland (Malvinas);2012;0;0;Brasil;Espumantes
+349;Filipinas;2012;0;0;Brasil;Espumantes
+350;Filânldia;2012;378;4084;Brasil;Espumantes
+351;França;2012;945;6116;Brasil;Espumantes
+352;Gana;2012;0;0;Brasil;Espumantes
+353;Gibraltar;2012;0;0;Brasil;Espumantes
+354;Granada;2012;0;0;Brasil;Espumantes
+355;Grécia;2012;0;0;Brasil;Espumantes
+356;Guatemala;2012;0;0;Brasil;Espumantes
+357;Guiana;2012;0;0;Brasil;Espumantes
+358;Guiné Equatorial;2012;0;0;Brasil;Espumantes
+359;Guiné-Bissau;2012;0;0;Brasil;Espumantes
+360;Haiti;2012;0;0;Brasil;Espumantes
+361;Honduras;2012;0;0;Brasil;Espumantes
+362;Hong Kong;2012;320;2753;Brasil;Espumantes
+363;Hungria;2012;0;0;Brasil;Espumantes
+364;Ilha de Man;2012;0;0;Brasil;Espumantes
+365;Índia;2012;0;0;Brasil;Espumantes
+366;Iraque;2012;0;0;Brasil;Espumantes
+367;Irlanda;2012;450;4200;Brasil;Espumantes
+368;Islândia;2012;0;0;Brasil;Espumantes
+369;Itália;2012;90;1894;Brasil;Espumantes
+370;Japão;2012;1197;8217;Brasil;Espumantes
+371;Jordânia;2012;0;0;Brasil;Espumantes
+372;Letônia;2012;0;0;Brasil;Espumantes
+373;Líbano;2012;0;0;Brasil;Espumantes
+374;Libéria;2012;0;0;Brasil;Espumantes
+375;Luxemburgo;2012;0;0;Brasil;Espumantes
+376;Maldivas;2012;0;0;Brasil;Espumantes
+377;Malta;2012;0;0;Brasil;Espumantes
+378;Marshall, Ilhas;2012;0;0;Brasil;Espumantes
+379;Montenegro;2012;0;0;Brasil;Espumantes
+380;México;2012;0;0;Brasil;Espumantes
+381;Nicarágua;2012;0;0;Brasil;Espumantes
+382;Nigéria;2012;388;1984;Brasil;Espumantes
+383;Noruega;2012;1534;15933;Brasil;Espumantes
+384;Nova Zelândia;2012;150;1021;Brasil;Espumantes
+385;Países Baixos (Holanda);2012;3854;25485;Brasil;Espumantes
+386;Panamá;2012;0;0;Brasil;Espumantes
+387;Paraguai;2012;3568;10442;Brasil;Espumantes
+388;Peru;2012;0;0;Brasil;Espumantes
+389;Polônia;2012;0;0;Brasil;Espumantes
+390;Porto Rico;2012;0;0;Brasil;Espumantes
+391;Portugal;2012;0;0;Brasil;Espumantes
+392;Quênia;2012;80;483;Brasil;Espumantes
+393;Reino Unido;2012;11896;66897;Brasil;Espumantes
+394;Republica Dominicana;2012;0;0;Brasil;Espumantes
+395;Republica Tcheca;2012;0;0;Brasil;Espumantes
+396;Rússia;2012;0;0;Brasil;Espumantes
+397;Serra Leoa;2012;0;0;Brasil;Espumantes
+398;Singapura;2012;0;0;Brasil;Espumantes
+399;Suécia;2012;0;0;Brasil;Espumantes
+400;Suíça;2012;3780;31080;Brasil;Espumantes
+401;Suriname;2012;0;0;Brasil;Espumantes
+402;Tailândia;2012;0;0;Brasil;Espumantes
+403;Taiwan (Formosa);2012;0;0;Brasil;Espumantes
+404;Tcheca, República;2012;0;0;Brasil;Espumantes
+405;Trinidade e Tobago;2012;383;1785;Brasil;Espumantes
+406;Turquia;2012;0;0;Brasil;Espumantes
+407;Uruguai;2012;0;0;Brasil;Espumantes
+408;Vanuatu;2012;0;0;Brasil;Espumantes
+409;Venezuela;2012;1470;10065;Brasil;Espumantes
+410;Vietnã;2012;0;0;Brasil;Espumantes
+411;Outros(1);2012;0;0;Brasil;Espumantes
+412;África do Sul;2013;0;0;Brasil;Espumantes
+413;Alemanha;2013;5809;30461;Brasil;Espumantes
+414;Angola;2013;5850;21060;Brasil;Espumantes
+415;Antigua e Barbuda;2013;0;0;Brasil;Espumantes
+416;Antilhas Holandesas;2013;0;0;Brasil;Espumantes
+417;Argentina;2013;0;0;Brasil;Espumantes
+418;Aruba;2013;0;0;Brasil;Espumantes
+419;Australia;2013;767;5809;Brasil;Espumantes
+420;Bahamas;2013;270;2700;Brasil;Espumantes
+421;Bangladesh;2013;0;0;Brasil;Espumantes
+422;Barbados;2013;0;0;Brasil;Espumantes
+423;Belgica;2013;1100;6078;Brasil;Espumantes
+424;Benin;2013;0;0;Brasil;Espumantes
+425;Bermudas;2013;0;0;Brasil;Espumantes
+426;Bolívia;2013;0;0;Brasil;Espumantes
+427;Bósnia-Herzegovina;2013;0;0;Brasil;Espumantes
+428;Bulgaria;2013;0;0;Brasil;Espumantes
+429;Cabo Verde;2013;0;0;Brasil;Espumantes
+430;Camarões;2013;0;0;Brasil;Espumantes
+431;Canada;2013;10371;36809;Brasil;Espumantes
+432;Catar;2013;0;0;Brasil;Espumantes
+433;Cayman, Ilhas;2013;0;0;Brasil;Espumantes
+434;Chile;2013;0;0;Brasil;Espumantes
+435;China;2013;795;6572;Brasil;Espumantes
+436;Chipre;2013;0;0;Brasil;Espumantes
+437;Cingapura;2013;0;0;Brasil;Espumantes
+438;Colombia;2013;22;196;Brasil;Espumantes
+439;Coreia do Sul, Republica da;2013;0;0;Brasil;Espumantes
+440;Costa Rica;2013;0;0;Brasil;Espumantes
+441;Cuba;2013;0;0;Brasil;Espumantes
+442;Curaçao;2013;0;0;Brasil;Espumantes
+443;Dinamarca;2013;3164;16628;Brasil;Espumantes
+444;Dominica;2013;0;0;Brasil;Espumantes
+445;El Salvador;2013;0;0;Brasil;Espumantes
+446;Emirados Arabes Unidos;2013;0;0;Brasil;Espumantes
+447;Equador;2013;0;0;Brasil;Espumantes
+448;Espanha;2013;3375;22468;Brasil;Espumantes
+449;Estados Unidos;2013;91987;364136;Brasil;Espumantes
+450;Estonia;2013;0;0;Brasil;Espumantes
+451;Falkland (Malvinas);2013;0;0;Brasil;Espumantes
+452;Filipinas;2013;0;0;Brasil;Espumantes
+453;Filânldia;2013;693;9556;Brasil;Espumantes
+454;França;2013;5400;22664;Brasil;Espumantes
+455;Gana;2013;0;0;Brasil;Espumantes
+456;Gibraltar;2013;0;0;Brasil;Espumantes
+457;Granada;2013;0;0;Brasil;Espumantes
+458;Grécia;2013;0;0;Brasil;Espumantes
+459;Guatemala;2013;0;0;Brasil;Espumantes
+460;Guiana;2013;14;93;Brasil;Espumantes
+461;Guiné Equatorial;2013;0;0;Brasil;Espumantes
+462;Guiné-Bissau;2013;0;0;Brasil;Espumantes
+463;Haiti;2013;48;174;Brasil;Espumantes
+464;Honduras;2013;0;0;Brasil;Espumantes
+465;Hong Kong;2013;586;4149;Brasil;Espumantes
+466;Hungria;2013;0;0;Brasil;Espumantes
+467;Ilha de Man;2013;0;0;Brasil;Espumantes
+468;Índia;2013;0;0;Brasil;Espumantes
+469;Iraque;2013;0;0;Brasil;Espumantes
+470;Irlanda;2013;1373;14599;Brasil;Espumantes
+471;Islândia;2013;0;0;Brasil;Espumantes
+472;Itália;2013;315;1926;Brasil;Espumantes
+473;Japão;2013;17009;83445;Brasil;Espumantes
+474;Jordânia;2013;0;0;Brasil;Espumantes
+475;Letônia;2013;0;0;Brasil;Espumantes
+476;Líbano;2013;0;0;Brasil;Espumantes
+477;Libéria;2013;0;0;Brasil;Espumantes
+478;Luxemburgo;2013;765;3973;Brasil;Espumantes
+479;Maldivas;2013;0;0;Brasil;Espumantes
+480;Malta;2013;0;0;Brasil;Espumantes
+481;Marshall, Ilhas;2013;0;0;Brasil;Espumantes
+482;Montenegro;2013;0;0;Brasil;Espumantes
+483;México;2013;0;0;Brasil;Espumantes
+484;Nicarágua;2013;0;0;Brasil;Espumantes
+485;Nigéria;2013;0;0;Brasil;Espumantes
+486;Noruega;2013;567;3904;Brasil;Espumantes
+487;Nova Zelândia;2013;150;970;Brasil;Espumantes
+488;Países Baixos (Holanda);2013;1822;10000;Brasil;Espumantes
+489;Panamá;2013;0;0;Brasil;Espumantes
+490;Paraguai;2013;23603;81321;Brasil;Espumantes
+491;Peru;2013;0;0;Brasil;Espumantes
+492;Polônia;2013;0;0;Brasil;Espumantes
+493;Porto Rico;2013;0;0;Brasil;Espumantes
+494;Portugal;2013;0;0;Brasil;Espumantes
+495;Quênia;2013;1;1;Brasil;Espumantes
+496;Reino Unido;2013;13900;73941;Brasil;Espumantes
+497;Republica Dominicana;2013;0;0;Brasil;Espumantes
+498;Republica Tcheca;2013;158;1755;Brasil;Espumantes
+499;Rússia;2013;0;0;Brasil;Espumantes
+500;Serra Leoa;2013;0;0;Brasil;Espumantes
+501;Singapura;2013;0;0;Brasil;Espumantes
+502;Suécia;2013;450;6470;Brasil;Espumantes
+503;Suíça;2013;1620;14014;Brasil;Espumantes
+504;Suriname;2013;0;0;Brasil;Espumantes
+505;Tailândia;2013;0;0;Brasil;Espumantes
+506;Taiwan (Formosa);2013;0;0;Brasil;Espumantes
+507;Tcheca, República;2013;0;0;Brasil;Espumantes
+508;Trinidade e Tobago;2013;0;0;Brasil;Espumantes
+509;Turquia;2013;0;0;Brasil;Espumantes
+510;Uruguai;2013;22717;82754;Brasil;Espumantes
+511;Vanuatu;2013;0;0;Brasil;Espumantes
+512;Venezuela;2013;0;0;Brasil;Espumantes
+513;Vietnã;2013;0;0;Brasil;Espumantes
+514;Outros(1);2013;0;0;Brasil;Espumantes
+515;África do Sul;2014;0;0;Brasil;Espumantes
+516;Alemanha;2014;9236;62169;Brasil;Espumantes
+517;Angola;2014;6866;22423;Brasil;Espumantes
+518;Antigua e Barbuda;2014;0;0;Brasil;Espumantes
+519;Antilhas Holandesas;2014;0;0;Brasil;Espumantes
+520;Argentina;2014;0;0;Brasil;Espumantes
+521;Aruba;2014;0;0;Brasil;Espumantes
+522;Australia;2014;618;3951;Brasil;Espumantes
+523;Bahamas;2014;0;0;Brasil;Espumantes
+524;Bangladesh;2014;0;0;Brasil;Espumantes
+525;Barbados;2014;0;0;Brasil;Espumantes
+526;Belgica;2014;104153;499164;Brasil;Espumantes
+527;Benin;2014;0;0;Brasil;Espumantes
+528;Bermudas;2014;0;0;Brasil;Espumantes
+529;Bolívia;2014;9;250;Brasil;Espumantes
+530;Bósnia-Herzegovina;2014;0;0;Brasil;Espumantes
+531;Bulgaria;2014;0;0;Brasil;Espumantes
+532;Cabo Verde;2014;0;0;Brasil;Espumantes
+533;Camarões;2014;0;0;Brasil;Espumantes
+534;Canada;2014;1847;13240;Brasil;Espumantes
+535;Catar;2014;0;0;Brasil;Espumantes
+536;Cayman, Ilhas;2014;0;0;Brasil;Espumantes
+537;Chile;2014;0;0;Brasil;Espumantes
+538;China;2014;5959;35190;Brasil;Espumantes
+539;Chipre;2014;0;0;Brasil;Espumantes
+540;Cingapura;2014;113;700;Brasil;Espumantes
+541;Colombia;2014;0;0;Brasil;Espumantes
+542;Coreia do Sul, Republica da;2014;4950;22797;Brasil;Espumantes
+543;Costa Rica;2014;0;0;Brasil;Espumantes
+544;Cuba;2014;0;0;Brasil;Espumantes
+545;Curaçao;2014;0;0;Brasil;Espumantes
+546;Dinamarca;2014;1296;6917;Brasil;Espumantes
+547;Dominica;2014;0;0;Brasil;Espumantes
+548;El Salvador;2014;0;0;Brasil;Espumantes
+549;Emirados Arabes Unidos;2014;0;0;Brasil;Espumantes
+550;Equador;2014;0;0;Brasil;Espumantes
+551;Espanha;2014;0;0;Brasil;Espumantes
+552;Estados Unidos;2014;39748;136533;Brasil;Espumantes
+553;Estonia;2014;0;0;Brasil;Espumantes
+554;Falkland (Malvinas);2014;0;0;Brasil;Espumantes
+555;Filipinas;2014;0;0;Brasil;Espumantes
+556;Filânldia;2014;0;0;Brasil;Espumantes
+557;França;2014;7808;42952;Brasil;Espumantes
+558;Gana;2014;0;0;Brasil;Espumantes
+559;Gibraltar;2014;0;0;Brasil;Espumantes
+560;Granada;2014;0;0;Brasil;Espumantes
+561;Grécia;2014;0;0;Brasil;Espumantes
+562;Guatemala;2014;0;0;Brasil;Espumantes
+563;Guiana;2014;1;6;Brasil;Espumantes
+564;Guiné Equatorial;2014;0;0;Brasil;Espumantes
+565;Guiné-Bissau;2014;0;0;Brasil;Espumantes
+566;Haiti;2014;0;0;Brasil;Espumantes
+567;Honduras;2014;0;0;Brasil;Espumantes
+568;Hong Kong;2014;7556;32582;Brasil;Espumantes
+569;Hungria;2014;0;0;Brasil;Espumantes
+570;Ilha de Man;2014;0;0;Brasil;Espumantes
+571;Índia;2014;0;0;Brasil;Espumantes
+572;Iraque;2014;0;0;Brasil;Espumantes
+573;Irlanda;2014;0;0;Brasil;Espumantes
+574;Islândia;2014;0;0;Brasil;Espumantes
+575;Itália;2014;180;832;Brasil;Espumantes
+576;Japão;2014;22290;104395;Brasil;Espumantes
+577;Jordânia;2014;0;0;Brasil;Espumantes
+578;Letônia;2014;0;0;Brasil;Espumantes
+579;Líbano;2014;0;0;Brasil;Espumantes
+580;Libéria;2014;0;0;Brasil;Espumantes
+581;Luxemburgo;2014;1080;5790;Brasil;Espumantes
+582;Maldivas;2014;0;0;Brasil;Espumantes
+583;Malta;2014;0;0;Brasil;Espumantes
+584;Marshall, Ilhas;2014;0;0;Brasil;Espumantes
+585;Montenegro;2014;0;0;Brasil;Espumantes
+586;México;2014;0;0;Brasil;Espumantes
+587;Nicarágua;2014;0;0;Brasil;Espumantes
+588;Nigéria;2014;0;0;Brasil;Espumantes
+589;Noruega;2014;24616;119690;Brasil;Espumantes
+590;Nova Zelândia;2014;150;554;Brasil;Espumantes
+591;Países Baixos (Holanda);2014;8280;51852;Brasil;Espumantes
+592;Panamá;2014;0;0;Brasil;Espumantes
+593;Paraguai;2014;28038;96500;Brasil;Espumantes
+594;Peru;2014;0;0;Brasil;Espumantes
+595;Polônia;2014;206;1245;Brasil;Espumantes
+596;Porto Rico;2014;0;0;Brasil;Espumantes
+597;Portugal;2014;0;0;Brasil;Espumantes
+598;Quênia;2014;0;0;Brasil;Espumantes
+599;Reino Unido;2014;131483;607711;Brasil;Espumantes
+600;Republica Dominicana;2014;0;0;Brasil;Espumantes
+601;Republica Tcheca;2014;7;66;Brasil;Espumantes
+602;Rússia;2014;0;0;Brasil;Espumantes
+603;Serra Leoa;2014;0;0;Brasil;Espumantes
+604;Singapura;2014;0;0;Brasil;Espumantes
+605;Suécia;2014;98;534;Brasil;Espumantes
+606;Suíça;2014;10936;111259;Brasil;Espumantes
+607;Suriname;2014;31;88;Brasil;Espumantes
+608;Tailândia;2014;0;0;Brasil;Espumantes
+609;Taiwan (Formosa);2014;0;0;Brasil;Espumantes
+610;Tcheca, República;2014;0;0;Brasil;Espumantes
+611;Trinidade e Tobago;2014;315;1470;Brasil;Espumantes
+612;Turquia;2014;0;0;Brasil;Espumantes
+613;Uruguai;2014;34463;128510;Brasil;Espumantes
+614;Vanuatu;2014;0;0;Brasil;Espumantes
+615;Venezuela;2014;2;46;Brasil;Espumantes
+616;Vietnã;2014;0;0;Brasil;Espumantes
+617;Outros(1);2014;0;0;Brasil;Espumantes
+618;África do Sul;2015;0;0;Brasil;Espumantes
+619;Alemanha;2015;6256;30939;Brasil;Espumantes
+620;Angola;2015;0;0;Brasil;Espumantes
+621;Antigua e Barbuda;2015;0;0;Brasil;Espumantes
+622;Antilhas Holandesas;2015;0;0;Brasil;Espumantes
+623;Argentina;2015;0;0;Brasil;Espumantes
+624;Aruba;2015;0;0;Brasil;Espumantes
+625;Australia;2015;235;1368;Brasil;Espumantes
+626;Bahamas;2015;0;0;Brasil;Espumantes
+627;Bangladesh;2015;0;0;Brasil;Espumantes
+628;Barbados;2015;0;0;Brasil;Espumantes
+629;Belgica;2015;900;5280;Brasil;Espumantes
+630;Benin;2015;0;0;Brasil;Espumantes
+631;Bermudas;2015;0;0;Brasil;Espumantes
+632;Bolívia;2015;2418;11355;Brasil;Espumantes
+633;Bósnia-Herzegovina;2015;0;0;Brasil;Espumantes
+634;Bulgaria;2015;0;0;Brasil;Espumantes
+635;Cabo Verde;2015;0;0;Brasil;Espumantes
+636;Camarões;2015;0;0;Brasil;Espumantes
+637;Canada;2015;2405;15821;Brasil;Espumantes
+638;Catar;2015;0;0;Brasil;Espumantes
+639;Cayman, Ilhas;2015;0;0;Brasil;Espumantes
+640;Chile;2015;0;0;Brasil;Espumantes
+641;China;2015;23520;48739;Brasil;Espumantes
+642;Chipre;2015;0;0;Brasil;Espumantes
+643;Cingapura;2015;0;0;Brasil;Espumantes
+644;Colombia;2015;0;0;Brasil;Espumantes
+645;Coreia do Sul, Republica da;2015;0;0;Brasil;Espumantes
+646;Costa Rica;2015;0;0;Brasil;Espumantes
+647;Cuba;2015;0;0;Brasil;Espumantes
+648;Curaçao;2015;0;0;Brasil;Espumantes
+649;Dinamarca;2015;726;4376;Brasil;Espumantes
+650;Dominica;2015;0;0;Brasil;Espumantes
+651;El Salvador;2015;0;0;Brasil;Espumantes
+652;Emirados Arabes Unidos;2015;0;0;Brasil;Espumantes
+653;Equador;2015;0;0;Brasil;Espumantes
+654;Espanha;2015;0;0;Brasil;Espumantes
+655;Estados Unidos;2015;18450;92868;Brasil;Espumantes
+656;Estonia;2015;0;0;Brasil;Espumantes
+657;Falkland (Malvinas);2015;0;0;Brasil;Espumantes
+658;Filipinas;2015;0;0;Brasil;Espumantes
+659;Filânldia;2015;0;0;Brasil;Espumantes
+660;França;2015;16246;203297;Brasil;Espumantes
+661;Gana;2015;0;0;Brasil;Espumantes
+662;Gibraltar;2015;0;0;Brasil;Espumantes
+663;Granada;2015;0;0;Brasil;Espumantes
+664;Grécia;2015;0;0;Brasil;Espumantes
+665;Guatemala;2015;0;0;Brasil;Espumantes
+666;Guiana;2015;22;221;Brasil;Espumantes
+667;Guiné Equatorial;2015;0;0;Brasil;Espumantes
+668;Guiné-Bissau;2015;0;0;Brasil;Espumantes
+669;Haiti;2015;0;0;Brasil;Espumantes
+670;Honduras;2015;0;0;Brasil;Espumantes
+671;Hong Kong;2015;414;2693;Brasil;Espumantes
+672;Hungria;2015;0;0;Brasil;Espumantes
+673;Ilha de Man;2015;0;0;Brasil;Espumantes
+674;Índia;2015;0;0;Brasil;Espumantes
+675;Iraque;2015;0;0;Brasil;Espumantes
+676;Irlanda;2015;0;0;Brasil;Espumantes
+677;Islândia;2015;0;0;Brasil;Espumantes
+678;Itália;2015;0;0;Brasil;Espumantes
+679;Japão;2015;1826;18118;Brasil;Espumantes
+680;Jordânia;2015;0;0;Brasil;Espumantes
+681;Letônia;2015;0;0;Brasil;Espumantes
+682;Líbano;2015;0;0;Brasil;Espumantes
+683;Libéria;2015;0;0;Brasil;Espumantes
+684;Luxemburgo;2015;0;0;Brasil;Espumantes
+685;Maldivas;2015;0;0;Brasil;Espumantes
+686;Malta;2015;0;0;Brasil;Espumantes
+687;Marshall, Ilhas;2015;0;0;Brasil;Espumantes
+688;Montenegro;2015;0;0;Brasil;Espumantes
+689;México;2015;0;0;Brasil;Espumantes
+690;Nicarágua;2015;0;0;Brasil;Espumantes
+691;Nigéria;2015;0;0;Brasil;Espumantes
+692;Noruega;2015;3192;10099;Brasil;Espumantes
+693;Nova Zelândia;2015;233;822;Brasil;Espumantes
+694;Países Baixos (Holanda);2015;1665;7907;Brasil;Espumantes
+695;Panamá;2015;0;0;Brasil;Espumantes
+696;Paraguai;2015;29016;70845;Brasil;Espumantes
+697;Peru;2015;0;0;Brasil;Espumantes
+698;Polônia;2015;225;2310;Brasil;Espumantes
+699;Porto Rico;2015;45;1736;Brasil;Espumantes
+700;Portugal;2015;0;0;Brasil;Espumantes
+701;Quênia;2015;0;0;Brasil;Espumantes
+702;Reino Unido;2015;16511;97055;Brasil;Espumantes
+703;Republica Dominicana;2015;0;0;Brasil;Espumantes
+704;Republica Tcheca;2015;23;278;Brasil;Espumantes
+705;Rússia;2015;0;0;Brasil;Espumantes
+706;Serra Leoa;2015;0;0;Brasil;Espumantes
+707;Singapura;2015;0;0;Brasil;Espumantes
+708;Suécia;2015;292;2190;Brasil;Espumantes
+709;Suíça;2015;1080;9648;Brasil;Espumantes
+710;Suriname;2015;8;19;Brasil;Espumantes
+711;Tailândia;2015;0;0;Brasil;Espumantes
+712;Taiwan (Formosa);2015;0;0;Brasil;Espumantes
+713;Tcheca, República;2015;0;0;Brasil;Espumantes
+714;Trinidade e Tobago;2015;0;0;Brasil;Espumantes
+715;Turquia;2015;0;0;Brasil;Espumantes
+716;Uruguai;2015;19574;74551;Brasil;Espumantes
+717;Vanuatu;2015;0;0;Brasil;Espumantes
+718;Venezuela;2015;0;0;Brasil;Espumantes
+719;Vietnã;2015;0;0;Brasil;Espumantes
+720;Outros(1);2015;0;0;Brasil;Espumantes
+721;África do Sul;2016;0;0;Brasil;Espumantes
+722;Alemanha;2016;4293;19088;Brasil;Espumantes
+723;Angola;2016;90;1010;Brasil;Espumantes
+724;Antigua e Barbuda;2016;0;0;Brasil;Espumantes
+725;Antilhas Holandesas;2016;0;0;Brasil;Espumantes
+726;Argentina;2016;0;0;Brasil;Espumantes
+727;Aruba;2016;0;0;Brasil;Espumantes
+728;Australia;2016;594;2602;Brasil;Espumantes
+729;Bahamas;2016;0;0;Brasil;Espumantes
+730;Bangladesh;2016;0;0;Brasil;Espumantes
+731;Barbados;2016;0;0;Brasil;Espumantes
+732;Belgica;2016;0;0;Brasil;Espumantes
+733;Benin;2016;0;0;Brasil;Espumantes
+734;Bermudas;2016;0;0;Brasil;Espumantes
+735;Bolívia;2016;2624;12811;Brasil;Espumantes
+736;Bósnia-Herzegovina;2016;0;0;Brasil;Espumantes
+737;Bulgaria;2016;0;0;Brasil;Espumantes
+738;Cabo Verde;2016;0;0;Brasil;Espumantes
+739;Camarões;2016;0;0;Brasil;Espumantes
+740;Canada;2016;901;3821;Brasil;Espumantes
+741;Catar;2016;0;0;Brasil;Espumantes
+742;Cayman, Ilhas;2016;0;0;Brasil;Espumantes
+743;Chile;2016;10340;41824;Brasil;Espumantes
+744;China;2016;4610;20931;Brasil;Espumantes
+745;Chipre;2016;0;0;Brasil;Espumantes
+746;Cingapura;2016;0;0;Brasil;Espumantes
+747;Colombia;2016;617;1532;Brasil;Espumantes
+748;Coreia do Sul, Republica da;2016;212;1180;Brasil;Espumantes
+749;Costa Rica;2016;0;0;Brasil;Espumantes
+750;Cuba;2016;0;0;Brasil;Espumantes
+751;Curaçao;2016;0;0;Brasil;Espumantes
+752;Dinamarca;2016;68;538;Brasil;Espumantes
+753;Dominica;2016;0;0;Brasil;Espumantes
+754;El Salvador;2016;0;0;Brasil;Espumantes
+755;Emirados Arabes Unidos;2016;0;0;Brasil;Espumantes
+756;Equador;2016;0;0;Brasil;Espumantes
+757;Espanha;2016;0;0;Brasil;Espumantes
+758;Estados Unidos;2016;22615;143306;Brasil;Espumantes
+759;Estonia;2016;0;0;Brasil;Espumantes
+760;Falkland (Malvinas);2016;0;0;Brasil;Espumantes
+761;Filipinas;2016;0;0;Brasil;Espumantes
+762;Filânldia;2016;7522;35948;Brasil;Espumantes
+763;França;2016;0;0;Brasil;Espumantes
+764;Gana;2016;0;0;Brasil;Espumantes
+765;Gibraltar;2016;0;0;Brasil;Espumantes
+766;Granada;2016;0;0;Brasil;Espumantes
+767;Grécia;2016;0;0;Brasil;Espumantes
+768;Guatemala;2016;0;0;Brasil;Espumantes
+769;Guiana;2016;0;0;Brasil;Espumantes
+770;Guiné Equatorial;2016;7738;17056;Brasil;Espumantes
+771;Guiné-Bissau;2016;0;0;Brasil;Espumantes
+772;Haiti;2016;0;0;Brasil;Espumantes
+773;Honduras;2016;0;0;Brasil;Espumantes
+774;Hong Kong;2016;225;1704;Brasil;Espumantes
+775;Hungria;2016;0;0;Brasil;Espumantes
+776;Ilha de Man;2016;0;0;Brasil;Espumantes
+777;Índia;2016;0;0;Brasil;Espumantes
+778;Iraque;2016;0;0;Brasil;Espumantes
+779;Irlanda;2016;0;0;Brasil;Espumantes
+780;Islândia;2016;0;0;Brasil;Espumantes
+781;Itália;2016;135;780;Brasil;Espumantes
+782;Japão;2016;3658;14766;Brasil;Espumantes
+783;Jordânia;2016;0;0;Brasil;Espumantes
+784;Letônia;2016;0;0;Brasil;Espumantes
+785;Líbano;2016;0;0;Brasil;Espumantes
+786;Libéria;2016;0;0;Brasil;Espumantes
+787;Luxemburgo;2016;45;521;Brasil;Espumantes
+788;Maldivas;2016;0;0;Brasil;Espumantes
+789;Malta;2016;0;0;Brasil;Espumantes
+790;Marshall, Ilhas;2016;0;0;Brasil;Espumantes
+791;Montenegro;2016;0;0;Brasil;Espumantes
+792;México;2016;0;0;Brasil;Espumantes
+793;Nicarágua;2016;0;0;Brasil;Espumantes
+794;Nigéria;2016;68;445;Brasil;Espumantes
+795;Noruega;2016;0;0;Brasil;Espumantes
+796;Nova Zelândia;2016;0;0;Brasil;Espumantes
+797;Países Baixos (Holanda);2016;0;0;Brasil;Espumantes
+798;Panamá;2016;0;0;Brasil;Espumantes
+799;Paraguai;2016;40197;123169;Brasil;Espumantes
+800;Peru;2016;0;0;Brasil;Espumantes
+801;Polônia;2016;0;0;Brasil;Espumantes
+802;Porto Rico;2016;0;0;Brasil;Espumantes
+803;Portugal;2016;0;0;Brasil;Espumantes
+804;Quênia;2016;0;0;Brasil;Espumantes
+805;Reino Unido;2016;56615;223774;Brasil;Espumantes
+806;Republica Dominicana;2016;0;0;Brasil;Espumantes
+807;Republica Tcheca;2016;94;532;Brasil;Espumantes
+808;Rússia;2016;0;0;Brasil;Espumantes
+809;Serra Leoa;2016;0;0;Brasil;Espumantes
+810;Singapura;2016;0;0;Brasil;Espumantes
+811;Suécia;2016;140;352;Brasil;Espumantes
+812;Suíça;2016;270;2719;Brasil;Espumantes
+813;Suriname;2016;0;0;Brasil;Espumantes
+814;Tailândia;2016;0;0;Brasil;Espumantes
+815;Taiwan (Formosa);2016;2706;13484;Brasil;Espumantes
+816;Tcheca, República;2016;0;0;Brasil;Espumantes
+817;Trinidade e Tobago;2016;0;0;Brasil;Espumantes
+818;Turquia;2016;0;0;Brasil;Espumantes
+819;Uruguai;2016;7656;28085;Brasil;Espumantes
+820;Vanuatu;2016;0;0;Brasil;Espumantes
+821;Venezuela;2016;16;13;Brasil;Espumantes
+822;Vietnã;2016;0;0;Brasil;Espumantes
+823;Outros(1);2016;0;0;Brasil;Espumantes
+824;África do Sul;2017;0;0;Brasil;Espumantes
+825;Alemanha;2017;4824;28799;Brasil;Espumantes
+826;Angola;2017;0;0;Brasil;Espumantes
+827;Antigua e Barbuda;2017;0;0;Brasil;Espumantes
+828;Antilhas Holandesas;2017;0;0;Brasil;Espumantes
+829;Argentina;2017;0;0;Brasil;Espumantes
+830;Aruba;2017;0;0;Brasil;Espumantes
+831;Australia;2017;595;2276;Brasil;Espumantes
+832;Bahamas;2017;0;0;Brasil;Espumantes
+833;Bangladesh;2017;0;0;Brasil;Espumantes
+834;Barbados;2017;0;0;Brasil;Espumantes
+835;Belgica;2017;450;2646;Brasil;Espumantes
+836;Benin;2017;0;0;Brasil;Espumantes
+837;Bermudas;2017;0;0;Brasil;Espumantes
+838;Bolívia;2017;1668;21056;Brasil;Espumantes
+839;Bósnia-Herzegovina;2017;0;0;Brasil;Espumantes
+840;Bulgaria;2017;0;0;Brasil;Espumantes
+841;Cabo Verde;2017;0;0;Brasil;Espumantes
+842;Camarões;2017;4138;16077;Brasil;Espumantes
+843;Canada;2017;0;0;Brasil;Espumantes
+844;Catar;2017;0;0;Brasil;Espumantes
+845;Cayman, Ilhas;2017;0;0;Brasil;Espumantes
+846;Chile;2017;25439;231696;Brasil;Espumantes
+847;China;2017;11646;35671;Brasil;Espumantes
+848;Chipre;2017;0;0;Brasil;Espumantes
+849;Cingapura;2017;0;0;Brasil;Espumantes
+850;Colombia;2017;595;2600;Brasil;Espumantes
+851;Coreia do Sul, Republica da;2017;442;1470;Brasil;Espumantes
+852;Costa Rica;2017;0;0;Brasil;Espumantes
+853;Cuba;2017;0;0;Brasil;Espumantes
+854;Curaçao;2017;991;5808;Brasil;Espumantes
+855;Dinamarca;2017;0;0;Brasil;Espumantes
+856;Dominica;2017;0;0;Brasil;Espumantes
+857;El Salvador;2017;0;0;Brasil;Espumantes
+858;Emirados Arabes Unidos;2017;0;0;Brasil;Espumantes
+859;Equador;2017;0;0;Brasil;Espumantes
+860;Espanha;2017;5013;64735;Brasil;Espumantes
+861;Estados Unidos;2017;22605;170620;Brasil;Espumantes
+862;Estonia;2017;0;0;Brasil;Espumantes
+863;Falkland (Malvinas);2017;0;0;Brasil;Espumantes
+864;Filipinas;2017;0;0;Brasil;Espumantes
+865;Filânldia;2017;0;0;Brasil;Espumantes
+866;França;2017;0;0;Brasil;Espumantes
+867;Gana;2017;0;0;Brasil;Espumantes
+868;Gibraltar;2017;0;0;Brasil;Espumantes
+869;Granada;2017;0;0;Brasil;Espumantes
+870;Grécia;2017;0;0;Brasil;Espumantes
+871;Guatemala;2017;0;0;Brasil;Espumantes
+872;Guiana;2017;4;61;Brasil;Espumantes
+873;Guiné Equatorial;2017;0;0;Brasil;Espumantes
+874;Guiné-Bissau;2017;0;0;Brasil;Espumantes
+875;Haiti;2017;0;0;Brasil;Espumantes
+876;Honduras;2017;0;0;Brasil;Espumantes
+877;Hong Kong;2017;450;2705;Brasil;Espumantes
+878;Hungria;2017;0;0;Brasil;Espumantes
+879;Ilha de Man;2017;0;0;Brasil;Espumantes
+880;Índia;2017;0;0;Brasil;Espumantes
+881;Iraque;2017;0;0;Brasil;Espumantes
+882;Irlanda;2017;0;0;Brasil;Espumantes
+883;Islândia;2017;0;0;Brasil;Espumantes
+884;Itália;2017;1467;8382;Brasil;Espumantes
+885;Japão;2017;48604;133203;Brasil;Espumantes
+886;Jordânia;2017;0;0;Brasil;Espumantes
+887;Letônia;2017;158;2426;Brasil;Espumantes
+888;Líbano;2017;0;0;Brasil;Espumantes
+889;Libéria;2017;0;0;Brasil;Espumantes
+890;Luxemburgo;2017;360;1825;Brasil;Espumantes
+891;Maldivas;2017;0;0;Brasil;Espumantes
+892;Malta;2017;0;0;Brasil;Espumantes
+893;Marshall, Ilhas;2017;0;0;Brasil;Espumantes
+894;Montenegro;2017;0;0;Brasil;Espumantes
+895;México;2017;0;0;Brasil;Espumantes
+896;Nicarágua;2017;0;0;Brasil;Espumantes
+897;Nigéria;2017;0;0;Brasil;Espumantes
+898;Noruega;2017;0;0;Brasil;Espumantes
+899;Nova Zelândia;2017;196;1021;Brasil;Espumantes
+900;Países Baixos (Holanda);2017;0;0;Brasil;Espumantes
+901;Panamá;2017;0;0;Brasil;Espumantes
+902;Paraguai;2017;80951;255320;Brasil;Espumantes
+903;Peru;2017;0;0;Brasil;Espumantes
+904;Polônia;2017;0;0;Brasil;Espumantes
+905;Porto Rico;2017;0;0;Brasil;Espumantes
+906;Portugal;2017;756;11568;Brasil;Espumantes
+907;Quênia;2017;100;1512;Brasil;Espumantes
+908;Reino Unido;2017;27700;101672;Brasil;Espumantes
+909;Republica Dominicana;2017;0;0;Brasil;Espumantes
+910;Republica Tcheca;2017;207;942;Brasil;Espumantes
+911;Rússia;2017;0;0;Brasil;Espumantes
+912;Serra Leoa;2017;0;0;Brasil;Espumantes
+913;Singapura;2017;0;0;Brasil;Espumantes
+914;Suécia;2017;298;1136;Brasil;Espumantes
+915;Suíça;2017;1890;16884;Brasil;Espumantes
+916;Suriname;2017;0;0;Brasil;Espumantes
+917;Tailândia;2017;0;0;Brasil;Espumantes
+918;Taiwan (Formosa);2017;1507;6574;Brasil;Espumantes
+919;Tcheca, República;2017;0;0;Brasil;Espumantes
+920;Trinidade e Tobago;2017;0;0;Brasil;Espumantes
+921;Turquia;2017;0;0;Brasil;Espumantes
+922;Uruguai;2017;13237;48581;Brasil;Espumantes
+923;Vanuatu;2017;0;0;Brasil;Espumantes
+924;Venezuela;2017;455;2205;Brasil;Espumantes
+925;Vietnã;2017;0;0;Brasil;Espumantes
+926;Outros(1);2017;0;0;Brasil;Espumantes
+927;África do Sul;2018;0;0;Brasil;Espumantes
+928;Alemanha;2018;4092;21373;Brasil;Espumantes
+929;Angola;2018;63;280;Brasil;Espumantes
+930;Antigua e Barbuda;2018;0;0;Brasil;Espumantes
+931;Antilhas Holandesas;2018;0;0;Brasil;Espumantes
+932;Argentina;2018;4342;17243;Brasil;Espumantes
+933;Aruba;2018;18;7;Brasil;Espumantes
+934;Australia;2018;0;0;Brasil;Espumantes
+935;Bahamas;2018;5;17;Brasil;Espumantes
+936;Bangladesh;2018;0;0;Brasil;Espumantes
+937;Barbados;2018;0;0;Brasil;Espumantes
+938;Belgica;2018;1800;10555;Brasil;Espumantes
+939;Benin;2018;0;0;Brasil;Espumantes
+940;Bermudas;2018;0;0;Brasil;Espumantes
+941;Bolívia;2018;5891;25277;Brasil;Espumantes
+942;Bósnia-Herzegovina;2018;0;0;Brasil;Espumantes
+943;Bulgaria;2018;0;0;Brasil;Espumantes
+944;Cabo Verde;2018;0;0;Brasil;Espumantes
+945;Camarões;2018;90;284;Brasil;Espumantes
+946;Canada;2018;23;94;Brasil;Espumantes
+947;Catar;2018;0;0;Brasil;Espumantes
+948;Cayman, Ilhas;2018;0;0;Brasil;Espumantes
+949;Chile;2018;25481;208521;Brasil;Espumantes
+950;China;2018;19490;58871;Brasil;Espumantes
+951;Chipre;2018;0;0;Brasil;Espumantes
+952;Cingapura;2018;47214;135547;Brasil;Espumantes
+953;Colombia;2018;2309;8637;Brasil;Espumantes
+954;Coreia do Sul, Republica da;2018;3;15;Brasil;Espumantes
+955;Costa Rica;2018;0;0;Brasil;Espumantes
+956;Cuba;2018;1;2;Brasil;Espumantes
+957;Curaçao;2018;801;2256;Brasil;Espumantes
+958;Dinamarca;2018;662;3530;Brasil;Espumantes
+959;Dominica;2018;0;0;Brasil;Espumantes
+960;El Salvador;2018;1;10;Brasil;Espumantes
+961;Emirados Arabes Unidos;2018;0;0;Brasil;Espumantes
+962;Equador;2018;0;0;Brasil;Espumantes
+963;Espanha;2018;2271;9453;Brasil;Espumantes
+964;Estados Unidos;2018;28542;172961;Brasil;Espumantes
+965;Estonia;2018;0;0;Brasil;Espumantes
+966;Falkland (Malvinas);2018;0;0;Brasil;Espumantes
+967;Filipinas;2018;0;0;Brasil;Espumantes
+968;Filânldia;2018;0;0;Brasil;Espumantes
+969;França;2018;2163;9147;Brasil;Espumantes
+970;Gana;2018;0;0;Brasil;Espumantes
+971;Gibraltar;2018;0;0;Brasil;Espumantes
+972;Granada;2018;0;0;Brasil;Espumantes
+973;Grécia;2018;63;391;Brasil;Espumantes
+974;Guatemala;2018;206;1052;Brasil;Espumantes
+975;Guiana;2018;0;0;Brasil;Espumantes
+976;Guiné Equatorial;2018;0;0;Brasil;Espumantes
+977;Guiné-Bissau;2018;0;0;Brasil;Espumantes
+978;Haiti;2018;0;0;Brasil;Espumantes
+979;Honduras;2018;0;0;Brasil;Espumantes
+980;Hong Kong;2018;225;1704;Brasil;Espumantes
+981;Hungria;2018;0;0;Brasil;Espumantes
+982;Ilha de Man;2018;0;0;Brasil;Espumantes
+983;Índia;2018;0;0;Brasil;Espumantes
+984;Iraque;2018;0;0;Brasil;Espumantes
+985;Irlanda;2018;0;0;Brasil;Espumantes
+986;Islândia;2018;0;0;Brasil;Espumantes
+987;Itália;2018;1307;5331;Brasil;Espumantes
+988;Japão;2018;7853;34532;Brasil;Espumantes
+989;Jordânia;2018;0;0;Brasil;Espumantes
+990;Letônia;2018;0;0;Brasil;Espumantes
+991;Líbano;2018;0;0;Brasil;Espumantes
+992;Libéria;2018;300;444;Brasil;Espumantes
+993;Luxemburgo;2018;113;655;Brasil;Espumantes
+994;Maldivas;2018;0;0;Brasil;Espumantes
+995;Malta;2018;0;0;Brasil;Espumantes
+996;Marshall, Ilhas;2018;158;604;Brasil;Espumantes
+997;Montenegro;2018;0;0;Brasil;Espumantes
+998;México;2018;737;2476;Brasil;Espumantes
+999;Nicarágua;2018;0;0;Brasil;Espumantes
+1000;Nigéria;2018;976;4029;Brasil;Espumantes
+1001;Noruega;2018;81;300;Brasil;Espumantes
+1002;Nova Zelândia;2018;15;168;Brasil;Espumantes
+1003;Países Baixos (Holanda);2018;0;0;Brasil;Espumantes
+1004;Panamá;2018;319;740;Brasil;Espumantes
+1005;Paraguai;2018;92114;205510;Brasil;Espumantes
+1006;Peru;2018;1577;6379;Brasil;Espumantes
+1007;Polônia;2018;23099;73608;Brasil;Espumantes
+1008;Porto Rico;2018;100;1512;Brasil;Espumantes
+1009;Portugal;2018;1552;23255;Brasil;Espumantes
+1010;Quênia;2018;0;0;Brasil;Espumantes
+1011;Reino Unido;2018;14626;72651;Brasil;Espumantes
+1012;Republica Dominicana;2018;0;0;Brasil;Espumantes
+1013;Republica Tcheca;2018;0;0;Brasil;Espumantes
+1014;Rússia;2018;47765;18240;Brasil;Espumantes
+1015;Serra Leoa;2018;0;0;Brasil;Espumantes
+1016;Singapura;2018;0;0;Brasil;Espumantes
+1017;Suécia;2018;54;218;Brasil;Espumantes
+1018;Suíça;2018;0;0;Brasil;Espumantes
+1019;Suriname;2018;0;0;Brasil;Espumantes
+1020;Tailândia;2018;0;0;Brasil;Espumantes
+1021;Taiwan (Formosa);2018;0;0;Brasil;Espumantes
+1022;Tcheca, República;2018;0;0;Brasil;Espumantes
+1023;Trinidade e Tobago;2018;0;0;Brasil;Espumantes
+1024;Turquia;2018;0;0;Brasil;Espumantes
+1025;Uruguai;2018;9265;34039;Brasil;Espumantes
+1026;Vanuatu;2018;0;0;Brasil;Espumantes
+1027;Venezuela;2018;5;10;Brasil;Espumantes
+1028;Vietnã;2018;0;0;Brasil;Espumantes
+1029;Outros(1);2018;0;0;Brasil;Espumantes
+1030;África do Sul;2019;0;0;Brasil;Espumantes
+1031;Alemanha;2019;1003;5466;Brasil;Espumantes
+1032;Angola;2019;1007;3615;Brasil;Espumantes
+1033;Antigua e Barbuda;2019;7;34;Brasil;Espumantes
+1034;Antilhas Holandesas;2019;0;0;Brasil;Espumantes
+1035;Argentina;2019;0;0;Brasil;Espumantes
+1036;Aruba;2019;0;0;Brasil;Espumantes
+1037;Australia;2019;180;800;Brasil;Espumantes
+1038;Bahamas;2019;18;79;Brasil;Espumantes
+1039;Bangladesh;2019;0;0;Brasil;Espumantes
+1040;Barbados;2019;0;0;Brasil;Espumantes
+1041;Belgica;2019;1869;11405;Brasil;Espumantes
+1042;Benin;2019;0;0;Brasil;Espumantes
+1043;Bermudas;2019;0;0;Brasil;Espumantes
+1044;Bolívia;2019;0;0;Brasil;Espumantes
+1045;Bósnia-Herzegovina;2019;10;53;Brasil;Espumantes
+1046;Bulgaria;2019;0;0;Brasil;Espumantes
+1047;Cabo Verde;2019;0;0;Brasil;Espumantes
+1048;Camarões;2019;0;0;Brasil;Espumantes
+1049;Canada;2019;2185;8228;Brasil;Espumantes
+1050;Catar;2019;41;3502;Brasil;Espumantes
+1051;Cayman, Ilhas;2019;15;43;Brasil;Espumantes
+1052;Chile;2019;0;0;Brasil;Espumantes
+1053;China;2019;26247;91922;Brasil;Espumantes
+1054;Chipre;2019;101;368;Brasil;Espumantes
+1055;Cingapura;2019;28418;126428;Brasil;Espumantes
+1056;Colombia;2019;804;2185;Brasil;Espumantes
+1057;Coreia do Sul, Republica da;2019;32;115;Brasil;Espumantes
+1058;Costa Rica;2019;0;0;Brasil;Espumantes
+1059;Cuba;2019;0;0;Brasil;Espumantes
+1060;Curaçao;2019;3373;13676;Brasil;Espumantes
+1061;Dinamarca;2019;96;230;Brasil;Espumantes
+1062;Dominica;2019;0;0;Brasil;Espumantes
+1063;El Salvador;2019;0;0;Brasil;Espumantes
+1064;Emirados Arabes Unidos;2019;33;164;Brasil;Espumantes
+1065;Equador;2019;2;3;Brasil;Espumantes
+1066;Espanha;2019;2;3;Brasil;Espumantes
+1067;Estados Unidos;2019;389511;1023709;Brasil;Espumantes
+1068;Estonia;2019;0;0;Brasil;Espumantes
+1069;Falkland (Malvinas);2019;0;0;Brasil;Espumantes
+1070;Filipinas;2019;24;109;Brasil;Espumantes
+1071;Filânldia;2019;0;0;Brasil;Espumantes
+1072;França;2019;3123;15835;Brasil;Espumantes
+1073;Gana;2019;810;3696;Brasil;Espumantes
+1074;Gibraltar;2019;43;85;Brasil;Espumantes
+1075;Granada;2019;0;0;Brasil;Espumantes
+1076;Grécia;2019;74;280;Brasil;Espumantes
+1077;Guatemala;2019;446;2933;Brasil;Espumantes
+1078;Guiana;2019;0;0;Brasil;Espumantes
+1079;Guiné Equatorial;2019;0;0;Brasil;Espumantes
+1080;Guiné-Bissau;2019;0;0;Brasil;Espumantes
+1081;Haiti;2019;0;0;Brasil;Espumantes
+1082;Honduras;2019;0;0;Brasil;Espumantes
+1083;Hong Kong;2019;2801;10173;Brasil;Espumantes
+1084;Hungria;2019;0;0;Brasil;Espumantes
+1085;Ilha de Man;2019;0;0;Brasil;Espumantes
+1086;Índia;2019;18;40;Brasil;Espumantes
+1087;Iraque;2019;0;0;Brasil;Espumantes
+1088;Irlanda;2019;14;26;Brasil;Espumantes
+1089;Islândia;2019;0;0;Brasil;Espumantes
+1090;Itália;2019;522;2445;Brasil;Espumantes
+1091;Japão;2019;10242;41567;Brasil;Espumantes
+1092;Jordânia;2019;0;0;Brasil;Espumantes
+1093;Letônia;2019;0;0;Brasil;Espumantes
+1094;Líbano;2019;29;108;Brasil;Espumantes
+1095;Libéria;2019;1207;2420;Brasil;Espumantes
+1096;Luxemburgo;2019;495;2474;Brasil;Espumantes
+1097;Maldivas;2019;0;0;Brasil;Espumantes
+1098;Malta;2019;359;1317;Brasil;Espumantes
+1099;Marshall, Ilhas;2019;1594;2853;Brasil;Espumantes
+1100;Montenegro;2019;0;0;Brasil;Espumantes
+1101;México;2019;0;0;Brasil;Espumantes
+1102;Nicarágua;2019;0;0;Brasil;Espumantes
+1103;Nigéria;2019;1809;7513;Brasil;Espumantes
+1104;Noruega;2019;345;505;Brasil;Espumantes
+1105;Nova Zelândia;2019;0;0;Brasil;Espumantes
+1106;Países Baixos (Holanda);2019;432;923;Brasil;Espumantes
+1107;Panamá;2019;2929;6126;Brasil;Espumantes
+1108;Paraguai;2019;94620;224306;Brasil;Espumantes
+1109;Peru;2019;596;1854;Brasil;Espumantes
+1110;Polônia;2019;18810;57107;Brasil;Espumantes
+1111;Porto Rico;2019;0;0;Brasil;Espumantes
+1112;Portugal;2019;1288;15933;Brasil;Espumantes
+1113;Quênia;2019;0;0;Brasil;Espumantes
+1114;Reino Unido;2019;11049;54428;Brasil;Espumantes
+1115;Republica Dominicana;2019;0;0;Brasil;Espumantes
+1116;Republica Tcheca;2019;0;0;Brasil;Espumantes
+1117;Rússia;2019;71654;27360;Brasil;Espumantes
+1118;Serra Leoa;2019;0;0;Brasil;Espumantes
+1119;Singapura;2019;0;0;Brasil;Espumantes
+1120;Suécia;2019;0;0;Brasil;Espumantes
+1121;Suíça;2019;2704;8959;Brasil;Espumantes
+1122;Suriname;2019;2;3;Brasil;Espumantes
+1123;Tailândia;2019;8;169;Brasil;Espumantes
+1124;Taiwan (Formosa);2019;5;6;Brasil;Espumantes
+1125;Tcheca, República;2019;0;0;Brasil;Espumantes
+1126;Trinidade e Tobago;2019;0;0;Brasil;Espumantes
+1127;Turquia;2019;6;30;Brasil;Espumantes
+1128;Uruguai;2019;2808;15045;Brasil;Espumantes
+1129;Vanuatu;2019;0;0;Brasil;Espumantes
+1130;Venezuela;2019;450;2670;Brasil;Espumantes
+1131;Vietnã;2019;0;0;Brasil;Espumantes
+1132;Outros(1);2019;0;0;Brasil;Espumantes
+1133;África do Sul;2020;0;0;Brasil;Espumantes
+1134;Alemanha;2020;2388;14767;Brasil;Espumantes
+1135;Angola;2020;24;38;Brasil;Espumantes
+1136;Antigua e Barbuda;2020;32;328;Brasil;Espumantes
+1137;Antilhas Holandesas;2020;0;0;Brasil;Espumantes
+1138;Argentina;2020;315;894;Brasil;Espumantes
+1139;Aruba;2020;0;0;Brasil;Espumantes
+1140;Australia;2020;144;503;Brasil;Espumantes
+1141;Bahamas;2020;434;1033;Brasil;Espumantes
+1142;Bangladesh;2020;0;0;Brasil;Espumantes
+1143;Barbados;2020;57;105;Brasil;Espumantes
+1144;Belgica;2020;0;0;Brasil;Espumantes
+1145;Benin;2020;24;181;Brasil;Espumantes
+1146;Bermudas;2020;0;0;Brasil;Espumantes
+1147;Bolívia;2020;5994;16901;Brasil;Espumantes
+1148;Bósnia-Herzegovina;2020;168;161;Brasil;Espumantes
+1149;Bulgaria;2020;0;0;Brasil;Espumantes
+1150;Cabo Verde;2020;0;0;Brasil;Espumantes
+1151;Camarões;2020;0;0;Brasil;Espumantes
+1152;Canada;2020;413;3063;Brasil;Espumantes
+1153;Catar;2020;78;6651;Brasil;Espumantes
+1154;Cayman, Ilhas;2020;0;0;Brasil;Espumantes
+1155;Chile;2020;90;346;Brasil;Espumantes
+1156;China;2020;29921;103986;Brasil;Espumantes
+1157;Chipre;2020;307;1019;Brasil;Espumantes
+1158;Cingapura;2020;0;0;Brasil;Espumantes
+1159;Colombia;2020;24578;74854;Brasil;Espumantes
+1160;Coreia do Sul, Republica da;2020;24;53;Brasil;Espumantes
+1161;Costa Rica;2020;0;0;Brasil;Espumantes
+1162;Cuba;2020;0;0;Brasil;Espumantes
+1163;Curaçao;2020;2186;8451;Brasil;Espumantes
+1164;Dinamarca;2020;452;1798;Brasil;Espumantes
+1165;Dominica;2020;0;0;Brasil;Espumantes
+1166;El Salvador;2020;0;0;Brasil;Espumantes
+1167;Emirados Arabes Unidos;2020;9;36;Brasil;Espumantes
+1168;Equador;2020;0;0;Brasil;Espumantes
+1169;Espanha;2020;29;230;Brasil;Espumantes
+1170;Estados Unidos;2020;634243;1647310;Brasil;Espumantes
+1171;Estonia;2020;0;0;Brasil;Espumantes
+1172;Falkland (Malvinas);2020;0;0;Brasil;Espumantes
+1173;Filipinas;2020;0;0;Brasil;Espumantes
+1174;Filânldia;2020;1078;7065;Brasil;Espumantes
+1175;França;2020;7481;37286;Brasil;Espumantes
+1176;Gana;2020;0;0;Brasil;Espumantes
+1177;Gibraltar;2020;0;0;Brasil;Espumantes
+1178;Granada;2020;0;0;Brasil;Espumantes
+1179;Grécia;2020;97;309;Brasil;Espumantes
+1180;Guatemala;2020;760;4318;Brasil;Espumantes
+1181;Guiana;2020;0;0;Brasil;Espumantes
+1182;Guiné Equatorial;2020;0;0;Brasil;Espumantes
+1183;Guiné-Bissau;2020;0;0;Brasil;Espumantes
+1184;Haiti;2020;1331;2737;Brasil;Espumantes
+1185;Honduras;2020;0;0;Brasil;Espumantes
+1186;Hong Kong;2020;4124;11770;Brasil;Espumantes
+1187;Hungria;2020;0;0;Brasil;Espumantes
+1188;Ilha de Man;2020;0;0;Brasil;Espumantes
+1189;Índia;2020;25;80;Brasil;Espumantes
+1190;Iraque;2020;0;0;Brasil;Espumantes
+1191;Irlanda;2020;0;0;Brasil;Espumantes
+1192;Islândia;2020;10;45;Brasil;Espumantes
+1193;Itália;2020;150;253;Brasil;Espumantes
+1194;Japão;2020;7294;28930;Brasil;Espumantes
+1195;Jordânia;2020;30;103;Brasil;Espumantes
+1196;Letônia;2020;0;0;Brasil;Espumantes
+1197;Líbano;2020;0;0;Brasil;Espumantes
+1198;Libéria;2020;1105;6684;Brasil;Espumantes
+1199;Luxemburgo;2020;0;0;Brasil;Espumantes
+1200;Maldivas;2020;0;0;Brasil;Espumantes
+1201;Malta;2020;1692;2862;Brasil;Espumantes
+1202;Marshall, Ilhas;2020;2093;4587;Brasil;Espumantes
+1203;Montenegro;2020;0;0;Brasil;Espumantes
+1204;México;2020;0;0;Brasil;Espumantes
+1205;Nicarágua;2020;0;0;Brasil;Espumantes
+1206;Nigéria;2020;4613;15728;Brasil;Espumantes
+1207;Noruega;2020;172;321;Brasil;Espumantes
+1208;Nova Zelândia;2020;0;0;Brasil;Espumantes
+1209;Países Baixos (Holanda);2020;38;717;Brasil;Espumantes
+1210;Panamá;2020;7163;15019;Brasil;Espumantes
+1211;Paraguai;2020;16231;48614;Brasil;Espumantes
+1212;Peru;2020;0;0;Brasil;Espumantes
+1213;Polônia;2020;14;19;Brasil;Espumantes
+1214;Porto Rico;2020;0;0;Brasil;Espumantes
+1215;Portugal;2020;631;11065;Brasil;Espumantes
+1216;Quênia;2020;0;0;Brasil;Espumantes
+1217;Reino Unido;2020;8084;42414;Brasil;Espumantes
+1218;Republica Dominicana;2020;0;0;Brasil;Espumantes
+1219;Republica Tcheca;2020;0;0;Brasil;Espumantes
+1220;Rússia;2020;0;0;Brasil;Espumantes
+1221;Serra Leoa;2020;450;2140;Brasil;Espumantes
+1222;Singapura;2020;979;2193;Brasil;Espumantes
+1223;Suécia;2020;0;0;Brasil;Espumantes
+1224;Suíça;2020;672;227;Brasil;Espumantes
+1225;Suriname;2020;0;0;Brasil;Espumantes
+1226;Tailândia;2020;16;287;Brasil;Espumantes
+1227;Taiwan (Formosa);2020;995;4212;Brasil;Espumantes
+1228;Tcheca, República;2020;0;0;Brasil;Espumantes
+1229;Trinidade e Tobago;2020;0;0;Brasil;Espumantes
+1230;Turquia;2020;18;75;Brasil;Espumantes
+1231;Uruguai;2020;1796;15322;Brasil;Espumantes
+1232;Vanuatu;2020;14;31;Brasil;Espumantes
+1233;Venezuela;2020;0;0;Brasil;Espumantes
+1234;Vietnã;2020;0;0;Brasil;Espumantes
+1235;Outros(1);2020;0;0;Brasil;Espumantes
+1236;África do Sul;2021;0;0;Brasil;Espumantes
+1237;Alemanha;2021;142;265;Brasil;Espumantes
+1238;Angola;2021;0;0;Brasil;Espumantes
+1239;Antigua e Barbuda;2021;10;82;Brasil;Espumantes
+1240;Antilhas Holandesas;2021;0;0;Brasil;Espumantes
+1241;Argentina;2021;0;0;Brasil;Espumantes
+1242;Aruba;2021;0;0;Brasil;Espumantes
+1243;Australia;2021;184;654;Brasil;Espumantes
+1244;Bahamas;2021;179;461;Brasil;Espumantes
+1245;Bangladesh;2021;1;28;Brasil;Espumantes
+1246;Barbados;2021;4;58;Brasil;Espumantes
+1247;Belgica;2021;0;0;Brasil;Espumantes
+1248;Benin;2021;0;0;Brasil;Espumantes
+1249;Bermudas;2021;0;0;Brasil;Espumantes
+1250;Bolívia;2021;21235;64988;Brasil;Espumantes
+1251;Bósnia-Herzegovina;2021;0;0;Brasil;Espumantes
+1252;Bulgaria;2021;0;0;Brasil;Espumantes
+1253;Cabo Verde;2021;2;12;Brasil;Espumantes
+1254;Camarões;2021;0;0;Brasil;Espumantes
+1255;Canada;2021;253;566;Brasil;Espumantes
+1256;Catar;2021;5;964;Brasil;Espumantes
+1257;Cayman, Ilhas;2021;1;5;Brasil;Espumantes
+1258;Chile;2021;72;361;Brasil;Espumantes
+1259;China;2021;13692;49572;Brasil;Espumantes
+1260;Chipre;2021;122;350;Brasil;Espumantes
+1261;Cingapura;2021;0;0;Brasil;Espumantes
+1262;Colombia;2021;10280;37207;Brasil;Espumantes
+1263;Coreia do Sul, Republica da;2021;82;200;Brasil;Espumantes
+1264;Costa Rica;2021;0;0;Brasil;Espumantes
+1265;Cuba;2021;0;0;Brasil;Espumantes
+1266;Curaçao;2021;5525;21633;Brasil;Espumantes
+1267;Dinamarca;2021;7;32;Brasil;Espumantes
+1268;Dominica;2021;204;505;Brasil;Espumantes
+1269;El Salvador;2021;0;0;Brasil;Espumantes
+1270;Emirados Arabes Unidos;2021;90;3240;Brasil;Espumantes
+1271;Equador;2021;0;0;Brasil;Espumantes
+1272;Espanha;2021;0;0;Brasil;Espumantes
+1273;Estados Unidos;2021;801082;2123710;Brasil;Espumantes
+1274;Estonia;2021;0;0;Brasil;Espumantes
+1275;Falkland (Malvinas);2021;0;0;Brasil;Espumantes
+1276;Filipinas;2021;0;0;Brasil;Espumantes
+1277;Filânldia;2021;0;0;Brasil;Espumantes
+1278;França;2021;1015;5366;Brasil;Espumantes
+1279;Gana;2021;654;3555;Brasil;Espumantes
+1280;Gibraltar;2021;0;0;Brasil;Espumantes
+1281;Granada;2021;0;0;Brasil;Espumantes
+1282;Grécia;2021;147;360;Brasil;Espumantes
+1283;Guatemala;2021;0;0;Brasil;Espumantes
+1284;Guiana;2021;0;0;Brasil;Espumantes
+1285;Guiné Equatorial;2021;0;0;Brasil;Espumantes
+1286;Guiné-Bissau;2021;0;0;Brasil;Espumantes
+1287;Haiti;2021;4978;11440;Brasil;Espumantes
+1288;Honduras;2021;0;0;Brasil;Espumantes
+1289;Hong Kong;2021;3669;13135;Brasil;Espumantes
+1290;Hungria;2021;96;668;Brasil;Espumantes
+1291;Ilha de Man;2021;0;0;Brasil;Espumantes
+1292;Índia;2021;0;26;Brasil;Espumantes
+1293;Iraque;2021;0;0;Brasil;Espumantes
+1294;Irlanda;2021;0;0;Brasil;Espumantes
+1295;Islândia;2021;0;0;Brasil;Espumantes
+1296;Itália;2021;172;879;Brasil;Espumantes
+1297;Japão;2021;6811;27860;Brasil;Espumantes
+1298;Jordânia;2021;0;0;Brasil;Espumantes
+1299;Letônia;2021;0;0;Brasil;Espumantes
+1300;Líbano;2021;540;1930;Brasil;Espumantes
+1301;Libéria;2021;795;2509;Brasil;Espumantes
+1302;Luxemburgo;2021;0;0;Brasil;Espumantes
+1303;Maldivas;2021;3023;12327;Brasil;Espumantes
+1304;Malta;2021;364;2289;Brasil;Espumantes
+1305;Marshall, Ilhas;2021;1057;4087;Brasil;Espumantes
+1306;Montenegro;2021;9;24;Brasil;Espumantes
+1307;México;2021;0;0;Brasil;Espumantes
+1308;Nicarágua;2021;0;0;Brasil;Espumantes
+1309;Nigéria;2021;0;0;Brasil;Espumantes
+1310;Noruega;2021;37;155;Brasil;Espumantes
+1311;Nova Zelândia;2021;0;0;Brasil;Espumantes
+1312;Países Baixos (Holanda);2021;86;479;Brasil;Espumantes
+1313;Panamá;2021;1639;4514;Brasil;Espumantes
+1314;Paraguai;2021;45629;136909;Brasil;Espumantes
+1315;Peru;2021;0;0;Brasil;Espumantes
+1316;Polônia;2021;0;0;Brasil;Espumantes
+1317;Porto Rico;2021;0;0;Brasil;Espumantes
+1318;Portugal;2021;21;135;Brasil;Espumantes
+1319;Quênia;2021;0;0;Brasil;Espumantes
+1320;Reino Unido;2021;7130;45041;Brasil;Espumantes
+1321;Republica Dominicana;2021;0;0;Brasil;Espumantes
+1322;Republica Tcheca;2021;0;0;Brasil;Espumantes
+1323;Rússia;2021;0;0;Brasil;Espumantes
+1324;Serra Leoa;2021;225;1070;Brasil;Espumantes
+1325;Singapura;2021;525;926;Brasil;Espumantes
+1326;Suécia;2021;0;0;Brasil;Espumantes
+1327;Suíça;2021;1074;4739;Brasil;Espumantes
+1328;Suriname;2021;880;4202;Brasil;Espumantes
+1329;Tailândia;2021;22;142;Brasil;Espumantes
+1330;Taiwan (Formosa);2021;1255;5578;Brasil;Espumantes
+1331;Tcheca, República;2021;0;0;Brasil;Espumantes
+1332;Trinidade e Tobago;2021;0;0;Brasil;Espumantes
+1333;Turquia;2021;74;258;Brasil;Espumantes
+1334;Uruguai;2021;0;0;Brasil;Espumantes
+1335;Vanuatu;2021;0;0;Brasil;Espumantes
+1336;Venezuela;2021;0;0;Brasil;Espumantes
+1337;Vietnã;2021;144;374;Brasil;Espumantes
+1338;Outros(1);2021;0;0;Brasil;Espumantes
+1339;África do Sul;2022;0;0;Brasil;Espumantes
+1340;Alemanha;2022;1164;6560;Brasil;Espumantes
+1341;Angola;2022;26383;141588;Brasil;Espumantes
+1342;Antigua e Barbuda;2022;65;146;Brasil;Espumantes
+1343;Antilhas Holandesas;2022;0;0;Brasil;Espumantes
+1344;Argentina;2022;0;0;Brasil;Espumantes
+1345;Aruba;2022;0;0;Brasil;Espumantes
+1346;Australia;2022;0;0;Brasil;Espumantes
+1347;Bahamas;2022;56;194;Brasil;Espumantes
+1348;Bangladesh;2022;0;0;Brasil;Espumantes
+1349;Barbados;2022;25;101;Brasil;Espumantes
+1350;Belgica;2022;0;0;Brasil;Espumantes
+1351;Benin;2022;0;0;Brasil;Espumantes
+1352;Bermudas;2022;12;58;Brasil;Espumantes
+1353;Bolívia;2022;22307;70416;Brasil;Espumantes
+1354;Bósnia-Herzegovina;2022;0;0;Brasil;Espumantes
+1355;Bulgaria;2022;0;0;Brasil;Espumantes
+1356;Cabo Verde;2022;0;0;Brasil;Espumantes
+1357;Camarões;2022;0;0;Brasil;Espumantes
+1358;Canada;2022;62;347;Brasil;Espumantes
+1359;Catar;2022;0;0;Brasil;Espumantes
+1360;Cayman, Ilhas;2022;0;0;Brasil;Espumantes
+1361;Chile;2022;4;19;Brasil;Espumantes
+1362;China;2022;8619;35079;Brasil;Espumantes
+1363;Chipre;2022;382;931;Brasil;Espumantes
+1364;Cingapura;2022;0;0;Brasil;Espumantes
+1365;Colombia;2022;15396;56227;Brasil;Espumantes
+1366;Coreia do Sul, Republica da;2022;10;30;Brasil;Espumantes
+1367;Costa Rica;2022;0;0;Brasil;Espumantes
+1368;Cuba;2022;0;0;Brasil;Espumantes
+1369;Curaçao;2022;3487;15494;Brasil;Espumantes
+1370;Dinamarca;2022;0;0;Brasil;Espumantes
+1371;Dominica;2022;594;1461;Brasil;Espumantes
+1372;El Salvador;2022;0;0;Brasil;Espumantes
+1373;Emirados Arabes Unidos;2022;0;0;Brasil;Espumantes
+1374;Equador;2022;135;500;Brasil;Espumantes
+1375;Espanha;2022;0;0;Brasil;Espumantes
+1376;Estados Unidos;2022;732209;1964451;Brasil;Espumantes
+1377;Estonia;2022;0;0;Brasil;Espumantes
+1378;Falkland (Malvinas);2022;360;2081;Brasil;Espumantes
+1379;Filipinas;2022;77;389;Brasil;Espumantes
+1380;Filânldia;2022;0;0;Brasil;Espumantes
+1381;França;2022;772;4308;Brasil;Espumantes
+1382;Gana;2022;12729;58137;Brasil;Espumantes
+1383;Gibraltar;2022;0;0;Brasil;Espumantes
+1384;Granada;2022;1122;3050;Brasil;Espumantes
+1385;Grécia;2022;38;177;Brasil;Espumantes
+1386;Guatemala;2022;284;1527;Brasil;Espumantes
+1387;Guiana;2022;5553;26216;Brasil;Espumantes
+1388;Guiné Equatorial;2022;0;0;Brasil;Espumantes
+1389;Guiné-Bissau;2022;0;0;Brasil;Espumantes
+1390;Haiti;2022;4842;9417;Brasil;Espumantes
+1391;Honduras;2022;0;0;Brasil;Espumantes
+1392;Hong Kong;2022;1175;5328;Brasil;Espumantes
+1393;Hungria;2022;0;0;Brasil;Espumantes
+1394;Ilha de Man;2022;2;20;Brasil;Espumantes
+1395;Índia;2022;0;0;Brasil;Espumantes
+1396;Iraque;2022;0;0;Brasil;Espumantes
+1397;Irlanda;2022;6;22;Brasil;Espumantes
+1398;Islândia;2022;0;0;Brasil;Espumantes
+1399;Itália;2022;503;3702;Brasil;Espumantes
+1400;Japão;2022;2970;12049;Brasil;Espumantes
+1401;Jordânia;2022;0;0;Brasil;Espumantes
+1402;Letônia;2022;0;0;Brasil;Espumantes
+1403;Líbano;2022;1350;4810;Brasil;Espumantes
+1404;Libéria;2022;1105;3367;Brasil;Espumantes
+1405;Luxemburgo;2022;0;0;Brasil;Espumantes
+1406;Maldivas;2022;3221;10680;Brasil;Espumantes
+1407;Malta;2022;191;822;Brasil;Espumantes
+1408;Marshall, Ilhas;2022;1154;3438;Brasil;Espumantes
+1409;Montenegro;2022;0;0;Brasil;Espumantes
+1410;México;2022;0;0;Brasil;Espumantes
+1411;Nicarágua;2022;0;0;Brasil;Espumantes
+1412;Nigéria;2022;6705;32586;Brasil;Espumantes
+1413;Noruega;2022;483;9852;Brasil;Espumantes
+1414;Nova Zelândia;2022;0;0;Brasil;Espumantes
+1415;Países Baixos (Holanda);2022;707;6038;Brasil;Espumantes
+1416;Panamá;2022;3092;32540;Brasil;Espumantes
+1417;Paraguai;2022;48160;183187;Brasil;Espumantes
+1418;Peru;2022;0;0;Brasil;Espumantes
+1419;Polônia;2022;0;0;Brasil;Espumantes
+1420;Porto Rico;2022;0;0;Brasil;Espumantes
+1421;Portugal;2022;56;612;Brasil;Espumantes
+1422;Quênia;2022;0;0;Brasil;Espumantes
+1423;Reino Unido;2022;9305;53968;Brasil;Espumantes
+1424;Republica Dominicana;2022;0;0;Brasil;Espumantes
+1425;Republica Tcheca;2022;0;0;Brasil;Espumantes
+1426;Rússia;2022;990;5280;Brasil;Espumantes
+1427;Serra Leoa;2022;225;1165;Brasil;Espumantes
+1428;Singapura;2022;642;5235;Brasil;Espumantes
+1429;Suécia;2022;0;0;Brasil;Espumantes
+1430;Suíça;2022;0;0;Brasil;Espumantes
+1431;Suriname;2022;0;0;Brasil;Espumantes
+1432;Tailândia;2022;17;107;Brasil;Espumantes
+1433;Taiwan (Formosa);2022;901;4141;Brasil;Espumantes
+1434;Tcheca, República;2022;0;0;Brasil;Espumantes
+1435;Trinidade e Tobago;2022;0;0;Brasil;Espumantes
+1436;Turquia;2022;2;17;Brasil;Espumantes
+1437;Uruguai;2022;10200;87895;Brasil;Espumantes
+1438;Vanuatu;2022;0;0;Brasil;Espumantes
+1439;Venezuela;2022;0;0;Brasil;Espumantes
+1440;Vietnã;2022;16;19;Brasil;Espumantes
+1441;Outros(1);2022;0;0;Brasil;Espumantes
+1442;África do Sul;2023;2;44;Brasil;Espumantes
+1443;Alemanha;2023;162;1542;Brasil;Espumantes
+1444;Angola;2023;56242;315073;Brasil;Espumantes
+1445;Antigua e Barbuda;2023;24;100;Brasil;Espumantes
+1446;Antilhas Holandesas;2023;0;0;Brasil;Espumantes
+1447;Argentina;2023;8593;73239;Brasil;Espumantes
+1448;Aruba;2023;0;0;Brasil;Espumantes
+1449;Australia;2023;10;6;Brasil;Espumantes
+1450;Bahamas;2023;65;268;Brasil;Espumantes
+1451;Bangladesh;2023;0;0;Brasil;Espumantes
+1452;Barbados;2023;32;219;Brasil;Espumantes
+1453;Belgica;2023;0;0;Brasil;Espumantes
+1454;Benin;2023;3;19;Brasil;Espumantes
+1455;Bermudas;2023;0;0;Brasil;Espumantes
+1456;Bolívia;2023;11410;34481;Brasil;Espumantes
+1457;Bósnia-Herzegovina;2023;0;0;Brasil;Espumantes
+1458;Bulgaria;2023;0;0;Brasil;Espumantes
+1459;Cabo Verde;2023;0;0;Brasil;Espumantes
+1460;Camarões;2023;0;0;Brasil;Espumantes
+1461;Canada;2023;4068;15427;Brasil;Espumantes
+1462;Catar;2023;0;0;Brasil;Espumantes
+1463;Cayman, Ilhas;2023;5;33;Brasil;Espumantes
+1464;Chile;2023;3532;15875;Brasil;Espumantes
+1465;China;2023;16285;47822;Brasil;Espumantes
+1466;Chipre;2023;188;707;Brasil;Espumantes
+1467;Cingapura;2023;0;0;Brasil;Espumantes
+1468;Colombia;2023;1926;6898;Brasil;Espumantes
+1469;Coreia do Sul, Republica da;2023;74;222;Brasil;Espumantes
+1470;Costa Rica;2023;0;0;Brasil;Espumantes
+1471;Cuba;2023;0;0;Brasil;Espumantes
+1472;Curaçao;2023;1288;6539;Brasil;Espumantes
+1473;Dinamarca;2023;2790;26359;Brasil;Espumantes
+1474;Dominica;2023;0;0;Brasil;Espumantes
+1475;El Salvador;2023;0;0;Brasil;Espumantes
+1476;Emirados Arabes Unidos;2023;126;622;Brasil;Espumantes
+1477;Equador;2023;540;2000;Brasil;Espumantes
+1478;Espanha;2023;45;853;Brasil;Espumantes
+1479;Estados Unidos;2023;255198;729055;Brasil;Espumantes
+1480;Estonia;2023;0;0;Brasil;Espumantes
+1481;Falkland (Malvinas);2023;0;0;Brasil;Espumantes
+1482;Filipinas;2023;20;111;Brasil;Espumantes
+1483;Filânldia;2023;180;1770;Brasil;Espumantes
+1484;França;2023;0;0;Brasil;Espumantes
+1485;Gana;2023;4719;35778;Brasil;Espumantes
+1486;Gibraltar;2023;0;0;Brasil;Espumantes
+1487;Granada;2023;0;0;Brasil;Espumantes
+1488;Grécia;2023;59;320;Brasil;Espumantes
+1489;Guatemala;2023;0;0;Brasil;Espumantes
+1490;Guiana;2023;14084;71163;Brasil;Espumantes
+1491;Guiné Equatorial;2023;0;0;Brasil;Espumantes
+1492;Guiné-Bissau;2023;0;0;Brasil;Espumantes
+1493;Haiti;2023;3969;10646;Brasil;Espumantes
+1494;Honduras;2023;0;0;Brasil;Espumantes
+1495;Hong Kong;2023;1355;5169;Brasil;Espumantes
+1496;Hungria;2023;0;0;Brasil;Espumantes
+1497;Ilha de Man;2023;0;0;Brasil;Espumantes
+1498;Índia;2023;0;0;Brasil;Espumantes
+1499;Iraque;2023;0;0;Brasil;Espumantes
+1500;Irlanda;2023;0;0;Brasil;Espumantes
+1501;Islândia;2023;0;0;Brasil;Espumantes
+1502;Itália;2023;1460;19905;Brasil;Espumantes
+1503;Japão;2023;2311;9708;Brasil;Espumantes
+1504;Jordânia;2023;0;0;Brasil;Espumantes
+1505;Letônia;2023;0;0;Brasil;Espumantes
+1506;Líbano;2023;0;0;Brasil;Espumantes
+1507;Libéria;2023;973;3358;Brasil;Espumantes
+1508;Luxemburgo;2023;18;305;Brasil;Espumantes
+1509;Maldivas;2023;4577;20204;Brasil;Espumantes
+1510;Malta;2023;1472;44498;Brasil;Espumantes
+1511;Marshall, Ilhas;2023;1375;4886;Brasil;Espumantes
+1512;Montenegro;2023;0;0;Brasil;Espumantes
+1513;México;2023;0;0;Brasil;Espumantes
+1514;Nicarágua;2023;0;0;Brasil;Espumantes
+1515;Nigéria;2023;0;0;Brasil;Espumantes
+1516;Noruega;2023;0;0;Brasil;Espumantes
+1517;Nova Zelândia;2023;303;4231;Brasil;Espumantes
+1518;Países Baixos (Holanda);2023;3;49;Brasil;Espumantes
+1519;Panamá;2023;7936;43115;Brasil;Espumantes
+1520;Paraguai;2023;64662;192975;Brasil;Espumantes
+1521;Peru;2023;108;756;Brasil;Espumantes
+1522;Polônia;2023;126;659;Brasil;Espumantes
+1523;Porto Rico;2023;0;0;Brasil;Espumantes
+1524;Portugal;2023;2191;38616;Brasil;Espumantes
+1525;Quênia;2023;0;0;Brasil;Espumantes
+1526;Reino Unido;2023;16057;86879;Brasil;Espumantes
+1527;Republica Dominicana;2023;0;0;Brasil;Espumantes
+1528;Republica Tcheca;2023;0;0;Brasil;Espumantes
+1529;Rússia;2023;0;0;Brasil;Espumantes
+1530;Serra Leoa;2023;271;1287;Brasil;Espumantes
+1531;Singapura;2023;209;599;Brasil;Espumantes
+1532;Suécia;2023;0;0;Brasil;Espumantes
+1533;Suíça;2023;444;4474;Brasil;Espumantes
+1534;Suriname;2023;0;0;Brasil;Espumantes
+1535;Tailândia;2023;7;43;Brasil;Espumantes
+1536;Taiwan (Formosa);2023;1099;3664;Brasil;Espumantes
+1537;Tcheca, República;2023;167;1236;Brasil;Espumantes
+1538;Trinidade e Tobago;2023;0;0;Brasil;Espumantes
+1539;Turquia;2023;6930;26566;Brasil;Espumantes
+1540;Uruguai;2023;2812;14352;Brasil;Espumantes
+1541;Vanuatu;2023;0;0;Brasil;Espumantes
+1542;Venezuela;2023;0;0;Brasil;Espumantes
+1543;Vietnã;2023;0;0;Brasil;Espumantes
+1544;Outros(1);2023;0;0;Brasil;Espumantes
