@@ -8,7 +8,6 @@ pages = [
         st.Page(page="paginas/tecnologias.py", title="Técnologias"),
         st.Page(page="paginas/eda.py", title="EDA"),
         st.Page(page="paginas/modelo.py", title="Modelo"),
-        st.Page(page="paginas/mvp.py", title="MVP"),
         st.Page(page="paginas/dashboard.py", title="Dashboard"),
         st.Page(page="paginas/conclusao.py", title="Conclusão")
 ]
