@@ -5,6 +5,9 @@ from prophet import Prophet
 from prophet.serialize import model_to_json, model_from_json
 import requests
 
+global insights
+insights = ['1998','2008','2011','2012','2014','2020','2022']
+
 # Cria o dataframe que será usado em todo o projeto
 global df
 df = pd.read_csv('https://raw.githubusercontent.com/Rogeriom49/4DTAT/main/techChallange4/datasets/dados_mes_ano.csv', sep=",", parse_dates=['data'])
