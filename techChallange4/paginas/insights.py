@@ -23,15 +23,56 @@ with tab1:
 
 with tab2:
     st.subheader('Ano 2008')
-    st.dataframe(globals.df_index.loc['2008'])
+    st.write(""" Em 2008, o mercado de petróleo viveu uma história em dois atos: inicialmente, os preços ultrapassaram a marca de 100 dólares por barril e dispararam vertiginosamente até atingirem 147,50 dólares. Em seguida, uma queda abrupta e sem precedentes nos valores desencadeou sérios problemas de abastecimento """)
+    
+    st.write(""" No início do ano, o barril ultrapassou os 100 dólares, e por quase seis meses os preços bateram recordes sucessivos, alcançando o pico em julho. No entanto, a partir desse ponto, os preços começaram a despencar em uma velocidade ainda maior do que haviam subido, caindo para 39,35 dólares em Londres no início de dezembro. """)
+    
+    st.write(""" Diversos fatores contribuíram para a disparada dos preços no primeiro semestre: tensões geopolíticas envolvendo países como Irã, Nigéria e Paquistão; o equilíbrio delicado entre uma oferta restrita e a crescente demanda dos mercados emergentes; a percepção de que as reservas de petróleo estão se esgotando e são cada vez mais difíceis de acessar; e o intenso interesse dos fundos de investimento por commodities. """)
+    
+    st.write(""" Os fundos, de fato, utilizaram o petróleo como proteção contra a inflação, criando um ciclo vicioso: o medo da alta dos preços levou a mais investimentos no petróleo, o que, por sua vez, impulsionou ainda mais os preços – justamente o principal motor da inflação. """)
+    
+    st.write(""" Entretanto, após a falência do banco americano Lehman Brothers, em setembro, essa dinâmica mudou completamente. Com o temor de uma deflação, investidores abandonaram o petróleo em busca de liquidez imediata. """)
+    
+    st.write(""" Simultaneamente, o alto preço do petróleo começou a reduzir o consumo de combustíveis nos países desenvolvidos. Nos Estados Unidos, por exemplo, muitos motoristas deixaram seus veículos de grande porte parados. A demanda global, pela primeira vez em 25 anos, deu sinais de retração, de acordo com previsões da Agência Internacional de Energia. """)
+    
+    st.write(""" Assim, o ano terminou com os preços em baixa e superpetroleiros ancorados em alguns portos sendo usados como depósitos flutuantes. """)
 
 with tab3:
     st.subheader('Ano 2011')
-    st.dataframe(globals.df_index.loc['2011'])
+    st.write(""" Em 2011, os preços do petróleo registraram níveis historicamente altos, com o Brent Crude frequentemente ultrapassando a marca de US$ 100 por barril durante grande parte do ano. 
+    Essa elevação nos preços foi atribuída a uma combinação de fatores econômicos, geopolíticos e climáticos que pressionaram o mercado global de energia. """)
+
+    st.write(""" A instabilidade no Oriente Médio e no Norte da África, impulsionada pela Primavera Árabe, gerou incertezas significativas no fornecimento de petróleo. A guerra civil na Líbia, um dos maiores exportadores de petróleo do mundo, reduziu drasticamente sua produção, contribuindo para o desequilíbrio na oferta global. Além disso, o aumento das tensões envolvendo o programa nuclear do Irã intensificou os temores quanto à segurança no Estreito de Ormuz, um ponto estratégico por onde transitam cerca de 20% do petróleo mundial. """)
+
+    st.write(""" No cenário econômico, a recuperação global após a crise financeira de 2008-2009 aumentou a demanda por petróleo, especialmente nos mercados emergentes como China e Índia. Esses países, em meio à rápida industrialização e ao crescimento no transporte, exerceram uma pressão significativa sobre os preços. Outro fator econômico relevante foi a política de estímulo monetário nos Estados Unidos, conhecida como "Quantitative Easing", que resultou na desvalorização do dólar. Como o petróleo é cotado em dólares, essa desvalorização tornou a commodity mais cara nos mercados internacionais. """)
+
+    st.write(""" Além disso, eventos climáticos também desempenharam um papel, como tempestades e outros fenômenos naturais que afetam regiões produtoras, gerando interrupções temporárias na produção e logística. O aumento nos estoques estratégicos por parte de algumas nações, temendo instabilidade no fornecimento, também contribuiu para a pressão nos preços. """)
+
+    st.write(""" Esses elementos, combinados, fizeram de 2011 um ano marcante para o mercado de petróleo, ressaltando como fatores geopolíticos e econômicos podem impactar a dinâmica de uma das commodities mais estratégicas do mundo.""")
 
 with tab4:
     st.subheader('Ano 2012')
-    st.dataframe(globals.df_index.loc['2012'])
+    st.write(""" Em 2012, os preços do petróleo estavam em níveis relativamente altos e altamente voláteis, refletindo um cenário econômico e geopolítico complexo. O preço do petróleo Brent, oscilou entre &#36;90 e &#36;125 por barril, atingindo picos durante determinados períodos do ano devido a uma série de fatores que afetaram tanto a oferta quanto a demanda. Este contexto de preços elevados foi marcado por uma interação de forças globais, com implicações significativas para a economia mundial e o mercado de energia. """)
+
+    st.write(""" O ano de 2012 foi particularmente afetado por tensões geopolíticas no Oriente Médio e na região do Norte da África. Em resposta ao programa nuclear do Irã, os Estados Unidos e a União Europeia impuseram sanções econômicas severas, incluindo um embargo às exportações de petróleo iraniano. O Irã, que era um dos maiores produtores de petróleo da OPEP, viu sua capacidade de exportação reduzida drasticamente, o que diminuiu a oferta global e aumentou a incerteza nos mercados de energia. Essas sanções resultaram em uma pressão crescente sobre os preços, especialmente devido ao papel estratégico do Irã no fornecimento de petróleo para mercados como a Ásia e a Europa. """)
+
+    st.write(""" Além disso, conflitos internos e instabilidade política em países como Síria e Líbia criaram interrupções na produção de petróleo, exacerbando as preocupações com a segurança do fornecimento. A guerra civil na Síria e a instabilidade na Líbia, que era um grande exportador de petróleo, também impactaram negativamente o mercado, uma vez que os traders temiam que esses conflitos se espalhassem para outras regiões produtoras de petróleo. Tais fatores geopolíticos impulsionaram ainda mais a volatilidade dos preços, com os investidores reagindo a cada novo desenvolvimento. """)
+
+    st.write(""" Por outro lado, a demanda global por petróleo continuou a ser sustentada por economias emergentes, especialmente China e Índia, que registraram taxas de crescimento robustas, apesar das dificuldades nos mercados desenvolvidos. A China, o maior consumidor de petróleo do mundo, manteve um nível elevado de importações de petróleo para atender à sua crescente demanda por energia. A Índia também apresentou uma demanda considerável, embora menor em comparação com a China, o que ajudou a equilibrar as quedas de consumo em mercados tradicionais, como os Estados Unidos e a Europa. """)
+
+    st.write(""" Esses países emergentes, em especial a China, tornaram-se fundamentais para manter os preços elevados, já que seus setores industriais e de transportes dependem fortemente do petróleo. A urbanização acelerada e o crescimento da classe média na Ásia contribuíram para um aumento substancial na demanda por combustíveis e produtos petroquímicos, o que, por sua vez, manteve os preços sustentados durante o ano. """)
+
+    st.write(""" 2012 também marcou um ponto de inflexão importante no mercado de petróleo com o crescimento da produção de petróleo de xisto (shale oil) nos Estados Unidos. Embora os EUA ainda não fossem um exportador líquido de petróleo, a produção de petróleo não convencional aumentou substancialmente, reduzindo a necessidade de importações de petróleo e diminuindo a dependência do petróleo estrangeiro. A tecnologia de fraturamento hidráulico e perfuração horizontal, que estava se tornando mais eficiente, permitiu aos EUA expandir sua produção de petróleo em um ritmo impressionante. """)
+
+    st.write(""" Esse aumento na produção doméstica de petróleo foi um fator importante para as perspectivas de longo prazo para o mercado de petróleo. Embora não tenha sido suficiente para transformar os EUA em um exportador líquido, a redução das importações e o aumento da produção interna alteraram o equilíbrio no mercado global de energia. Os analistas começaram a perceber que os EUA poderiam ter um impacto maior sobre os preços do petróleo nas décadas seguintes, especialmente se a produção de shale oil continuasse a crescer. """)
+
+    st.write(""" A Organização dos Países Exportadores de Petróleo (OPEP) desempenhou um papel crucial na tentativa de estabilizar o mercado em 2012, ajustando sua produção de petróleo. A Arábia Saudita, o maior produtor da OPEP, assumiu o papel de "produtor swing", aumentando ou diminuindo sua produção conforme necessário para manter os preços em níveis desejáveis. Isso ajudou a equilibrar a oferta e a demanda, mas a OPEP também enfrentou desafios devido ao aumento da produção em outros lugares, como os EUA e outros países fora da organização, como o Brasil e o Canadá, que estavam explorando novas fontes de petróleo. """)
+
+    st.write(""" A OPEP também observou a desaceleração da demanda global, especialmente na Europa, que estava lidando com os efeitos da crise da dívida soberana. Isso teve um impacto negativo na demanda de petróleo, especialmente em economias mais afetadas pela crise, como a Grécia, Espanha e Itália. O crescimento lento nas economias da zona do euro limitou a expansão da demanda de petróleo nesses mercados, fazendo com que os preços enfrentem uma pressão de baixa em determinados momentos do ano. """)
+
+    st.write(""" Apesar de os preços do petróleo terem se mantido elevados em 2012, o contexto econômico global gerou incertezas. A recuperação econômica lenta, particularmente nos mercados desenvolvidos, e a redução na confiança dos consumidores influenciam a demanda por petróleo, limitando a aceleração dos preços. No entanto, as baixas taxas de juros nos EUA e estímulos econômicos na Europa impulsionaram a liquidez global e favoreceu o aumento de investimentos em commodities, o que, em parte, sustentou os preços do petróleo. """)
+
+    st.write(""" Em suma, o mercado de petróleo de 2012 foi caracterizado por uma combinação de tensões geopolíticas, crescimento robusto nos mercados emergentes, a revolução do shale oil nos EUA e os ajustes de produção da OPEP. Essas forças se entrelaçaram para criar um ambiente de preços elevados e voláteis, estabelecendo as bases para um mercado de petróleo em transformação nas décadas seguintes. A trajetória de preços em 2012 refletiu um mercado global em constante evolução, com implicações significativas tanto para os produtores quanto para os consumidores de petróleo. """)
 
 with tab5:
     st.subheader("Boom e Queda do Shale Oil nos EUA")
