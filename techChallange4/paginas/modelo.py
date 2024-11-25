@@ -33,3 +33,7 @@ st.plotly_chart(graficos.lineChart(dataframe=globals.forecast.loc[mask],
                                              'yhat':'Previsão', 
                                              'yhat_lower':'Intervalo Inferior'}), 
                 use_container_width=True)
+
+with st.expander('**Considerações**'):
+    st.write(""" O gráfico apresentado anteriormente remete aos resultados do modelo Prophet, onde os preços do petróleo foram previsões com base nos dados disponibilizados. """)
+    st.write(""" Para ver o notebook do modelo [clique aqui](https://github.com/Rogeriom49/4DTAT/blob/main/techChallange4/notebooks/modelo.ipynb). """ )
