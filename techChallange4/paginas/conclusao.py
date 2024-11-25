@@ -22,3 +22,10 @@ st.write(""" Desvio padrão de 33,18: A alta volatilidade em torno da média ref
 st.write(""" Variância de 1101,22: A variância elevada reforça a ideia de que os preços do petróleo apresentaram grandes oscilações, condizente com a alta volatilidade do mercado. """)
 
 st.write(""" Esses resultados reforçam a noção de que o mercado de petróleo é extremamente volátil e influenciado por uma ampla gama de fatores sazonais, econômicos e geopolíticos, exigindo uma análise contínua e o ajuste dos modelos para levar em consideração essas variáveis. """)
+
+st.divider()
+
+st.header(""" Links Importantes """)
+
+st.markdown(""" [Repositório GitHub](https://github.com/Rogeriom49/4DTAT/tree/main/techChallange4) """)
+st.markdown(""" [Dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmZhZTk3ZjgtMDNkZi00NzU2LTlkYjEtZjUxZDcwODkyY2NlIiwidCI6IjZkYzg3NGNlLWRkMmItNGFhOS05ZjBkLWFkYjkyNjlhNzU4MCJ9) """)
